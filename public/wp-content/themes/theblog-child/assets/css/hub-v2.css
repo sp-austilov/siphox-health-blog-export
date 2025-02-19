@@ -1,0 +1,719 @@
+/* .hub-v2 .bp-banner-blog-slider .bps-slider-images img {
+    width: 100%;
+    height: 550px;
+    object-fit: cover;
+    border-radius: 10px;
+  } */
+  
+
+  .text-uppercase {
+    text-transform: uppercase;
+  }
+  
+  .hub-v2 .br-10px {
+    border-radius: 10px !important;
+  }
+  .hub-v2 .br-0 {
+    border-radius: 0px !important;
+  }
+  .hub-v2 .item-title h1 {
+    white-space: nowrap;
+  }
+  .hub-v2 .item-title span {
+    width: 100%;
+  }
+  .hub-v2 .item-title h3 {
+    color: #1a413b;
+    font-size: 24px;
+    letter-spacing: -0.48px;
+    line-height: normal;
+  }
+  .hub-v2 .item-title #textAnimate span {
+    background: -webkit-linear-gradient(left, #079e8e, #4ac6c1);
+    background: -o-linear-gradient(right, #079e8e, #4ac6c1);
+    background: -moz-linear-gradient(right, #079e8e, #4ac6c1);
+    background: linear-gradient(to right, #079e8e, #4ac6c1);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .hub-v2 span.no-color {
+    color: #1a413b;
+    width: 12ch;
+    white-space: nowrap;
+  }
+  .hub-v2 #textAnimate {
+    min-height: 68px;
+    position: relative;
+    overflow-wrap: anywhere;
+    white-space: break-spaces;
+    display: block;
+    min-height: 42px;
+    position: relative;
+    overflow-wrap: anywhere;
+    white-space: break-spaces;
+    display: block;
+  }
+  .hub-v2 #textAnimate span {
+    visibility: hidden;
+    transform: translateY(50px);
+    transition: all 0.3s ease;
+    opacity: 0;
+    position: absolute;
+    width: 100%;
+    visibility: hidden;
+    transform: translateY(50px);
+    transition: all 0.3s ease;
+    opacity: 0;
+    position: absolute;
+    width: 100%;
+  }
+  .hub-v2 #textAnimate span.active {
+    transform: translateY(0);
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+    opacity: 1;
+    visibility: visible;
+  }
+  .hub-v2 #textAnimate span.out {
+    transform: translateY(-50px);
+    opacity: 0;
+    transform: translateY(-50px);
+    opacity: 0;
+  }
+  .hub-v2 #textAnimate h2 {
+    color: #07537d;
+    font-size: 16px;
+    letter-spacing: -0.32px;
+  }
+  .hub-v2 .bbs-slider .slick-next {
+    top: 50%;
+    transform: translateY(-50%);
+    right: -60px;
+  }
+  .hub-v2 .bp-banner-blog-slider {
+    overflow: hidden;
+  }
+  .hub-v2 .bp-banner-blog-slider .slick-slider ul.slick-dots {
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+  }
+  .hub-v2 .bp-banner-blog-slider .slick-slider .slick-arrow {
+    bottom: 0;
+    cursor: pointer;
+  }
+  .hub-v2 .bp-banner-blog-slider .slick-slider .slick-arrow::before {
+    top: 43%;
+    left: 50%;
+    height: 20px;
+    transform: translate(-40%, -50%);
+    background-image: url("/blog/wp-content/themes/theblog-child/assets/images/right-arrow-home-v2.svg");
+  }
+  .hub-v2 .bp-banner-blog-slider .slick-slider .slick-list {
+    margin: 0 -15px;
+  }
+  .hub-v2 .bp-banner-blog-slider .slick-slider .bpss-text {
+    padding: 0 15px;
+    /* max-width: 427px; */
+  }
+  .hub-v2 .bp-banner-blog-slider .slick-slider .slick-next {
+    bottom: 60px;
+    right: 30px;
+    left: unset;
+    top: unset;
+    display: none !important;
+  }
+  .hub-v2 .bp-banner-blog-slider .slick-slider .slick-prev {
+    bottom: 60px;
+    right: 30px;
+    left: unset;
+    top: unset;
+    display: none !important;
+    bottom: 40px;
+    right: 70px;
+  }
+  .hub-v2 .bp-banner-blog-slider .bps-slide-wrapper {
+    margin: auto;
+  }
+  .hub-v2 .bp-banner-blog-slider .bps-single .featured-image {
+    margin-bottom: 32px;
+  }
+  .hub-v2 .bp-banner-blog-slider .bps-single .featured-image img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+  }
+  .hub-v2 .bp-banner-blog-slider .bps-single h2 {
+    margin: 0;
+    font-size: 16px;
+    line-height: normal;
+  }
+  .hub-v2 .bp-banner-blog-slider .bps-single h3 {
+    margin-bottom: 32px;
+  }
+  .hub-v2 .bp-banner-blog-slider .bps-single p {
+    margin: 0;
+    margin-bottom: 24px;
+    color: #1a413b;
+    font-size: 18px;
+    line-height: normal;
+  }
+  .hub-v2 .bp-banner-blog-slider .bps-single .item-date {
+    margin-bottom: 36px;
+  }
+  .hub-v2 .blog-partial {
+    margin-bottom: 32px;
+  }
+  .hub-v2 .blog-partial .row .divider {
+    border-bottom: 3px solid #07537d;
+  }
+  .hub-v2 .blog-partial .row .each-item {
+    padding-top: 42px;
+    padding-bottom: 42px;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-left: 0;
+    padding-right: 0;
+    position: relative;
+    border-bottom: 3px solid #07537d;
+  }
+  .hub-v2 .blog-partial .row .each-item:nth-child(2n+1)::after {
+    position: absolute;
+    top: 40px;
+    right: 0;
+    width: 3px;
+    height: calc(100% - 80px);
+    content: unset;
+    background: #07537d;
+  }
+  .hub-v2 .blog-partial .row .each-item:last-child {
+    border-bottom: none;
+  }
+  .hub-v2 .blog-partial.bp-latest-news .item-img img {
+    max-height: 437px;
+  }
+  .hub-v2 .blog-partial.bp-latest-news .row .each-item {
+    padding: 52px 0 0px 0;
+  }
+  .hub-v2 .blog-partial.bp-latest-news .row .each-item:first-child {
+    padding-top: 44px;
+  }
+  .hub-v2 .blog-partial.bp-latest-news .row .each-item h3 {
+    margin-bottom: 16px;
+  }
+  .hub-v2 a {
+    transition: all 0.35s ease;
+  }
+  .hub-v2 a:hover {
+    opacity: 0.8;
+  }
+  .hub-v2 .bp-cta {
+    font-size: 18px;
+    color: #08699f;
+    text-transform: capitalize;
+  }
+  .hub-v2 .bp-cta img {
+    max-width: 13px;
+  }
+  .hub-v2 .bp-biomarkers {
+    background-color: #f9fdff;
+    padding: 76px 0 52px;
+    margin-bottom: 70px;
+  }
+  .hub-v2 .blog-partial.bp-banner-blog-slider .section-title h2 {
+    color: #07537d;
+    font-size: 16px;
+    /* font-weight: 600; */
+    line-height: normal;
+    letter-spacing: -0.36px;
+  }
+  .hub-v2 .blog-partial.bp-banner-blog-slider .item-title h1 {
+    letter-spacing: -0.84px;
+  }
+  .hub-v2 .bp-biomarkers .row:first-child .each-item:first-child {
+    padding-top: 0;
+  }
+  .hub-v2 .bp-biomarkers-v2 {
+    background: #f2fbff;
+    padding: 56px 0 46px 0;
+  }
+  .hub-v2 .bp-biomarkers-v2 .item-counter {
+    font-size: 18px;
+    height: 43px;
+    width: 43px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #08699f;
+    border-radius: 50%;
+    color: #fff;
+    margin: 0;
+    flex-basis: 43px;
+    flex-grow: 0;
+    flex-shrink: 0;
+    margin-right: 20px;
+  }
+  .hub-v2 .bp-biomarkers-v2 .item-title h3 {
+    color: #1a413b;
+    font-size: 18px;
+    letter-spacing: -0.36px;
+    line-height: normal;
+  }
+  .hub-v2 .more-biomarkers {
+    text-align: center;
+  }
+  .hub-v2 .bitem-wrapper.with-border {
+    padding-bottom: 15px;
+    border-bottom: 3px solid #07537d;
+  }
+  .hub-v2 .bp-latest-blogs .row .blb-item.large {
+    margin-bottom: 95px;
+  }
+  .hub-v2 .bp-latest-blogs .blb-item {
+    margin-bottom: 48px;
+    display: block;
+  }
+  .hub-v2 .bp-latest-blogs .blb-item img {
+    margin-bottom: 20px;
+    height: 300px;
+    object-fit: cover;
+    width: 100%;
+  }
+  .hub-v2 .bp-latest-blogs .blb-item .item-title h3 {
+    margin-bottom: 20px;
+    color: #1a413b;
+    font-size: 24px;
+    /* font-weight: 600; */
+    line-height: normal;
+    letter-spacing: -0.48px;
+  }
+  .hub-v2 .bp-latest-blogs .blb-item .item-desc p {
+    color: #1a413b;
+    font-size: 18px;
+    line-height: normal;
+  }
+  .hub-v2 .bp-latest-blogs .blb-item .item-date {
+    color: #1a413b;
+    font-size: 16px;
+    line-height: normal;
+  }
+  .hub-v2 .bp-customer-success.v2-blogs .bitem-wrapper .row .col-lg-3:last-child .blb-item,
+  .hub-v2 .bp-customer-success.v2-blogs .bitem-wrapper .row .col-lg-6:last-child .blb-item {
+    margin-bottom: 36px;
+  }
+  .hub-v2 .bp-customer-success .bitem-wrapper .row .col-lg-3:last-child .blb-item,
+  .hub-v2 .bp-customer-success .bitem-wrapper .row .col-lg-6:last-child .blb-item,
+  .hub-v2 .bp-latest-blogs.v2-news .bitem-wrapper .row .col-lg-3:last-child .blb-item,
+  .hub-v2 .bp-latest-blogs.v2-news .bitem-wrapper .row .col-lg-6:last-child .blb-item {
+    margin-bottom: 44px;
+  }
+  .hub-v2 .bp-customer-success .blb-item,
+  .hub-v2 .bp-latest-blogs.v2-news .blb-item {
+    margin-bottom: 48px;
+    display: block;
+  }
+  .hub-v2 .bp-customer-success .blb-item img,
+  .hub-v2 .bp-latest-blogs.v2-news .blb-item img {
+    margin-bottom: 30px;
+    border-radius: 10px;
+    height: 300px;
+    object-fit: cover;
+    width: 100%;
+  }
+  .hub-v2 .bp-customer-success .blb-item .item-title h3,
+  .hub-v2 .bp-latest-blogs.v2-news .blb-item .item-title h3 {
+    margin-bottom: 20px;
+    color: #1a413b;
+    font-size: 24px;
+    /* font-weight: 600; */
+    letter-spacing: -0.48px;
+  }
+  .hub-v2 .bp-customer-success .blb-item .item-date,
+  .hub-v2 .bp-latest-blogs.v2-news .blb-item .item-date {
+    color: #1a413b;
+    font-size: 16px;
+    line-height: normal;
+  }
+  .hub-v2 .bp-biology-slide {
+    background-image: linear-gradient(to top, #f2fbff 0%, #f2fbff 30%, #fff 30%);
+    padding-bottom: 150px;
+  }
+  .hub-v2 .bp-biology-slide .section-title-large h2 {
+    text-align: center;
+    font-size: 42px;
+    margin-bottom: 84px;
+    color: #07537d;
+    letter-spacing: -0.84px;
+    line-height: normal;
+  }
+  .hub-v2 .bp-biology-slide .each-slide {
+    padding: 40px 37px 37px 37px;
+    border-radius: 20px;
+    background: #fff;
+    box-shadow: 2px 4px 10px 0px rgba(107, 107, 107, 0.33);
+    min-width: 278px;
+    max-width: 278px;
+    margin: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 400px;
+  }
+  .hub-v2 .bp-biology-slide .each-slide .item-title h3 {
+    margin-bottom: 32px;
+  }
+  .hub-v2 .bp-biology-slide .each-slide img {
+    margin: auto;
+    margin-bottom: 48px;
+    min-height: 156px;
+    max-height: 156px;
+    object-fit: contain;
+    margin-top: 0;
+  }
+  .hub-v2 .bp-biology-slide .each-slide .bbs-cta-wrapper .bbs-cta {
+    padding: 9px 32px;
+    background: #08699f;
+    border-radius: 1000px;
+    text-transform: uppercase;
+    color: #f2fbff;
+    font-size: 16px;
+    line-height: normal;
+  }
+  .hub-v2 .bp-biology-slide .each-slide:first-child {
+    margin-left: 0;
+  }
+  .hub-v2 .bp-biology-slide .each-slide:last-child {
+    margin-right: 0;
+  }
+  .hub-v2 .mx-n15px {
+    margin-left: -15px;
+    margin-right: -15px;
+  }
+  .hub-v2 .section-title h2 {
+    margin-bottom: 40px;
+    color: #07537d;
+    font-size: 18px;
+    line-height: normal;
+    letter-spacing: -0.36px;
+  }
+  .hub-v2 .item-counter {
+    font-size: 42px;
+    color: #08699f;
+    margin-right: 48px;
+    line-height: 123%;
+  }
+  .hub-v2 .item-date {
+    font-size: 16px;
+    margin-bottom: 30px;
+  }
+  .hub-v2 .item-img img {
+    width: 100%;
+    object-fit: cover;
+  }
+  .hub-v2 .slick-slider .slick-prev {
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    left: -60px;
+  }
+  .hub-v2 .slick-slider ul.slick-dots {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    list-style: none;
+    bottom: -50px;
+  }
+  .hub-v2 .slick-slider ul.slick-dots li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 1px solid #08699f;
+    cursor: pointer;
+  }
+  .hub-v2 .slick-slider ul.slick-dots li:not(:first-child) {
+    margin-left: 4px;
+  }
+  .hub-v2 .slick-slider ul.slick-dots li.slick-active {
+    background: #08699f;
+  }
+  .hub-v2 .slick-slider ul.slick-dots button {
+    color: transparent;
+    background: transparent;
+  }
+  .hub-v2 .slick-slider .slick-arrow {
+    color: transparent;
+    background: transparent;
+    position: absolute;
+    z-index: 3;
+    display: none;
+    height: 20px;
+  }
+  .hub-v2 .slick-slider .slick-arrow::before {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    content: url("/blog/wp-content/themes/theblog-child/assets/images/right-arrow-home-v2.svg");
+  }
+  .hub-v2 .slick-slider .slick-next {
+    transform: rotate(180deg);
+  }
+  
+  .container .row.g-20 {
+    margin-left: -10px;
+    margin-right: -10px;
+  }
+  .container .row.g-20 [class^=col-] {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  @media screen and (min-width: 576px) {
+    .hub-v2 #textAnimate {
+      margin-left: 8px;
+    }
+  }
+  
+  @media screen and (min-width: 992px) {
+    .hub-v2 #textAnimate {
+      display: inline-block;
+    }
+    .hub-v2 #textAnimate span {
+      top: 0;
+      left: 3px;
+    }
+    .hub-v2 .blog-partial.bp-latest-news .row .each-item:first-child {
+      padding-right: 70px;
+    }
+    .hub-v2 .blog-partial.bp-latest-news .row .each-item:nth-child(2) {
+      padding-left: 55px;
+      padding-right: 15px;
+    }
+    .hub-v2 .blog-partial.bp-latest-news .row .each-item:nth-child(3) {
+      padding-left: 55px;
+      padding-right: 15px;
+    }
+    .hub-v2 .blog-partial.bp-latest-news .row .each-item:nth-child(4) {
+      padding-left: 68px;
+    }
+    .hub-v2 .blog-partial.bp-latest-blogs .blb-item.large {
+      margin-bottom: 0;
+    }
+    .hub-v2 .blog-partial.bp-banner-blog-slider .bps-single .featured-image {
+      margin-bottom: 0;
+    }
+    .hub-v2 .blog-partial.bp-banner-blog-slider .slick-slider ul.slick-dots {
+      bottom: 5px;
+    }
+    .hub-v2 .bp-banner-blog-slider .slick-slider .bpss-text {
+      max-width: 427px;
+    }
+    
+  }
+  @media screen and (min-width: 1300px) {
+    .container {
+      max-width: 1272px;
+    }
+  }
+  @media screen and (min-width: 768px) {
+    .hub-v2 .br-md-10px {
+      border-radius: 10px !important;
+    }
+    .hub-v2 .blog-partial {
+      margin-bottom: 140px;
+    }
+    .hub-v2 .blog-partial .row .each-item {
+      padding-left: 15px;
+      padding-right: 15px;
+      margin-left: 0;
+      margin-right: 0;
+    }
+    .hub-v2 .blog-partial .row .each-item:nth-child(2n+1) {
+      padding-right: 85px;
+    }
+    .hub-v2 .blog-partial .row .each-item:nth-child(2n+1)::after {
+      content: "";
+    }
+    .hub-v2 .blog-partial .row .each-item:last-child::after {
+      content: unset;
+    }
+    .hub-v2 .blog-partial .row .each-item:nth-child(2n) {
+      padding-left: 85px;
+    }
+    .hub-v2 .blog-partial .row .each-item:nth-last-child(2) {
+      border-bottom: none;
+      padding-bottom: 0;
+    }
+    .hub-v2 .blog-partial.bp-biomarkers-v2 {
+      margin-bottom: 40px;
+      padding: 36px 0 88px 0;
+    }
+    .hub-v2 .blog-partial.bp-biomarkers-v2 .bitem-wrapper {
+      margin: 0;
+    }
+    .hub-v2 .blog-partial.bp-biomarkers {
+      padding-bottom: 44px;
+    }
+    .hub-v2 .blog-partial.bp-biomarkers .row .each-item:first-child {
+      padding-top: 40px;
+    }
+    .hub-v2 .blog-partial.bp-biomarkers .row:last-child .each-item {
+      padding-top: 52px;
+    }
+    .hub-v2 .blog-partial.bp-banner-blog-slider {
+      margin-bottom: 50px;
+    }
+    .hub-v2 .blog-partial.bp-banner-blog-slider .section-title h2 {
+      color: #07537d;
+      font-size: 16px;
+      /* font-weight: 600; */
+      line-height: normal;
+      letter-spacing: -0.36px;
+    }
+    .hub-v2 .blog-partial.bp-banner-blog-slider .item-title h1 {
+      color: #1a413b;
+      font-size: 42px;
+      /* font-weight: 600; */
+      line-height: normal;
+      letter-spacing: -0.84px;
+    }
+    .hub-v2 .blog-partial.bp-banner-blog-slider .bps-single {
+      max-width: unset;
+      padding: 0 5px;
+    }
+   
+    .hub-v2 .blog-partial.bp-banner-blog-slider .bps-single .featured-image img {
+      border-radius: 10px;
+    }
+    .hub-v2 .blog-partial.bp-banner-blog-slider .bps-single h3 {
+      margin-bottom: 18px;
+      line-height: normal;
+    }
+    .hub-v2 .blog-partial.bp-banner-blog-slider .bps-single .item-date {
+      margin-bottom: 50px;
+    }
+    .hub-v2 .blog-partial.bp-banner-blog-slider .bps-slide-wrapper .item-desc {
+      max-width: unset;
+    }
+    .hub-v2 .blog-partial.bp-banner-blog-slider .bps-slider-images img {
+      height: 750px;
+    }
+    .hub-v2 .blog-partial.bp-banner-blog-slider .slick-slider ul.slick-dots {
+      left: 5px;
+      bottom: 5px;
+      transform: unset;
+    }
+    .hub-v2 .blog-partial.bp-banner-blog-slider .slick-slider .slick-next {
+      bottom: 3px;
+      left: 390px;
+      right: unset;
+      display: block !important;
+      transform: rotate(180deg);
+    }
+    .hub-v2 .blog-partial.bp-banner-blog-slider .slick-slider .slick-prev {
+      bottom: 2px;
+      left: 390px;
+      right: unset;
+      display: block !important;
+      transform: rotate(180deg);
+      left: 340px;
+      bottom: 0px;
+      transform: rotate(0deg);
+    }
+    .hub-v2 .blog-partial.bp-latest-news .row .each-item {
+      padding-top: 32px;
+      border-bottom: none;
+    }
+    .hub-v2 .blog-partial.bp-latest-news .row .each-item:first-child {
+      padding-right: 20px;
+      padding-left: 15px;
+    }
+    .hub-v2 .blog-partial.bp-latest-news .row .each-item:nth-child(2) {
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+    .hub-v2 .blog-partial.bp-latest-news .row .each-item:nth-child(2)::after {
+      position: absolute;
+      top: 40px;
+      right: 0;
+      width: 3px;
+      height: calc(100% - 80px);
+      content: "";
+      background: #07537d;
+    }
+    .hub-v2 .blog-partial.bp-latest-news .row .each-item:nth-child(3) {
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+    .hub-v2 .blog-partial.bp-latest-news .row .each-item:nth-child(3)::after {
+      position: absolute;
+      top: 40px;
+      right: 0;
+      width: 3px;
+      height: calc(100% - 80px);
+      content: "";
+      background: #07537d;
+    }
+    .hub-v2 .blog-partial.bp-latest-news .row .each-item:nth-child(4) {
+      padding-left: 20px;
+    }
+    .hub-v2 .blog-partial.bp-latest-news .row .each-item .item-date {
+      line-height: 235%;
+    }
+    .hub-v2 .blog-partial.bp-latest-blogs {
+      margin-bottom: 84px;
+    }
+    .hub-v2 .blog-partial.bp-latest-blogs .blb-item img {
+      height: 250px;
+      width: 100%;
+    }
+    .hub-v2 .blog-partial.bp-latest-blogs .blb-item .blb-image-large img {
+      height: 550px;
+    }
+    .hub-v2 .blog-partial.bp-latest-blogs .blb-item.large .item-date {
+      margin: 0;
+    }
+    .hub-v2 .blog-partial.bp-customer-success {
+      margin-bottom: 78px;
+    }
+    .hub-v2 .blog-partial.bp-customer-success .bitem-wrapper .row .col-lg-3:last-child .blb-item {
+      margin: 0;
+    }
+    .hub-v2 .blog-partial.bp-customer-success .blb-item {
+      margin-bottom: 0;
+    }
+    .hub-v2 .blog-partial.bp-customer-success .blb-item img {
+      height: 250px;
+      width: 100%;
+    }
+    .hub-v2 .blog-partial.bp-customer-success .blb-item .blb-image-large img {
+      height: 550px;
+    }
+    .hub-v2 .blog-partial.bp-customer-success .blb-item.large {
+      margin-bottom: 0;
+    }
+    .hub-v2 .blog-partial.bp-customer-success .blb-item.large .item-date {
+      margin: 0;
+    }
+    .hub-v2 .blog-partial.bp-biology-slide {
+      padding-bottom: 100px;
+    }
+    .hub-v2 .bitem-wrapper {
+      margin-bottom: 50px;
+    }
+    .hub-v2 .more-biomarkers {
+      text-align: start;
+    }
+    .hub-v2 .section-title h2 {
+      font-size: 18px;
+    }
+    .hub-v2 .item-title h1 {
+      font-size: 42px;
+      letter-spacing: -0.84px;
+    }
+  }/*# sourceMappingURL=hub-v2-2.css.map */

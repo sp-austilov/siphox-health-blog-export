@@ -1,0 +1,61 @@
+
+/* Open Sans Soft */
+@font-face {
+  font-family: "OpenSansSoft-SemiBold";
+  src: url("/blog/wp-content/themes/theblog-child/assets/css/fonts/opensanssoft/OpenSansSoft-SemiBd.woff2") format("woff2");
+}
+@font-face {
+  font-family: "OpenSansSoft-Bold";
+  src: url("/blog/wp-content/themes/theblog-child/assets/css/fonts/opensanssoft/OpenSansSoft-Bold.woff2") format("woff2");
+}
+
+/* Source Sans Pro - Google Font */
+@font-face {
+  font-family: "SourceSansPro-Regular";
+  src: url("/blog/wp-content/themes/theblog-child/assets/css/fonts/source-sans/SourceSansPro-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "SourceSansPro-SemiBold";
+  src: url("/blog/wp-content/themes/theblog-child/assets/css/fonts/source-sans/SourceSansPro-SemiBold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "SegoeUI-SemiBold";
+  src: url("/blog/wp-content/themes/theblog-child/assets/css/fonts/segoe-ui/Segoe_UI_Semibold.woff2") format("woff2");
+}
+
+
+
+
+body {
+  font-family: 'SourceSansPro-Regular', sans-serif;
+}
+
+
+
+h1,
+h2,
+h3 {
+  font-family: "OpenSansSoft-SemiBold";
+  font-weight: normal;
+}
+.blog_link a,
+.y-breadcrumb span,
+.siphox-on-twitter a,
+.post-meta.bn-role{
+  font-family: "OpenSansSoft-SemiBold";
+  font-weight: normal;
+}
+
+.newsletter-section .ns-content .nsc-form input {
+  font-family: "SourceSansPro-Regular";
+}
+
+.newsletter-section .ns-content .nsc-form button {
+  font-family: "SourceSansPro-SemiBold";
+}
+
+.hero-banner.author .exp-edu p strong{
+  font-family: "SourceSansPro-SemiBold";
+}
