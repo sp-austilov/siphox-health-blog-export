@@ -2,27 +2,27 @@
 /* Open Sans Soft */
 @font-face {
   font-family: "OpenSansSoft-SemiBold";
-  src: url("/blog/wp-content/themes/theblog-child/assets/css/fonts/opensanssoft/OpenSansSoft-SemiBd.woff2") format("woff2");
+  src: url("/hub/wp-content/themes/theblog-child/assets/css/fonts/opensanssoft/OpenSansSoft-SemiBd.woff2") format("woff2");
 }
 @font-face {
   font-family: "OpenSansSoft-Bold";
-  src: url("/blog/wp-content/themes/theblog-child/assets/css/fonts/opensanssoft/OpenSansSoft-Bold.woff2") format("woff2");
+  src: url("/hub/wp-content/themes/theblog-child/assets/css/fonts/opensanssoft/OpenSansSoft-Bold.woff2") format("woff2");
 }
 
 /* Source Sans Pro - Google Font */
 @font-face {
   font-family: "SourceSansPro-Regular";
-  src: url("/blog/wp-content/themes/theblog-child/assets/css/fonts/source-sans/SourceSansPro-Regular.woff2") format("woff2");
+  src: url("/hub/wp-content/themes/theblog-child/assets/css/fonts/source-sans/SourceSansPro-Regular.woff2") format("woff2");
 }
 
 @font-face {
   font-family: "SourceSansPro-SemiBold";
-  src: url("/blog/wp-content/themes/theblog-child/assets/css/fonts/source-sans/SourceSansPro-SemiBold.woff2") format("woff2");
+  src: url("/hub/wp-content/themes/theblog-child/assets/css/fonts/source-sans/SourceSansPro-SemiBold.woff2") format("woff2");
 }
 
 @font-face {
   font-family: "SegoeUI-SemiBold";
-  src: url("/blog/wp-content/themes/theblog-child/assets/css/fonts/segoe-ui/Segoe_UI_Semibold.woff2") format("woff2");
+  src: url("/hub/wp-content/themes/theblog-child/assets/css/fonts/segoe-ui/Segoe_UI_Semibold.woff2") format("woff2");
 }
 
 

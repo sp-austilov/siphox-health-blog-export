@@ -1130,7 +1130,7 @@ main {
   position: absolute;
   height: 28px;
   width: 28px;
-  background-image: url("/blog/wp-content/themes/theblog-child/assets/images/down-arrow-blue.svg");
+  background-image: url("/hub/wp-content/themes/theblog-child/assets/images/down-arrow-blue.svg");
   left: -42px;
   top: 0;
 }
@@ -1247,7 +1247,7 @@ main {
   position: absolute;
   left: -14px;
   top: 0;
-  content: url(/blog/wp-content/themes/theblog-child/assets/images/quote-icon.svg);
+  content: url(/hub/wp-content/themes/theblog-child/assets/images/quote-icon.svg);
   opacity: 1;
   transform: translate(0, -100%);
 }
