@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pavel Korecky &#8211; SiPhox Health</title>
+	<atom:link href="/hub/author/pavelkorecky/feed/" rel="self" type="application/rss+xml" />
+	<link>/hub/</link>
+	<description></description>
+	<lastBuildDate>Tue, 23 Apr 2024 17:46:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>HbA1c At Home- A Tool for Metabolic Health</title>
+		<link>/hub/guides/optimizing-lower-hba1c-better-metabolic-health/</link>
+		
+		<dc:creator><![CDATA[Pavel Korecky]]></dc:creator>
+		<pubDate>Fri, 12 Apr 2024 13:50:11 +0000</pubDate>
+				<category><![CDATA[Guides]]></category>
+		<category><![CDATA[HbA1C]]></category>
+		<category><![CDATA[A1C]]></category>
+		<category><![CDATA[blood test]]></category>
+		<category><![CDATA[diabetes]]></category>
+		<category><![CDATA[glucose]]></category>
+		<category><![CDATA[HbA1c]]></category>
+		<category><![CDATA[Hemoglobin A1C]]></category>
+		<category><![CDATA[insulin]]></category>
+		<category><![CDATA[metabolism]]></category>
+		<category><![CDATA[pre-diabetes]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?p=2490</guid>
+
+					<description><![CDATA[Learn more about HbA1c, an important metabolic marker and long-term indicator of glycemic control.]]></description>
+			
+							<content:encoded><![CDATA[<!-- <div class='highlight-card mb-32px highlight-card-info'>
+    <div class='d-flex'>
+        <div class='icon-container'>
+            <img decoding="async" src="/hub/wp-content/themes/theblog-child/assets/images/tip.svg" alt=''/>
+        </div>
+        <div class='d-flex ms-16px'>
+            <p><strong>Key Takeaways</strong></p>
+<ul>
+<li>Hemoglobin A1C is an important screen for diabetic risk, providing a long-term snapshot of blood glucose concentration in comparison to other tests.</li>
+<li>Levels that are consistently above 5.6% may warrant a visit to a physician.</li>
+<li>Because of its role in diagnosing diabetes, HbA1c is included in SiPhox Health&#8217;s base panel.</li>
+</ul>
+<p>A1C results can be interpreted using the following reference ranges, but it is important to consult with your physician if your level falls outside the normal range.</p>
+<ul>
+<li><span style="text-decoration: underline;"><a href="https://www.abim.org/Media/bfijryql/laboratory-reference-ranges.pdf">Normal</a></span>: 4 &#8211; 5.6%</li>
+<li><span style="text-decoration: underline;"><a href="https://www.cdc.gov/diabetes/managing/managing-blood-sugar/a1c.html#:~:text=A%20normal%20A1C%20level%20is,for%20developing%20type%202%20diabetes.">Pre-Diabetes</a></span>: 5.7 &#8211; 6.4%</li>
+<li><a href="https://www.cdc.gov/diabetes/managing/managing-blood-sugar/a1c.html#:~:text=A%20normal%20A1C%20level%20is,for%20developing%20type%202%20diabetes."><span style="text-decoration: underline;">Diabetes</span>:</a> &gt; 6.5%</li>
+<li><a href="https://www.singlecare.com/blog/normal-a1c-levels/"><span style="text-decoration: underline;">Critical</span></a>: &gt; 9%</li>
+</ul>
+<p>According to the <a href="https://www.cdc.gov/diabetes/managing/managing-blood-sugar/a1c.html#:~:text=The">CDC</a>, several factors can provide a false report of your A1C results, including:</p>
+<ul>
+<li>Kidney failure, liver disease, anemia</li>
+<li>Less common hemoglobin types that people of African, Mediterranean, or Southeast Asian descent may have</li>
+<li>Certain medications</li>
+<li>Blood loss or blood transfusions</li>
+<li>Early or late pregnancy</li>
+</ul>
+<p><!-- notionvc: 6fe1567e-2865-4cb0-93ef-9932c9e94f17 --></p>
+<p><!-- notionvc: 38b58bcd-39ae-4912-80dc-a87dbebd79d1 --></p>
+
+        </div>
+    </div>
+</div> -->
+<div class="highlight-card highlight-card-info">
+    <p><strong>Key Takeaways</strong></p>
+<ul>
+<li>Hemoglobin A1C is an important screen for diabetic risk, providing a long-term snapshot of blood glucose concentration in comparison to other tests.</li>
+<li>Levels that are consistently above 5.6% may warrant a visit to a physician.</li>
+<li>Because of its role in diagnosing diabetes, HbA1c is included in SiPhox Health&#8217;s base panel.</li>
+</ul>
+<p>A1C results can be interpreted using the following reference ranges, but it is important to consult with your physician if your level falls outside the normal range.</p>
+<ul>
+<li><span style="text-decoration: underline;"><a href="https://www.abim.org/Media/bfijryql/laboratory-reference-ranges.pdf">Normal</a></span>: 4 &#8211; 5.6%</li>
+<li><span style="text-decoration: underline;"><a href="https://www.cdc.gov/diabetes/managing/managing-blood-sugar/a1c.html#:~:text=A%20normal%20A1C%20level%20is,for%20developing%20type%202%20diabetes.">Pre-Diabetes</a></span>: 5.7 &#8211; 6.4%</li>
+<li><a href="https://www.cdc.gov/diabetes/managing/managing-blood-sugar/a1c.html#:~:text=A%20normal%20A1C%20level%20is,for%20developing%20type%202%20diabetes."><span style="text-decoration: underline;">Diabetes</span>:</a> &gt; 6.5%</li>
+<li><a href="https://www.singlecare.com/blog/normal-a1c-levels/"><span style="text-decoration: underline;">Critical</span></a>: &gt; 9%</li>
+</ul>
+<p>According to the <a href="https://www.cdc.gov/diabetes/managing/managing-blood-sugar/a1c.html#:~:text=The">CDC</a>, several factors can provide a false report of your A1C results, including:</p>
+<ul>
+<li>Kidney failure, liver disease, anemia</li>
+<li>Less common hemoglobin types that people of African, Mediterranean, or Southeast Asian descent may have</li>
+<li>Certain medications</li>
+<li>Blood loss or blood transfusions</li>
+<li>Early or late pregnancy</li>
+</ul>
+<p><!-- notionvc: 6fe1567e-2865-4cb0-93ef-9932c9e94f17 --></p>
+<p><!-- notionvc: 38b58bcd-39ae-4912-80dc-a87dbebd79d1 --></p>
+
+</div><h2>What is Hemoglobin A1C?</h2>
+<p>Hemoglobin (Hb) is a type of protein that circulates in the blood and is responsible for transporting oxygen from the lungs to tissues throughout the body. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_1');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_1');" ><span id="footnote_plugin_tooltip_2490_1_1" class="footnote_plugin_tooltip_text">[1]</span></a><span id="footnote_plugin_tooltip_text_2490_1_1" class="footnote_tooltip"></span></span></span></p>
+<p>A HbA1c test is a measure of the percent of total hemoglobin that has been glycosylated, or attached to glucose (sugar). This is significant because the percentage of glycosylated HbA1c correlates to the average amount of glucose that is present in the bloodstream over the past 2 to 3 months. Since diabetes is a disease in which blood glucose levels are too high, elevated HbA1c can be indicative of pre-diabetes or diabetes. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_2');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_2');" ><span id="footnote_plugin_tooltip_2490_1_2" class="footnote_plugin_tooltip_text">[2]</span></a><span id="footnote_plugin_tooltip_text_2490_1_2" class="footnote_tooltip"></span></span></p>
+<h2>Why is measuring HbA1c important?</h2>
+<p>Many sources suggest that A1C levels between 5.7% and 6.4% are indicative of pre-diabetes, whereas higher levels are indicative of diabetes. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_3');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_3');" ><span id="footnote_plugin_tooltip_2490_1_3" class="footnote_plugin_tooltip_text">[3]</span></a><span id="footnote_plugin_tooltip_text_2490_1_3" class="footnote_tooltip"></span></span>. According to the CDC, 136 million American adults have either diabetes or pre-diabetes <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_4');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_4');" ><span id="footnote_plugin_tooltip_2490_1_4" class="footnote_plugin_tooltip_text">[4]</span></a><span id="footnote_plugin_tooltip_text_2490_1_4" class="footnote_tooltip"></span></span>, and out of all American adults with diabetes, 47.4% had A1C values over 7%.</span></p>
+<p><span style="text-decoration: underline;">That’s where the HbA1c test really shines— in its value as a predictor and monitor of this serious metabolic disease. Unlike daily blood sugar tests, HbA1c reflects average glucose levels over two to three months, offering a more comprehensive picture of how well diabetes is being controlled.</span></p>
+<p>This helps in making informed decisions about treatment adjustments and lifestyle changes. High HbA1c levels indicate poor blood sugar control, increasing the risk of diabetes-related complications such as cardiovascular disease, kidney damage (nephropathy), eye damage (retinopathy), nerve damage (neuropathy), and poor wound healing. These complications can have a significant impact on quality of life and overall health. Therefore, maintaining HbA1c levels within the recommended range is crucial for reducing the risk of these long-term effects. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_5');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_5');" ><span id="footnote_plugin_tooltip_2490_1_5" class="footnote_plugin_tooltip_text">[5]</span></a><span id="footnote_plugin_tooltip_text_2490_1_5" class="footnote_tooltip"></span></span></p>
+<h2>What factors can influence HbA1c values?</h2>
+<p>Several factors can influence HbA1c readings. Conditions like anemia or hemoglobinopathies can alter hemoglobin levels, affecting HbA1c accuracy. Changes in red blood cell lifespan due to recent blood loss, transfusion, or certain chronic conditions (e.g., kidney or liver disease) can skew results. Some medications impact glucose metabolism, thus influencing HbA1c. Racial and ethnic differences have been observed in HbA1c levels, requiring careful interpretation. Pregnancy also affects HbA1c, necessitating different evaluation standards for pregnant women. It&#8217;s important to consider these factors for accurate assessment of HbA1c results. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_6');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_6');" ><span id="footnote_plugin_tooltip_2490_1_6" class="footnote_plugin_tooltip_text">[6]</span></a><span id="footnote_plugin_tooltip_text_2490_1_6" class="footnote_tooltip"></span></span></p>
+<h2>What lifestyle modifications can be made to regulate HbA1c?</h2>
+<p>Chronic stress can raise blood glucose levels due to the release of stress hormones like cortisol, which can lead to higher HbA1c readings. Finding ways to mitigate this such as deep breathing exercises, meditation, yoga, mindfulness exercises, and adequate sleep may help. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_7');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_7');" ><span id="footnote_plugin_tooltip_2490_1_7" class="footnote_plugin_tooltip_text">[7]</span></a><span id="footnote_plugin_tooltip_text_2490_1_7" class="footnote_tooltip"></span></span> Smoking can increase HbA1c levels independently of glucose concentration. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_8');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_8');" ><span id="footnote_plugin_tooltip_2490_1_8" class="footnote_plugin_tooltip_text">[8]</span></a><span id="footnote_plugin_tooltip_text_2490_1_8" class="footnote_tooltip"></span></span> A higher BMI, often associated with increased fat mass, can lead to insulin resistance, which in turn may raise HbA1c levels. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_9');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_9');" ><span id="footnote_plugin_tooltip_2490_1_9" class="footnote_plugin_tooltip_text">[9]</span></a><span id="footnote_plugin_tooltip_text_2490_1_9" class="footnote_tooltip"></span></span> Conversely, regular exercise improves insulin sensitivity and glucose metabolism, potentially lowering HbA1c. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_10');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_10');" ><span id="footnote_plugin_tooltip_2490_1_10" class="footnote_plugin_tooltip_text">[10]</span></a><span id="footnote_plugin_tooltip_text_2490_1_10" class="footnote_tooltip"></span></span> These lifestyle factors, along with dietary habits, play a significant role in determining HbA1c values and overall metabolic health. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_11');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_11');" ><span id="footnote_plugin_tooltip_2490_1_11" class="footnote_plugin_tooltip_text">[11]</span></a><span id="footnote_plugin_tooltip_text_2490_1_11" class="footnote_tooltip"></span></span></p>
+<p>If your A1C is elevated, Johns Hopkins Medicine <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_12');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_12');" ><span id="footnote_plugin_tooltip_2490_1_12" class="footnote_plugin_tooltip_text">[12]</span></a><span id="footnote_plugin_tooltip_text_2490_1_12" class="footnote_tooltip"></span></span> suggests:</p>
+<ul>
+<li>Losing weight by leading a healthy lifestyle</li>
+<li>Increasing fiber in your diet by choosing veggies, whole grains, and fruit</li>
+<li>Regularly exercising &#8211; particularly, aerobic exercise and strength training</li>
+<li>Quitting smoking</li>
+</ul>
+<div id="1712931477.193009" class="c-virtual_list__item" tabindex="0" role="listitem" aria-setsize="-1" data-qa="virtual-list-item" data-item-key="1712931477.193009">
+<div class="c-message_kit__background c-message_kit__background--hovered p-message_pane_message__message c-message_kit__message" role="presentation" data-qa="message_container" data-qa-unprocessed="false" data-qa-placeholder="false">
+<div class="c-message_kit__hover c-message_kit__hover--hovered" role="document" aria-roledescription="message" data-qa-hover="true">
+<div class="c-message_kit__actions c-message_kit__actions--above">
+<div class="c-message_kit__gutter">
+<div class="c-message_kit__gutter__right" role="presentation" data-qa="message_content">
+<div class="c-message_kit__blocks c-message_kit__blocks--rich_text">
+<div class="c-message__message_blocks c-message__message_blocks--rich_text" data-qa="message-text">
+<div class="p-block_kit_renderer" data-qa="block-kit-renderer">
+<div class="p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first">
+<div class="p-rich_text_block" dir="auto">
+<div class="p-rich_text_section">To manage blood sugar levels effectively, consider reducing carbohydrate intake, as carbs are broken down into sugars by the body. <span style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);"><span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_13');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_13');" ><span id="footnote_plugin_tooltip_2490_1_13" class="footnote_plugin_tooltip_text">[13]</span></a><span id="footnote_plugin_tooltip_text_2490_1_13" class="footnote_tooltip"></span></span> </span>Opt for foods with a lower glycemic index, such as non-starchy vegetables and whole fruits, which are digested and absorbed more slowly, resulting in fewer blood glucose spikes. Additionally, incorporating soluble fiber into your diet can help slow sugar absorption and stabilize blood glucose levels. Good sources of soluble fiber include oats, peas, beans, lentils, vegetables, nuts, flaxseeds, and avocado. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_14');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_14');" ><span id="footnote_plugin_tooltip_2490_1_14" class="footnote_plugin_tooltip_text">[14]</span></a><span id="footnote_plugin_tooltip_text_2490_1_14" class="footnote_tooltip"></span></span> Avoiding high-glycemic foods like sugary treats, white bread, white rice, potatoes, fruit juice, and sweet corn can further support blood sugar management. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_15');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_15');" ><span id="footnote_plugin_tooltip_2490_1_15" class="footnote_plugin_tooltip_text">[15]</span></a><span id="footnote_plugin_tooltip_text_2490_1_15" class="footnote_tooltip"></span></span> Using a Glucometer or CGM (Continuous Glucose Monitor) is a valuable tool for real-time monitoring of how food and exercise impact blood glucose levels. By identifying patterns that may not be apparent otherwise, these devices help refine glycemic control and enhance overall management of blood sugar levels. <span style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);"><span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_16');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_16');" ><span id="footnote_plugin_tooltip_2490_1_16" class="footnote_plugin_tooltip_text">[16]</span></a><span id="footnote_plugin_tooltip_text_2490_1_16" class="footnote_tooltip"></span></span>.</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>Several supplements may aid in lowering HbA1c levels. While the following may aid in lowering A1C, relying solely on supplements for glycemic control is not recommended.</p>
+<ul>
+<li>Cinnamon <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_17');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_17');" ><span id="footnote_plugin_tooltip_2490_1_17" class="footnote_plugin_tooltip_text">[17]</span></a><span id="footnote_plugin_tooltip_text_2490_1_17" class="footnote_tooltip"></span></span></li>
+<li>Magnesium <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_18');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_18');" ><span id="footnote_plugin_tooltip_2490_1_18" class="footnote_plugin_tooltip_text">[18]</span></a><span id="footnote_plugin_tooltip_text_2490_1_18" class="footnote_tooltip"></span></span></li>
+<li>Chromium Picolinate <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_19');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_19');" ><span id="footnote_plugin_tooltip_2490_1_19" class="footnote_plugin_tooltip_text">[19]</span></a><span id="footnote_plugin_tooltip_text_2490_1_19" class="footnote_tooltip"></span></span></li>
+<li>Berberine <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_20');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_20');" ><span id="footnote_plugin_tooltip_2490_1_20" class="footnote_plugin_tooltip_text">[20]</span></a><span id="footnote_plugin_tooltip_text_2490_1_20" class="footnote_tooltip"></span></span></li>
+<li>Fiber (Metamucil or psyllium husk) <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_21');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_21');" ><span id="footnote_plugin_tooltip_2490_1_21" class="footnote_plugin_tooltip_text">[21]</span></a><span id="footnote_plugin_tooltip_text_2490_1_21" class="footnote_tooltip"></span></span></li>
+</ul>
+<p>These supplements show promise in improving insulin sensitivity and reducing blood sugar levels and have been targets for therapeutic studies. However, it&#8217;s important to consult a healthcare provider before starting any supplement regimen, especially for individuals with diabetes or pre-diabetes, as these supplements may interact with other medications and may not be suitable for everyone.</p>
+<h2>Tracking HbA1c with SiPhox Health:</h2>
+<p>&#8211; At-home kit delivered to your home<br />
+&#8211; Fingerprick sample self-collection (low-pain, adjustable lancets)<br />
+&#8211; $295 one-time, $85 subscription<br />
+&#8211; Number of biomarkers included: 17 in the base panel (Thyroid+ and Hormone+ add-on panels available)<br />
+&#8211; Sleep and activity tracking: Included, 200 devices supported<br />
+&#8211; CGM tracking<br />
+&#8211; 2-5 business days after collection</p>
+<p>Subscribe to SiPhox and start tracking your HbA1c + 16 other critical biomarkers as well as sleep, activity, and heart data all in one comprehensive dashboard.</p>
+<p><a href="https://siphoxhealth.com/pages/pricing-tiers"><span style="text-decoration: underline;"><strong>Learn more about SiPhox Health testing here.</strong></span></a></p>
+<div class="speaker-mute footnotes_reference_container"> <div class="footnote_container_prepare"><p><span role="button" tabindex="0" class="footnote_reference_container_label pointer" onclick="footnote_expand_collapse_reference_container_2490_1();">References</span><span role="button" tabindex="0" class="footnote_reference_container_collapse_button" style="" onclick="footnote_expand_collapse_reference_container_2490_1();">[<a id="footnote_reference_container_collapse_button_2490_1">+</a>]</span></p></div> <div id="footnote_references_container_2490_1" style="display: none;"><table class="footnotes_table footnote-reference-container"><caption class="accessibility">References</caption> <tbody> 
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_1" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_1');"><a role="button" tabindex="0" class="footnote_plugin_link" >1</a></th> <td class="footnote_plugin_text"><span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">Billett HH. Hemoglobin and Hematocrit. In: Walker HK, Hall WD, Hurst JW, editors. Clinical Methods: The History, Physical, and Laboratory Examinations. 3rd edition. Boston: Butterworths; 1990. Chapter 151.</span><span class="bk_cite_avail" style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);"> Available from: <span class="footnote_url_wrap">https://www.ncbi.nlm.nih.gov/books/NBK259/</span></span><span style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);"></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_2" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_2');"><a role="button" tabindex="0" class="footnote_plugin_link" >2</a></th> <td class="footnote_plugin_text">MedlinePlus [Internet]. Bethesda (MD): National Library of Medicine (US). Blood Glucose; [updated 2024 Mar 6]. Available from: <span class="footnote_url_wrap">https://medlineplus.gov/bloodglucose.html#</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_3" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_3');"><a role="button" tabindex="0" class="footnote_plugin_link" >3</a></th> <td class="footnote_plugin_text"><i>A1C Looks Back</i>. Understanding A1C Test | ADA. <span class="footnote_url_wrap">https://diabetes.org/about-diabetes/a1c</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_4" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_4');"><a role="button" tabindex="0" class="footnote_plugin_link" >4</a></th> <td class="footnote_plugin_text"><span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">Centers for Disease Control and Prevention. National Diabetes Statistics Report website. <span class="footnote_url_wrap">https://www.cdc.gov/diabetes/data/statistics-report/index.html.</span> Accessed 2024 April 10.</span><span style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);"></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_5" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_5');"><a role="button" tabindex="0" class="footnote_plugin_link" >5</a></th> <td class="footnote_plugin_text">Department of Health &amp; Human Services. (2004, October 28). <i>Diabetes &#8211; long-term effects</i>. Better Health Channel. <span class="footnote_url_wrap">https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/diabetes-long-term-effects</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_6" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_6');"><a role="button" tabindex="0" class="footnote_plugin_link" >6</a></th> <td class="footnote_plugin_text">Centers for Disease Control and Prevention. (2022, September 30). <i>All About Your A1C</i>. Centers for Disease Control and Prevention. <span class="footnote_url_wrap">https://www.cdc.gov/diabetes/managing/managing-blood-sugar/a1c.html#:~:text=The</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_7" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_7');"><a role="button" tabindex="0" class="footnote_plugin_link" >7</a></th> <td class="footnote_plugin_text">Hilliard, M. E., Yi-Frazier, J. P., Hessler, D., Butler, A. M., Anderson, B. J., &amp; Jaser, S. (2016). Stress and A1c Among People with Diabetes Across the Lifespan. <i>Current diabetes reports</i>, <i>16</i>(8), 67. <span class="footnote_url_wrap">https://doi.org/10.1007/s11892-016-0761-3</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_8" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_8');"><a role="button" tabindex="0" class="footnote_plugin_link" >8</a></th> <td class="footnote_plugin_text">Centers for Disease Control and Prevention. (2022a, June 20). <i>Smoking and Diabetes</i>. Centers for Disease Control and Prevention. <span class="footnote_url_wrap">https://www.cdc.gov/diabetes/library/features/smoking-and-diabetes.html</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_9" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_9');"><a role="button" tabindex="0" class="footnote_plugin_link" >9</a></th> <td class="footnote_plugin_text">Sarnings, W., Aman, A., Rasyid, H., Bakri, S., Sanusi, H., As Daud, N., &amp; Zainuddin, A. (2022). Obesity Measurement Index Is Associated With Hemoglobin A1c Level in Young Adult Without Diabetes: A Single-Center Cross-Sectional Study. <em>Journal Of Endocrinology And Metabolism, 12</em>(4-5), 140-145. <span class="footnote_url_wrap">https://jofem.org/index.php/jofem/article/view/823/284284589</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_10" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_10');"><a role="button" tabindex="0" class="footnote_plugin_link" >10</a></th> <td class="footnote_plugin_text">Sheri R. Colberg<span class="al-author-delim">, </span>Ronald J. Sigal<span class="al-author-delim">, </span>Jane E. Yardley<span class="al-author-delim">, </span>Michael C. Riddell<span class="al-author-delim">, </span>David W. Dunstan<span class="al-author-delim">, </span>Paddy C. Dempsey<span class="al-author-delim">, </span>Edward S. Horton<span class="al-author-delim">, </span>Kristin Castorino<span class="al-author-delim">, </span>Deborah F. Tate; Physical Activity/Exercise and Diabetes: A Position Statement of the American Diabetes Association. <em>Diabetes Care</em> 1 November 2016; 39 (11): 2065–2079. <a href="https://doi.org/10.2337/dc16-1728" target="_blank" rel="noopener"><span class="footnote_url_wrap">https://doi.org/10.2337/dc16-1728</span></a></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_11" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_11');"><a role="button" tabindex="0" class="footnote_plugin_link" >11</a></th> <td class="footnote_plugin_text">Managing Diabetes: Six Healthy Steps with the Most Benefit. Johns Hopkins Medicine. (2021, November 1). <span class="footnote_url_wrap">https://www.hopkinsmedicine.org/health/conditions-and-diseases/diabetes/managing-diabetes-six-healthy-steps-with-the-most-benefit</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_12" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_12');"><a role="button" tabindex="0" class="footnote_plugin_link" >12</a></th> <td class="footnote_plugin_text">Managing Diabetes: Six Healthy Steps with the Most Benefit. Johns Hopkins Medicine. (2021, November 1). <span class="footnote_url_wrap">https://www.hopkinsmedicine.org/health/conditions-and-diseases/diabetes/managing-diabetes-six-healthy-steps-with-the-most-benefit</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_13" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_13');"><a role="button" tabindex="0" class="footnote_plugin_link" >13</a></th> <td class="footnote_plugin_text"></span><i style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">Carbohydrates</i><span style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">. UF Health. (n.d.). <span class="footnote_url_wrap">https://ufhealth.org/conditions-and-treatments/carbohydrates</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_14" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_14');"><a role="button" tabindex="0" class="footnote_plugin_link" >14</a></th> <td class="footnote_plugin_text">List of soluble fiber foods for IBS: Holiday edition. List of Soluble Fiber Foods for IBS: Holiday Edition | Bastyr University. (2023a, November 1). <span class="footnote_url_wrap">https://bastyr.edu/about/news/list-soluble-fiber-foods-ibs-holiday-edition</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_15" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_15');"><a role="button" tabindex="0" class="footnote_plugin_link" >15</a></th> <td class="footnote_plugin_text"><i>Understanding Carbs</i>. Carbs and Diabetes | ADA. <span class="footnote_url_wrap">https://diabetes.org/food-nutrition/understanding-carbs</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_16" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_16');"><a role="button" tabindex="0" class="footnote_plugin_link" >16</a></th> <td class="footnote_plugin_text">Wright, E. E., Jr, Kerr, M. S. D., Reyes, I. J., Nabutovsky, Y., &amp; Miller, E. (2021). Use of Flash Continuous Glucose Monitoring Is Associated With A1C Reduction in People With Type 2 Diabetes Treated With Basal Insulin or Noninsulin Therapy. </span><i style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">Diabetes spectrum : a publication of the American Diabetes Association</i><span style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">, </span><i style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">34</i><span style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">(2), 184–189. <span class="footnote_url_wrap">https://doi.org/10.2337/ds20-0069</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_17" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_17');"><a role="button" tabindex="0" class="footnote_plugin_link" >17</a></th> <td class="footnote_plugin_text">Cleveland Clinic. (2024, March 19). Can taking cinnamon supplements lower your blood sugar? <span class="footnote_url_wrap">https://health.clevelandclinic.org/can-taking-cinnamon-lower-your-blood-sugar</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_18" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_18');"><a role="button" tabindex="0" class="footnote_plugin_link" >18</a></th> <td class="footnote_plugin_text">ELDerawi, W. A., Naser, I. A., Taleb, M. H., &amp; Abutair, A. S. (2018). The Effects of Oral Magnesium Supplementation on Glycemic Response among Type 2 Diabetes Patients. Nutrients, 11(1), 44. <span class="footnote_url_wrap">https://doi.org/10.3390/nu11010044</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_19" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_19');"><a role="button" tabindex="0" class="footnote_plugin_link" >19</a></th> <td class="footnote_plugin_text">Watts, M. (2023, October 29). Diabetes and Chromium. <span class="footnote_url_wrap">https://www.diabetes.co.uk/Diabetes-and-Chromium.html</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_20" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_20');"><a role="button" tabindex="0" class="footnote_plugin_link" >20</a></th> <td class="footnote_plugin_text">Yin, J., Xing, H., &amp; Ye, J. (2008). Efficacy of berberine in patients with type 2 diabetes mellitus. Metabolism: clinical and experimental, 57(5), 712–717. <span class="footnote_url_wrap">https://doi.org/10.1016/j.metabol.2008.01.013</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_21" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_21');"><a role="button" tabindex="0" class="footnote_plugin_link" >21</a></th> <td class="footnote_plugin_text">Gibb, R. D., McRorie, J. W., Jr, Russell, D. A., Hasselblad, V., &amp; D&#8217;Alessio, D. A. (2015). Psyllium fiber improves glycemic control proportional to loss of glycemic control: a meta-analysis of data in euglycemic subjects, patients at risk of type 2 diabetes mellitus, and patients being treated for type 2 diabetes mellitus. The American journal of clinical nutrition, 102(6), 1604–1614. <span class="footnote_url_wrap">https://doi.org/10.3945/ajcn.115.106989</span></td></tr>
+
+ </tbody> </table> </div></div><script type="text/javascript"> function footnote_expand_reference_container_2490_1() { jQuery('#footnote_references_container_2490_1').show(); jQuery('#footnote_reference_container_collapse_button_2490_1').text('−'); } function footnote_collapse_reference_container_2490_1() { jQuery('#footnote_references_container_2490_1').hide(); jQuery('#footnote_reference_container_collapse_button_2490_1').text('+'); } function footnote_expand_collapse_reference_container_2490_1() { if (jQuery('#footnote_references_container_2490_1').is(':hidden')) { footnote_expand_reference_container_2490_1(); } else { footnote_collapse_reference_container_2490_1(); } } function footnote_moveToReference_2490_1(p_str_TargetID) { footnote_expand_reference_container_2490_1(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.25 }, 500); } } function footnote_moveToAnchor_2490_1(p_str_TargetID) { footnote_expand_reference_container_2490_1(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.25 }, 500); } }</script>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Predicting Biological Age with DNA Methylation</title>
+		<link>/hub/guides/biomarkers/predicting-biological-age-with-dna-methylation/</link>
+		
+		<dc:creator><![CDATA[Pavel Korecky]]></dc:creator>
+		<pubDate>Tue, 23 Apr 2024 17:46:34 +0000</pubDate>
+				<category><![CDATA[Biomarkers]]></category>
+		<category><![CDATA[DNA Methylation]]></category>
+		<category><![CDATA[Guides]]></category>
+		<category><![CDATA[aging]]></category>
+		<category><![CDATA[at-home test]]></category>
+		<category><![CDATA[biological age]]></category>
+		<category><![CDATA[biological clock]]></category>
+		<category><![CDATA[DNA]]></category>
+		<category><![CDATA[epigenetic clock]]></category>
+		<category><![CDATA[longevity]]></category>
+		<category><![CDATA[methylation]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?p=2781</guid>
+
+					<description><![CDATA[By understanding DNA methylation, individuals can take proactive steps to improve their health span and enhance their quality of life.]]></description>
+			
+							<content:encoded><![CDATA[<p>In the quest to understand aging and its impact on health, scientists have developed innovative tools to peer into the molecular mechanisms underlying the aging process. One key distinction is between biological aging, which reflects the true wear and tear on our bodies, and chronological aging, simply a count of the years since birth.</p>
+<h2><strong>What is DNA Methylation?</strong></h2>
+<p>A methyl group is a chemical entity composed of one carbon atom bonded to three hydrogen atoms. It acts as a fundamental building block in various biological processes and plays a crucial role in DNA methylation. DNA methylation is a biological process that modifies our cellular DNA by adding methyl groups, effectively signaling genes to turn on or off without altering the underlying DNA sequence. This molecular mechanism serves as a regulatory switchboard, modifying the expression of genes, influencing how they function, and affecting various biological processes in the body including the manifestation of various biological traits. Much like adding annotations or post-it notes to a book can alter how we interpret and interact with the text.</p>
+<h2><strong>Predicting Biological Age with DNA Methylation</strong></h2>
+<p>Recent advances in research have demonstrated that DNA methylation patterns can serve as reliable predictors of biological age. Scientists have developed epigenetic clocks, such as GrimAge, which analyzes specific DNA methylation markers to estimate an individual&#8217;s biological age. By scrutinizing thousands of these markers and their correlations, these clocks can accurately assess how an individual&#8217;s DNA has aged over time.</p>
+<h2><strong>Interpreting GrimAge Results</strong></h2>
+<p>Receiving your GrimAge report for <span style="text-decoration: underline;"><a href="https://siphoxhealth.com/">SiPhox Health</a></span>, unveils a personalized snapshot of your biological age journey. A GrimAge lower than your chronological age signifies a promising start on your aging trajectory, indicative of a younger biological age. Percentile rank further contextualizes your results, offering insights into how you fare compared to others of the same chronological age. A percentile rank of 87 on your biological age test, it would mean that your biological age is younger than 87% of others of the same chronological age. By contrast, if you scored 50% or less, that means your biological age is higher than average compared to others of your same chronological age.</p>
+<p><a href="/hub/wp-content/uploads/2024/04/Screenshot-2024-04-26-111247.png"><img fetchpriority="high" decoding="async" class="alignleft size-full wp-image-2795" src="/hub/wp-content/uploads/2024/04/Screenshot-2024-04-26-111247.png" alt="" width="1048" height="538" srcset="/hub/wp-content/uploads/2024/04/Screenshot-2024-04-26-111247.png 1048w, /hub/wp-content/uploads/2024/04/Screenshot-2024-04-26-111247-300x154.png 300w, /hub/wp-content/uploads/2024/04/Screenshot-2024-04-26-111247-1024x526.png 1024w, /hub/wp-content/uploads/2024/04/Screenshot-2024-04-26-111247-768x394.png 768w" sizes="(max-width: 1048px) 100vw, 1048px" /></a><em>SiPhox Health data shared from a client with permission</em></p>
+<h2><strong>Embracing the Potential for Change</strong></h2>
+<p>Perhaps most compellingly, GrimAge underscores the modifiability of biological age, offering hope in the quest for healthy aging. Armed with insights from GrimAge, individuals can track the impact of lifestyle choices, dietary habits, and anti-aging interventions on their rate of aging. This dynamic approach empowers individuals to take proactive steps in optimizing their health span and lifespan, ultimately shaping a future characterized by vitality and well-being.</p>
+<h2><strong>Predicted Telomere Length</strong></h2>
+<p>Predicted telomere length is another biomarker used to assess aspects of biological aging, focused specifically on telomere dynamics and cellular aging.</p>
+<p>Telomeres are repetitive DNA sequences found at the ends of chromosomes that protect them from deterioration and fusion with neighboring chromosomes. With each cell division telomeres undergo shortening, serving as crucial markers of cellular aging.</p>
+<p>A notable advancement in telomere length assessment is the DNA methylation-based estimator (DNAmTL), developed by the Horvath lab. This method analyzes blood methylation data from numerous individuals, identifying CpG sites (a specific DNA sequence) whose methylation levels best predict telomere length. DNAmTL surpasses traditional telomere length measurement (LTL) in predicting mortality, heart disease, and age-related conditions. Furthermore, it correlates with lifestyle factors like diet, physical activity, and smoking.</p>
+<h2><strong>Improving Your DNA Methylation Results</strong></h2>
+<p>There are several ways individuals can improve their DNA methylation results and promote healthy aging. Lifestyle factors such as diet, exercise, and stress management play critical roles in shaping DNA methylation patterns. Similarly, smoking has been linked to decreased methylation. However, quitting smoking has been shown to reverse this effect, leading to increased methylation. This reversal suggests that former smokers can eventually exhibit gene expression levels comparable to those of non-smokers through cessation. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2781_2('footnote_plugin_reference_2781_2_1');" onkeypress="footnote_moveToReference_2781_2('footnote_plugin_reference_2781_2_1');" ><span id="footnote_plugin_tooltip_2781_2_1" class="footnote_plugin_tooltip_text">[1]</span></a><span id="footnote_plugin_tooltip_text_2781_2_1" class="footnote_tooltip"></span></span> <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2781_2('footnote_plugin_reference_2781_2_2');" onkeypress="footnote_moveToReference_2781_2('footnote_plugin_reference_2781_2_2');" ><span id="footnote_plugin_tooltip_2781_2_2" class="footnote_plugin_tooltip_text">[2]</span></a><span id="footnote_plugin_tooltip_text_2781_2_2" class="footnote_tooltip"></span></span></p>
+<p>In conclusion, DNA methylation analysis offers a powerful tool for predicting biological age and assessing individual health risks. By understanding and interpreting DNA methylation results, individuals can take proactive steps to improve their health span and enhance their quality of life.</p>
+<div class="speaker-mute footnotes_reference_container"> <div class="footnote_container_prepare"><p><span role="button" tabindex="0" class="footnote_reference_container_label pointer" onclick="footnote_expand_collapse_reference_container_2781_2();">References</span><span role="button" tabindex="0" class="footnote_reference_container_collapse_button" style="" onclick="footnote_expand_collapse_reference_container_2781_2();">[<a id="footnote_reference_container_collapse_button_2781_2">+</a>]</span></p></div> <div id="footnote_references_container_2781_2" style="display: none;"><table class="footnotes_table footnote-reference-container"><caption class="accessibility">References</caption> <tbody> 
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2781_2_1" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2781_2('footnote_plugin_tooltip_2781_2_1');"><a role="button" tabindex="0" class="footnote_plugin_link" >1</a></th> <td class="footnote_plugin_text">Abraham, M. J., El Sherbini, A., El-Diasty, M., Askari, S., &amp; Szewczuk, M. R. (2023). Restoring Epigenetic Reprogramming with Diet and Exercise to Improve Health-Related Metabolic Diseases. Biomolecules, 13(2), 318. <span class="footnote_url_wrap">https://doi.org/10.3390/biom13020318</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2781_2_2" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2781_2('footnote_plugin_tooltip_2781_2_2');"><a role="button" tabindex="0" class="footnote_plugin_link" >2</a></th> <td class="footnote_plugin_text">Centers for Disease Control and Prevention. (2022, August 15). <i>What is epigenetics?</i>. Centers for Disease Control and Prevention. <span class="footnote_url_wrap">https://www.cdc.gov/genomics/disease/epigenetics.htm</span></td></tr>
+
+ </tbody> </table> </div></div><script type="text/javascript"> function footnote_expand_reference_container_2781_2() { jQuery('#footnote_references_container_2781_2').show(); jQuery('#footnote_reference_container_collapse_button_2781_2').text('−'); } function footnote_collapse_reference_container_2781_2() { jQuery('#footnote_references_container_2781_2').hide(); jQuery('#footnote_reference_container_collapse_button_2781_2').text('+'); } function footnote_expand_collapse_reference_container_2781_2() { if (jQuery('#footnote_references_container_2781_2').is(':hidden')) { footnote_expand_reference_container_2781_2(); } else { footnote_collapse_reference_container_2781_2(); } } function footnote_moveToReference_2781_2(p_str_TargetID) { footnote_expand_reference_container_2781_2(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.25 }, 500); } } function footnote_moveToAnchor_2781_2(p_str_TargetID) { footnote_expand_reference_container_2781_2(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.25 }, 500); } }</script>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>What We Don&#8217;t Measure</title>
+		<link>/hub/guides/what-we-dont-measure/</link>
+		
+		<dc:creator><![CDATA[Pavel Korecky]]></dc:creator>
+		<pubDate>Sun, 21 May 2023 21:58:29 +0000</pubDate>
+				<category><![CDATA[Guides]]></category>
+		<category><![CDATA[annual physical]]></category>
+		<category><![CDATA[at-home test]]></category>
+		<category><![CDATA[blood testing]]></category>
+		<category><![CDATA[bloodwork]]></category>
+		<category><![CDATA[cardiovascular]]></category>
+		<category><![CDATA[CBC]]></category>
+		<category><![CDATA[doctor]]></category>
+		<category><![CDATA[hormones]]></category>
+		<category><![CDATA[inflammation]]></category>
+		<category><![CDATA[metabolic]]></category>
+		<category><![CDATA[yearly physical]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?p=1865</guid>
+
+					<description><![CDATA[Learn more about the rationale behind SiPhox's biomarkers and why we do not measure several essential tests.]]></description>
+			
+
+							<content:encoded><![CDATA[<!-- <div class='highlight-card mb-32px highlight-card-info'>
+    <div class='d-flex'>
+        <div class='icon-container'>
+            <img decoding="async" src="/hub/wp-content/themes/theblog-child/assets/images/tip.svg" alt=''/>
+        </div>
+        <div class='d-flex ms-16px'>
+            <h3>Key Takeaways:</h3>
+<ol>
+<li>Yearly physicals include important tests like CBC and Chemistry panel but omit many crucial biomarkers.</li>
+<li>Comprehensive testing can provide a more complete overview of an individual&#8217;s health.</li>
+<li>SiPhox Health targets rapidly changing markers that are ideal for frequent monitoring, providing timely insights into your health.</li>
+</ol>
+
+        </div>
+    </div>
+</div> -->
+<div class="highlight-card highlight-card-info">
+    <h3>Key Takeaways:</h3>
+<ol>
+<li>Yearly physicals include important tests like CBC and Chemistry panel but omit many crucial biomarkers.</li>
+<li>Comprehensive testing can provide a more complete overview of an individual&#8217;s health.</li>
+<li>SiPhox Health targets rapidly changing markers that are ideal for frequent monitoring, providing timely insights into your health.</li>
+</ol>
+
+</div><p>During an annual physical, standard blood tests are used to assess aspects of health such as the balance of essential minerals and electrolytes, liver and kidney function, blood cell status, and markers like cholesterol and blood sugar levels that indicate risk factors for heart disease and diabetes. Though not a substitute for your annual bloodwork, SiPhox Health serves as an essential adjunct, providing deeper insights into your health. Perfect for anyone navigating lifestyle changes, new medications, or monitoring chronic conditions, tracking your health has never been easier or more insightful.</p>
+<h3>SiPhox Health vs Standard Yearly Blood Test</h3>
+<p><a href="/hub/wp-content/uploads/2024/02/Venn-Diagram-6-updated-biomarkers-with-genders-1.svg"><img decoding="async" class="aligncenter size-full wp-image-2627" role="img" src="/hub/wp-content/uploads/2024/02/Venn-Diagram-6-updated-biomarkers-with-genders-1.svg" alt="" width="1468" height="696" /></a><br />
+<!-- notionvc: aee2267a-3b7d-4b64-b3b7-23b62e085e54 --></p>
+<h2>What exactly does the standard yearly blood test include?</h2>
+<ul>
+<li><strong>Complete blood count (CBC)</strong> — Measures different cells and parts of your blood, which can help detect infections, anemia, blood clots, immune system disorders, and blood cancers.</li>
+<li><strong>Chemistry panel (complete metabolic panel)</strong> — Provides information about your bones, muscles, and other organs.
+<ul>
+<li><strong>Calcium </strong><span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1865_3('footnote_plugin_reference_1865_3_1');" onkeypress="footnote_moveToReference_1865_3('footnote_plugin_reference_1865_3_1');" ><span id="footnote_plugin_tooltip_1865_3_1" class="footnote_plugin_tooltip_text">[1]</span></a><span id="footnote_plugin_tooltip_text_1865_3_1" class="footnote_tooltip"></span></span> is essential for nerve, muscle, and heart function.</li>
+<li><strong>Sodium</strong>, <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1865_3('footnote_plugin_reference_1865_3_2');" onkeypress="footnote_moveToReference_1865_3('footnote_plugin_reference_1865_3_2');" ><span id="footnote_plugin_tooltip_1865_3_2" class="footnote_plugin_tooltip_text">[2]</span></a><span id="footnote_plugin_tooltip_text_1865_3_2" class="footnote_tooltip"></span></span> <strong>potassium</strong>, <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1865_3('footnote_plugin_reference_1865_3_3');" onkeypress="footnote_moveToReference_1865_3('footnote_plugin_reference_1865_3_3');" ><span id="footnote_plugin_tooltip_1865_3_3" class="footnote_plugin_tooltip_text">[3]</span></a><span id="footnote_plugin_tooltip_text_1865_3_3" class="footnote_tooltip"></span></span> <strong>carbon dioxide</strong>, <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1865_3('footnote_plugin_reference_1865_3_4');" onkeypress="footnote_moveToReference_1865_3('footnote_plugin_reference_1865_3_4');" ><span id="footnote_plugin_tooltip_1865_3_4" class="footnote_plugin_tooltip_text">[4]</span></a><span id="footnote_plugin_tooltip_text_1865_3_4" class="footnote_tooltip"></span></span> and <strong>chloride </strong><span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1865_3('footnote_plugin_reference_1865_3_5');" onkeypress="footnote_moveToReference_1865_3('footnote_plugin_reference_1865_3_5');" ><span id="footnote_plugin_tooltip_1865_3_5" class="footnote_plugin_tooltip_text">[5]</span></a><span id="footnote_plugin_tooltip_text_1865_3_5" class="footnote_tooltip"></span></span> are electrolytes that help control the amount of fluids and the balance of acids and bases in your body.</li>
+<li><strong>Albumin </strong><span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1865_3('footnote_plugin_reference_1865_3_6');" onkeypress="footnote_moveToReference_1865_3('footnote_plugin_reference_1865_3_6');" ><span id="footnote_plugin_tooltip_1865_3_6" class="footnote_plugin_tooltip_text">[6]</span></a><span id="footnote_plugin_tooltip_text_1865_3_6" class="footnote_tooltip"></span></span> is a protein that carries hormones, vitamins, and enzymes throughout the body.</li>
+<li><strong>Total protein</strong></li>
+<li><strong>ALP</strong> (alkaline phosphatase), <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1865_3('footnote_plugin_reference_1865_3_7');" onkeypress="footnote_moveToReference_1865_3('footnote_plugin_reference_1865_3_7');" ><span id="footnote_plugin_tooltip_1865_3_7" class="footnote_plugin_tooltip_text">[7]</span></a><span id="footnote_plugin_tooltip_text_1865_3_7" class="footnote_tooltip"></span></span> <strong>ALT</strong> (alanine transaminase), <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1865_3('footnote_plugin_reference_1865_3_8');" onkeypress="footnote_moveToReference_1865_3('footnote_plugin_reference_1865_3_8');" ><span id="footnote_plugin_tooltip_1865_3_8" class="footnote_plugin_tooltip_text">[8]</span></a><span id="footnote_plugin_tooltip_text_1865_3_8" class="footnote_tooltip"></span></span> and <strong>AST</strong> (aspartate aminotransferase) <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1865_3('footnote_plugin_reference_1865_3_9');" onkeypress="footnote_moveToReference_1865_3('footnote_plugin_reference_1865_3_9');" ><span id="footnote_plugin_tooltip_1865_3_9" class="footnote_plugin_tooltip_text">[9]</span></a><span id="footnote_plugin_tooltip_text_1865_3_9" class="footnote_tooltip"></span></span> are different enzymes made by the liver and are used to detect <strong>liver dysfunction.</strong></li>
+<li><strong>Bilirubin </strong><span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1865_3('footnote_plugin_reference_1865_3_10');" onkeypress="footnote_moveToReference_1865_3('footnote_plugin_reference_1865_3_10');" ><span id="footnote_plugin_tooltip_1865_3_10" class="footnote_plugin_tooltip_text">[10]</span></a><span id="footnote_plugin_tooltip_text_1865_3_10" class="footnote_tooltip"></span></span> is a waste product made by the liver. High levels are indicative of <strong>liver dysfunction.</strong></li>
+<li><strong>BUN (blood urea nitrogen) </strong><span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1865_3('footnote_plugin_reference_1865_3_11');" onkeypress="footnote_moveToReference_1865_3('footnote_plugin_reference_1865_3_11');" ><span id="footnote_plugin_tooltip_1865_3_11" class="footnote_plugin_tooltip_text">[11]</span></a><span id="footnote_plugin_tooltip_text_1865_3_11" class="footnote_tooltip"></span></span> and <strong>creatinine </strong><span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1865_3('footnote_plugin_reference_1865_3_12');" onkeypress="footnote_moveToReference_1865_3('footnote_plugin_reference_1865_3_12');" ><span id="footnote_plugin_tooltip_1865_3_12" class="footnote_plugin_tooltip_text">[12]</span></a><span id="footnote_plugin_tooltip_text_1865_3_12" class="footnote_tooltip"></span></span> are waste products removed from your blood by your kidneys. <strong>If the kidneys are not functioning properly, BUN and creatinine levels will be high.</strong></li>
+</ul>
+</li>
+<li><strong>Lipid panel (cholesterol test)</strong> — Measures cholesterol-carrying proteins which can help determine cardiovascular risk.
+<ul>
+<li>Lipids include <strong>cholesterol, triglycerides, high-density lipoprotein (HDL), and low-density lipoprotein (LDL)</strong>.</li>
+</ul>
+</li>
+<li><strong>Blood sugar screen</strong> — Helps in the process of diagnosing diabetes.
+<ul>
+<li>HbA1c and fasting glucose</li>
+</ul>
+</li>
+<li><strong>Thyroid health</strong>
+<ul>
+<li>TSH, Free T3, Free T4</li>
+</ul>
+</li>
+<li><strong>Micronutrients</strong>
+<ul>
+<li>B12, Vitamin D, minerals</li>
+</ul>
+</li>
+</ul>
+<p><strong>Though</strong> <strong>there is overlap with the standard yearly blood test, there are a few essential markers that SiPhox Health does not measure.</strong></p>
+<ul>
+<li>Which essential markers SiPhox Health does <strong>not</strong> measure:
+<ul>
+<li>Kidney function tests (BUN and Creatinine)</li>
+<li>Liver function tests (ALT, AST, ASP)</li>
+<li>CBC</li>
+<li>Some Micronutrients</li>
+</ul>
+</li>
+</ul>
+<h2>What biomarkers does SiPhox Health measure?</h2>
+<p>SiPhox Health focuses on four key branches of health:</p>
+<ol>
+<li><strong>Cardiovascular Health</strong> impacts lifespan and day-to-day vitality. Monitoring your heart and vasculature helps to determine risk factors for heart disease and stroke. SiPhox Health goes beyond traditional cholesterol testing with <strong>ApoA1</strong> and <strong>ApoB</strong> measurements, offering a more detailed assessment of lipid-related cardiovascular risk.</li>
+<li><strong>Metabolic Fitness</strong> shows how your body processes energy, prevents chronic diseases, manages weight, and boosts energy levels. By measuring markers like <strong>HbA1c</strong>, <strong>Insulin</strong>, and <strong>thyroid function</strong>, SiPhox Health provides a broader understanding of metabolic function and associated risks.</li>
+<li><strong>Inflammation</strong> is your body&#8217;s silent alarm system, often reflecting underlying health issues before they become serious. Beyond standard CRP, SiPhox Health tests for <strong>hs-CRP</strong>, <strong>Ferritin</strong>, and <strong>Homocysteine</strong>, providing a more detailed view of inflammation, a key factor in chronic diseases.</li>
+<li><strong>Hormonal and Nutritional Balance</strong> affect various bodily functions including metabolism, mood, growth, immune function, disease risk, and overall wellness. Our panel extends to hormones like <strong>Cortisol</strong>, <strong>DHEA-S</strong>, <strong>FSH</strong>, <strong>Estradiol</strong>, and <strong>Testosterone</strong>, vital for understanding physiological stress responses, and overall hormonal balance.</li>
+</ol>
+<h3>SiPhox Health vs Standard Yearly Blood Test</h3>
+<p><a href="/hub/wp-content/uploads/2024/02/Table-SiPhox-Health-vs-Standard-Yearly-Blood-Test-with-genders.svg"><img decoding="async" class="size-full wp-image-2626 alignnone" role="img" src="/hub/wp-content/uploads/2024/02/Table-SiPhox-Health-vs-Standard-Yearly-Blood-Test-with-genders.svg" alt="" width="1128" height="909" /></a></p>
+<p>To learn more about these biomarkers including why they are important, whether they are included in the standard yearly blood test, how long they take to change with lifestyle modification, and much more, visit: <a href="https://home.siphoxhealth.com/what-we-measure">https://home.siphoxhealth.com/what-we-measure</a>.</p>
+<h3>The Scientific Benefits of SiPhox Health include:</h3>
+<ul>
+<li><strong>Enhanced Frequency:</strong> Our regular testing can detect health marker changes more swiftly than annual screenings.</li>
+<li><strong>Convenience and Comfort:</strong> The ease of SiPhox Health’s at-home testing eliminates the need for scheduling clinic visits and enduring long waits.</li>
+<li><strong>Health Data:</strong> SiPhox Health reports provide insights tailored to individual health profiles, enabling more informed healthcare decisions.</li>
+<li><strong>Early Detection and Prevention:</strong> The comprehensive nature of our testing facilitates the early detection of potential health issues, allowing for timely intervention.</li>
+<li><strong>Data-Driven Lifestyle Adjustments:</strong> With a more detailed health profile, individuals can adjust their lifestyle choices more precisely to match their health needs.</li>
+</ul>
+<h3>What’s included with a SiPhox Health test panel:</h3>
+<ul>
+<li><strong>At-Home Convenience:</strong> Our kit comes to your door. Specially designed for easy, low-pain blood collection through a simple fingerprick method.</li>
+<li><strong>Flexible Pricing:</strong> Access our services at $345 for a one-time test, or embrace regular health monitoring with subscriptions at just $85 per test.</li>
+<li><strong>Comprehensive Biomarker Analysis:</strong> Our base panel examines 17 essential biomarkers, plus delves deeper with our Hormone+ and Thyroid+ add-on panels for a full health spectrum.</li>
+<li><strong>Integrated Health Tracking:</strong> We support sleep and activity tracking across more than 200 wearable devices, ensuring you get a holistic view of your health, with results delivered swiftly within 2-5 business days.</li>
+</ul>
+<p><!-- notionvc: eb0b9317-5b89-4dc9-a068-bcb169f26864 --></p>
+<p style="font-size: 14px;">Disclaimer: If you have any medical questions or concerns, please talk to your healthcare provider. The articles on the SiPhox Health Hub are underpinned by peer-reviewed research and information drawn from medical societies and governmental agencies. However, they are not a substitute for professional medical advice, diagnosis or treatment.</p>
+<div class="speaker-mute footnotes_reference_container"> <div class="footnote_container_prepare"><p><span role="button" tabindex="0" class="footnote_reference_container_label pointer" onclick="footnote_expand_collapse_reference_container_1865_3();">References</span><span role="button" tabindex="0" class="footnote_reference_container_collapse_button" style="" onclick="footnote_expand_collapse_reference_container_1865_3();">[<a id="footnote_reference_container_collapse_button_1865_3">+</a>]</span></p></div> <div id="footnote_references_container_1865_3" style="display: none;"><table class="footnotes_table footnote-reference-container"><caption class="accessibility">References</caption> <tbody> 
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1865_3_1" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1865_3('footnote_plugin_tooltip_1865_3_1');"><a role="button" tabindex="0" class="footnote_plugin_link" >1</a></th> <td class="footnote_plugin_text"><span class="footnote_url_wrap">https://medlineplus.gov/lab-tests/calcium-blood-test/</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1865_3_2" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1865_3('footnote_plugin_tooltip_1865_3_2');"><a role="button" tabindex="0" class="footnote_plugin_link" >2</a></th> <td class="footnote_plugin_text"><span class="footnote_url_wrap">https://medlineplus.gov/lab-tests/sodium-blood-test/</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1865_3_3" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1865_3('footnote_plugin_tooltip_1865_3_3');"><a role="button" tabindex="0" class="footnote_plugin_link" >3</a></th> <td class="footnote_plugin_text"><span class="footnote_url_wrap">https://medlineplus.gov/lab-tests/potassium-blood-test/</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1865_3_4" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1865_3('footnote_plugin_tooltip_1865_3_4');"><a role="button" tabindex="0" class="footnote_plugin_link" >4</a></th> <td class="footnote_plugin_text"><span class="footnote_url_wrap">https://medlineplus.gov/lab-tests/carbon-dioxide-co2-in-blood/</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1865_3_5" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1865_3('footnote_plugin_tooltip_1865_3_5');"><a role="button" tabindex="0" class="footnote_plugin_link" >5</a></th> <td class="footnote_plugin_text"><span class="footnote_url_wrap">https://medlineplus.gov/lab-tests/chloride-blood-test/</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1865_3_6" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1865_3('footnote_plugin_tooltip_1865_3_6');"><a role="button" tabindex="0" class="footnote_plugin_link" >6</a></th> <td class="footnote_plugin_text"><span class="footnote_url_wrap">https://medlineplus.gov/lab-tests/albumin-blood-test/</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1865_3_7" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1865_3('footnote_plugin_tooltip_1865_3_7');"><a role="button" tabindex="0" class="footnote_plugin_link" >7</a></th> <td class="footnote_plugin_text"><span class="footnote_url_wrap">https://medlineplus.gov/lab-tests/alkaline-phosphatase/</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1865_3_8" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1865_3('footnote_plugin_tooltip_1865_3_8');"><a role="button" tabindex="0" class="footnote_plugin_link" >8</a></th> <td class="footnote_plugin_text"><span class="footnote_url_wrap">https://medlineplus.gov/lab-tests/alt-blood-test/</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1865_3_9" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1865_3('footnote_plugin_tooltip_1865_3_9');"><a role="button" tabindex="0" class="footnote_plugin_link" >9</a></th> <td class="footnote_plugin_text"><span class="footnote_url_wrap">https://medlineplus.gov/lab-tests/ast-test/</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1865_3_10" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1865_3('footnote_plugin_tooltip_1865_3_10');"><a role="button" tabindex="0" class="footnote_plugin_link" >10</a></th> <td class="footnote_plugin_text"><span class="footnote_url_wrap">https://medlineplus.gov/lab-tests/bilirubin-blood-test/</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1865_3_11" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1865_3('footnote_plugin_tooltip_1865_3_11');"><a role="button" tabindex="0" class="footnote_plugin_link" >11</a></th> <td class="footnote_plugin_text"><span class="footnote_url_wrap">https://medlineplus.gov/lab-tests/bun-blood-urea-nitrogen/</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1865_3_12" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1865_3('footnote_plugin_tooltip_1865_3_12');"><a role="button" tabindex="0" class="footnote_plugin_link" >12</a></th> <td class="footnote_plugin_text"><span class="footnote_url_wrap">https://medlineplus.gov/lab-tests/creatinine-test/</span></td></tr>
+
+ </tbody> </table> </div></div><script type="text/javascript"> function footnote_expand_reference_container_1865_3() { jQuery('#footnote_references_container_1865_3').show(); jQuery('#footnote_reference_container_collapse_button_1865_3').text('−'); } function footnote_collapse_reference_container_1865_3() { jQuery('#footnote_references_container_1865_3').hide(); jQuery('#footnote_reference_container_collapse_button_1865_3').text('+'); } function footnote_expand_collapse_reference_container_1865_3() { if (jQuery('#footnote_references_container_1865_3').is(':hidden')) { footnote_expand_reference_container_1865_3(); } else { footnote_collapse_reference_container_1865_3(); } } function footnote_moveToReference_1865_3(p_str_TargetID) { footnote_expand_reference_container_1865_3(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.25 }, 500); } } function footnote_moveToAnchor_1865_3(p_str_TargetID) { footnote_expand_reference_container_1865_3(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.25 }, 500); } }</script>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Insulin: A Key Hormone for Metabolic Health, Weight Loss, and Longevity</title>
+		<link>/hub/guides/biomarkers/why-measure-your-insulin-levels-and-what-the-results-mean/</link>
+		
+		<dc:creator><![CDATA[Pavel Korecky]]></dc:creator>
+		<pubDate>Wed, 29 Mar 2023 10:39:57 +0000</pubDate>
+				<category><![CDATA[Biomarkers]]></category>
+		<category><![CDATA[Guides]]></category>
+		<category><![CDATA[Insulin]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?post_type=guides&#038;p=1539</guid>
+
+					<description><![CDATA[Discover how monitoring fasting insulin levels can help identify early signs of insulin resistance and its link to prediabetes and type 2 diabetes.]]></description>
+			
+
+
+
+							<content:encoded><![CDATA[
+<!-- <div class='highlight-card mb-32px highlight-card-info'>
+    <div class='d-flex'>
+        <div class='icon-container'>
+            <img decoding="async" src="/hub/wp-content/themes/theblog-child/assets/images/tip.svg" alt=''/>
+        </div>
+        <div class='d-flex ms-16px'>
+            <h3>Key Takeaways:</h3>
+<ol>
+<li>Fasting insulin is a crucial measure of metabolic health, providing insights into the risk of developing insulin resistance or type 2 diabetes.</li>
+<li>High fasting insulin levels, known as hyperinsulinemia, can indicate insulin resistance and are linked to several health conditions, including heart disease and cancer.</li>
+<li>A meta-analysis found a potential association between higher fasting insulin levels and increased all-cause mortality risk.</li>
+<li>Reference ranges for fasting insulin levels vary, but lower levels are often associated with better insulin sensitivity and reduced health risks.</li>
+</ol>
+
+        </div>
+    </div>
+</div> -->
+<div class="highlight-card highlight-card-info">
+    <h3>Key Takeaways:</h3>
+<ol>
+<li>Fasting insulin is a crucial measure of metabolic health, providing insights into the risk of developing insulin resistance or type 2 diabetes.</li>
+<li>High fasting insulin levels, known as hyperinsulinemia, can indicate insulin resistance and are linked to several health conditions, including heart disease and cancer.</li>
+<li>A meta-analysis found a potential association between higher fasting insulin levels and increased all-cause mortality risk.</li>
+<li>Reference ranges for fasting insulin levels vary, but lower levels are often associated with better insulin sensitivity and reduced health risks.</li>
+</ol>
+
+</div><p>The importance of insulin in American health care is multifaceted. It is not only a cornerstone in the treatment and management of diabetes but also a focal point in public health discussions, economic considerations, and medical research. Insulin&#8217;s role transcends individual health, affecting societal and economic aspects, and remains a key area of focus in efforts to improve health outcomes and quality of life for those with diabetes. Its significance in the American health context is highlighted by the prevalence of diabetes and its associated health risks. Without proper insulin management, individuals with diabetes face a heightened risk of severe health complications, including heart disease, stroke, kidney failure, vision loss, and nerve damage. Thus, insulin therapy is not just a means of managing diabetes but also a critical tool in preventing these life-threatening conditions.</p>
+<h2>What is fasting insulin?</h2>
+<p>Insulin is a hormone produced by the pancreas that helps regulate blood sugar (aka glucose) levels. Glucose, the building blocks of carbohydrates, is a major source of energy for our cells. After eating, our bodies secrete insulin in response to circulating glucose to prompt our cells to either store it for future use or immediately convert it to energy. Essentially, insulin helps to regulate blood sugar levels by reducing the concentration of glucose in the bloodstream.</p>
+<p>As the name suggests, fasting insulin is a measurement of insulin levels in the bloodstream after a period without glucose-containing food or beverages, typically for 8-12 hours to bring insulin and glucose levels back to baseline. Assessing fasting insulin levels can provide valuable insight into an individual&#8217;s metabolic health and their risk of developing insulin resistance or type 2 diabetes.</p>
+<h2>Why measure fasting insulin levels? A link to longevity.</h2>
+<p>Measuring fasting insulin levels can help identify early signs of insulin resistance, a condition where the body&#8217;s cells become less sensitive to insulin, leading to the pancreas producing more insulin to maintain normal blood sugar levels. Early detection of insulin resistance can help prevent the progression of prediabetes or type 2 diabetes. Moreover, monitoring insulin levels can provide a more comprehensive understanding of one&#8217;s metabolic health and inform necessary lifestyle and dietary changes to improve it.</p>
+<p>Chronically high fasting insulin levels, known as hyperinsulinemia, can be an indicator of insulin resistance and other health issues. High insulin levels have been linked to several health conditions, including metabolic syndrome, heart disease, cancer, cognitive decline, reproductive health issues, and fatty liver disease.</p>
+<p>A meta-analysis of three studies (n=14,723) identified a close-to-significant association (p=0.058) between relatively higher fasting insulin levels and an increased all-cause mortality risk. This analysis included participants from Sweden and the US, ranging in age from 20 to older than 65 years old. The pooled relative risk (RR) of all-cause mortality was 1.13 (95% CI: 1.00-1.27) for the highest compared to the lowest category of fasting insulin levels. There was no significant evidence of heterogeneity across the studies <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1539_4('footnote_plugin_reference_1539_4_1');" onkeypress="footnote_moveToReference_1539_4('footnote_plugin_reference_1539_4_1');" ><span id="footnote_plugin_tooltip_1539_4_1" class="footnote_plugin_tooltip_text">[1]</span></a><span id="footnote_plugin_tooltip_text_1539_4_1" class="footnote_tooltip"></span></span>.</p>
+<h2>Interpretation of insulin test results and optimal ranges</h2>
+<p>Insulin levels can vary depending on several factors, including whether or not you have fasted before the test. Fasting insulin tests require you to avoid eating or drinking anything except water for 8-12 hours before the test. If you have not fasted, your insulin levels could be higher due to the body&#8217;s response to food intake, which might not provide an accurate representation of your baseline insulin levels.</p>
+<p>General reference ranges for fasting insulin levels vary by laboratory, but a common range is between <strong>1.90 and 23.00 µIU/mL</strong> (micro international units per milliliter). It is essential to note that these reference ranges may not necessarily represent optimal insulin levels for overall health.</p>
+<p>While there is no scientific consensus on the optimal insulin levels, some experts suggest that a fasting insulin level <strong>below 10 µU/mL</strong> is ideal for maintaining good metabolic health. Lower insulin levels are often associated with better insulin sensitivity and a reduced risk of insulin resistance, which can lead to various health issues such as Type 2 diabetes, heart disease, and other chronic conditions.</p>
+<h2>How to Lower Fasting Insulin Levels</h2>
+<p>Given what we know about the systematic secretion of insulin in response to glucose, a high level of insulin in the blood is associated with high circulating blood glucose levels. But what can we do to naturally alleviate this? In other words, how can a person regain insulin sensitivity and lower blood glucose levels?</p>
+<ul>
+<li>A high BMI can worsen the body’s sensitivity to insulin so consider healthy ways of losing weight. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1539_4('footnote_plugin_reference_1539_4_2');" onkeypress="footnote_moveToReference_1539_4('footnote_plugin_reference_1539_4_2');" ><span id="footnote_plugin_tooltip_1539_4_2" class="footnote_plugin_tooltip_text">[2]</span></a><span id="footnote_plugin_tooltip_text_1539_4_2" class="footnote_tooltip"></span></span></a></li>
+<li>Incorporate exercise into your daily routine. While there is no consensus on whether a greater intensity of exercise yields higher insulin sensitivity and lower HbA1c (learn more about HbA1c <a href="https://siphoxhealth.com/pages/hemoglobin-a1c">here</a>), some studies do support that HIIT (high-intensity interval training) may be as salubrious as moderate-intensity exercise. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1539_4('footnote_plugin_reference_1539_4_3');" onkeypress="footnote_moveToReference_1539_4('footnote_plugin_reference_1539_4_3');" ><span id="footnote_plugin_tooltip_1539_4_3" class="footnote_plugin_tooltip_text">[3]</span></a><span id="footnote_plugin_tooltip_text_1539_4_3" class="footnote_tooltip"></span></span></a> Either way, get up and get moving!</li>
+<li>Stay active while you’re seated by doing “soleus push-ups” (calf raises). <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1539_4('footnote_plugin_reference_1539_4_4');" onkeypress="footnote_moveToReference_1539_4('footnote_plugin_reference_1539_4_4');" ><span id="footnote_plugin_tooltip_1539_4_4" class="footnote_plugin_tooltip_text">[4]</span></a><span id="footnote_plugin_tooltip_text_1539_4_4" class="footnote_tooltip"></span></span></li>
+<li>Eat fiber-rich foods before carbs to slow glucose absorption and dampen glucose spikes. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1539_4('footnote_plugin_reference_1539_4_5');" onkeypress="footnote_moveToReference_1539_4('footnote_plugin_reference_1539_4_5');" ><span id="footnote_plugin_tooltip_1539_4_5" class="footnote_plugin_tooltip_text">[5]</span></a><span id="footnote_plugin_tooltip_text_1539_4_5" class="footnote_tooltip"></span></span></li>
+<li>Get 7-8 hours of quality sleep every night. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1539_4('footnote_plugin_reference_1539_4_6');" onkeypress="footnote_moveToReference_1539_4('footnote_plugin_reference_1539_4_6');" ><span id="footnote_plugin_tooltip_1539_4_6" class="footnote_plugin_tooltip_text">[6]</span></a><span id="footnote_plugin_tooltip_text_1539_4_6" class="footnote_tooltip"></span></span></li>
+<li>Consider intermittent fasting, which has been shown to potentially improve insulin sensitivity, blood pressure, oxidative stress, and appetite. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1539_4('footnote_plugin_reference_1539_4_7');" onkeypress="footnote_moveToReference_1539_4('footnote_plugin_reference_1539_4_7');" ><span id="footnote_plugin_tooltip_1539_4_7" class="footnote_plugin_tooltip_text">[7]</span></a><span id="footnote_plugin_tooltip_text_1539_4_7" class="footnote_tooltip"></span></span></li>
+<li>A CGM (continuous glucose monitor) used over several weeks may help you pinpoint which foods spike your glucose and, therefore, insulin. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1539_4('footnote_plugin_reference_1539_4_8');" onkeypress="footnote_moveToReference_1539_4('footnote_plugin_reference_1539_4_8');" ><span id="footnote_plugin_tooltip_1539_4_8" class="footnote_plugin_tooltip_text">[8]</span></a><span id="footnote_plugin_tooltip_text_1539_4_8" class="footnote_tooltip"></span></span></li>
+</ul>
+<div class="next-chapter">
+    <div class="text-uppercase">
+        <h4 class="m-0">
+            Start your SiPhox Health journey
+        </h4>
+    </div>
+    <div class="title">
+        <h3 class="mt-0">
+            Home health testing has never been this good
+        </h3>
+    </div>
+    <p>Subscribe to SiPhox and start tracking your Insulin + 16 other critical biomarkers as well as sleep, activity, and heart data all in one comprehensive dashboard.</p>
+
+    <a href='https://l.siphox.health/insulin'class='btn-cta'>Get started<span class='ms-8px'><img src='/hub/wp-content/themes/theblog-child/assets/images/right-arrow-light.svg' /></span></a>
+</div>
+
+<p>&nbsp;</p>
+<p><a href="/hub/wp-content/uploads/2023/03/Pricing-comparison-5.svg"><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2636" role="img" src="/hub/wp-content/uploads/2023/03/Pricing-comparison-5.svg" alt="" width="1182" height="1001" /></a></p>
+<p>&nbsp;</p>
+<p style="font-size: 14px;">Disclaimer: If you have any medical questions or concerns, please talk to your healthcare provider. The articles on the SiPhox Health Hub are underpinned by peer-reviewed research and information drawn from medical societies and governmental agencies. However, they are not a substitute for professional medical advice, diagnosis or treatment.</p>
+<div class="speaker-mute footnotes_reference_container"> <div class="footnote_container_prepare"><p><span role="button" tabindex="0" class="footnote_reference_container_label pointer" onclick="footnote_expand_collapse_reference_container_1539_4();">References</span><span role="button" tabindex="0" class="footnote_reference_container_collapse_button" style="" onclick="footnote_expand_collapse_reference_container_1539_4();">[<a id="footnote_reference_container_collapse_button_1539_4">+</a>]</span></p></div> <div id="footnote_references_container_1539_4" style="display: none;"><table class="footnotes_table footnote-reference-container"><caption class="accessibility">References</caption> <tbody> 
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1539_4_1" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1539_4('footnote_plugin_tooltip_1539_4_1');"><a role="button" tabindex="0" class="footnote_plugin_link" >1</a></th> <td class="footnote_plugin_text">Zhang X, Li J, Zheng S, Luo Q, Zhou C, Wang C. Fasting insulin, insulin resistance, and risk of cardiovascular or all-cause mortality in non-diabetic adults: a meta-analysis. Biosci Rep. 2017 Sep 7;37(5):BSR20170947. doi: 10.1042/BSR20170947. PMID: 28811358; PMCID: PMC6448479. <a href="https://pubmed.ncbi.nlm.nih.gov/28811358/">Fasting insulin, insulin resistance, and risk of cardiovascular or all-cause mortality in non-diabetic adults: a meta-analysis &#8211; PubMed (nih.gov)</a></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1539_4_2" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1539_4('footnote_plugin_tooltip_1539_4_2');"><a role="button" tabindex="0" class="footnote_plugin_link" >2</a></th> <td class="footnote_plugin_text">Torjesen PA, Birkeland KI, Anderssen SA, Hjermann I, Holme I, Urdal P. Lifestyle changes may reverse development of the insulin resistance syndrome. The Oslo Diet and Exercise Study: a randomized trial. Diabetes Care. 1997 Jan;20(1):26-31. doi: 10.2337/diacare.20.1.26. PMID: 9028689. <a href="https://pubmed.ncbi.nlm.nih.gov/9028689/">Lifestyle changes may reverse development of the insulin resistance syndrome. The Oslo Diet and Exercise Study: a randomized trial &#8211; PubMed (nih.gov)</td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1539_4_3" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1539_4('footnote_plugin_tooltip_1539_4_3');"><a role="button" tabindex="0" class="footnote_plugin_link" >3</a></th> <td class="footnote_plugin_text">Ahmad Mahdi Ahmad, <span style="font-family: var(--list--font-family); font-size: var(--global--font-size-base);">Moderate-intensity continuous training: is it as good as high-intensity interval training for glycemic control in type 2 diabetes?, Journal of Exercise Rehabilitation 2019; 15(2): 327-333., <span class="footnote_url_wrap">https://doi.org/10.12965/jer.1836648.324.</span> </span><a href="https://www.e-jer.org/journal/view.php?number=2013600686">Moderate-intensity continuous training: is it as good as high-intensity interval training for glycemic control in type 2 diabetes? &#8211; (e-jer.org)</td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1539_4_4" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1539_4('footnote_plugin_tooltip_1539_4_4');"><a role="button" tabindex="0" class="footnote_plugin_link" >4</a></th> <td class="footnote_plugin_text">Marc T. Hamilton, Deborah G. Hamilton, Theodore W. Zderic, A potent physiological method to magnify and sustain soleus oxidative metabolism improves glucose and lipid regulation, iScience, Volume 25, Issue 9, 2022, 104869, ISSN 2589-0042, <span class="footnote_url_wrap">https://doi.org/10.1016/j.isci.2022.104869.</span> <a href="https://www.sciencedirect.com/science/article/pii/S2589004222011415#mmc1">A potent physiological method to magnify and sustain soleus oxidative metabolism improves glucose and lipid regulation</a></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1539_4_5" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1539_4('footnote_plugin_tooltip_1539_4_5');"><a role="button" tabindex="0" class="footnote_plugin_link" >5</a></th> <td class="footnote_plugin_text">Sullivan Kaitlin, Why fiber is essential to metabolic health, Published 11. 04. 2021, <a href="https://www.levelshealth.com/blog/why-fiber-is-essential-to-metabolic-health">Why fiber is essential to metabolic health</a></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1539_4_6" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1539_4('footnote_plugin_tooltip_1539_4_6');"><a role="button" tabindex="0" class="footnote_plugin_link" >6</a></th> <td class="footnote_plugin_text">Moskov Alex, How does sleep affect blood sugar?, Published 06. 26. 2020, <a href="https://www.levelshealth.com/blog/how-sleep-impacts-metabolic-health-glucose-levels-cgm#:~:text=However%2C">How does sleep affect blood sugar?</a></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1539_4_7" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1539_4('footnote_plugin_tooltip_1539_4_7');"><a role="button" tabindex="0" class="footnote_plugin_link" >7</a></th> <td class="footnote_plugin_text">Sutton EF, Beyl R, Early KS, Cefalu WT, Ravussin E, Peterson CM. Early Time-Restricted Feeding Improves Insulin Sensitivity, Blood Pressure, and Oxidative Stress Even without Weight Loss in Men with Prediabetes. Cell Metab. 2018 Jun 5;27(6):1212-1221.e3. doi: 10.1016/j.cmet.2018.04.010. Epub 2018 May 10. PMID: 29754952; PMCID: PMC5990470. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5990470/">Early Time-Restricted Feeding Improves Insulin Sensitivity, Blood Pressure, and Oxidative Stress Even without Weight Loss in Men with Prediabetes</a> &#8211; PubMed (nih.gov)</td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1539_4_8" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1539_4('footnote_plugin_tooltip_1539_4_8');"><a role="button" tabindex="0" class="footnote_plugin_link" >8</a></th> <td class="footnote_plugin_text">The Levels Team, What are normal levels of insulin and why don’t we test it more?, Published 07. 08. 2022, <a href="https://www.levelshealth.com/blog/what-are-normal-insulin-levels-and-why-dont-we-test-it-more">What are normal levels of insulin and why don’t we test it more?</a></td></tr>
+
+ </tbody> </table> </div></div><script type="text/javascript"> function footnote_expand_reference_container_1539_4() { jQuery('#footnote_references_container_1539_4').show(); jQuery('#footnote_reference_container_collapse_button_1539_4').text('−'); } function footnote_collapse_reference_container_1539_4() { jQuery('#footnote_references_container_1539_4').hide(); jQuery('#footnote_reference_container_collapse_button_1539_4').text('+'); } function footnote_expand_collapse_reference_container_1539_4() { if (jQuery('#footnote_references_container_1539_4').is(':hidden')) { footnote_expand_reference_container_1539_4(); } else { footnote_collapse_reference_container_1539_4(); } } function footnote_moveToReference_1539_4(p_str_TargetID) { footnote_expand_reference_container_1539_4(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.25 }, 500); } } function footnote_moveToAnchor_1539_4(p_str_TargetID) { footnote_expand_reference_container_1539_4(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.25 }, 500); } }</script>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Y Combinator Launch 2022!</title>
+		<link>/hub/blog/y-combinator-launch-2022/</link>
+		
+		<dc:creator><![CDATA[Pavel Korecky]]></dc:creator>
+		<pubDate>Wed, 29 Mar 2023 10:00:06 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?post_type=blog&#038;p=1514</guid>
+
+					<description><![CDATA[Until the last decade, life expectancy in the US was increasing. Then it plateaued. Now it is decreasing. Find out how SiPhox is working to reverse this alarming trend.]]></description>
+			
+							<content:encoded><![CDATA[
+<h2>SiPhox &#8211; Convenient at-home health tracking</h2>
+<p style="text-align: left;">At-home health testing is too expensive and slow. We’re fixing that.</p>
+<p><iframe loading="lazy" title="SiPhox Facilities and Technology" width="750" height="422" src="https://www.youtube.com/embed/u6oF_lyUsII?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p><strong>The average American lifespan has plateaued over the last 2 decades</strong></p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-1089 size-full" src="/hub/wp-content/uploads/2023/02/ae9a0197-58ee-4f23-884b-e894463751d3.webp" alt="" width="843" height="818" srcset="/hub/wp-content/uploads/2023/02/ae9a0197-58ee-4f23-884b-e894463751d3.webp 843w, /hub/wp-content/uploads/2023/02/ae9a0197-58ee-4f23-884b-e894463751d3-300x291.webp 300w, /hub/wp-content/uploads/2023/02/ae9a0197-58ee-4f23-884b-e894463751d3-768x745.webp 768w" sizes="auto, (max-width: 843px) 100vw, 843px" /></p>
+<p><span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">We believe that every human is unique. Biomarker tracking is required to know whether a particular lifestyle or health intervention is working. At scale, we envision that frequent population biomarker tracking will enable humans to live longer and healthier lives.</span></p>
+<p><strong>To enable this future, our team is working to decrease the cost of at-home testing by 10x and make results available immediately.</strong></p>
+<p><strong>SiPhox just launched SiPhox Health, an at-home test kit service that enables users to track 17 health tests ($85/test)</strong> <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1fa78.png" alt="🩸" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>+ sleep, activity, and heart rate data from your wearable device <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/231a.png" alt="⌚" class="wp-smiley" style="height: 1em; max-height: 1em;" /> in a single dashboard.</strong> <a href="http://siphoxhealth.com/discount/welcome10">JOIN SIPHOX 10% OFF</a></p>
+<h3 id="h-1479">About SiPhox</h3>
+<ul>
+<li>SiPhox was created to empower individuals to take control of their health journey.</li>
+<li>SiPhox is a simple, convenient, low-cost, and comprehensive way to track your health and minimize chronic disease risk.</li>
+<li>We measure inflammation, metabolic fitness, hormonal + nutritional balance, and cardiovascular health. These are shown in a comprehensive, easy-to-understand wellness dashboard (<a href="https://app.siphoxhealth.com/reports/d3e8b07917dba">sample dashboard</a>) with personalized insights so you can track and improve over time.</li>
+<li>For now, all the tests are done via <strong>mail-in,</strong> <strong>self-collected samples</strong> at a <strong>gold standard CLIA-certified lab</strong>, SiPhox hardware will be phased in next year.</li>
+<li><strong>Over the last 3 months, our alpha users discovered and improved things like low Vit. D, high inflammation (hsCRP), low Testosterone, High ApoB/LDL cholesterol, high fasting Insulin, poor sleep, and more.</strong></li>
+<li>We want this sort of tracking to be broadly accessible to those that can’t afford concierge medicine. <strong>At $85/kit for the monthly membership (before discount) we set the lowest price on the market (compare to $250 for Insidetracker InnerAge 2.0).</strong></li>
+<li>Use this link for a 10% discount on your first 3 test kits: <a href="http://siphoxhealth.com/discount/welcome10">JOIN SIPHOX</a></li>
+</ul>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-2209 size-full" src="/hub/wp-content/uploads/2023/03/Whats-in-the-box-scaled.jpg" alt="" width="2048" height="2560" srcset="/hub/wp-content/uploads/2023/03/Whats-in-the-box-scaled.jpg 2048w, /hub/wp-content/uploads/2023/03/Whats-in-the-box-240x300.jpg 240w, /hub/wp-content/uploads/2023/03/Whats-in-the-box-819x1024.jpg 819w, /hub/wp-content/uploads/2023/03/Whats-in-the-box-768x960.jpg 768w, /hub/wp-content/uploads/2023/03/Whats-in-the-box-1229x1536.jpg 1229w, /hub/wp-content/uploads/2023/03/Whats-in-the-box-1638x2048.jpg 1638w, /hub/wp-content/uploads/2023/03/Whats-in-the-box-1568x1960.jpg 1568w" sizes="auto, (max-width: 2048px) 100vw, 2048px" /></p>
+<h2>How it works <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2699.png" alt="⚙" class="wp-smiley" style="height: 1em; max-height: 1em;" /></h2>
+<ol>
+<li>Subscribe to SiPhox</li>
+<li>Connect your wearable devices (8sleep, Fitbit, Whoop, Oura, etc.)</li>
+<li>Receive an at-home collection kit to self-collect a blood sample (see picture above)</li>
+<li>Schedule a guided self-collection meeting with one of our experts if you have never done it before. You will be a pro in 10 minutes <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>Mail in your sample (USPS pickup) and view the results in your intuitive wellness dashboard (<a href="https://app.siphoxhealth.com/reports/d3e8b07917dba">sample dashboard</a>)</li>
+<li>Receive customized insights based on your blood biomarker and wearable data</li>
+<li>Do your own experiments (diet, supplements, exercise, biohacking, etc.)</li>
+<li>Test again and track your results over time</li>
+<li>Compare your scores against SiPhox user averages</li>
+</ol>
+<h2>Get in touch <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2709.png" alt="✉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></h2>
+<ol>
+<li>Feel free to contact us at <a class="c-link" href="mailto:Support@siphoxhealth.com" target="_blank" rel="noopener noreferrer" data-stringify-link="mailto:Support@siphoxhealth.com" data-sk="tooltip_parent" aria-haspopup="menu">support@siphoxhealth.com</a> with any questions or suggestions about the service</li>
+<li>If you are interested in integrating SiPhox into your product offering, please get in touch via <a class="c-link" href="mailto:enterprise@siphoxhealth.com" target="_blank" rel="noopener noreferrer" data-stringify-link="mailto:enterprise@siphoxhealth.com" data-sk="tooltip_parent" aria-haspopup="menu" aria-describedby="sk-tooltip-7508">enterprise@siphoxhealth.com</a></li>
+</ol>
+<h3 id="h-4348">Use this link for a 10% discount on your first 3 test kits: <a href="http://siphoxhealth.com/discount/welcome10">JOIN SIPHOX</a></h3>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Trapping Light: A Brief Overview of Silicon Micro Ring Optical Biosensors</title>
+		<link>/hub/technology/trapping-light-a-brief-overview-of-silicon-micro-ring-optical-biosensors/</link>
+		
+		<dc:creator><![CDATA[Pavel Korecky]]></dc:creator>
+		<pubDate>Mon, 11 Jan 2021 10:26:35 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?post_type=blog&#038;p=1526</guid>
+
+					<description><![CDATA[
+The Resonant Optical Cavity The practical use of resonant optical cavities dates back to the Fabry-Perot Interferometer, devised by Charles Fabry and Alfred Perot, which is a fairly simple, but nevertheless ingenious, arrangement of two semi-transparent mirrors. See below for a great demonstration video from MIT, complete with a proper analog demo: Today we have&#8230; <a class="more-link" href="/hub/technology/trapping-light-a-brief-overview-of-silicon-micro-ring-optical-biosensors/">Continue reading <span class="screen-reader-text">Trapping Light: A Brief Overview of Silicon Micro Ring Optical Biosensors</span></a>]]></description>
+			
+							<content:encoded><![CDATA[
+<h2 class="preSlide slideIn"><strong>The Resonant Optical Cavity</strong></h2>
+<p>The practical use of resonant optical cavities dates back to the Fabry-Perot Interferometer, devised by <a href="https://en.wikipedia.org/wiki/Charles_Fabry" target="_blank" rel="noopener">Charles Fabry</a> and <a href="https://en.wikipedia.org/wiki/Alfred_Perot" target="_blank" rel="noopener">Alfred Perot</a>, which is a fairly simple, but nevertheless ingenious, arrangement of two semi-transparent mirrors. See below for a great demonstration video from MIT, complete with a proper analog demo:</p>
+<p><iframe loading="lazy" title="Optics: Plane mirror cavity - collimated beams | MIT Video Demonstrations in Lasers and Optics" width="750" height="563" src="https://www.youtube.com/embed/cpIVTXNC2s8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p>Today we have extremely large interferometers like LIGO, the gravitational wave detector, and microscale interferometers that can be fabricated in the thousands on a chip the size of the head of a pin.</p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-1061 size-full" src="/hub/wp-content/uploads/2023/01/LIGOgravitationalwaveinterferometer_.webp" alt="" width="800" height="530" srcset="/hub/wp-content/uploads/2023/01/LIGOgravitationalwaveinterferometer_.webp 800w, /hub/wp-content/uploads/2023/01/LIGOgravitationalwaveinterferometer_-300x199.webp 300w, /hub/wp-content/uploads/2023/01/LIGOgravitationalwaveinterferometer_-768x509.webp 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /></p>
+<p style="text-align: left;">LIGO gravitational wave interferometer.</p>
+<p>Due to constructive and destructive interference, certain wavelengths of light pass through a resonant cavity while others do not. The wavelengths that pass through the cavity are called <em>resonance wavelengths,</em> and when the <em>optical path length</em> in the cavity changes, these resonance wavelengths will also change.</p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-1063 size-full" src="/hub/wp-content/uploads/2023/01/0_9G1DAw2F0zLfC22z.webp" alt="" width="876" height="405" srcset="/hub/wp-content/uploads/2023/01/0_9G1DAw2F0zLfC22z.webp 876w, /hub/wp-content/uploads/2023/01/0_9G1DAw2F0zLfC22z-300x139.webp 300w, /hub/wp-content/uploads/2023/01/0_9G1DAw2F0zLfC22z-768x355.webp 768w" sizes="auto, (max-width: 876px) 100vw, 876px" /></p>
+<p>Note that the <em>optical</em> path length can be altered either by physically stretching or shrinking the path the light takes (which is what happens when gravity waves pass through the LIGO detector arms), or by changing the refractive index of the matter through which the light passes. Because the wavelength of light is on the order of 1 micron, or 1 millionth of a meter, even a tiny change in the optical path length changes the amount of transmitted light at a given wavelength.</p>
+<p><strong>Micro Ring Resonators</strong></p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-1064 size-full" src="/hub/wp-content/uploads/2023/01/0_my46DMid8DTS3K7T.webp" alt="" width="271" height="192" /></p>
+<p>Silicon micro ring resonator (20 micron radius).<span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1526_7('footnote_plugin_reference_1526_7_1');" onkeypress="footnote_moveToReference_1526_7('footnote_plugin_reference_1526_7_1');" ><span id="footnote_plugin_tooltip_1526_7_1" class="footnote_plugin_tooltip_text">[1]</span></a><span id="footnote_plugin_tooltip_text_1526_7_1" class="footnote_tooltip"></span></span></p>
+<p>The high sensitivity of optical cavities to the wavelength of incident light is widely used to create optical filters for fiber optic communications. When optical components began to follow the trend of chip-scale miniaturization, silicon micro ring resonators (MRRs) based on silicon nanowire waveguides became workhorse components of optical chips. See here for a basic explanation of total internal reflection and waveguides:</p>
+<p><iframe loading="lazy" title="Fiber optic cables: How they work" width="750" height="422" src="https://www.youtube.com/embed/0MwMkBET_5I?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p>As seen in the electron microscope image above, a ring resonator is a looped silicon waveguide coupled to a straight waveguide. As light couples into the looped waveguide and back out again, it can accumulate exactly the right amount of phase to generate destructive interference in the straight waveguide’s output (see GIF below).</p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-1048 size-full" src="/hub/wp-content/uploads/2023/02/blogphoto2.gif" alt="" width="800" height="602" /></p>
+<p style="text-align: left;">Electrical field in micro ring resonator at the resonance wavelength<span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1526_7('footnote_plugin_reference_1526_7_2');" onkeypress="footnote_moveToReference_1526_7('footnote_plugin_reference_1526_7_2');" ><span id="footnote_plugin_tooltip_1526_7_2" class="footnote_plugin_tooltip_text">[2]</span></a><span id="footnote_plugin_tooltip_text_1526_7_2" class="footnote_tooltip"></span></span></p>
+<p>This results in an effect where some frequencies of light traveling in the straight waveguide are filtered out as they pass the ring. More on this in the next section. An excellent review of micro ring resonator theory can be found here: <a href="http://photonics.intec.ugent.be/download/pub_3105.pdf" target="_blank" rel="noopener">W. Bogaerts et. al</a></p>
+<h2 class="preSlide slideIn"><strong>The working principle of MRR biosensors</strong></h2>
+<p>The optical spectrum of a typical micro ring resonator is shown below (with periodic dips at the resonant wavelengths of light):</p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-1065 size-full" src="/hub/wp-content/uploads/2023/01/blogphoto3.webp" alt="" width="810" height="541" srcset="/hub/wp-content/uploads/2023/01/blogphoto3.webp 810w, /hub/wp-content/uploads/2023/01/blogphoto3-300x200.webp 300w, /hub/wp-content/uploads/2023/01/blogphoto3-768x513.webp 768w" sizes="auto, (max-width: 810px) 100vw, 810px" /></p>
+<p>The distance between these periodic dips in a MRR’s spectrum depends on the ring’s overall optical path length (the longer the ring, the more wavelengths within a certain span fit into the ring an integer number of times, meaning there are more resonances), and changes gradually as the length of the ring is varied. However, the absolute position of the dips is highly sensitive to tiny changes in the refractive index of the ring. This is because light slows down when it passes through higher index material. For example, light is 30% slower in water than in air. If the light of a certain frequency circulating in the micro ring takes slightly more or less time to perform a full loop, it will no longer be at the correct phase to create destructive interference. The upshot is that a slightly higher refractive index causes the entire set of dips to shift to the right, and a slightly lower one causes them to shift to the left.</p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-1066 size-full" src="/hub/wp-content/uploads/2023/01/blogphoto4.webp" alt="" width="699" height="527" srcset="/hub/wp-content/uploads/2023/01/blogphoto4.webp 699w, /hub/wp-content/uploads/2023/01/blogphoto4-300x226.webp 300w" sizes="auto, (max-width: 699px) 100vw, 699px" /></p>
+<p style="text-align: left;"><strong>Left: </strong>Cross-section of a silicon waveguide with optical intensity <strong>Right: </strong>Schematic of resonance shift due to particle attachment to the waveguide surface</p>
+<p>As light travels through the silicon nanowire, about 30% of it interacts with what is called “the cladding.” The cladding is a low index medium like glass, air, or water, that leads to total internal reflection at the interface with the silicon waveguide. In telecom applications, a glass cladding is typically used, but to build a biosensor, the glass cladding over the micro ring is intentionally omitted (in reality it is etched away after deposition).</p>
+<p>This allows the ring to be exposed to liquid samples. And as analyte molecules bind to the surface of the waveguide, the spectrum of the ring shifts to the right:</p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-1051 size-full" src="/hub/wp-content/uploads/2023/02/blogphoto5.gif" alt="" width="560" height="420" /></p>
+<p style="text-align: left;">Optical spectrum of a micro ring resonator red shifting due to the SARS-CoV-2 nucleocapsid protein attaching to the waveguide surface.</p>
+<p>The sensitivity of MRR sensors comes from the optics (and they can be sensitive down to detecting a single nanoparticle), but the specificity comes from the surface chemistry. Surface capture proteins (e.g. antibodies) are typically attached to the sensor in order to make it specifically capture a certain target. For example, attaching anti-spike antibodies to the MRR surface makes it sensitive to SARS-CoV-2 viruses. By printing different proteins, DNA probes, or other chemistries onto different rings, it’s possible to detect a large number of analytes in a tiny sample. Each ring can be as small as ~5 microns in radius (the minimum bend radius that doesn’t allow light to leak out of the sides of a silicon waveguide), meaning that thousands can fit into a square millimeter. See the GIF above for real-time data from the detection of COVID nucleocapsid protein with a micro ring.</p>
+<h2 class="preSlide slideIn"><strong>Scalability Matters</strong></h2>
+<p>There are many highly sensitive optical approaches (such as various ELISAs and molecular assays based on fluorescence and chemiluminescence) to detect proteins and nucleic acids. What makes silicon micro ring biosensors unique is their scalability and low cost. By using a sensor that is compatible with production in standard large-scale semiconductor fabs (silicon photonics products are made in the millions for the telecom and datacom industries), it’s possible to build a massive amount of tests in a very short time, at very low cost.</p>
+<p><strong>A rough breakdown:</strong></p>
+<p><em>Each 12-inch SOI wafer can produce 70,000 square-mm chips.</em></p>
+<p>Individual MRR biosensors occupy at most .01 square-mm, meaning that a 1 mm * 1 mm chip can have dozens or even hundreds of individual sensors.</p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-1067 size-full" src="/hub/wp-content/uploads/2023/01/blogphoto6.webp" alt="" width="994" height="339" srcset="/hub/wp-content/uploads/2023/01/blogphoto6.webp 994w, /hub/wp-content/uploads/2023/01/blogphoto6-300x102.webp 300w, /hub/wp-content/uploads/2023/01/blogphoto6-768x262.webp 768w" sizes="auto, (max-width: 994px) 100vw, 994px" /></p>
+<p><em>A single semiconductor fab can produce up to 100,000 wafers a month.</em> Note that this is 100,000 full semiconductor process wafers. MRR sensor chips only require a small subset of the process steps used for typical chips, meaning that capacity for producing sensors is actually much higher.</p>
+<p><strong>This means that 7 Billion sensor chips can be produced at a single semiconductor fab each month at a cost that could be as low as 25 cents per chip.</strong></p>
+<h2 class="preSlide slideIn"><strong>SiPhox</strong></h2>
+<p>We’re hard at work commercializing <a href="https://siphoxhealth.com/pages/about-us">SiPhox Home</a>, a versatile handheld at-home diagnostics platform. Initial cartridges will perform a low-cost and highly scalable COVID test, followed by a range of common diagnostic tests for biomarkers and infectious diseases.</p>
+<p><strong>Are you an A+ engineer or scientist with systems, electro-optics, photonics, synthetic biology, microfluidics or assay development experience? See</strong> <strong><a href="https://siphoxhealth.com/pages/careers">here</a> for open positions.</strong></p>
+<div class="speaker-mute footnotes_reference_container"> <div class="footnote_container_prepare"><p><span role="button" tabindex="0" class="footnote_reference_container_label pointer" onclick="footnote_expand_collapse_reference_container_1526_7();">References</span><span role="button" tabindex="0" class="footnote_reference_container_collapse_button" style="" onclick="footnote_expand_collapse_reference_container_1526_7();">[<a id="footnote_reference_container_collapse_button_1526_7">+</a>]</span></p></div> <div id="footnote_references_container_1526_7" style="display: none;"><table class="footnotes_table footnote-reference-container"><caption class="accessibility">References</caption> <tbody> 
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1526_7_1" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1526_7('footnote_plugin_tooltip_1526_7_1');"><a role="button" tabindex="0" class="footnote_plugin_link" >1</a></th> <td class="footnote_plugin_text">Jan Niehusmann, Andreas Vörckel, Peter Haring Bolivar, Thorsten Wahlbrink, Wolfgang Henschel, and Heinrich Kurz, “Ultrahigh-quality-factor silicon-on-insulator microring resonator,” Opt. Lett. 29, 2861–2863 (2004)</td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1526_7_2" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1526_7('footnote_plugin_tooltip_1526_7_2');"><a role="button" tabindex="0" class="footnote_plugin_link" >2</a></th> <td class="footnote_plugin_text"><a href="https://www.youtube.com/watch?v=hgrMy6aeD7I&amp;t=597s&amp;ab_channel=JacobCampbell"><span class="footnote_url_wrap">https://www.youtube.com/watch?v=hgrMy6aeD7I&amp;t=597s&amp;ab_channel=JacobCampbell</span></a></td></tr>
+
+ </tbody> </table> </div></div><script type="text/javascript"> function footnote_expand_reference_container_1526_7() { jQuery('#footnote_references_container_1526_7').show(); jQuery('#footnote_reference_container_collapse_button_1526_7').text('−'); } function footnote_collapse_reference_container_1526_7() { jQuery('#footnote_references_container_1526_7').hide(); jQuery('#footnote_reference_container_collapse_button_1526_7').text('+'); } function footnote_expand_collapse_reference_container_1526_7() { if (jQuery('#footnote_references_container_1526_7').is(':hidden')) { footnote_expand_reference_container_1526_7(); } else { footnote_collapse_reference_container_1526_7(); } } function footnote_moveToReference_1526_7(p_str_TargetID) { footnote_expand_reference_container_1526_7(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.25 }, 500); } } function footnote_moveToAnchor_1526_7(p_str_TargetID) { footnote_expand_reference_container_1526_7(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.25 }, 500); } }</script>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>SiPhox 2020 Retrospective</title>
+		<link>/hub/uncategorized/siphox-2020-retrospective-2/</link>
+		
+		<dc:creator><![CDATA[Pavel Korecky]]></dc:creator>
+		<pubDate>Sun, 10 Jan 2021 10:23:40 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?post_type=blog&#038;p=1524</guid>
+
+					<description><![CDATA["The fact is that diagnostic testing is an information problem that obeys the same law as computing: smaller and less power is better." Find out what SiPhox is doing to tackle COVID testing amidst the pandemic.]]></description>
+			
+							<content:encoded><![CDATA[
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-1069 size-full" src="/hub/wp-content/uploads/2023/01/onelab.webp" alt="" width="1000" height="562" srcset="/hub/wp-content/uploads/2023/01/onelab.webp 1000w, /hub/wp-content/uploads/2023/01/onelab-300x169.webp 300w, /hub/wp-content/uploads/2023/01/onelab-768x432.webp 768w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></p>
+<p>The first serious pandemic experienced by humanity in modern times has placed disproportionate demands on some parts of the tech stack supporting civilization. Almost Malthusian limits to scaling globalization and the modern connected society seem to be manifesting themselves. Fortunately, some of our technology has proved resilient in the face of the crisis. Effective vaccines were developed almost immediately, then tested and approved in record time. Zoom and other online services scaled massively with the support of computing and communications hardware in data centers to keep the world functioning. The bad news is that we’ve also had some disastrous failures.</p>
+<h2 class="preSlide slideIn">Hard Problems</h2>
+<p>Testing for coronavirus infections has not met even 0.1% of global demand. Although researchers (e.g. Michael Mina at Harvard) <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1524_8('footnote_plugin_reference_1524_8_1');" onkeypress="footnote_moveToReference_1524_8('footnote_plugin_reference_1524_8_1');" ><span id="footnote_plugin_tooltip_1524_8_1" class="footnote_plugin_tooltip_text">[1]</span></a><span id="footnote_plugin_tooltip_text_1524_8_1" class="footnote_tooltip"></span></span> have shown that testing needs to be done quickly, frequently, and at a massive scale to be effective, Americans (saying nothing about the third world) are still waiting for hours in long lines to get tests, the results of which come back days later.</p>
+<p>One possible explanation for this failure to scale testing would be that it’s “a hard problem.” Certainly, that’s not untrue. However, connecting hundreds of millions of people all over the world simultaneously via real-time video and audio is also a “hard problem.” Just 50 years ago most people would call it science fiction (though Bell <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1524_8('footnote_plugin_reference_1524_8_2');" onkeypress="footnote_moveToReference_1524_8('footnote_plugin_reference_1524_8_2');" ><span id="footnote_plugin_tooltip_1524_8_2" class="footnote_plugin_tooltip_text">[2]</span></a><span id="footnote_plugin_tooltip_text_1524_8_2" class="footnote_tooltip"></span></span> made some impressive early efforts). Despite being a “hard problem,” video chat is an information problem, not a matter or energy problem, and humans have gotten <em>very good </em>at solving information problems.</p>
+<p>If gas mileage improved at the same speed as hard disk storage space, a typical car would be able to drive 4 million miles on a gallon of fuel and accelerate 0–60 in 0.003 seconds <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1524_8('footnote_plugin_reference_1524_8_3');" onkeypress="footnote_moveToReference_1524_8('footnote_plugin_reference_1524_8_3');" ><span id="footnote_plugin_tooltip_1524_8_3" class="footnote_plugin_tooltip_text">[3]</span></a><span id="footnote_plugin_tooltip_text_1524_8_3" class="footnote_tooltip"></span></span>.</p>
+<p>Information problems are unique in that they benefit from small size and low power. A 10 nanometer ) transistor (1 * 10^–9 meters = 1 nm provides the same computation as a 100 nm transistor but at a lower cost and using less power. Besides the difficulty of manufacturing a 10nm feature, there is no tradeoff. Smaller is better.</p>
+<p>In matter and energy problems, smaller does not equal better. The tradeoff becomes immediately clear when you consider the simple case of miniaturizing a space heater or a car. The pits on a Blu-ray disk are much smaller than those on a CD-ROM, but each pit holds the same data, and therefore each pit on the Blu-ray disk provides the same utility with essentially no tradeoff (besides the need for a smaller wavelength blue laser readout). A tiny version of a space heater or a tiny car would have to use alternative physics to deliver the same utility as their normal-sized counterparts.</p>
+<p>So the question to ask is not whether diagnostic testing is a “hard problem,” but whether it’s a matter and energy problem or an information problem. <em>The fact is that diagnostic testing is an information problem that obeys the same law as computing: smaller and less power is better. </em>The result of a diagnostic assay is a number, in the case of a complex quantitative test, or a boolean (true or false), in the case of a simpler test. The smaller, cheaper, and more efficient the device that gives this number or boolean, the better. <em>There is no tradeoff.</em></p>
+<h2 class="preSlide slideIn">A zoom call in every screen</h2>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-1070 size-full" src="/hub/wp-content/uploads/2023/01/hoover.webp" alt="" width="750" height="228" srcset="/hub/wp-content/uploads/2023/01/hoover.webp 750w, /hub/wp-content/uploads/2023/01/hoover-300x91.webp 300w" sizes="auto, (max-width: 750px) 100vw, 750px" /></p>
+<p style="text-align: left;">Left: Herbert Hoover Campaign Pin <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1524_8('footnote_plugin_reference_1524_8_4');" onkeypress="footnote_moveToReference_1524_8('footnote_plugin_reference_1524_8_4');" ><span id="footnote_plugin_tooltip_1524_8_4" class="footnote_plugin_tooltip_text">[4]</span></a><span id="footnote_plugin_tooltip_text_1524_8_4" class="footnote_tooltip"></span></span></p>
+<p>When COVID struck, America was able to provide its citizens with “a zoom call in every screen,” with near flawless performance and low cost. This was possible because innovation, performance, form factor, cost, and scalability have been driving the sale of products like data-center transceivers (which shuttle the massive amounts of real-time data needed for video calls) long before Covid. The entire trillion-dollar chip industry is geared toward providing more for less year after year.</p>
+<p>The medical diagnostics industry, despite best efforts on the part of all the major players, has not been able to meet even 0.1% of the potential demand for COVID testing in 2020, even after the approval process was pared down to a bare-bones Emergency Use Authorization. The reality is that this is mainly due to the lack of fast-paced innovation and general lack of focus on cost, form factor, and scalability in the diagnostics industry over the last several decades.</p>
+<h2 class="preSlide slideIn">Forging Ahead</h2>
+<p>The need for innovation in testing is no longer a matter of debate, and thousands of people are working on bringing next-generation diagnostics to market. The FDA has recently approved several at-home tests for COVID (e.g. Elume) <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1524_8('footnote_plugin_reference_1524_8_5');" onkeypress="footnote_moveToReference_1524_8('footnote_plugin_reference_1524_8_5');" ><span id="footnote_plugin_tooltip_1524_8_5" class="footnote_plugin_tooltip_text">[5]</span></a><span id="footnote_plugin_tooltip_text_1524_8_5" class="footnote_tooltip"></span></span> and more are in the works, including one being developed by SiPhox.</p>
+<p>At SiPhox we develop optical chips, which are semiconductor chips that process light (photons) instead of electrical signals (electrons) for biotech applications. In March we came to the inevitable conclusion that the most valuable thing we could do as a startup was to tackle COVID testing. Building anything else during COVID would be the equivalent of building luxury cars instead of Jeeps and tanks during WWII, as Diedrik likes to say.</p>
+<p>Knowing that diagnostics, at its core, is an information problem that can benefit from all the same improvements in cost, size, and scalability that chips have brought to other data acquisition, transduction, and transmission problems, we ran the numbers and calculated that tests using conventional silicon micro-ring biosensors could be produced at very low cost, in the billions per month using just a small fraction of US chip-fab capacity <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1524_8('footnote_plugin_reference_1524_8_6');" onkeypress="footnote_moveToReference_1524_8('footnote_plugin_reference_1524_8_6');" ><span id="footnote_plugin_tooltip_1524_8_6" class="footnote_plugin_tooltip_text">[6]</span></a><span id="footnote_plugin_tooltip_text_1524_8_6" class="footnote_tooltip"></span></span>. What’s more, these chips would use much smaller quantities of precious reagents (such as antibodies) than a typical paper strip test, while analyzing up to 100 biomarkers in parallel.</p>
+<p>The semiconductor industry will do for basic wet lab diagnostics (such as COVID testing) what it did for photography — make something complex, large and, expensive, cheap, small, and ubiquitous. In the limit, this will fundamentally change the way humanity approaches pandemic response and health monitoring in general.</p>
+<h2 class="preSlide slideIn">Building our COVID test</h2>
+<p>At the beginning of the pandemic, we quickly taped-out <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1524_8('footnote_plugin_reference_1524_8_7');" onkeypress="footnote_moveToReference_1524_8('footnote_plugin_reference_1524_8_7');" ><span id="footnote_plugin_tooltip_1524_8_7" class="footnote_plugin_tooltip_text">[7]</span></a><span id="footnote_plugin_tooltip_text_1524_8_7" class="footnote_tooltip"></span></span> a COVID sensor chip, moved into a Bio Safety Level 2+ lab space near MIT called Nest Bio, opened several university collaborations, and started building a team around our mission. In parallel to completing Y Combinator, we generated impressive data both for directly detecting the COVID nucleocapsid protein, and for reading out CRISPR-based molecular (RNA/DNA) tests. Subsequently, we raised a $5.8M seed round led by Khosla Ventures, and are hard at work getting the OneLab at-home Covid test ready for Emergency Use Authorization approval by the FDA.</p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-1072 size-full" src="/hub/wp-content/uploads/2023/01/tapemasks.webp" alt="" width="490" height="326" srcset="/hub/wp-content/uploads/2023/01/tapemasks.webp 490w, /hub/wp-content/uploads/2023/01/tapemasks-300x200.webp 300w" sizes="auto, (max-width: 490px) 100vw, 490px" /></p>
+<p style="text-align: left;">Tape-out set for making old-school tape masks <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1524_8('footnote_plugin_reference_1524_8_8');" onkeypress="footnote_moveToReference_1524_8('footnote_plugin_reference_1524_8_8');" ><span id="footnote_plugin_tooltip_1524_8_8" class="footnote_plugin_tooltip_text">[8]</span></a><span id="footnote_plugin_tooltip_text_1524_8_8" class="footnote_tooltip"></span></span>. This is how chips were made in the 70’s and chip designers still use the term ‘tape-out.’</p>
+<p>2020 was a tough year, but it’s important not to lose sight of the opportunity to make progress in a crisis. We’re immensely excited about the excellent progress being made in response to COVID on many fronts, and we hope to contribute our developments to making pandemics like this a thing of the past, and changing how biomarker data is collected and used (more on this in a future post).</p>
+<p><strong>Are you an A+ engineer or scientist with systems, electro-optics, photonics, synthetic biology, microfluidics, or assay development experience? See </strong><a href="https://siphoxhealth.com/pages/careers" target="_blank" rel="noopener"><strong>SiPhox Health Careers</strong></a><strong> for open positions.</strong></p>
+<p>Thanks to Roman Gelperin.</p>
+<div class="speaker-mute footnotes_reference_container"> <div class="footnote_container_prepare"><p><span role="button" tabindex="0" class="footnote_reference_container_label pointer" onclick="footnote_expand_collapse_reference_container_1524_8();">References</span><span role="button" tabindex="0" class="footnote_reference_container_collapse_button" style="" onclick="footnote_expand_collapse_reference_container_1524_8();">[<a id="footnote_reference_container_collapse_button_1524_8">+</a>]</span></p></div> <div id="footnote_references_container_1524_8" style="display: none;"><table class="footnotes_table footnote-reference-container"><caption class="accessibility">References</caption> <tbody> 
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1524_8_1" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1524_8('footnote_plugin_tooltip_1524_8_1');"><a role="button" tabindex="0" class="footnote_plugin_link" >1</a></th> <td class="footnote_plugin_text"><a href="https://asm.org/Podcasts/TWiV/Episodes/Test-often,-fast-turnaround,-with-Michael-Mina-TWi"><span class="footnote_url_wrap">https://asm.org/Podcasts/TWiV/Episodes/Test-often,-fast-turnaround,-with-Michael-Mina-TWi</span></a></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1524_8_2" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1524_8('footnote_plugin_tooltip_1524_8_2');"><a role="button" tabindex="0" class="footnote_plugin_link" >2</a></th> <td class="footnote_plugin_text"><a href="https://www.businessinsider.com/videophone-internet-telephone-invention-1960s-2016-5"><span class="footnote_url_wrap">https://www.businessinsider.com/videophone-internet-telephone-invention-1960s-2016-5</span></a></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1524_8_3" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1524_8('footnote_plugin_tooltip_1524_8_3');"><a role="button" tabindex="0" class="footnote_plugin_link" >3</a></th> <td class="footnote_plugin_text"><a href="https://jalopnik.com/heres-what-cars-would-be-like-if-they-advanced-at-the-p-1791938679"><span class="footnote_url_wrap">https://jalopnik.com/heres-what-cars-would-be-like-if-they-advanced-at-the-p-1791938679</span></a></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1524_8_4" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1524_8('footnote_plugin_tooltip_1524_8_4');"><a role="button" tabindex="0" class="footnote_plugin_link" >4</a></th> <td class="footnote_plugin_text"><a href="https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/chicken-every-pot"><span class="footnote_url_wrap">https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/chicken-every-pot</span></a></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1524_8_5" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1524_8('footnote_plugin_tooltip_1524_8_5');"><a role="button" tabindex="0" class="footnote_plugin_link" >5</a></th> <td class="footnote_plugin_text"><a href="https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-antigen-test-first-over-counter-fully-home-diagnostic"><span class="footnote_url_wrap">https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-antigen-test-first-over-counter-fully-home-diagnostic</span></a></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1524_8_6" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1524_8('footnote_plugin_tooltip_1524_8_6');"><a role="button" tabindex="0" class="footnote_plugin_link" >6</a></th> <td class="footnote_plugin_text"><a href="https://medium.com/siphox-blog/trapping-light-a-brief-overview-of-silicon-micro-ring-optical-biosensors-4f05befd0711?source=friends_link&amp;sk=132f6c24b98512d9a275f54d2b9820ac"><span class="footnote_url_wrap">https://medium.com/siphox-blog/trapping-light-a-brief-overview-of-silicon-micro-ring-optical-biosensors-4f05befd0711?source=friends_link&amp;sk=132f6c24b98512d9a275f54d2b9820ac</span></a></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1524_8_7" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1524_8('footnote_plugin_tooltip_1524_8_7');"><a role="button" tabindex="0" class="footnote_plugin_link" >7</a></th> <td class="footnote_plugin_text"><span class="footnote_url_wrap">https://en.wikipedia.org/wiki/Tape-out#:~:text=In%20electronics%20and%20photonics%20design,sent%20to%20the%20fabrication%20facility.</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_1524_8_8" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_1524_8('footnote_plugin_tooltip_1524_8_8');"><a role="button" tabindex="0" class="footnote_plugin_link" >8</a></th> <td class="footnote_plugin_text"><a href="https://www.pcbwizards.com/handtape.htm"><span class="footnote_url_wrap">https://www.pcbwizards.com/handtape.htm</span></a></td></tr>
+
+ </tbody> </table> </div></div><script type="text/javascript"> function footnote_expand_reference_container_1524_8() { jQuery('#footnote_references_container_1524_8').show(); jQuery('#footnote_reference_container_collapse_button_1524_8').text('−'); } function footnote_collapse_reference_container_1524_8() { jQuery('#footnote_references_container_1524_8').hide(); jQuery('#footnote_reference_container_collapse_button_1524_8').text('+'); } function footnote_expand_collapse_reference_container_1524_8() { if (jQuery('#footnote_references_container_1524_8').is(':hidden')) { footnote_expand_reference_container_1524_8(); } else { footnote_collapse_reference_container_1524_8(); } } function footnote_moveToReference_1524_8(p_str_TargetID) { footnote_expand_reference_container_1524_8(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.25 }, 500); } } function footnote_moveToAnchor_1524_8(p_str_TargetID) { footnote_expand_reference_container_1524_8(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.25 }, 500); } }</script>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
