@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Blogs &#8211; SiPhox Health</title>
+	<atom:link href="/hub/category/blog/feed/" rel="self" type="application/rss+xml" />
+	<link>/hub/</link>
+	<description></description>
+	<lastBuildDate>Tue, 25 Jun 2024 20:49:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>Why a Yearly Physical Blood Test is Not Enough</title>
+		<link>/hub/blog/why-a-yearly-physical-blood-test-is-not-enough/</link>
+		
+		<dc:creator><![CDATA[rami.abrams@siphoxhealth.com]]></dc:creator>
+		<pubDate>Fri, 09 Feb 2024 21:43:53 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[annual physical]]></category>
+		<category><![CDATA[at-home]]></category>
+		<category><![CDATA[atherosclerosis]]></category>
+		<category><![CDATA[biomarkers]]></category>
+		<category><![CDATA[blood]]></category>
+		<category><![CDATA[cardiovascular]]></category>
+		<category><![CDATA[CBC]]></category>
+		<category><![CDATA[ferritin]]></category>
+		<category><![CDATA[fertility]]></category>
+		<category><![CDATA[health]]></category>
+		<category><![CDATA[hormone]]></category>
+		<category><![CDATA[inflammation]]></category>
+		<category><![CDATA[insulin]]></category>
+		<category><![CDATA[kidney health]]></category>
+		<category><![CDATA[liver health]]></category>
+		<category><![CDATA[monitor]]></category>
+		<category><![CDATA[track]]></category>
+		<category><![CDATA[yearly physical]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?p=2589</guid>
+
+					<description><![CDATA[SiPhox Health's at-home blood testing service provides a more thorough and frequent insight into personal health that transcends the traditional annual check-up.]]></description>
+			
+
+							<content:encoded><![CDATA[<!-- <div class='highlight-card mb-32px highlight-card-info'>
+    <div class='d-flex'>
+        <div class='icon-container'>
+            <img decoding="async" src="/hub/wp-content/themes/theblog-child/assets/images/tip.svg" alt=''/>
+        </div>
+        <div class='d-flex ms-16px'>
+            <h3>Key Takeaways:</h3>
+<ol>
+<li data-stringify-indent="0" data-stringify-border="0">Cost-Effective and User-Friendly: Our service offers a more affordable and convenient alternative to traditional blood tests from LabCorp or Quest.</li>
+<li data-stringify-indent="0" data-stringify-border="0">Focus on Dynamic Markers: We target rapidly changing markers that are ideal for frequent monitoring, providing timely insights into your health.</li>
+<li data-stringify-indent="0" data-stringify-border="0">Comprehensive Biomarker Coverage: SiPhox Health includes vital markers often overlooked in standard yearly blood tests, ensuring a thorough health evaluation.</li>
+</ol>
+
+        </div>
+    </div>
+</div> -->
+<div class="highlight-card highlight-card-info">
+    <h3>Key Takeaways:</h3>
+<ol>
+<li data-stringify-indent="0" data-stringify-border="0">Cost-Effective and User-Friendly: Our service offers a more affordable and convenient alternative to traditional blood tests from LabCorp or Quest.</li>
+<li data-stringify-indent="0" data-stringify-border="0">Focus on Dynamic Markers: We target rapidly changing markers that are ideal for frequent monitoring, providing timely insights into your health.</li>
+<li data-stringify-indent="0" data-stringify-border="0">Comprehensive Biomarker Coverage: SiPhox Health includes vital markers often overlooked in standard yearly blood tests, ensuring a thorough health evaluation.</li>
+</ol>
+
+</div><p><span style="font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">In the landscape of health management, the traditional annual physical, with its standard blood panel, has long been the cornerstone. However, with the advent of new medical technologies, the door is opening to more frequent and comprehensive monitoring. SiPhox Health&#8217;s at-home blood testing service epitomizes this progress, providing a more thorough and frequent insight into personal health that transcends the traditional annual check-up.</span></p>
+<p>During an annual physical, the standard blood tests are used to assess aspects of health such as: the balance of essential minerals and electrolytes, liver and kidney function, blood cell status, and markers like cholesterol and blood sugar levels that indicate risk factors for heart disease and diabetes. While these tests offer a valuable snapshot of one&#8217;s overall health, they have limitations in their breadth and the frequency with which they are tested.</p>
+<h3></h3>
+<h3>Standard yearly blood test versus SiPhox Health</h3>
+<p><a href="/hub/wp-content/uploads/2024/02/Venn-Diagram-6-updated-biomarkers-with-genders-1.svg"><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-2627" role="img" src="/hub/wp-content/uploads/2024/02/Venn-Diagram-6-updated-biomarkers-with-genders-1.svg" alt="" width="1468" height="696" /></a></p>
+<p>SiPhox Health’s at-home blood tests fill these critical gaps by offering a more expansive range of biomarkers, coupled with the convenience of more regular testing right from your home. Our tests go beyond what&#8217;s typically covered in a standard physical, giving a more comprehensive health overview. Additional areas covered by SiPhox Health’s at-home testing include:</p>
+<ul>
+<li>Inflammation Markers: Beyond standard CRP, SiPhox Health tests for hs-CRP, Ferritin, and Homocysteine, providing a more detailed view of inflammation, a key factor in chronic diseases.</li>
+<li>Metabolic Health Indicators: By measuring markers like HbA1c, Insulin, and thyroid function, SiPhox Health provides a broader understanding of metabolic function and associated risks.</li>
+<li>Hormonal Health Assessment: Our panel extends to hormones like Cortisol, DHEA-S, Estradiol, and Testosterone, vital for understanding physiological stress responses, and overall hormonal balance.</li>
+<li>Cardiovascular Health: SiPhox Health goes beyond traditional cholesterol testing with ApoA1 and ApoB measurements, offering a more detailed assessment of lipid-related cardiovascular risk.</li>
+</ul>
+<p>Though not a substitute for your annual bloodwork, SiPhox Health serves as an essential adjunct, providing deeper insights into your health. Perfect for anyone navigating lifestyle changes, new medications, or monitoring chronic conditions, our service offers the convenience of assessing 17 crucial biomarkers right from your home, on your schedule. Tracking your health has never been easier or more insightful.</p>
+<h3>The Scientific Benefits of SiPhox Health include:</h3>
+<ul>
+<li><strong>Enhanced Frequency:</strong> Our regular testing can detect health marker changes more swiftly than annual screenings.</li>
+<li><strong>Convenience and Comfort:</strong> The ease of SiPhox Health&#8217;s at-home testing eliminates the need for scheduling clinic visits and enduring long waits.</li>
+<li><strong>Health Data:</strong> SiPhox Health reports provide insights tailored to individual health profiles, enabling more informed healthcare decisions.</li>
+<li><strong>Early Detection and Prevention:</strong> The comprehensive nature of our testing facilitates the early detection of potential health issues, allowing for timely intervention.</li>
+<li><strong>Data-Driven Lifestyle Adjustments:</strong> With a more detailed health profile, individuals can adjust their lifestyle choices more precisely to match their health needs.</li>
+</ul>
+<h3>What’s included with a SiPhox Health test panel:</h3>
+<ul>
+<li><strong>At-Home Convenience:</strong> Our kit comes to your door. Specially designed for easy, low-pain blood collection through a simple fingerprick method.</li>
+<li><strong>Flexible Pricing:</strong> Access our services at $345 for a one-time test, or embrace regular health monitoring with subscriptions at just $85 per test.</li>
+<li><strong>Comprehensive Biomarker Analysis:</strong> Our base panel examines 17 essential biomarkers, plus delves deeper with our Hormone+ and Thyroid+ add-on panels for a full health spectrum.</li>
+<li><strong>Integrated Health Tracking:</strong> We support sleep and activity tracking across more than 200 wearable devices, ensuring you get a holistic view of your health, with results delivered swiftly within 2-5 business days.</li>
+</ul>
+<p>With SiPhox Health, individuals gain a scientific edge in health monitoring, empowering you to take a proactive, informed approach to your health on your terms.</p>
+<p>Check out the table below for an overview of our offerings, and for an in-depth look at the biomarkers we assess and their significance – visit our detailed guide at <a class="c-link" href="https://home.siphoxhealth.com/what-we-measure" target="_blank" rel="noopener noreferrer" data-stringify-link="https://home.siphoxhealth.com/what-we-measure" data-sk="tooltip_parent">https://home.siphoxhealth.com/what-we-measure</a>. <a href="https://myhealth.alberta.ca/Health/Pages/conditions.aspx?hwid=tr6155"><span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2589_1('footnote_plugin_reference_2589_1_1');" onkeypress="footnote_moveToReference_2589_1('footnote_plugin_reference_2589_1_1');" ><span id="footnote_plugin_tooltip_2589_1_1" class="footnote_plugin_tooltip_text">[1]</span></a><span id="footnote_plugin_tooltip_text_2589_1_1" class="footnote_tooltip"></span></span></a> <a href="https://www.webmd.com/a-to-z-guides/annual-physical-examinations#3"><span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2589_1('footnote_plugin_reference_2589_1_2');" onkeypress="footnote_moveToReference_2589_1('footnote_plugin_reference_2589_1_2');" ><span id="footnote_plugin_tooltip_2589_1_2" class="footnote_plugin_tooltip_text">[2]</span></a><span id="footnote_plugin_tooltip_text_2589_1_2" class="footnote_tooltip"></span></span></a> <a href="https://my.clevelandclinic.org/health/diagnostics/21659-kidney-function-tests"><span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2589_1('footnote_plugin_reference_2589_1_3');" onkeypress="footnote_moveToReference_2589_1('footnote_plugin_reference_2589_1_3');" ><span id="footnote_plugin_tooltip_2589_1_3" class="footnote_plugin_tooltip_text">[3]</span></a><span id="footnote_plugin_tooltip_text_2589_1_3" class="footnote_tooltip"></span></span></a> <a href="https://my.clevelandclinic.org/health/diagnostics/17662-liver-function-tests"><span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2589_1('footnote_plugin_reference_2589_1_4');" onkeypress="footnote_moveToReference_2589_1('footnote_plugin_reference_2589_1_4');" ><span id="footnote_plugin_tooltip_2589_1_4" class="footnote_plugin_tooltip_text">[4]</span></a><span id="footnote_plugin_tooltip_text_2589_1_4" class="footnote_tooltip"></span></span></a> <a href="https://www.mountsinai.org/health-library/tests/cbc-blood-test"><span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2589_1('footnote_plugin_reference_2589_1_5');" onkeypress="footnote_moveToReference_2589_1('footnote_plugin_reference_2589_1_5');" ><span id="footnote_plugin_tooltip_2589_1_5" class="footnote_plugin_tooltip_text">[5]</span></a><span id="footnote_plugin_tooltip_text_2589_1_5" class="footnote_tooltip"></span></span></a></p>
+<p><a href="/hub/wp-content/uploads/2024/02/Table-SiPhox-Health-vs-Standard-Yearly-Blood-Test-with-genders.svg"><img decoding="async" class="aligncenter size-full wp-image-2626" role="img" src="/hub/wp-content/uploads/2024/02/Table-SiPhox-Health-vs-Standard-Yearly-Blood-Test-with-genders.svg" alt="" width="1128" height="909" /></a></p>
+<p>&nbsp;</p>
+<p><!-- notionvc: 7c9748b1-6bb9-46ec-aef7-ab69c4377d67 --></p>
+<p style="font-size: 14px;">Disclaimer: If you have any medical questions or concerns, please talk to your healthcare provider. The articles on the SiPhox Health Hub are underpinned by peer-reviewed research and information drawn from medical societies and governmental agencies. However, they are not a substitute for professional medical advice, diagnosis or treatment.</p>
+<div class="speaker-mute footnotes_reference_container"> <div class="footnote_container_prepare"><p><span role="button" tabindex="0" class="footnote_reference_container_label pointer" onclick="footnote_expand_collapse_reference_container_2589_1();">References</span><span role="button" tabindex="0" class="footnote_reference_container_collapse_button" style="" onclick="footnote_expand_collapse_reference_container_2589_1();">[<a id="footnote_reference_container_collapse_button_2589_1">+</a>]</span></p></div> <div id="footnote_references_container_2589_1" style="display: none;"><table class="footnotes_table footnote-reference-container"><caption class="accessibility">References</caption> <tbody> 
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2589_1_1" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2589_1('footnote_plugin_tooltip_2589_1_1');"><a role="button" tabindex="0" class="footnote_plugin_link" >1</a></th> <td class="footnote_plugin_text"><span class="footnote_url_wrap">https://myhealth.alberta.ca/Health/Pages/conditions.aspx?hwid=tr6155</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2589_1_2" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2589_1('footnote_plugin_tooltip_2589_1_2');"><a role="button" tabindex="0" class="footnote_plugin_link" >2</a></th> <td class="footnote_plugin_text"><span class="footnote_url_wrap">https://www.webmd.com/a-to-z-guides/annual-physical-examinations#3</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2589_1_3" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2589_1('footnote_plugin_tooltip_2589_1_3');"><a role="button" tabindex="0" class="footnote_plugin_link" >3</a></th> <td class="footnote_plugin_text"><span class="footnote_url_wrap">https://my.clevelandclinic.org/health/diagnostics/21659-kidney-function-tests</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2589_1_4" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2589_1('footnote_plugin_tooltip_2589_1_4');"><a role="button" tabindex="0" class="footnote_plugin_link" >4</a></th> <td class="footnote_plugin_text"><span class="footnote_url_wrap">https://my.clevelandclinic.org/health/diagnostics/17662-liver-function-tests</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2589_1_5" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2589_1('footnote_plugin_tooltip_2589_1_5');"><a role="button" tabindex="0" class="footnote_plugin_link" >5</a></th> <td class="footnote_plugin_text"><span class="footnote_url_wrap">https://www.mountsinai.org/health-library/tests/cbc-blood-test</span></td></tr>
+
+ </tbody> </table> </div></div><script type="text/javascript"> function footnote_expand_reference_container_2589_1() { jQuery('#footnote_references_container_2589_1').show(); jQuery('#footnote_reference_container_collapse_button_2589_1').text('−'); } function footnote_collapse_reference_container_2589_1() { jQuery('#footnote_references_container_2589_1').hide(); jQuery('#footnote_reference_container_collapse_button_2589_1').text('+'); } function footnote_expand_collapse_reference_container_2589_1() { if (jQuery('#footnote_references_container_2589_1').is(':hidden')) { footnote_expand_reference_container_2589_1(); } else { footnote_collapse_reference_container_2589_1(); } } function footnote_moveToReference_2589_1(p_str_TargetID) { footnote_expand_reference_container_2589_1(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.25 }, 500); } } function footnote_moveToAnchor_2589_1(p_str_TargetID) { footnote_expand_reference_container_2589_1(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.25 }, 500); } }</script>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Untold Story of Vitamin D</title>
+		<link>/hub/blog/the-untold-story-of-vitamin-d/</link>
+		
+		<dc:creator><![CDATA[Divya Kashyap]]></dc:creator>
+		<pubDate>Fri, 13 Oct 2023 15:00:47 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[at-home]]></category>
+		<category><![CDATA[biomarkers]]></category>
+		<category><![CDATA[blood]]></category>
+		<category><![CDATA[blood testing]]></category>
+		<category><![CDATA[bloodwork]]></category>
+		<category><![CDATA[brain]]></category>
+		<category><![CDATA[deficiency]]></category>
+		<category><![CDATA[health]]></category>
+		<category><![CDATA[hormone]]></category>
+		<category><![CDATA[immune]]></category>
+		<category><![CDATA[monitor]]></category>
+		<category><![CDATA[osteomalacia]]></category>
+		<category><![CDATA[rickets]]></category>
+		<category><![CDATA[sun]]></category>
+		<category><![CDATA[supplement]]></category>
+		<category><![CDATA[track]]></category>
+		<category><![CDATA[UV]]></category>
+		<category><![CDATA[vitamin]]></category>
+		<category><![CDATA[vitamin D]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?p=2067</guid>
+
+					<description><![CDATA[Vitamin D is a fat-soluble vitamin that is essential to many of the body's processes, but to really understand it, we need to go back to the early 1600s.]]></description>
+			
+
+							<content:encoded><![CDATA[<p>Vitamin D is a fat-soluble vitamin that is essential to many of the body&#8217;s processes. Whether supporting immune, musculoskeletal, or brain health, Vitamin D is definitely a valuable player in maintaining overall health and wellness.</p>
+<h2>The History of Vitamin D</h2>
+<p>But to really understand Vitamin D, we need to go back to the early 1600s when rickets in children and osteomalacia in adults were first described. Coinciding with the Industrial Revolution, a combination of indoor occupations, smog, and decreased dietary calcium intake may have contributed to Vitamin D deficiency. Without sufficient Vitamin D, calcium is not properly absorbed, and bones become soft, weak, and deformed. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2067_2('footnote_plugin_reference_2067_2_1');" onkeypress="footnote_moveToReference_2067_2('footnote_plugin_reference_2067_2_1');" ><span id="footnote_plugin_tooltip_2067_2_1" class="footnote_plugin_tooltip_text">[1]</span></a><span id="footnote_plugin_tooltip_text_2067_2_1" class="footnote_tooltip"></span></span> <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2067_2('footnote_plugin_reference_2067_2_2');" onkeypress="footnote_moveToReference_2067_2('footnote_plugin_reference_2067_2_2');" ><span id="footnote_plugin_tooltip_2067_2_2" class="footnote_plugin_tooltip_text">[2]</span></a><span id="footnote_plugin_tooltip_text_2067_2_2" class="footnote_tooltip"></span></span></p>
+<p>Centuries later in Great Britain, Sir Edward Mellanby, a biochemist, was concerned with the incidence of rickets in the United Kingdom and hypothesized that the disease was caused by a dietary deficiency. To test this, he fed dogs a strict diet of oatmeal (the main diet of Scottish folk who had the highest incidence of rickets at the time) and kept them away from sunlight. Once the dogs developed rickets, he noticed that they could be cured with cod liver oil. To determine whether it was Vitamin A or another vitamin that was responsible, Professor Elmer McCollum of Johns Hopkins University decided to conduct an experiment of his own. By destroying Vitamin A from the cod liver oil, McCollum identified that a new vitamin, which they called Vitamin D, was the true component responsible for curing the disease. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2067_2('footnote_plugin_reference_2067_2_3');" onkeypress="footnote_moveToReference_2067_2('footnote_plugin_reference_2067_2_3');" ><span id="footnote_plugin_tooltip_2067_2_3" class="footnote_plugin_tooltip_text">[3]</span></a><span id="footnote_plugin_tooltip_text_2067_2_3" class="footnote_tooltip"></span></span></p>
+<p>Eventually, dietary supplementation and fortification of food and infant formula led to a decrease in nutritional rickets. However, Vitamin D deficiency prevails. Social and cultural shifts including preferences for fair skin, a sedentary lifestyle, health concerns over skin cancer, time constraints, and many other factors have led to decreased ultraviolet B (UVB) exposure.</p>
+<h2>Who is susceptible to deficiency?</h2>
+<p>A few characteristics can make a person more susceptible to deficiency. Living in regions with low sunlight such as northern latitudes, especially during the winter months, can limit the amount of natural Vitamin D that your body synthesizes, even if you spend time outside. People with darker skin tones are prone to being deficient because melanin inhibits Vitamin D synthesis. As people age, the skin becomes less efficient at synthesizing Vitamin D. Additionally, since Vitamin D is a fat-soluble vitamin, people who are overweight or obese may have Vitamin D sequestered in fat cells, which results in lower circulating Vitamin D concentrations. Ultimately, geographic location, melanin levels, age, and obesity status, in addition to diet, disorders, and medication, could all potentially impact Vitamin D availability.</p>
+<h2>So if Vitamin D is so important, how can we prevent deficiency?</h2>
+<p>Chances are, when you think about Vitamin D, you think of sunlight. Spending about 10-30 minutes in the sun a few times a week, exposing your skin to the UVB rays, can help your body naturally synthesize Vitamin D. The amount of time needed varies based on factors such as your skin type, geographic location, and UV index. If you live in an area without as much sunlight, you can try a UV lamp. Diet is another way to obtain Vitamin D. Fatty fish such as salmon, mackerel, and trout are excellent sources. Egg yolks and mushrooms also contain some, but many foods nowadays such as milk, orange juice, breakfast cereals, and yogurt are often fortified with Vitamin D. Supplements are a convenient, accessible option if you have dietary restrictions or limited sun exposure. If you are concerned about your Vitamin D levels or have specific health conditions, it is advisable to consult with a healthcare professional. They can assess your Vitamin D status and recommend appropriate treatment options based on your individual needs. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2067_2('footnote_plugin_reference_2067_2_4');" onkeypress="footnote_moveToReference_2067_2('footnote_plugin_reference_2067_2_4');" ><span id="footnote_plugin_tooltip_2067_2_4" class="footnote_plugin_tooltip_text">[4]</span></a><span id="footnote_plugin_tooltip_text_2067_2_4" class="footnote_tooltip"></span></span></p>
+<h3>Why You Should Test Your Vitamin D Regularly</h3>
+<p>Understanding your Vitamin D levels is crucial for maintaining good health, especially considering the various factors that can lead to deficiency. Regular testing can help you identify if you&#8217;re getting enough Vitamin D from your diet, sunlight exposure, or supplements. At <a href="https://chat.openai.com/c/www.siphoxhealth.com" target="_new">Siphox Health</a>, we offer an easy-to-use, at-home testing kit that allows you to monitor your Vitamin D levels conveniently. Regular testing is a proactive step in managing your health and ensuring you maintain the optimal Vitamin D level for bone health, immune function, and overall well-being.</p>
+<p><!-- notionvc: 9288894b-cb9e-43fb-8255-1e9bb23e58c8 --></p>
+<p>&nbsp;</p>
+<p style="font-size: 14px;">Disclaimer: If you have any medical questions or concerns, please talk to your healthcare provider. The articles on the SiPhox Health Hub are underpinned by peer-reviewed research and information drawn from medical societies and governmental agencies. However, they are not a substitute for professional medical advice, diagnosis or treatment.</p>
+<div class="speaker-mute footnotes_reference_container"> <div class="footnote_container_prepare"><p><span role="button" tabindex="0" class="footnote_reference_container_label pointer" onclick="footnote_expand_collapse_reference_container_2067_2();">References</span><span role="button" tabindex="0" class="footnote_reference_container_collapse_button" style="" onclick="footnote_expand_collapse_reference_container_2067_2();">[<a id="footnote_reference_container_collapse_button_2067_2">+</a>]</span></p></div> <div id="footnote_references_container_2067_2" style="display: none;"><table class="footnotes_table footnote-reference-container"><caption class="accessibility">References</caption> <tbody> 
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2067_2_1" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2067_2('footnote_plugin_tooltip_2067_2_1');"><a role="button" tabindex="0" class="footnote_plugin_link" >1</a></th> <td class="footnote_plugin_text">Deluca HF. History of the discovery of vitamin D and its active metabolites. Bonekey Rep. 2014 Jan 8;3:479.</td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2067_2_2" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2067_2('footnote_plugin_tooltip_2067_2_2');"><a role="button" tabindex="0" class="footnote_plugin_link" >2</a></th> <td class="footnote_plugin_text">“Vitamin D.” <i>Mayo Clinic</i>, Mayo Foundation for Medical Education and Research, 10 Aug. 2023. <a href="https://www.mayoclinic.org/drugs-supplements-vitamin-d/art-20363792"><span class="footnote_url_wrap">https://www.mayoclinic.org/drugs-supplements-vitamin-d/art-20363792</span></a></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2067_2_3" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2067_2('footnote_plugin_tooltip_2067_2_3');"><a role="button" tabindex="0" class="footnote_plugin_link" >3</a></th> <td class="footnote_plugin_text">“Vitamin D.” <i>The Nutrition Source</i>, 7 Mar. 2023. <a href="https://www.hsph.harvard.edu/nutritionsource/vitamin-d/"><span class="footnote_url_wrap">https://www.hsph.harvard.edu/nutritionsource/vitamin-d/</span></a></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2067_2_4" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2067_2('footnote_plugin_tooltip_2067_2_4');"><a role="button" tabindex="0" class="footnote_plugin_link" >4</a></th> <td class="footnote_plugin_text">Wheeler BJ, Snoddy AME, Munns C, Simm P, Siafarikas A, Jefferies C. A Brief History of Nutritional Rickets. Front Endocrinol (Lausanne). 2019 Nov 14;10:795. doi: 10.3389/fendo.2019.00795. PMID: 31798536; PMCID: PMC6867964.</td></tr>
+
+ </tbody> </table> </div></div><script type="text/javascript"> function footnote_expand_reference_container_2067_2() { jQuery('#footnote_references_container_2067_2').show(); jQuery('#footnote_reference_container_collapse_button_2067_2').text('−'); } function footnote_collapse_reference_container_2067_2() { jQuery('#footnote_references_container_2067_2').hide(); jQuery('#footnote_reference_container_collapse_button_2067_2').text('+'); } function footnote_expand_collapse_reference_container_2067_2() { if (jQuery('#footnote_references_container_2067_2').is(':hidden')) { footnote_expand_reference_container_2067_2(); } else { footnote_collapse_reference_container_2067_2(); } } function footnote_moveToReference_2067_2(p_str_TargetID) { footnote_expand_reference_container_2067_2(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.25 }, 500); } } function footnote_moveToAnchor_2067_2(p_str_TargetID) { footnote_expand_reference_container_2067_2(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.25 }, 500); } }</script>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How Blue Light Blocking Glasses Unlock Better Sleep and Improve Biomarkers: A Beginner&#8217;s Guide</title>
+		<link>/hub/blog/better-sleep-blue-light-blocking-glasses/</link>
+		
+		<dc:creator><![CDATA[Eva Medved]]></dc:creator>
+		<pubDate>Sun, 20 Aug 2023 09:33:03 +0000</pubDate>
+				<category><![CDATA[Biohacking]]></category>
+		<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[bedtime]]></category>
+		<category><![CDATA[blue-light]]></category>
+		<category><![CDATA[increase sleep]]></category>
+		<category><![CDATA[melatonin]]></category>
+		<category><![CDATA[sleep]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?p=2014</guid>
+
+					<description><![CDATA[In today’s digital age, our routines are illuminated by pervasive blue light emanating from screens, devices, and modern lighting. Find out how blue light impacts your health and how SiPhox is striving to mitigate this.]]></description>
+			
+
+
+							<content:encoded><![CDATA[
+<!-- <div class='highlight-card mb-32px highlight-card-info'>
+    <div class='d-flex'>
+        <div class='icon-container'>
+            <img decoding="async" src="/hub/wp-content/themes/theblog-child/assets/images/tip.svg" alt=''/>
+        </div>
+        <div class='d-flex ms-16px'>
+            <h3>Key Takeaways:</h3>
+<ol>
+<li>Blue light from screens and devices at night disrupts melatonin production, affecting sleep.</li>
+<li>Blue light blocking glasses, especially amber-tinted ones, can improve sleep by reducing blue light exposure.</li>
+<li>Regular use of these glasses can positively impact various health biomarkers like insulin, cortisol, and testosterone.</li>
+</ol>
+
+        </div>
+    </div>
+</div> -->
+<div class="highlight-card highlight-card-info">
+    <h3>Key Takeaways:</h3>
+<ol>
+<li>Blue light from screens and devices at night disrupts melatonin production, affecting sleep.</li>
+<li>Blue light blocking glasses, especially amber-tinted ones, can improve sleep by reducing blue light exposure.</li>
+<li>Regular use of these glasses can positively impact various health biomarkers like insulin, cortisol, and testosterone.</li>
+</ol>
+
+</div><p>In today&#8217;s digital age, our routines are illuminated by pervasive blue light emanating from screens, devices, and modern lighting. This exposure, especially at nighttime, has become an inevitable part of our contemporary lifestyle. While technological advancements bring countless conveniences, they also pose challenges to our body&#8217;s intrinsic rhythms.</p>
+<p>Enter: blue light blocking glasses, a simple yet profoundly impactful solution. These glasses are a low-effort strategy to realign our body with its natural cadence, enhancing various biomarkers in the process.</p>
+<h2>Understanding blue light blocking glasses</h2>
+<p>Blue light blocking glasses are designed to filter out the blue light spectrum from reaching our eyes. As the name suggests, these glasses are equipped with lenses that either absorb or block blue light, thereby reducing our exposure to it. They have gained popularity among biohackers, professionals, gamers, and virtually anyone spending time in front of screens.</p>
+<h2>Clear vs. amber-tinted blue light blocking glasses</h2>
+<p>Blue light blocking glasses come in variety of colors ranging from clear to lightly yellow to dark amber-tinted.</p>
+<p><strong>Amber-tinted glasses:</strong> These are the most effective in blocking out visible blue light. Their characteristic amber color is a clear indication of their efficacy. They often filter out a broader spectrum of harmful blue light, making them particularly effective during the evening when protection from blue light is most crucial for sleep hygiene.</p>
+<p><strong>Clear glasses:</strong> These filter out the blue light near the ultraviolet spectrum that we can barely see. If they were blocking the more visible blue light, the lenses would not appear clear. While they may not offer the same level of protection as their amber counterparts, they are more aesthetically pleasing and can be worn during the day without altering color perception significantly.</p>
+<h2>How blue light impedes melatonin production</h2>
+<p>Melatonin, often dubbed the &#8220;sleep hormone,&#8221; plays a pivotal role in regulating our sleep-wake cycle. Its production increases as it gets darker, signaling to our body that it&#8217;s time to wind down and prepare for rest. Exposure to blue light, especially during the evening, disrupts this natural process.</p>
+<p>When our eyes are exposed to blue light, the pineal gland in the brain is tricked into thinking it&#8217;s still daylight. This halts the production of melatonin, thereby delaying sleep onset, reducing sleep duration, and diminishing sleep quality. By wearing blue light blocking glasses, especially in the evening, one can aid the body&#8217;s natural melatonin production, leading to improved sleep.</p>
+<h2>Which SiPhox Health biomarkers could be directly improved by regularly using your blue blockers?</h2>
+<ul>
+<li><strong>Insulin and HbA1c</strong>: Quality sleep helps maintain insulin sensitivity, decreasing the risk of type 2 diabetes. Lack of sleep can impair glucose metabolism and increase HbA1c levels, a marker of long-term glucose control.</li>
+<li><strong>Cortisol</strong>: This hormone follows a pattern of levels peaking in the morning and tapering off through the day. Disrupted sleep can skew this pattern, leading to elevated evening cortisol levels that can cause further sleep issues.</li>
+<li><strong>Testosterone (for males)</strong>: Sleep plays a crucial role in testosterone production in men. Poor sleep quality or lack of sleep can result in lower testosterone levels.</li>
+<li><strong>DHEA-S (for males)</strong>: DHEA-S production can be influenced by sleep quality, with lower levels reported in those with disturbed sleep.</li>
+<li><strong>TSH</strong>: Thyroid-stimulating hormone levels can be affected by sleep deprivation, leading to an imbalance in thyroid function.</li>
+</ul>
+<h2>Conclusion</h2>
+<p>As modern lifestyle has made it hard to avoid artificial light and screens after sunset, blue light blocking glasses have become an essential in our health toolkits. Not only can they assist in improving sleep quality, but they can also have a domino effect on various health biomarkers. If you&#8217;re looking to optimize your health and sleep, it&#8217;s worth considering adding blue light blocking glasses to your daily regimen.</p>
+<p>Remember that by becoming an Unlimited member, you will receive a free pair of high-quality amber blue light blocking glasses with your initial order!</p>
+<p>&nbsp;</p>
+<p style="font-size: 14px;">Disclaimer: If you have any medical questions or concerns, please talk to your healthcare provider. The articles on the SiPhox Health Hub are underpinned by peer-reviewed research and information drawn from medical societies and governmental agencies. However, they are not a substitute for professional medical advice, diagnosis or treatment.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Exploring Connected Wearable Data, Part 1: Oura</title>
+		<link>/hub/blog/exploring-wearable-data-oura/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Fri, 21 Jun 2024 20:23:13 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[Data Exploration]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?p=2933</guid>
+
+					<description><![CDATA[
+
+Are you finding it difficult to achieve restful sleep or feeling drained despite using your sleep tracker? Discover how combining sleep data from devices like Oura rings or Apple Watches with blood biomarker data can transform your health and well-being. Many of us rely on wearable devices to monitor our sleep, hoping to uncover the&#8230; <a class="more-link" href="/hub/blog/exploring-wearable-data-oura/">Continue reading <span class="screen-reader-text">Exploring Connected Wearable Data, Part 1: Oura</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<p>Are you finding it difficult to achieve restful sleep or feeling drained despite using your sleep tracker? Discover how combining sleep data from devices like Oura rings or Apple Watches with blood biomarker data can transform your health and well-being.</p>
+<p>Many of us rely on wearable devices to monitor our sleep, hoping to uncover the secrets to better rest and more energy. However, these devices often leave us with more questions than answers. It’s not just about tracking steps or sleep stages; it&#8217;s about understanding the deeper connections between different aspects of our health. If you&#8217;re looking to improve your diet, exercise, or sleep habits, the following insights can help you determine what changes might enhance your overall well-being.<!-- notionvc: 8b8acc17-e3f6-4fb9-b231-841277016f4c --><span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2933_5('footnote_plugin_reference_2933_5_1');" onkeypress="footnote_moveToReference_2933_5('footnote_plugin_reference_2933_5_1');" ><span id="footnote_plugin_tooltip_2933_5_1" class="footnote_plugin_tooltip_text">[1]</span></a><span id="footnote_plugin_tooltip_text_2933_5_1" class="footnote_tooltip"></span></span></p>
+<p>To explore these connections, we analyzed SiPhox user data to identify relationships between blood biomarker data and connected wearable device data. <span class="discussion-id-fa542304-0a8a-42bf-8ed6-dd80df641953 suggestion-update notion-enable-hover" data-token-index="0">S</span>urprisingly, we discovered a strong correlation between lipids and sleep data, particularly in women over the age of 40. These findings could provide valuable insights for those looking to make informed changes to their health routines.<!-- notionvc: 15a14fdd-27c0-405e-bd3c-8ac363f997b0 --><!-- notionvc: e976962a-886a-40ac-b1f0-fe3222566eac --> <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2933_5('footnote_plugin_reference_2933_5_2');" onkeypress="footnote_moveToReference_2933_5('footnote_plugin_reference_2933_5_2');" ><span id="footnote_plugin_tooltip_2933_5_2" class="footnote_plugin_tooltip_text">[2]</span></a><span id="footnote_plugin_tooltip_text_2933_5_2" class="footnote_tooltip"></span></span><!-- notionvc: 03b49abb-7148-4992-9977-ade7b11131ff --></p>
+<h2>First, a quick explanation of our data exploration methodology and a few definitions</h2>
+<h3>Methodology</h3>
+<p>Wearable data was averaged over the two weeks preceding the associated blood tests.</p>
+<p><span class="notion-enable-hover" data-token-index="0">For correlation analysis, we used Pearson’s correlation coefficient (a measure of the strength and direction of the linear relationship between two variables) to measure the strength and direction of the linear relationship between the two datasets. We further visualized these relationships by creating plots with an Ordinary Least Squares (OLS) regression line (a straight line that best fits the data points), which helped illustrate the trend and strength of the correlations. This methodology allowed us to effectively identify and visualize meaningful correlations within the data.</span><!-- notionvc: f8cdf9a5-bbc8-4600-ab0f-406e4614e845 --> <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2933_5('footnote_plugin_reference_2933_5_3');" onkeypress="footnote_moveToReference_2933_5('footnote_plugin_reference_2933_5_3');" ><span id="footnote_plugin_tooltip_2933_5_3" class="footnote_plugin_tooltip_text">[3]</span></a><span id="footnote_plugin_tooltip_text_2933_5_3" class="footnote_tooltip"></span></span> <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2933_5('footnote_plugin_reference_2933_5_4');" onkeypress="footnote_moveToReference_2933_5('footnote_plugin_reference_2933_5_4');" ><span id="footnote_plugin_tooltip_2933_5_4" class="footnote_plugin_tooltip_text">[4]</span></a><span id="footnote_plugin_tooltip_text_2933_5_4" class="footnote_tooltip"></span></span></p>
+<h3>Cholesterol — the Good, the Bad, and the Transport:</h3>
+<p><span class="notion-enable-hover" data-token-index="0">Cholesterol can be categorized into HDL-C (high-density lipoprotein cholesterol) and LDL-C (low-density lipoprotein cholesterol), commonly referred to as “good” and “bad” cholesterol.</span><!-- notionvc: 415b5fbb-e774-4bea-841e-b21b38db064b --></p>
+<p><span class="notion-enable-hover" data-token-index="0">LDL-C (“bad”) cholesterol is deposited into the arteries, which increases the risk of cardiovascular disease. </span><!-- notionvc: 48adab92-aa69-4323-ae1e-51a02a12b749 --><span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2933_5('footnote_plugin_reference_2933_5_5');" onkeypress="footnote_moveToReference_2933_5('footnote_plugin_reference_2933_5_5');" ><span id="footnote_plugin_tooltip_2933_5_5" class="footnote_plugin_tooltip_text">[5]</span></a><span id="footnote_plugin_tooltip_text_2933_5_5" class="footnote_tooltip"></span></span></p>
+<p><span class="notion-enable-hover" data-token-index="0">HDL-C refers to the cholesterol carried by Apolipoprotein A1 (APOA1) (a type of protein that carries cholesterol in the blood) -containing HDL particles. HDL particles pick up harmful cholesterol in the arteries and then carry everything to the liver (directly or indirectly), where cholesterol is repurposed or removed.</span><!-- notionvc: 8854c9b7-ae45-42a5-bfb6-6f159537ccb5 --> <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2933_5('footnote_plugin_reference_2933_5_6');" onkeypress="footnote_moveToReference_2933_5('footnote_plugin_reference_2933_5_6');" ><span id="footnote_plugin_tooltip_2933_5_6" class="footnote_plugin_tooltip_text">[6]</span></a><span id="footnote_plugin_tooltip_text_2933_5_6" class="footnote_tooltip"></span></span> <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2933_5('footnote_plugin_reference_2933_5_7');" onkeypress="footnote_moveToReference_2933_5('footnote_plugin_reference_2933_5_7');" ><span id="footnote_plugin_tooltip_2933_5_7" class="footnote_plugin_tooltip_text">[7]</span></a><span id="footnote_plugin_tooltip_text_2933_5_7" class="footnote_tooltip"></span></span></p>
+<h3><span class="discussion-id-05af3647-7acb-4170-b76e-d3a6037f5989 suggestion-update notion-enable-hover" data-token-index="0">Rapid Eye Movement</span><span class="notion-enable-hover" data-token-index="1"> Sleep</span>:</h3>
+<p>Rapid eye movement (REM) sleep is a phase that lasts approx. 25% of your total sleep duration, where (alongside other activities) your brain rests and repairs itself so you can <a href="https://www.sleepfoundation.org/stages-of-sleep/rem-sleep">wake up feeling refreshed and energized. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2933_5('footnote_plugin_reference_2933_5_8');" onkeypress="footnote_moveToReference_2933_5('footnote_plugin_reference_2933_5_8');" ><span id="footnote_plugin_tooltip_2933_5_8" class="footnote_plugin_tooltip_text">[8]</span></a><span id="footnote_plugin_tooltip_text_2933_5_8" class="footnote_tooltip"></span></span></a></p>
+<h2>The cholesterol-sleep relationship in women over the age of 40</h2>
+<p>There was a strong positive correlation between HDL-C and REM sleep for women over 40 years of age. Interestingly, there was no significant correlation between the same markers in neither men of the same age group (<a href="https://www.notion.so/Exploring-Connected-Data-Part-I-Oura-b1855dfdf6554ffaa645c73782e92edd?pvs=21">correlation coefficient = 0.08</a>) nor in younger women (<a href="https://www.notion.so/Exploring-Connected-Data-Part-I-Oura-b1855dfdf6554ffaa645c73782e92edd?pvs=21">correlation coefficient = -0.13</a>).</p>
+<p><a href="/hub/wp-content/uploads/2024/06/hdlxremfemales.png"><img decoding="async" class="alignleft wp-image-3376 size-full" src="/hub/wp-content/uploads/2024/06/hdlxremfemales.png" alt="" width="700" height="600" srcset="/hub/wp-content/uploads/2024/06/hdlxremfemales.png 700w, /hub/wp-content/uploads/2024/06/hdlxremfemales-300x257.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p><span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">Unsurprisingly, we saw a similarly positive correlation between APOA1 and REM sleep, which is to be expected given the relationship between HDL-C (passenger) and APOA1 (vehicle).</span></p>
+<p><a href="/hub/wp-content/uploads/2024/06/apoa1xrem.png"><img loading="lazy" decoding="async" class="alignleft wp-image-3377 size-full" src="/hub/wp-content/uploads/2024/06/apoa1xrem.png" alt="" width="700" height="600" srcset="/hub/wp-content/uploads/2024/06/apoa1xrem.png 700w, /hub/wp-content/uploads/2024/06/apoa1xrem-300x257.png 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /></a></p>
+<p>For additional graphs on the relationship between bad cholesterol (LDL-C, APOB) and sleep data in the same age group, please refer to the Supplementary Data section.</p>
+<h2>How does this differ for men?</h2>
+<p>Given the strong correlation in women, one might assume that there’d be a similar correlation in men. But our data says otherwise.</p>
+<p>The correlation between HDL-C and REM, for men over 40, was only <strong>0.08,</strong> which is essentially a non-existent correlation and certainly a far weaker one than the 0.53 correlation coefficient in women of the same age group! For all intents and purposes, our data indicates that there is no correlation between cholesterol biomarkers and sleep data in men over 40.</p>
+<p><a href="/hub/wp-content/uploads/2024/06/hdlxrem.png"><img loading="lazy" decoding="async" class="alignleft wp-image-3378 size-full" src="/hub/wp-content/uploads/2024/06/hdlxrem.png" alt="" width="700" height="600" srcset="/hub/wp-content/uploads/2024/06/hdlxrem.png 700w, /hub/wp-content/uploads/2024/06/hdlxrem-300x257.png 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /></a></p>
+<h2>So, why are cholesterol and sleep related?</h2>
+<p>It is unclear whether the relationship we’re observing is causative or correlative. Perhaps one of the two, HDL-C or REM sleep, impacts the other. Just as likely, they’re both independently impacted by another set of biomarkers or activities, such as an active lifestyle or hormone status.</p>
+<p>That being said, here are a few mechanistic connections between REM and HDL-C:</p>
+<ul>
+<li>HDL-C particles have significant <a href="https://my.clevelandclinic.org/health/articles/24395-hdl-cholesterol#:~:text=HDL%20cholesterol%20also%20works%20against%20inflammation%20and%20oxidants">anti-inflammatory properties</a>. Chronic inflammation is known to disrupt sleep patterns. So this reduced inflammation could contribute to more stable and prolonged REM sleep.</li>
+<li>HDL-C particles support endothelial function, which is vital for healthy blood circulation. Improved endothelial function could improve circulation to the brain during sleep, and subsequent REM sleep duration. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2933_5('footnote_plugin_reference_2933_5_9');" onkeypress="footnote_moveToReference_2933_5('footnote_plugin_reference_2933_5_9');" ><span id="footnote_plugin_tooltip_2933_5_9" class="footnote_plugin_tooltip_text">[9]</span></a><span id="footnote_plugin_tooltip_text_2933_5_9" class="footnote_tooltip"></span></span></a></li>
+</ul>
+<p>These connections exist in both men and women, though. If either or both of these are the root cause of the correlation, then why don’t we see this in men? Or a younger cohort of women?</p>
+<p>If you’re interested in seeing how your cholesterol and sleep are correlated, pick up an at-home blood testing kit from <a href="https://home.siphoxhealth.com/">SiPhox</a>. You’ll receive results and insights in your SiPhox dashboard within a few days of collecting your sample.</p>
+<h2>Supplementary Data</h2>
+<p><a href="/hub/wp-content/uploads/2024/06/hdlxrem.png"><img loading="lazy" decoding="async" class="alignleft wp-image-3378 size-full" src="/hub/wp-content/uploads/2024/06/hdlxrem.png" alt="" width="700" height="600" srcset="/hub/wp-content/uploads/2024/06/hdlxrem.png 700w, /hub/wp-content/uploads/2024/06/hdlxrem-300x257.png 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /></a><br />
+Correlation between HDL-C and REM sleep among males aged 40 and older.</p>
+<p><a href="/hub/wp-content/uploads/2024/06/ldlxrem0.12.png"><img loading="lazy" decoding="async" class="alignleft wp-image-3379 size-full" src="/hub/wp-content/uploads/2024/06/ldlxrem0.12.png" alt="" width="700" height="600" srcset="/hub/wp-content/uploads/2024/06/ldlxrem0.12.png 700w, /hub/wp-content/uploads/2024/06/ldlxrem0.12-300x257.png 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /></a><br />
+Correlation between LDL-C and REM sleep among females aged 40 and older.</p>
+<p><a href="/hub/wp-content/uploads/2024/06/hemoxscore-25.png"><img loading="lazy" decoding="async" class="alignleft wp-image-3380 size-full" src="/hub/wp-content/uploads/2024/06/hemoxscore-25.png" alt="" width="700" height="600" srcset="/hub/wp-content/uploads/2024/06/hemoxscore-25.png 700w, /hub/wp-content/uploads/2024/06/hemoxscore-25-300x257.png 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /></a><br />
+Correlation between hbA1C and Oura sleep score among females aged 47 and older.</p>
+<p><a href="/hub/wp-content/uploads/2024/06/hdlxrem13.png"><img loading="lazy" decoding="async" class="alignleft wp-image-3381 size-full" src="/hub/wp-content/uploads/2024/06/hdlxrem13.png" alt="" width="700" height="600" srcset="/hub/wp-content/uploads/2024/06/hdlxrem13.png 700w, /hub/wp-content/uploads/2024/06/hdlxrem13-300x257.png 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /></a><br />
+Correlation between HDL-C and REM sleep among females aged 20 to 40 years.</p>
+<p><a href="/hub/wp-content/uploads/2024/06/apobxrem08.png"><img loading="lazy" decoding="async" class="alignleft wp-image-3382 size-full" src="/hub/wp-content/uploads/2024/06/apobxrem08.png" alt="" width="700" height="600" srcset="/hub/wp-content/uploads/2024/06/apobxrem08.png 700w, /hub/wp-content/uploads/2024/06/apobxrem08-300x257.png 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /></a><br />
+Correlation between APOB and REM sleep among females aged 40 and older.</p>
+<p><!-- notionvc: ec2c7b5b-ae75-4938-b3f3-940f9094372b --></p>
+<div class="speaker-mute footnotes_reference_container"> <div class="footnote_container_prepare"><p><span role="button" tabindex="0" class="footnote_reference_container_label pointer" onclick="footnote_expand_collapse_reference_container_2933_5();">References</span><span role="button" tabindex="0" class="footnote_reference_container_collapse_button" style="" onclick="footnote_expand_collapse_reference_container_2933_5();">[<a id="footnote_reference_container_collapse_button_2933_5">+</a>]</span></p></div> <div id="footnote_references_container_2933_5" style="display: none;"><table class="footnotes_table footnote-reference-container"><caption class="accessibility">References</caption> <tbody> 
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2933_5_1" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2933_5('footnote_plugin_tooltip_2933_5_1');"><a role="button" tabindex="0" class="footnote_plugin_link" >1</a></th> <td class="footnote_plugin_text"><span class="footnote_url_wrap">https://aasm.org/one-in-three-americans-have-used-electronic-sleep-trackers-leading-to-changed-behavior-for-many/</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2933_5_2" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2933_5('footnote_plugin_tooltip_2933_5_2');"><a role="button" tabindex="0" class="footnote_plugin_link" >2</a></th> <td class="footnote_plugin_text"><a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://siphoxhealth.com/blogs/news/what-we-measure#:~:text=associated%20biomarkers%20below.-,Blood%20Biomarkers,-Inflammation%C2%B9" rel="noopener noreferrer" data-token-index="0"><span class="link-annotation-unknown-block-id-170928044"><span class="footnote_url_wrap">https://siphoxhealth.com/blogs/news/what-we-measure#:~:text=associated</span> biomarkers below.-,Blood Biomarkers,-Inflammation¹</span></a></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2933_5_3" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2933_5('footnote_plugin_tooltip_2933_5_3');"><a role="button" tabindex="0" class="footnote_plugin_link" >3</a></th> <td class="footnote_plugin_text"><span class="footnote_url_wrap">https://www.scribbr.com/statistics/pearson-correlation-coefficient/</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2933_5_4" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2933_5('footnote_plugin_tooltip_2933_5_4');"><a role="button" tabindex="0" class="footnote_plugin_link" >4</a></th> <td class="footnote_plugin_text"><span class="footnote_url_wrap">https://medium.com/@VitorCSampaio/understanding-ordinary-least-squares-ols-the-foundation-of-linear-regression-1d79bfc3ca35</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2933_5_5" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2933_5('footnote_plugin_tooltip_2933_5_5');"><a role="button" tabindex="0" class="footnote_plugin_link" >5</a></th> <td class="footnote_plugin_text"><span class="footnote_url_wrap">https://siphoxhealth.com/pages/ldl</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2933_5_6" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2933_5('footnote_plugin_tooltip_2933_5_6');"><a role="button" tabindex="0" class="footnote_plugin_link" >6</a></th> <td class="footnote_plugin_text"><span class="footnote_url_wrap">https://siphoxhealth.com/pages/hdl</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2933_5_7" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2933_5('footnote_plugin_tooltip_2933_5_7');"><a role="button" tabindex="0" class="footnote_plugin_link" >7</a></th> <td class="footnote_plugin_text"><span class="footnote_url_wrap">https://siphoxhealth.com/pages/apoa</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2933_5_8" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2933_5('footnote_plugin_tooltip_2933_5_8');"><a role="button" tabindex="0" class="footnote_plugin_link" >8</a></th> <td class="footnote_plugin_text"><span class="footnote_url_wrap">https://www.webmd.com/sleep-disorders/sleep-101</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2933_5_9" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2933_5('footnote_plugin_tooltip_2933_5_9');"><a role="button" tabindex="0" class="footnote_plugin_link" >9</a></th> <td class="footnote_plugin_text"><a href="https://my.clevelandclinic.org/health/articles/24395-hdl-cholesterol#:~:text=HDL"><span class="footnote_url_wrap">https://my.clevelandclinic.org/health/articles/24395-hdl-cholesterol#:~:text=HDL</span></a><a href="https://my.clevelandclinic.org/health/articles/24395-hdl-cholesterol#:~:text=HDL%20cholesterol%20also%20works%20against%20inflammation%20and%20oxidants"> cholesterol also works against inflammation and oxidants</td></tr>
+
+ </tbody> </table> </div></div><script type="text/javascript"> function footnote_expand_reference_container_2933_5() { jQuery('#footnote_references_container_2933_5').show(); jQuery('#footnote_reference_container_collapse_button_2933_5').text('−'); } function footnote_collapse_reference_container_2933_5() { jQuery('#footnote_references_container_2933_5').hide(); jQuery('#footnote_reference_container_collapse_button_2933_5').text('+'); } function footnote_expand_collapse_reference_container_2933_5() { if (jQuery('#footnote_references_container_2933_5').is(':hidden')) { footnote_expand_reference_container_2933_5(); } else { footnote_collapse_reference_container_2933_5(); } } function footnote_moveToReference_2933_5(p_str_TargetID) { footnote_expand_reference_container_2933_5(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.25 }, 500); } } function footnote_moveToAnchor_2933_5(p_str_TargetID) { footnote_expand_reference_container_2933_5(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.25 }, 500); } }</script>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Intel Podcast: Scaling Clinical Diagnostic Testing to the Masses</title>
+		<link>/hub/blog/intel-podcast-scaling-clinical-diagnostic-testing-to-the-masses/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Mon, 17 Jul 2023 09:50:47 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?p=1940</guid>
+
+					<description><![CDATA[The rising cost of health care has hit Americans differently depending on their economic status. On this episode of Health &#38; Life Sciences at the Edge, find out what SiPhox is doing to make clinical diagnostic testing more accessible for everyone.]]></description>
+			
+
+							<content:encoded><![CDATA[<p>The rising cost of health care has hit Americans differently depending on their economic status. There is no shortage of news stories covering the reality of those with higher incomes having higher life expectancies than those in lower financial brackets. Healthcare services such as clinical diagnostic testing may be out of reach for those who could really use it. So what are some of the things a company can do to make clinical diagnostic testing more accessible for everyone? How can an important medical test be affordable to all?</p>
+<p>On this episode of Health &amp; Life Sciences at the Edge, host Michelle Dawn Mooney talks with Intel Head of Business Innovation and Life Science Specialist Blake Harlan and SiPhox Chief Product Officer Mike Dubrovsky about clinical diagnostic testing, the way it is used, and the way its use can be improved.</p>
+<p>“Clinical diagnostic testing is actually a major part of the [healthcare] system,” says Dubrovsky. “Seventy percent of all medical decisions require diagnostic tests. However, the way that it’s done now is very reactive, so the whole system is based on first the patient having symptoms and then they’re put through a series of tests to try to resolve the problem.” Harlan and Dubrovsky further mention how it’s easy for those in higher income brackets to get tested more often, as those types of tests cost much more than the ones for reactive patients who are presently experiencing symptoms.</p>
+<p>Read more <a href="https://marketscale.com/industries/healthcare/scaling-clinical-diagnostic-testing-to-the-masses/">here</a> and <a href="https://marketscale.com/industries/healthcare/scaling-clinical-diagnostic-testing-to-the-masses-part-2/">here.</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Value of Biosensing for Preventative Medicine &#124; Michael Dubrovsky &#038; Josh Clemente</title>
+		<link>/hub/blog/the-value-of-biosensing-for-preventive-medicine-michael-dubrovsky-josh-clemente/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Mon, 17 Jul 2023 18:02:11 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?p=1979</guid>
+
+					<description><![CDATA[Michael Dubrovsky and Josh Clemente discuss the value of biosensing and how it has the potential to disrupt the healthcare industry, shifting from a diagnose-and-treat approach to a preventive and actionable approach.]]></description>
+			
+
+							<content:encoded><![CDATA[<p>Biosensing offers people real-time insight into their health status. Regular insight, rather than one-time results at an annual checkup, helps people assess how lifestyle factors are impacting their health, whether they need to make adjustments, and which adjustments might have the most impact. Michael Dubrovsky and Josh Clemente discuss the value of biosensing and how it has the potential to disrupt the healthcare industry, shifting from a diagnose-and-treat approach to a preventive and actionable approach.</p>
+<p>Listen to the podcast <a href="https://www.levelshealth.com/podcasts/216-the-value-of-biosensing-for-preventive-medicine-michael-dubrovsky-josh-clemente">here</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>A Case Study in Holistic Medicine</title>
+		<link>/hub/blog/a-case-study-in-holistic-medicine/</link>
+		
+		<dc:creator><![CDATA[Colin Budries]]></dc:creator>
+		<pubDate>Sun, 21 May 2023 15:15:54 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[Customer B2B]]></category>
+		<category><![CDATA[Stories]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?p=1632</guid>
+
+					<description><![CDATA[Learn about how SiPhox Health's at-home biomarker tracking allowed a leading holistic health center to unlock more convenient and faster blood testing for their patients.]]></description>
+			
+							<content:encoded><![CDATA[<h2>Case Study: A Leading Holistic Health Center in South Florida</h2>
+<p>How SiPhox Health enabled a leading wellness clinic on a mission to improve early health tracking with at-home blood testing and biomarker tracking.</p>
+<p>The customer is based in South Florida and is led by licensed wellness professionals focusing on PEMF therapy, biofeedback coaching, multiscan evaluation, body balance, and applied kinesiology.</p>
+<h3>Key Areas of Focus:</h3>
+<ul>
+<li>Increase access and convenience of blood testing</li>
+<li>Increase patient engagement and follow-ups based on test results</li>
+<li>Unlock core clinic wellness treatments with at-home testing</li>
+</ul>
+<h3>SiPhox Health Offering:</h3>
+<ul>
+<li>SiPhox Health at-home kits testing for biomarkers for inflammation, metabolic fitness, hormone and nutritional balance, and cardiovascular health.</li>
+<li>SiPhox Health platform that enables real-time access to test results and biomarker trends.</li>
+</ul>
+<h3><span class="notion-enable-hover" data-token-index="0">The Problem</span></h3>
+<p>The customer wanted to unlock more convenient and faster blood testing. They were previously operating with very limited biomarker data and were asking patients to go to a Quest or Labcorp. The team felt less empowered in their care without regular blood testing for their patients.</p>
+<h3><span class="notion-enable-hover" data-token-index="0">The Solution</span></h3>
+<p>SiPhox Health deploys kits to the customer which the customer uses in two workflows:</p>
+<ul>
+<li>Kits are mailed directly to patients to take their blood at home. The sample is then shipped to our lab and results are presented to the wellness team within three days. Clinical decisions and follow-ups are conducted based on the data presented.</li>
+<li>Kits are offered to patients in-office while they have an appointment. They are completed on-site at the office and shipped directly to our lab.</li>
+</ul>
+<h3><span class="notion-enable-hover" data-token-index="0">By the Numbers</span></h3>
+<ul>
+<li><span class="notion-enable-hover" data-token-index="0">40% </span>growth in kits ordered month over month</li>
+</ul>
+<h3><span class="notion-enable-hover" data-token-index="0">Hear it from Them:</span></h3>
+<p>“It is very nice to know that our feedback is valued highly.”</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>At-Home Blood Tests for Canadians- SiPhox Health Delivers</title>
+		<link>/hub/blog/canadian-blood-tests-siphox/</link>
+		
+		<dc:creator><![CDATA[Colin Budries]]></dc:creator>
+		<pubDate>Fri, 19 May 2023 17:19:58 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[Stories]]></category>
+		<category><![CDATA[User]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?p=1619</guid>
+
+					<description><![CDATA[SiPhox Health stood up an extensive Canadian logistical network, enabling us to offer low-cost testing outside the US. Canadian users can now order kits directly to their homes, receiving a comprehensive 17-marker panel.]]></description>
+			
+							<content:encoded><![CDATA[<h2>SiPhox Health cuts barriers to access in Canada and improves accessibility via low-cost testing.</h2>
+<p>SiPhox Health launched in September 2022 with a <span class="notion-enable-hover" data-token-index="1">low-cost</span> comprehensive panel for inflammation, metabolic fitness, hormone and nutritional balance, and cardiovascular health in Canada.</p>
+<h3>The Problem:</h3>
+<p>The Canadian medical system may leave its citizens with long wait times and lackluster care. Canadians are thus forced to take extreme measures to receive a reasonable level of care, often leading to financial distress or an insufficient amount of care. Other at-home testing companies have attempted to meet the needs of Canadians, but have been met with logistical challenges or unacceptable costs.</p>
+<h3>The Solution:</h3>
+<p>SiPhox Health stood up an extensive Canadian logistical network, enabling us to offer low-cost testing outside of the United States. Canadian users can now order kits directly to their homes, receiving a comprehensive 17-marker panel without leaving their homes.</p>
+<h2>Hear about the issues firsthand:</h2>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-1626" src="/hub/wp-content/uploads/2023/04/canada3.png" alt="" width="694" height="195" srcset="/hub/wp-content/uploads/2023/04/canada3.png 694w, /hub/wp-content/uploads/2023/04/canada3-300x84.png 300w" sizes="auto, (max-width: 694px) 100vw, 694px" /><img loading="lazy" decoding="async" class="alignnone size-full wp-image-1627" src="/hub/wp-content/uploads/2023/04/canada2.png" alt="" width="694" height="221" srcset="/hub/wp-content/uploads/2023/04/canada2.png 694w, /hub/wp-content/uploads/2023/04/canada2-300x96.png 300w" sizes="auto, (max-width: 694px) 100vw, 694px" /><img loading="lazy" decoding="async" class="alignnone size-full wp-image-1628" src="/hub/wp-content/uploads/2023/04/canada1.png" alt="" width="691" height="179" srcset="/hub/wp-content/uploads/2023/04/canada1.png 691w, /hub/wp-content/uploads/2023/04/canada1-300x78.png 300w" sizes="auto, (max-width: 691px) 100vw, 691px" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>A Life-Saving Ferritin Discovery</title>
+		<link>/hub/blog/a-life-saving-ferritin-discovery/</link>
+		
+		<dc:creator><![CDATA[Eva Medved]]></dc:creator>
+		<pubDate>Wed, 26 Apr 2023 20:44:51 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[Stories]]></category>
+		<category><![CDATA[User]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?p=1610</guid>
+
+					<description><![CDATA[In this user case study, we explore how our simple test played a pivotal role in a customer's life-saving discovery, illustrating the power of comprehensive blood testing in empowering individuals to take charge of their health.]]></description>
+			
+							<content:encoded><![CDATA[
+<p>Understanding the importance of proactive healthcare, SiPhox Health has revolutionized the field of at-home blood testing by enabling customers in the United States and Canada to access low-cost testing for 17 essential biomarkers. In this user case study, we explore how our simple test played a pivotal role in a customer&#8217;s life-saving discovery, illustrating the power of comprehensive blood testing in empowering individuals to take charge of their health.</p>
+<h2>The Problem: A Reactive Healthcare System</h2>
+<p>Traditionally, annual visits to the doctor&#8217;s office involve a limited set of blood tests, reflecting a medical system that prioritized reactive rather than proactive care. Patients in the United States and Canada often found it challenging to obtain relevant and comprehensive blood panels, leading to potential health issues going unnoticed until they manifested in more severe symptoms. Without frequent testing, patients are left clueless to their health for 364 days a year. Annual doctor&#8217;s visits leave a gap in detection, making the prospect of early detection difficult. Moreover, the costs associated with comprehensive testing act as a barrier for many individuals. <a href="https://www.talktomira.com/post/the-cost-of-a-doctor-visit-without-insurance">According to Mirah Health</a>, the average doctors visit without insurance can range between $300 and $600, while the cost of bloodwork alone is $432.</p>
+<h2>The Solution: SiPhox Health&#8217;s Proactive Approach</h2>
+<p>SiPhox Health has addressed these challenges by offering a cost-effective mail-in blood testing service, enabling patients to take a proactive approach to their health and well-being. Our low-cost panel allows our users to increase the frequency of their testing, making the prospect of early detection more likely.</p>
+<p>By leveraging SiPhox Health&#8217;s comprehensive panel, a 39-year-old male, who was otherwise healthy and fit, made a potentially life-saving discovery.</p>
+<p>Through SiPhox Health&#8217;s service, <strong>the customer identified abnormally high ferritin levels, which explained his previously unexplained fatigue and joint pain.</strong> Empowered with this crucial data, the customer took the initiative to seek treatment from his primary care physician (PCP).</p>
+<h2>The Proof is in the Data</h2>
+<ul>
+<li>Test 1: January 4th, 2023 Upon receiving his SiPhox Health test results, the customer confirmed them at LabCorp and promptly sought care from his PCP. <strong>The diagnosis was revealed: Hereditary Hemochromatosis</strong>, a condition characterized by extreme iron overload.</li>
+</ul>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-1945 size-full" src="/hub/wp-content/uploads/2023/04/ferritin-life-changing-1.png" alt="" width="1218" height="717" srcset="/hub/wp-content/uploads/2023/04/ferritin-life-changing-1.png 1218w, /hub/wp-content/uploads/2023/04/ferritin-life-changing-1-300x177.png 300w, /hub/wp-content/uploads/2023/04/ferritin-life-changing-1-1024x603.png 1024w, /hub/wp-content/uploads/2023/04/ferritin-life-changing-1-768x452.png 768w" sizes="auto, (max-width: 1218px) 100vw, 1218px" /></p>
+<ul>
+<li>Test 4: May 28th, 2023 Determined to regain his health, the customer diligently implemented the treatment recommendations provided by his PCP.</li>
+</ul>
+<p>He now regularly donates blood to lower his iron overload, and does monthly SiPhox Health tests.</p>
+<p>With each subsequent test, the customer observed a consistent reduction in ferritin levels, a positive indicator of progress and improved health.</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-1946" src="/hub/wp-content/uploads/2023/04/ferritin-life-changing-2.png" alt="" width="1507" height="883" srcset="/hub/wp-content/uploads/2023/04/ferritin-life-changing-2.png 1507w, /hub/wp-content/uploads/2023/04/ferritin-life-changing-2-300x176.png 300w, /hub/wp-content/uploads/2023/04/ferritin-life-changing-2-1024x600.png 1024w, /hub/wp-content/uploads/2023/04/ferritin-life-changing-2-768x450.png 768w" sizes="auto, (max-width: 1507px) 100vw, 1507px" /></p>
+<h2>The Power of Comprehensive Blood Testing</h2>
+<p>SiPhox Health&#8217;s comprehensive blood testing service has proven to be a game-changer, exemplifying the importance of proactive healthcare, principally through low-cost at-home blood testing. By empowering individuals with easily accessible and affordable tests, SiPhox Health enabled a life-saving discovery for this particular customer. Through early detection and prompt intervention, the customer&#8217;s condition was diagnosed and managed effectively, leading to improvements in health and well-being in just a few short months.</p>
+<p>SiPhox Health&#8217;s dedication to putting the power of health in the hands of individuals showcases the immense potential for transformative change in the healthcare industry. By advocating for comprehensive blood panels and facilitating proactive healthcare, SiPhox Health continues to empower individuals to take control of their well-being and live healthier, more fulfilling lives.</p>
+<h2>Hear it straight from the source</h2>
+<div style="width: 750px;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
+<video class="wp-video-shortcode" id="video-1610-1" width="750" height="422" preload="metadata" controls="controls"><source type="video/mp4" src="/hub/wp-content/uploads/2023/04/siphoxhealth_colingodby_v1-1080p.mp4?_=1" /><a href="/hub/wp-content/uploads/2023/04/siphoxhealth_colingodby_v1-1080p.mp4">/hub/wp-content/uploads/2023/04/siphoxhealth_colingodby_v1-1080p.mp4</a></video></div>
+<p>The user left <a href="https://www.trustpilot.com/reviews/63df2e8c745e4800219b1fa8">this review on TrustPilot</a> after we helped him make a health discovery that potentially saved decades of his life.</p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-1948 size-full" src="/hub/wp-content/uploads/2023/04/ferritin-life-changing-3.png" alt="" width="916" height="615" srcset="/hub/wp-content/uploads/2023/04/ferritin-life-changing-3.png 916w, /hub/wp-content/uploads/2023/04/ferritin-life-changing-3-300x201.png 300w, /hub/wp-content/uploads/2023/04/ferritin-life-changing-3-768x516.png 768w" sizes="auto, (max-width: 916px) 100vw, 916px" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Huberman on Biohacking your Cortisol</title>
+		<link>/hub/blog/huberman-on-biohacking-your-cortisol/</link>
+		
+		<dc:creator><![CDATA[Eva Medved]]></dc:creator>
+		<pubDate>Thu, 13 Apr 2023 20:15:05 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Blogs]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?p=1567</guid>
+
+					<description><![CDATA[Dr. Andrew Huberman, a neuroscientist at Stanford University, highlights the crucial role that cortisol plays in regulating the body's energy levels, focus, immune system function, and inflammation regulation.]]></description>
+			
+
+
+
+
+
+
+
+
+
+
+
+
+							<content:encoded><![CDATA[
+<p>Andrew Huberman is an American neuroscientist and tenured professor in the Department of Neurobiology at the Stanford University School of Medicine. In addition to his scientific research, Andrew Huberman has gained popularity for sharing his knowledge and insights on various platforms, such as podcasts, YouTube, and social media. He is the host of the &#8220;Huberman Lab Podcast,&#8221; where he discusses neuroscience, health, and human performance. Cortisol is one of the biomarkers that Andrew Huberman references frequently in his long-form health optimization episodes on sleep, energy, mood, and hormonal balance. Below are the highlights of Huberman on what role cortisol levels play in your body and how to biohack them.</p>
+<h2>What is cortisol?</h2>
+<p>Cortisol is a steroid hormone derived from cholesterol and produced by the adrenal glands, involved in stress response, metabolism, inflammation regulation, blood pressure control, and immune function. Managing cortisol levels is crucial to avoid health issues linked to chronic stress and maintain overall well-being.</p>
+<!-- <div class='highlight-card mb-32px highlight-card-info'>
+    <div class='d-flex'>
+        <div class='icon-container'>
+            <img decoding="async" src="/hub/wp-content/themes/theblog-child/assets/images/tip.svg" alt=''/>
+        </div>
+        <div class='d-flex ms-16px'>
+            <p>In the Huberman Lab Podcast #18, Andrew Huberman explains that cortisol and adrenaline are essential hormones that regulate our energy levels, focus, and immune system function. He emphasizes that these hormones are not inherently good or bad, but rather their regulation is crucial. Huberman states, &#8220;They&#8217;re terrific when they&#8217;re regulated, they are terrible when they&#8217;re misregulated.&#8221;</p>
+
+        </div>
+    </div>
+</div> -->
+<div class="highlight-card highlight-card-info">
+    <p>In the Huberman Lab Podcast #18, Andrew Huberman explains that cortisol and adrenaline are essential hormones that regulate our energy levels, focus, and immune system function. He emphasizes that these hormones are not inherently good or bad, but rather their regulation is crucial. Huberman states, &#8220;They&#8217;re terrific when they&#8217;re regulated, they are terrible when they&#8217;re misregulated.&#8221;</p>
+
+</div><h2>What does cortisol do and how does it relate to your circadian rythm?</h2>
+<p>Cortisol plays several specific roles in the body:<br />
+1. Stress response<br />
+2. Glucose metabolism<br />
+3. Anti-inflammatory properties<br />
+4. Blood pressure regulation<br />
+5. Immune function modulation</p>
+<!-- <div class='highlight-card mb-32px highlight-card-info'>
+    <div class='d-flex'>
+        <div class='icon-container'>
+            <img decoding="async" src="/hub/wp-content/themes/theblog-child/assets/images/tip.svg" alt=''/>
+        </div>
+        <div class='d-flex ms-16px'>
+            <p>In his podcast, Dr. Andrew Huberman explains that cortisol is a hormone that is released in the morning to wake us up and stimulate movement. He emphasizes that “cortisol is not necessarily a stress hormone, but rather a hormone of energy.”</p>
+
+        </div>
+    </div>
+</div> -->
+<div class="highlight-card highlight-card-info">
+    <p>In his podcast, Dr. Andrew Huberman explains that cortisol is a hormone that is released in the morning to wake us up and stimulate movement. He emphasizes that “cortisol is not necessarily a stress hormone, but rather a hormone of energy.”</p>
+
+</div><p>This is why it’s linked to wakefulness and circadian rythm.</p>
+<!-- <div class='highlight-card mb-32px highlight-card-info'>
+    <div class='d-flex'>
+        <div class='icon-container'>
+            <img decoding="async" src="/hub/wp-content/themes/theblog-child/assets/images/tip.svg" alt=''/>
+        </div>
+        <div class='d-flex ms-16px'>
+            <p>“So the first tool is to make sure that your highest levels of cortisol are first thing in the morning when you wake up. One way or another, every 24 hours, you will get an increase in cortisol. That is non-negotiable. That is written into your genome. That increase in cortisol is there to wake you up and to make you alert.”</p>
+
+        </div>
+    </div>
+</div> -->
+<div class="highlight-card highlight-card-info">
+    <p>“So the first tool is to make sure that your highest levels of cortisol are first thing in the morning when you wake up. One way or another, every 24 hours, you will get an increase in cortisol. That is non-negotiable. That is written into your genome. That increase in cortisol is there to wake you up and to make you alert.”</p>
+
+</div><p>Cortisol levels naturally vary throughout the day, following a pattern called the cortisol awakening response (CAR), which is closely related to the circadian rhythm. The circadian rhythm is the body&#8217;s internal 24-hour clock that regulates various physiological processes, including sleep, metabolism, and hormone production.</p>
+<p>Cortisol levels are typically lowest around midnight and start to increase in the early morning hours before waking. They reach their peak approximately 30 minutes after.</p>
+<p>Huberman on Biohacking your Cortisol 3 waking up, which is known as the cortisol awakening response. This peak in cortisol levels helps to jumpstart the body and provide energy for the day. After this peak, cortisol levels gradually decline throughout the day, reaching their lowest levels in the evening, which facilitates relaxation and sleep.</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-1331" src="/hub/wp-content/uploads/2023/03/Untitled-3.png" alt="" width="2000" height="1250" srcset="/hub/wp-content/uploads/2023/03/Untitled-3.png 2000w, /hub/wp-content/uploads/2023/03/Untitled-3-300x188.png 300w, /hub/wp-content/uploads/2023/03/Untitled-3-1024x640.png 1024w, /hub/wp-content/uploads/2023/03/Untitled-3-768x480.png 768w, /hub/wp-content/uploads/2023/03/Untitled-3-1536x960.png 1536w, /hub/wp-content/uploads/2023/03/Untitled-3-1568x980.png 1568w" sizes="auto, (max-width: 2000px) 100vw, 2000px" /></p>
+<p>Disruptions to the natural cortisol pattern can negatively impact overall health and wellbeing. Factors such as stress, jet lag, shift work, and exposure to artificial light at night can disrupt the circadian rhythm and cortisol secretion patterns. In the context of biohacking and health optimization, it is essential to maintain a balanced circadian rhythm and cortisol pattern. Strategies include maintaining a consistent sleep-wake schedule, getting exposure to natural sunlight during the day, reducing stress, and avoiding exposure to blue light from electronic devices in the evening.</p>
+<!-- <div class='highlight-card mb-32px highlight-card-info'>
+    <div class='d-flex'>
+        <div class='icon-container'>
+            <img decoding="async" src="/hub/wp-content/themes/theblog-child/assets/images/tip.svg" alt=''/>
+        </div>
+        <div class='d-flex ms-16px'>
+            <p>In his podcast, Dr. Andrew Huberman explains that cortisol is a hormone that is released in the morning to wake us up and stimulate movement. He emphasizes that cortisol is not necessarily a stress hormone, but rather a hormone of energy. According to Dr. Huberman, cortisol and adrenaline are not inherently good or bad, but rather their effects depend on their regulation and timing of release. He suggests that chronic stress can lead to a cascade of stress and negative effects on the body.</p>
+
+        </div>
+    </div>
+</div> -->
+<div class="highlight-card highlight-card-info">
+    <p>In his podcast, Dr. Andrew Huberman explains that cortisol is a hormone that is released in the morning to wake us up and stimulate movement. He emphasizes that cortisol is not necessarily a stress hormone, but rather a hormone of energy. According to Dr. Huberman, cortisol and adrenaline are not inherently good or bad, but rather their effects depend on their regulation and timing of release. He suggests that chronic stress can lead to a cascade of stress and negative effects on the body.</p>
+
+</div><h2>Cortisol’s relationship to testosterone and estrogen</h2>
+<p>Excess Cortisol not only increases stress levels and makes it difficult to sleep, but it can also decrease your sex hormone levels, as Huberman points out:</p>
+<blockquote><p>But seldom is it discussed how sleep actually adjusts things like testosterone and estrogen. And it does it by modifying cortisol. So the molecule cholesterol can be converted into testosterone or estrogen, but there&#8217;s a competition whereby the cholesterol will turn into cortisol and not testosterone, or it&#8217;ll turn into cortisol and not estrogen if stress levels are too high.</p></blockquote>
+<h2>How to measure and track your cortisol</h2>
+<h3>Quest Diagnostics</h3>
+<ul>
+<li>Appointment required</li>
+<li>Clinic visit required</li>
+<li>Venous blood draw</li>
+<li>$65</li>
+<li>Number of biomarkers included: 1</li>
+<li>Sleep and activity tracking: Not Included</li>
+<li>1-5 business days after collection</li>
+</ul>
+<h3>Letsgetchecked</h3>
+<ul>
+<li>At-home kit</li>
+<li>Huberman on Biohacking your Cortisol 5</li>
+<li>Fingerprick sample self-collection (one-size fits all lancets)</li>
+<li>$99 one-time, $69 subscription</li>
+<li>Number of biomarkers included: 1</li>
+<li>Sleep and activity tracking: Not Included</li>
+<li>2-5 business days after collection</li>
+</ul>
+<h3>Inside Tracker</h3>
+<ul>
+<li>Appointment required</li>
+<li>At-home blood draw visit</li>
+<li>$348</li>
+<li>Number of biomarkers included: 17 including Cortisol</li>
+<li>Sleep and activity tracking: Included, 3 devices supported</li>
+<li>2-5 business days after collection</li>
+</ul>
+<h3>SiPhox Health Kit</h3>
+<ul>
+<li>At-home kit delivered to your home</li>
+<li>Fingerprick sample self-collection (low-pain, adjustable lancets)</li>
+<li><a href="https://siphoxhealth.com/pages/pricing">$295 one-time, $85 subscription</a></li>
+<li>Number of biomarkers included: 17 including Cortisol</li>
+<li>Sleep and activity tracking: Included, 200 devices supported</li>
+<li>2-5 business days after collection</li>
+</ul>
+<h2>Biohacking your cortisol with Huberman</h2>
+<p>If you measure your cortisol and find that its out of range, don’t worry! There are plenty of hacks to try for regulating and normalizing your cortisol levels.</p>
+<h3>Morning Sunlight</h3>
+<p>One of the major tools Dr. Huberman recommends is getting sunlight in the morning to regulate cortisol levels. As he puts it, the best way to stimulate that increase in cortisol at the appropriate time is that very soon after waking within 30 minutes or so after waking, get outside view some sunlight, even if it&#8217;s overcast, get outside view some sunlight, no sunglasses.</p>
+<h3>Avoiding blue light at night?</h3>
+<p>And I should also say avoiding bright lights from artificial sources in the evening, generally 10 PM to 4 AM, but certainly in the evening trying to dim lights in your immediate environment, trying to avoid bright screens, bright artificial lights as much as possible and accessing that deep sleep.</p>
+<h3>Eating carbs</h3>
+<p>Huberman notes that you can use carbs (judiciously) to blunt cortisol levels.</p>
+<p>Many people do that reflexively, however, they reach for carbohydrate-rich foods to blunt their cortisol, because that&#8217;s indeed what it does. It blunts cortisol when you ingest high carbohydrate foods, in particular starchy foods.</p>
+<p>In summary, Dr. Andrew Huberman, a neuroscientist at Stanford University, highlights the crucial role that cortisol plays in regulating the body&#8217;s energy levels, focus, immune system function, and inflammation regulation. He explains that cortisol is not inherently good or bad but rather its regulation is critical. Disruptions to the natural cortisol pattern can negatively impact overall health and wellbeing. Therefore, Dr. Huberman suggests various strategies to maintain a balanced circadian rhythm and cortisol pattern, including maintaining a consistent sleep-wake schedule, getting exposure to natural sunlight during the day, reducing stress, and avoiding exposure to blue light from electronic devices in the evening. Measuring and tracking cortisol levels can also help optimize health and wellbeing.</p>
+<p>&nbsp;</p>
+<p style="font-size: 14px;">Disclaimer: If you have any medical questions or concerns, please talk to your healthcare provider. The articles on the SiPhox Health Hub are underpinned by peer-reviewed research and information drawn from medical societies and governmental agencies. However, they are not a substitute for professional medical advice, diagnosis or treatment.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
