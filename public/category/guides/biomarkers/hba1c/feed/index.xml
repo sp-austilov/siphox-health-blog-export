@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>HbA1C &#8211; SiPhox Health</title>
+	<atom:link href="/hub/category/guides/biomarkers/hba1c/feed/" rel="self" type="application/rss+xml" />
+	<link>/hub/</link>
+	<description></description>
+	<lastBuildDate>Fri, 12 Apr 2024 13:51:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>HbA1c At Home- A Tool for Metabolic Health</title>
+		<link>/hub/guides/optimizing-lower-hba1c-better-metabolic-health/</link>
+		
+		<dc:creator><![CDATA[Pavel Korecky]]></dc:creator>
+		<pubDate>Fri, 12 Apr 2024 13:50:11 +0000</pubDate>
+				<category><![CDATA[Guides]]></category>
+		<category><![CDATA[HbA1C]]></category>
+		<category><![CDATA[A1C]]></category>
+		<category><![CDATA[blood test]]></category>
+		<category><![CDATA[diabetes]]></category>
+		<category><![CDATA[glucose]]></category>
+		<category><![CDATA[HbA1c]]></category>
+		<category><![CDATA[Hemoglobin A1C]]></category>
+		<category><![CDATA[insulin]]></category>
+		<category><![CDATA[metabolism]]></category>
+		<category><![CDATA[pre-diabetes]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?p=2490</guid>
+
+					<description><![CDATA[Learn more about HbA1c, an important metabolic marker and long-term indicator of glycemic control.]]></description>
+			
+							<content:encoded><![CDATA[<!-- <div class='highlight-card mb-32px highlight-card-info'>
+    <div class='d-flex'>
+        <div class='icon-container'>
+            <img decoding="async" src="/hub/wp-content/themes/theblog-child/assets/images/tip.svg" alt=''/>
+        </div>
+        <div class='d-flex ms-16px'>
+            <p><strong>Key Takeaways</strong></p>
+<ul>
+<li>Hemoglobin A1C is an important screen for diabetic risk, providing a long-term snapshot of blood glucose concentration in comparison to other tests.</li>
+<li>Levels that are consistently above 5.6% may warrant a visit to a physician.</li>
+<li>Because of its role in diagnosing diabetes, HbA1c is included in SiPhox Health&#8217;s base panel.</li>
+</ul>
+<p>A1C results can be interpreted using the following reference ranges, but it is important to consult with your physician if your level falls outside the normal range.</p>
+<ul>
+<li><span style="text-decoration: underline;"><a href="https://www.abim.org/Media/bfijryql/laboratory-reference-ranges.pdf">Normal</a></span>: 4 &#8211; 5.6%</li>
+<li><span style="text-decoration: underline;"><a href="https://www.cdc.gov/diabetes/managing/managing-blood-sugar/a1c.html#:~:text=A%20normal%20A1C%20level%20is,for%20developing%20type%202%20diabetes.">Pre-Diabetes</a></span>: 5.7 &#8211; 6.4%</li>
+<li><a href="https://www.cdc.gov/diabetes/managing/managing-blood-sugar/a1c.html#:~:text=A%20normal%20A1C%20level%20is,for%20developing%20type%202%20diabetes."><span style="text-decoration: underline;">Diabetes</span>:</a> &gt; 6.5%</li>
+<li><a href="https://www.singlecare.com/blog/normal-a1c-levels/"><span style="text-decoration: underline;">Critical</span></a>: &gt; 9%</li>
+</ul>
+<p>According to the <a href="https://www.cdc.gov/diabetes/managing/managing-blood-sugar/a1c.html#:~:text=The">CDC</a>, several factors can provide a false report of your A1C results, including:</p>
+<ul>
+<li>Kidney failure, liver disease, anemia</li>
+<li>Less common hemoglobin types that people of African, Mediterranean, or Southeast Asian descent may have</li>
+<li>Certain medications</li>
+<li>Blood loss or blood transfusions</li>
+<li>Early or late pregnancy</li>
+</ul>
+<p><!-- notionvc: 6fe1567e-2865-4cb0-93ef-9932c9e94f17 --></p>
+<p><!-- notionvc: 38b58bcd-39ae-4912-80dc-a87dbebd79d1 --></p>
+
+        </div>
+    </div>
+</div> -->
+<div class="highlight-card highlight-card-info">
+    <p><strong>Key Takeaways</strong></p>
+<ul>
+<li>Hemoglobin A1C is an important screen for diabetic risk, providing a long-term snapshot of blood glucose concentration in comparison to other tests.</li>
+<li>Levels that are consistently above 5.6% may warrant a visit to a physician.</li>
+<li>Because of its role in diagnosing diabetes, HbA1c is included in SiPhox Health&#8217;s base panel.</li>
+</ul>
+<p>A1C results can be interpreted using the following reference ranges, but it is important to consult with your physician if your level falls outside the normal range.</p>
+<ul>
+<li><span style="text-decoration: underline;"><a href="https://www.abim.org/Media/bfijryql/laboratory-reference-ranges.pdf">Normal</a></span>: 4 &#8211; 5.6%</li>
+<li><span style="text-decoration: underline;"><a href="https://www.cdc.gov/diabetes/managing/managing-blood-sugar/a1c.html#:~:text=A%20normal%20A1C%20level%20is,for%20developing%20type%202%20diabetes.">Pre-Diabetes</a></span>: 5.7 &#8211; 6.4%</li>
+<li><a href="https://www.cdc.gov/diabetes/managing/managing-blood-sugar/a1c.html#:~:text=A%20normal%20A1C%20level%20is,for%20developing%20type%202%20diabetes."><span style="text-decoration: underline;">Diabetes</span>:</a> &gt; 6.5%</li>
+<li><a href="https://www.singlecare.com/blog/normal-a1c-levels/"><span style="text-decoration: underline;">Critical</span></a>: &gt; 9%</li>
+</ul>
+<p>According to the <a href="https://www.cdc.gov/diabetes/managing/managing-blood-sugar/a1c.html#:~:text=The">CDC</a>, several factors can provide a false report of your A1C results, including:</p>
+<ul>
+<li>Kidney failure, liver disease, anemia</li>
+<li>Less common hemoglobin types that people of African, Mediterranean, or Southeast Asian descent may have</li>
+<li>Certain medications</li>
+<li>Blood loss or blood transfusions</li>
+<li>Early or late pregnancy</li>
+</ul>
+<p><!-- notionvc: 6fe1567e-2865-4cb0-93ef-9932c9e94f17 --></p>
+<p><!-- notionvc: 38b58bcd-39ae-4912-80dc-a87dbebd79d1 --></p>
+
+</div><h2>What is Hemoglobin A1C?</h2>
+<p>Hemoglobin (Hb) is a type of protein that circulates in the blood and is responsible for transporting oxygen from the lungs to tissues throughout the body. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_1');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_1');" ><span id="footnote_plugin_tooltip_2490_1_1" class="footnote_plugin_tooltip_text">[1]</span></a><span id="footnote_plugin_tooltip_text_2490_1_1" class="footnote_tooltip"></span></span></span></p>
+<p>A HbA1c test is a measure of the percent of total hemoglobin that has been glycosylated, or attached to glucose (sugar). This is significant because the percentage of glycosylated HbA1c correlates to the average amount of glucose that is present in the bloodstream over the past 2 to 3 months. Since diabetes is a disease in which blood glucose levels are too high, elevated HbA1c can be indicative of pre-diabetes or diabetes. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_2');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_2');" ><span id="footnote_plugin_tooltip_2490_1_2" class="footnote_plugin_tooltip_text">[2]</span></a><span id="footnote_plugin_tooltip_text_2490_1_2" class="footnote_tooltip"></span></span></p>
+<h2>Why is measuring HbA1c important?</h2>
+<p>Many sources suggest that A1C levels between 5.7% and 6.4% are indicative of pre-diabetes, whereas higher levels are indicative of diabetes. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_3');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_3');" ><span id="footnote_plugin_tooltip_2490_1_3" class="footnote_plugin_tooltip_text">[3]</span></a><span id="footnote_plugin_tooltip_text_2490_1_3" class="footnote_tooltip"></span></span>. According to the CDC, 136 million American adults have either diabetes or pre-diabetes <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_4');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_4');" ><span id="footnote_plugin_tooltip_2490_1_4" class="footnote_plugin_tooltip_text">[4]</span></a><span id="footnote_plugin_tooltip_text_2490_1_4" class="footnote_tooltip"></span></span>, and out of all American adults with diabetes, 47.4% had A1C values over 7%.</span></p>
+<p><span style="text-decoration: underline;">That’s where the HbA1c test really shines— in its value as a predictor and monitor of this serious metabolic disease. Unlike daily blood sugar tests, HbA1c reflects average glucose levels over two to three months, offering a more comprehensive picture of how well diabetes is being controlled.</span></p>
+<p>This helps in making informed decisions about treatment adjustments and lifestyle changes. High HbA1c levels indicate poor blood sugar control, increasing the risk of diabetes-related complications such as cardiovascular disease, kidney damage (nephropathy), eye damage (retinopathy), nerve damage (neuropathy), and poor wound healing. These complications can have a significant impact on quality of life and overall health. Therefore, maintaining HbA1c levels within the recommended range is crucial for reducing the risk of these long-term effects. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_5');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_5');" ><span id="footnote_plugin_tooltip_2490_1_5" class="footnote_plugin_tooltip_text">[5]</span></a><span id="footnote_plugin_tooltip_text_2490_1_5" class="footnote_tooltip"></span></span></p>
+<h2>What factors can influence HbA1c values?</h2>
+<p>Several factors can influence HbA1c readings. Conditions like anemia or hemoglobinopathies can alter hemoglobin levels, affecting HbA1c accuracy. Changes in red blood cell lifespan due to recent blood loss, transfusion, or certain chronic conditions (e.g., kidney or liver disease) can skew results. Some medications impact glucose metabolism, thus influencing HbA1c. Racial and ethnic differences have been observed in HbA1c levels, requiring careful interpretation. Pregnancy also affects HbA1c, necessitating different evaluation standards for pregnant women. It&#8217;s important to consider these factors for accurate assessment of HbA1c results. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_6');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_6');" ><span id="footnote_plugin_tooltip_2490_1_6" class="footnote_plugin_tooltip_text">[6]</span></a><span id="footnote_plugin_tooltip_text_2490_1_6" class="footnote_tooltip"></span></span></p>
+<h2>What lifestyle modifications can be made to regulate HbA1c?</h2>
+<p>Chronic stress can raise blood glucose levels due to the release of stress hormones like cortisol, which can lead to higher HbA1c readings. Finding ways to mitigate this such as deep breathing exercises, meditation, yoga, mindfulness exercises, and adequate sleep may help. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_7');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_7');" ><span id="footnote_plugin_tooltip_2490_1_7" class="footnote_plugin_tooltip_text">[7]</span></a><span id="footnote_plugin_tooltip_text_2490_1_7" class="footnote_tooltip"></span></span> Smoking can increase HbA1c levels independently of glucose concentration. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_8');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_8');" ><span id="footnote_plugin_tooltip_2490_1_8" class="footnote_plugin_tooltip_text">[8]</span></a><span id="footnote_plugin_tooltip_text_2490_1_8" class="footnote_tooltip"></span></span> A higher BMI, often associated with increased fat mass, can lead to insulin resistance, which in turn may raise HbA1c levels. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_9');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_9');" ><span id="footnote_plugin_tooltip_2490_1_9" class="footnote_plugin_tooltip_text">[9]</span></a><span id="footnote_plugin_tooltip_text_2490_1_9" class="footnote_tooltip"></span></span> Conversely, regular exercise improves insulin sensitivity and glucose metabolism, potentially lowering HbA1c. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_10');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_10');" ><span id="footnote_plugin_tooltip_2490_1_10" class="footnote_plugin_tooltip_text">[10]</span></a><span id="footnote_plugin_tooltip_text_2490_1_10" class="footnote_tooltip"></span></span> These lifestyle factors, along with dietary habits, play a significant role in determining HbA1c values and overall metabolic health. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_11');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_11');" ><span id="footnote_plugin_tooltip_2490_1_11" class="footnote_plugin_tooltip_text">[11]</span></a><span id="footnote_plugin_tooltip_text_2490_1_11" class="footnote_tooltip"></span></span></p>
+<p>If your A1C is elevated, Johns Hopkins Medicine <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_12');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_12');" ><span id="footnote_plugin_tooltip_2490_1_12" class="footnote_plugin_tooltip_text">[12]</span></a><span id="footnote_plugin_tooltip_text_2490_1_12" class="footnote_tooltip"></span></span> suggests:</p>
+<ul>
+<li>Losing weight by leading a healthy lifestyle</li>
+<li>Increasing fiber in your diet by choosing veggies, whole grains, and fruit</li>
+<li>Regularly exercising &#8211; particularly, aerobic exercise and strength training</li>
+<li>Quitting smoking</li>
+</ul>
+<div id="1712931477.193009" class="c-virtual_list__item" tabindex="0" role="listitem" aria-setsize="-1" data-qa="virtual-list-item" data-item-key="1712931477.193009">
+<div class="c-message_kit__background c-message_kit__background--hovered p-message_pane_message__message c-message_kit__message" role="presentation" data-qa="message_container" data-qa-unprocessed="false" data-qa-placeholder="false">
+<div class="c-message_kit__hover c-message_kit__hover--hovered" role="document" aria-roledescription="message" data-qa-hover="true">
+<div class="c-message_kit__actions c-message_kit__actions--above">
+<div class="c-message_kit__gutter">
+<div class="c-message_kit__gutter__right" role="presentation" data-qa="message_content">
+<div class="c-message_kit__blocks c-message_kit__blocks--rich_text">
+<div class="c-message__message_blocks c-message__message_blocks--rich_text" data-qa="message-text">
+<div class="p-block_kit_renderer" data-qa="block-kit-renderer">
+<div class="p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first">
+<div class="p-rich_text_block" dir="auto">
+<div class="p-rich_text_section">To manage blood sugar levels effectively, consider reducing carbohydrate intake, as carbs are broken down into sugars by the body. <span style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);"><span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_13');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_13');" ><span id="footnote_plugin_tooltip_2490_1_13" class="footnote_plugin_tooltip_text">[13]</span></a><span id="footnote_plugin_tooltip_text_2490_1_13" class="footnote_tooltip"></span></span> </span>Opt for foods with a lower glycemic index, such as non-starchy vegetables and whole fruits, which are digested and absorbed more slowly, resulting in fewer blood glucose spikes. Additionally, incorporating soluble fiber into your diet can help slow sugar absorption and stabilize blood glucose levels. Good sources of soluble fiber include oats, peas, beans, lentils, vegetables, nuts, flaxseeds, and avocado. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_14');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_14');" ><span id="footnote_plugin_tooltip_2490_1_14" class="footnote_plugin_tooltip_text">[14]</span></a><span id="footnote_plugin_tooltip_text_2490_1_14" class="footnote_tooltip"></span></span> Avoiding high-glycemic foods like sugary treats, white bread, white rice, potatoes, fruit juice, and sweet corn can further support blood sugar management. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_15');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_15');" ><span id="footnote_plugin_tooltip_2490_1_15" class="footnote_plugin_tooltip_text">[15]</span></a><span id="footnote_plugin_tooltip_text_2490_1_15" class="footnote_tooltip"></span></span> Using a Glucometer or CGM (Continuous Glucose Monitor) is a valuable tool for real-time monitoring of how food and exercise impact blood glucose levels. By identifying patterns that may not be apparent otherwise, these devices help refine glycemic control and enhance overall management of blood sugar levels. <span style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);"><span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_16');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_16');" ><span id="footnote_plugin_tooltip_2490_1_16" class="footnote_plugin_tooltip_text">[16]</span></a><span id="footnote_plugin_tooltip_text_2490_1_16" class="footnote_tooltip"></span></span>.</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>Several supplements may aid in lowering HbA1c levels. While the following may aid in lowering A1C, relying solely on supplements for glycemic control is not recommended.</p>
+<ul>
+<li>Cinnamon <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_17');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_17');" ><span id="footnote_plugin_tooltip_2490_1_17" class="footnote_plugin_tooltip_text">[17]</span></a><span id="footnote_plugin_tooltip_text_2490_1_17" class="footnote_tooltip"></span></span></li>
+<li>Magnesium <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_18');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_18');" ><span id="footnote_plugin_tooltip_2490_1_18" class="footnote_plugin_tooltip_text">[18]</span></a><span id="footnote_plugin_tooltip_text_2490_1_18" class="footnote_tooltip"></span></span></li>
+<li>Chromium Picolinate <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_19');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_19');" ><span id="footnote_plugin_tooltip_2490_1_19" class="footnote_plugin_tooltip_text">[19]</span></a><span id="footnote_plugin_tooltip_text_2490_1_19" class="footnote_tooltip"></span></span></li>
+<li>Berberine <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_20');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_20');" ><span id="footnote_plugin_tooltip_2490_1_20" class="footnote_plugin_tooltip_text">[20]</span></a><span id="footnote_plugin_tooltip_text_2490_1_20" class="footnote_tooltip"></span></span></li>
+<li>Fiber (Metamucil or psyllium husk) <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_21');" onkeypress="footnote_moveToReference_2490_1('footnote_plugin_reference_2490_1_21');" ><span id="footnote_plugin_tooltip_2490_1_21" class="footnote_plugin_tooltip_text">[21]</span></a><span id="footnote_plugin_tooltip_text_2490_1_21" class="footnote_tooltip"></span></span></li>
+</ul>
+<p>These supplements show promise in improving insulin sensitivity and reducing blood sugar levels and have been targets for therapeutic studies. However, it&#8217;s important to consult a healthcare provider before starting any supplement regimen, especially for individuals with diabetes or pre-diabetes, as these supplements may interact with other medications and may not be suitable for everyone.</p>
+<h2>Tracking HbA1c with SiPhox Health:</h2>
+<p>&#8211; At-home kit delivered to your home<br />
+&#8211; Fingerprick sample self-collection (low-pain, adjustable lancets)<br />
+&#8211; $295 one-time, $85 subscription<br />
+&#8211; Number of biomarkers included: 17 in the base panel (Thyroid+ and Hormone+ add-on panels available)<br />
+&#8211; Sleep and activity tracking: Included, 200 devices supported<br />
+&#8211; CGM tracking<br />
+&#8211; 2-5 business days after collection</p>
+<p>Subscribe to SiPhox and start tracking your HbA1c + 16 other critical biomarkers as well as sleep, activity, and heart data all in one comprehensive dashboard.</p>
+<p><a href="https://siphoxhealth.com/pages/pricing-tiers"><span style="text-decoration: underline;"><strong>Learn more about SiPhox Health testing here.</strong></span></a></p>
+<div class="speaker-mute footnotes_reference_container"> <div class="footnote_container_prepare"><p><span role="button" tabindex="0" class="footnote_reference_container_label pointer" onclick="footnote_expand_collapse_reference_container_2490_1();">References</span><span role="button" tabindex="0" class="footnote_reference_container_collapse_button" style="" onclick="footnote_expand_collapse_reference_container_2490_1();">[<a id="footnote_reference_container_collapse_button_2490_1">+</a>]</span></p></div> <div id="footnote_references_container_2490_1" style="display: none;"><table class="footnotes_table footnote-reference-container"><caption class="accessibility">References</caption> <tbody> 
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_1" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_1');"><a role="button" tabindex="0" class="footnote_plugin_link" >1</a></th> <td class="footnote_plugin_text"><span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">Billett HH. Hemoglobin and Hematocrit. In: Walker HK, Hall WD, Hurst JW, editors. Clinical Methods: The History, Physical, and Laboratory Examinations. 3rd edition. Boston: Butterworths; 1990. Chapter 151.</span><span class="bk_cite_avail" style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);"> Available from: <span class="footnote_url_wrap">https://www.ncbi.nlm.nih.gov/books/NBK259/</span></span><span style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);"></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_2" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_2');"><a role="button" tabindex="0" class="footnote_plugin_link" >2</a></th> <td class="footnote_plugin_text">MedlinePlus [Internet]. Bethesda (MD): National Library of Medicine (US). Blood Glucose; [updated 2024 Mar 6]. Available from: <span class="footnote_url_wrap">https://medlineplus.gov/bloodglucose.html#</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_3" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_3');"><a role="button" tabindex="0" class="footnote_plugin_link" >3</a></th> <td class="footnote_plugin_text"><i>A1C Looks Back</i>. Understanding A1C Test | ADA. <span class="footnote_url_wrap">https://diabetes.org/about-diabetes/a1c</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_4" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_4');"><a role="button" tabindex="0" class="footnote_plugin_link" >4</a></th> <td class="footnote_plugin_text"><span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">Centers for Disease Control and Prevention. National Diabetes Statistics Report website. <span class="footnote_url_wrap">https://www.cdc.gov/diabetes/data/statistics-report/index.html.</span> Accessed 2024 April 10.</span><span style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);"></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_5" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_5');"><a role="button" tabindex="0" class="footnote_plugin_link" >5</a></th> <td class="footnote_plugin_text">Department of Health &amp; Human Services. (2004, October 28). <i>Diabetes &#8211; long-term effects</i>. Better Health Channel. <span class="footnote_url_wrap">https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/diabetes-long-term-effects</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_6" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_6');"><a role="button" tabindex="0" class="footnote_plugin_link" >6</a></th> <td class="footnote_plugin_text">Centers for Disease Control and Prevention. (2022, September 30). <i>All About Your A1C</i>. Centers for Disease Control and Prevention. <span class="footnote_url_wrap">https://www.cdc.gov/diabetes/managing/managing-blood-sugar/a1c.html#:~:text=The</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_7" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_7');"><a role="button" tabindex="0" class="footnote_plugin_link" >7</a></th> <td class="footnote_plugin_text">Hilliard, M. E., Yi-Frazier, J. P., Hessler, D., Butler, A. M., Anderson, B. J., &amp; Jaser, S. (2016). Stress and A1c Among People with Diabetes Across the Lifespan. <i>Current diabetes reports</i>, <i>16</i>(8), 67. <span class="footnote_url_wrap">https://doi.org/10.1007/s11892-016-0761-3</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_8" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_8');"><a role="button" tabindex="0" class="footnote_plugin_link" >8</a></th> <td class="footnote_plugin_text">Centers for Disease Control and Prevention. (2022a, June 20). <i>Smoking and Diabetes</i>. Centers for Disease Control and Prevention. <span class="footnote_url_wrap">https://www.cdc.gov/diabetes/library/features/smoking-and-diabetes.html</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_9" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_9');"><a role="button" tabindex="0" class="footnote_plugin_link" >9</a></th> <td class="footnote_plugin_text">Sarnings, W., Aman, A., Rasyid, H., Bakri, S., Sanusi, H., As Daud, N., &amp; Zainuddin, A. (2022). Obesity Measurement Index Is Associated With Hemoglobin A1c Level in Young Adult Without Diabetes: A Single-Center Cross-Sectional Study. <em>Journal Of Endocrinology And Metabolism, 12</em>(4-5), 140-145. <span class="footnote_url_wrap">https://jofem.org/index.php/jofem/article/view/823/284284589</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_10" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_10');"><a role="button" tabindex="0" class="footnote_plugin_link" >10</a></th> <td class="footnote_plugin_text">Sheri R. Colberg<span class="al-author-delim">, </span>Ronald J. Sigal<span class="al-author-delim">, </span>Jane E. Yardley<span class="al-author-delim">, </span>Michael C. Riddell<span class="al-author-delim">, </span>David W. Dunstan<span class="al-author-delim">, </span>Paddy C. Dempsey<span class="al-author-delim">, </span>Edward S. Horton<span class="al-author-delim">, </span>Kristin Castorino<span class="al-author-delim">, </span>Deborah F. Tate; Physical Activity/Exercise and Diabetes: A Position Statement of the American Diabetes Association. <em>Diabetes Care</em> 1 November 2016; 39 (11): 2065–2079. <a href="https://doi.org/10.2337/dc16-1728" target="_blank" rel="noopener"><span class="footnote_url_wrap">https://doi.org/10.2337/dc16-1728</span></a></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_11" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_11');"><a role="button" tabindex="0" class="footnote_plugin_link" >11</a></th> <td class="footnote_plugin_text">Managing Diabetes: Six Healthy Steps with the Most Benefit. Johns Hopkins Medicine. (2021, November 1). <span class="footnote_url_wrap">https://www.hopkinsmedicine.org/health/conditions-and-diseases/diabetes/managing-diabetes-six-healthy-steps-with-the-most-benefit</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_12" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_12');"><a role="button" tabindex="0" class="footnote_plugin_link" >12</a></th> <td class="footnote_plugin_text">Managing Diabetes: Six Healthy Steps with the Most Benefit. Johns Hopkins Medicine. (2021, November 1). <span class="footnote_url_wrap">https://www.hopkinsmedicine.org/health/conditions-and-diseases/diabetes/managing-diabetes-six-healthy-steps-with-the-most-benefit</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_13" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_13');"><a role="button" tabindex="0" class="footnote_plugin_link" >13</a></th> <td class="footnote_plugin_text"></span><i style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">Carbohydrates</i><span style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">. UF Health. (n.d.). <span class="footnote_url_wrap">https://ufhealth.org/conditions-and-treatments/carbohydrates</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_14" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_14');"><a role="button" tabindex="0" class="footnote_plugin_link" >14</a></th> <td class="footnote_plugin_text">List of soluble fiber foods for IBS: Holiday edition. List of Soluble Fiber Foods for IBS: Holiday Edition | Bastyr University. (2023a, November 1). <span class="footnote_url_wrap">https://bastyr.edu/about/news/list-soluble-fiber-foods-ibs-holiday-edition</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_15" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_15');"><a role="button" tabindex="0" class="footnote_plugin_link" >15</a></th> <td class="footnote_plugin_text"><i>Understanding Carbs</i>. Carbs and Diabetes | ADA. <span class="footnote_url_wrap">https://diabetes.org/food-nutrition/understanding-carbs</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_16" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_16');"><a role="button" tabindex="0" class="footnote_plugin_link" >16</a></th> <td class="footnote_plugin_text">Wright, E. E., Jr, Kerr, M. S. D., Reyes, I. J., Nabutovsky, Y., &amp; Miller, E. (2021). Use of Flash Continuous Glucose Monitoring Is Associated With A1C Reduction in People With Type 2 Diabetes Treated With Basal Insulin or Noninsulin Therapy. </span><i style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">Diabetes spectrum : a publication of the American Diabetes Association</i><span style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">, </span><i style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">34</i><span style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">(2), 184–189. <span class="footnote_url_wrap">https://doi.org/10.2337/ds20-0069</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_17" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_17');"><a role="button" tabindex="0" class="footnote_plugin_link" >17</a></th> <td class="footnote_plugin_text">Cleveland Clinic. (2024, March 19). Can taking cinnamon supplements lower your blood sugar? <span class="footnote_url_wrap">https://health.clevelandclinic.org/can-taking-cinnamon-lower-your-blood-sugar</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_18" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_18');"><a role="button" tabindex="0" class="footnote_plugin_link" >18</a></th> <td class="footnote_plugin_text">ELDerawi, W. A., Naser, I. A., Taleb, M. H., &amp; Abutair, A. S. (2018). The Effects of Oral Magnesium Supplementation on Glycemic Response among Type 2 Diabetes Patients. Nutrients, 11(1), 44. <span class="footnote_url_wrap">https://doi.org/10.3390/nu11010044</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_19" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_19');"><a role="button" tabindex="0" class="footnote_plugin_link" >19</a></th> <td class="footnote_plugin_text">Watts, M. (2023, October 29). Diabetes and Chromium. <span class="footnote_url_wrap">https://www.diabetes.co.uk/Diabetes-and-Chromium.html</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_20" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_20');"><a role="button" tabindex="0" class="footnote_plugin_link" >20</a></th> <td class="footnote_plugin_text">Yin, J., Xing, H., &amp; Ye, J. (2008). Efficacy of berberine in patients with type 2 diabetes mellitus. Metabolism: clinical and experimental, 57(5), 712–717. <span class="footnote_url_wrap">https://doi.org/10.1016/j.metabol.2008.01.013</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2490_1_21" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2490_1('footnote_plugin_tooltip_2490_1_21');"><a role="button" tabindex="0" class="footnote_plugin_link" >21</a></th> <td class="footnote_plugin_text">Gibb, R. D., McRorie, J. W., Jr, Russell, D. A., Hasselblad, V., &amp; D&#8217;Alessio, D. A. (2015). Psyllium fiber improves glycemic control proportional to loss of glycemic control: a meta-analysis of data in euglycemic subjects, patients at risk of type 2 diabetes mellitus, and patients being treated for type 2 diabetes mellitus. The American journal of clinical nutrition, 102(6), 1604–1614. <span class="footnote_url_wrap">https://doi.org/10.3945/ajcn.115.106989</span></td></tr>
+
+ </tbody> </table> </div></div><script type="text/javascript"> function footnote_expand_reference_container_2490_1() { jQuery('#footnote_references_container_2490_1').show(); jQuery('#footnote_reference_container_collapse_button_2490_1').text('−'); } function footnote_collapse_reference_container_2490_1() { jQuery('#footnote_references_container_2490_1').hide(); jQuery('#footnote_reference_container_collapse_button_2490_1').text('+'); } function footnote_expand_collapse_reference_container_2490_1() { if (jQuery('#footnote_references_container_2490_1').is(':hidden')) { footnote_expand_reference_container_2490_1(); } else { footnote_collapse_reference_container_2490_1(); } } function footnote_moveToReference_2490_1(p_str_TargetID) { footnote_expand_reference_container_2490_1(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.25 }, 500); } } function footnote_moveToAnchor_2490_1(p_str_TargetID) { footnote_expand_reference_container_2490_1(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.25 }, 500); } }</script>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
