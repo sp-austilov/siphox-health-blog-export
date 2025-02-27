@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/6.7.2" created="2025-02-20 07:57" -->
+    <!-- generator="WordPress/6.7.2" created="2025-02-27 17:42" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Thu, 20 Feb 2025 07:57:46 +0000</pubDate>
+            <pubDate>Thu, 27 Feb 2025 17:42:55 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -4628,8 +4628,8 @@ Understanding your Vitamin D levels is crucial for maintaining good health, espe
                                                         		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="female-fertility"><![CDATA[female fertility]]></category>
 		<category domain="post_tag" nicename="fertility"><![CDATA[fertility]]></category>
-		<category domain="category" nicename="fsh"><![CDATA[FSH]]></category>
 		<category domain="post_tag" nicename="fsh"><![CDATA[FSH]]></category>
+		<category domain="category" nicename="fsh"><![CDATA[FSH]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
 		<category domain="post_tag" nicename="womens-health"><![CDATA[womens health]]></category>
                                                             <wp:postmeta>
@@ -5139,8 +5139,8 @@ Check out the table below for an overview of our offerings, and for an in-depth 
 		<category domain="post_tag" nicename="diabetes"><![CDATA[diabetes]]></category>
 		<category domain="post_tag" nicename="glucose"><![CDATA[glucose]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
-		<category domain="category" nicename="hba1c"><![CDATA[HbA1C]]></category>
 		<category domain="post_tag" nicename="hba1c"><![CDATA[HbA1c]]></category>
+		<category domain="category" nicename="hba1c"><![CDATA[HbA1C]]></category>
 		<category domain="post_tag" nicename="hemoglobin-a1c"><![CDATA[Hemoglobin A1C]]></category>
 		<category domain="post_tag" nicename="insulin"><![CDATA[insulin]]></category>
 		<category domain="post_tag" nicename="metabolism"><![CDATA[metabolism]]></category>
@@ -5646,8 +5646,8 @@ In conclusion, DNA methylation analysis offers a powerful tool for predicting bi
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
-                                                        		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
-		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
+                                                        		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
+		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -15530,32 +15530,111 @@ Maintaining balanced protein levels involves addressing any underlying health is
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
-                            <title><![CDATA[test]]></title>
-                            <link>/hub/uncategorized/test/</link>
-                            <pubDate>Thu, 20 Feb 2025 07:57:46 +0000</pubDate>
-                            <dc:creator><![CDATA[rami.abrams@siphoxhealth.com]]></dc:creator>
-                            <guid isPermaLink="false">/hub/?p=3736</guid>
+                            <title><![CDATA[Calcium]]></title>
+                            <link>/hub/biomarkers-2/calcium/</link>
+                            <pubDate>Thu, 27 Feb 2025 17:42:55 +0000</pubDate>
+                            <dc:creator><![CDATA[siphoxhealth]]></dc:creator>
+                            <guid isPermaLink="false">/hub/?p=3739</guid>
                             <description></description>
                             <content:encoded><![CDATA[]]></content:encoded>
-                            <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-                            <wp:post_id>3736</wp:post_id>
-                            <wp:post_date><![CDATA[2025-02-20 07:57:46]]></wp:post_date>
-                            <wp:post_date_gmt><![CDATA[2025-02-20 07:57:46]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2025-02-20 07:57:46]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2025-02-20 07:57:46]]></wp:post_modified_gmt>
+                            <excerpt:encoded><![CDATA[Calcium is a vital mineral that plays a key role in bone strength, muscle function, nerve signaling, and blood clotting.]]></excerpt:encoded>
+                            <wp:post_id>3739</wp:post_id>
+                            <wp:post_date><![CDATA[2025-02-27 17:42:55]]></wp:post_date>
+                            <wp:post_date_gmt><![CDATA[2025-02-27 17:42:55]]></wp:post_date_gmt>
+                            <wp:post_modified><![CDATA[2025-02-27 17:42:15]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2025-02-27 17:42:15]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
-                            <wp:post_name><![CDATA[test]]></wp:post_name>
+                            <wp:post_name><![CDATA[calcium]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
                             <wp:menu_order>0</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
-                                                        		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+                                                        		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[27]]></wp:meta_value>
+                                    <wp:meta_value><![CDATA[7]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[written_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:1:{i:0;s:1:"7";}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_written_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_641a6cfe4d592]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[reviewed_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_reviewed_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_641bbb3ce67e4]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[select_related_posts]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_0_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[[lwptoc]]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_0_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_1_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[<h3 data-start="0" data-end="22">What is Calcium?</h3>
+<p data-start="23" data-end="400">Calcium is a vital mineral that plays a key role in bone strength, muscle function, nerve signaling, and blood clotting. Most of the body's calcium is stored in bones and teeth, while a small but crucial amount circulates in the blood to support various physiological processes. Measuring blood calcium levels helps assess bone health, kidney function, and metabolic balance.</p>
+
+<h3 data-start="402" data-end="433">Why is Calcium Important?</h3>
+<p data-start="434" data-end="995">Calcium levels in the blood must remain tightly regulated for the body to function properly. Low calcium (hypocalcemia) may indicate vitamin D deficiency, kidney disease, or issues with parathyroid function, leading to muscle cramps, tingling, and weakened bones. High calcium (hypercalcemia) can result from conditions like hyperparathyroidism, excessive vitamin D intake, or certain cancers, potentially causing fatigue, kidney stones, and abnormal heart rhythms. Regular calcium testing can help identify imbalances early and prevent complications.</p>
+
+<h3 data-start="997" data-end="1045">How Can I Maintain Optimal Calcium Levels?</h3>
+<p data-start="1046" data-end="1149">Maintaining balanced calcium levels requires proper nutrition, hormone regulation, and kidney health.</p>
+<p data-start="1151" data-end="1173"><strong data-start="1151" data-end="1171">For Low Calcium:</strong></p>
+
+<ul data-start="1174" data-end="1479">
+ 	<li data-start="1174" data-end="1274"><strong data-start="1176" data-end="1204">Increase calcium intake:</strong> Consume dairy products, leafy greens, almonds, and fortified foods.</li>
+ 	<li data-start="1275" data-end="1374"><strong data-start="1277" data-end="1304">Boost vitamin D levels:</strong> Sun exposure or vitamin D supplements help with calcium absorption.</li>
+ 	<li data-start="1375" data-end="1479"><strong data-start="1377" data-end="1421">Monitor parathyroid and kidney function:</strong> Dysfunction in these organs can affect calcium balance.</li>
+</ul>
+<p data-start="1481" data-end="1504"><strong data-start="1481" data-end="1502">For High Calcium:</strong></p>
+
+<ul data-start="1505" data-end="1849">
+ 	<li data-start="1505" data-end="1606"><strong data-start="1507" data-end="1525">Stay hydrated:</strong> Proper fluid intake helps prevent kidney stones and excessive calcium buildup.</li>
+ 	<li data-start="1607" data-end="1705"><strong data-start="1609" data-end="1653">Limit calcium and vitamin D supplements:</strong> Excessive intake can contribute to hypercalcemia.</li>
+ 	<li data-start="1706" data-end="1849"><strong data-start="1708" data-end="1744">Check for underlying conditions:</strong> If levels are persistently high, further testing for parathyroid or metabolic disorders may be needed.</li>
+</ul>
+<h3 data-start="1851" data-end="1880">Where Can I Learn More?</h3>
+<ul data-start="1881" data-end="2006">
+ 	<li data-start="1881" data-end="1947"><span style="text-decoration: underline;"><a href="https://www.bonehealthandosteoporosis.org/patients/treatment/calciumvitamin-d/"><strong data-start="1883" data-end="1945">Bone Health and Osteoporosis Foundation – Calcium and Vitamin D</strong></a></span></li>
+ 	<li data-start="1948" data-end="2006"><span style="text-decoration: underline;"><a href="https://ods.od.nih.gov/factsheets/Calcium-Consumer/"><strong data-start="1950" data-end="2004">National Institutes of Health – Calcium Fact Sheet</strong></a></span></li>
+</ul>
+<p data-start="2008" data-end="2104" data-is-last-node="" data-is-only-node=""><strong data-start="2008" data-end="2023">DISCLAIMER:</strong> <strong>IF YOU ARE CONCERNED ABOUT YOUR CALCIUM LEVELS, PLEASE CONSULT YOUR PHYSICIAN.</strong></p>]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_1_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:2:{i:0;s:11:"text_editor";i:1;s:11:"text_editor";}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_6414004cd50ab]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[limit_modified_date]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
