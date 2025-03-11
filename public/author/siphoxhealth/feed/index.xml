@@ -21,11 +21,12 @@
 	<generator>https://wordpress.org/?v=6.7.2</generator>
 	<item>
 		<title>Understanding Your Lab Results: Beyond Standard Ranges</title>
-		<link>/hub/uncategorized/understanding-your-lab-results-beyond-standard-ranges/</link>
+		<link>/hub/guides/biomarkers/understanding-your-lab-results-beyond-standard-ranges/</link>
 		
 		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
 		<pubDate>Tue, 11 Mar 2025 19:47:33 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Biomarkers]]></category>
+		<category><![CDATA[Guides]]></category>
 		<guid isPermaLink="false">/hub/?p=3743</guid>
 
 					<description><![CDATA[When you receive your lab results, you'll notice two different types of grading systems: the “lab reference range” and our clinical optimization grades “SiPhox Grades”. Understanding the difference between these approaches can help you make better decisions about your health.]]></description>

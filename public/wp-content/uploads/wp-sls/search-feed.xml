@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/6.7.2" created="2025-03-11 19:48" -->
+    <!-- generator="WordPress/6.7.2" created="2025-03-11 20:17" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Tue, 11 Mar 2025 19:48:18 +0000</pubDate>
+            <pubDate>Tue, 11 Mar 2025 20:17:35 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -15639,7 +15639,7 @@ Maintaining balanced protein levels involves addressing any underlying health is
                                                     </item>
                                                 <item>
                             <title><![CDATA[Understanding Your Lab Results: Beyond Standard Ranges]]></title>
-                            <link>/hub/uncategorized/understanding-your-lab-results-beyond-standard-ranges/</link>
+                            <link>/hub/guides/biomarkers/understanding-your-lab-results-beyond-standard-ranges/</link>
                             <pubDate>Tue, 11 Mar 2025 19:47:33 +0000</pubDate>
                             <dc:creator><![CDATA[siphoxhealth]]></dc:creator>
                             <guid isPermaLink="false">/hub/?p=3743</guid>
@@ -15660,7 +15660,8 @@ Maintaining balanced protein levels involves addressing any underlying health is
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
-                                                        		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+                                                        		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
+		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[7]]></wp:meta_value>

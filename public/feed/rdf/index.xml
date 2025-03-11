@@ -19,7 +19,7 @@
 	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=6.7.2" />
 	<items>
 		<rdf:Seq>
-					<rdf:li rdf:resource="/hub/uncategorized/understanding-your-lab-results-beyond-standard-ranges/"/>
+					<rdf:li rdf:resource="/hub/guides/biomarkers/understanding-your-lab-results-beyond-standard-ranges/"/>
 					<rdf:li rdf:resource="/hub/biomarkers-2/calcium/"/>
 					<rdf:li rdf:resource="/hub/biomarkers-2/biomarker-egfr/"/>
 					<rdf:li rdf:resource="/hub/biomarkers-2/biomarker-progesterone/"/>
@@ -32,13 +32,14 @@
 				</rdf:Seq>
 	</items>
 </channel>
-<item rdf:about="/hub/uncategorized/understanding-your-lab-results-beyond-standard-ranges/">
+<item rdf:about="/hub/guides/biomarkers/understanding-your-lab-results-beyond-standard-ranges/">
 	<title>Understanding Your Lab Results: Beyond Standard Ranges</title>
-	<link>/hub/uncategorized/understanding-your-lab-results-beyond-standard-ranges/</link>
+	<link>/hub/guides/biomarkers/understanding-your-lab-results-beyond-standard-ranges/</link>
 
 	<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
 	<dc:date>2025-03-11T19:47:33Z</dc:date>
-			<dc:subject><![CDATA[Uncategorized]]></dc:subject>
+			<dc:subject><![CDATA[Biomarkers]]></dc:subject>
+		<dc:subject><![CDATA[Guides]]></dc:subject>
 
 			<description><![CDATA[When you receive your lab results, you'll notice two different types of grading systems: the “lab reference range” and our clinical optimization grades “SiPhox Grades”. Understanding the difference between these approaches can help you make better decisions about your health.]]></description>
 		<content:encoded><![CDATA[
