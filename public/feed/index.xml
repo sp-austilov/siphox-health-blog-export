@@ -12,7 +12,7 @@
 	<atom:link href="/hub/feed/" rel="self" type="application/rss+xml" />
 	<link>/hub/</link>
 	<description></description>
-	<lastBuildDate>Thu, 27 Feb 2025 17:42:15 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Mar 2025 19:47:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,101 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.2</generator>
 	<item>
+		<title>Understanding Your Lab Results: Beyond Standard Ranges</title>
+		<link>/hub/uncategorized/understanding-your-lab-results-beyond-standard-ranges/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Tue, 11 Mar 2025 19:47:33 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/hub/?p=3743</guid>
+
+					<description><![CDATA[When you receive your lab results, you'll notice two different types of grading systems: the “lab reference range” and our clinical optimization grades “SiPhox Grades”. Understanding the difference between these approaches can help you make better decisions about your health.]]></description>
+			
+
+							<content:encoded><![CDATA[
+<p>When you receive your lab results, you&#8217;ll notice two different types of grading systems: the “lab reference range” and our clinical optimization grades “SiPhox Grades”. Understanding the difference between these approaches can help you make better decisions about your health.</p>
+<h2>Laboratory Reference Ranges: How They&#8217;re Determined</h2>
+<p>Laboratory reference ranges are typically established through a standardized process:</p>
+<ul>
+<li>Testing a large sample of the local population</li>
+<li>Including people who aren&#8217;t necessarily in optimal health</li>
+<li>Using statistical analysis to include approximately 95% of results</li>
+<li>Creating a bell curve of results and setting ranges based on standard deviations</li>
+<li>Focusing primarily on identifying disease states rather than optimal health</li>
+</ul>
+<p>This means these ranges are designed to identify clearly abnormal results rather than guide you toward optimal health. They reflect what&#8217;s common in the general population, not what&#8217;s ideal for your wellbeing.</p>
+<p><a href="/hub/wp-content/uploads/2025/03/image-4.png"><img fetchpriority="high" decoding="async" class="alignleft size-full wp-image-3747" src="/hub/wp-content/uploads/2025/03/image-4.png" alt="" width="1999" height="1387" srcset="/hub/wp-content/uploads/2025/03/image-4.png 1999w, /hub/wp-content/uploads/2025/03/image-4-300x208.png 300w, /hub/wp-content/uploads/2025/03/image-4-1024x710.png 1024w, /hub/wp-content/uploads/2025/03/image-4-768x533.png 768w, /hub/wp-content/uploads/2025/03/image-4-1536x1066.png 1536w, /hub/wp-content/uploads/2025/03/image-4-1568x1088.png 1568w" sizes="(max-width: 1999px) 100vw, 1999px" /></a></p>
+<h2>Our SiPhox Grades: A Research-Based Approach</h2>
+<p>Our grading system is fundamentally different. We determine our ranges through:</p>
+<ul>
+<li>Comprehensive review of peer-reviewed clinical studies</li>
+<li>Analysis of research linking specific biomarker levels to health outcomes</li>
+<li>Evaluation of data from longevity and wellness research</li>
+<li>Integration of findings from multiple populations and health contexts</li>
+<li>Focus on identifying truly optimal ranges for health and performance</li>
+</ul>
+<p>This evidence-based approach allows us to provide more refined and meaningful grades for those looking to improve their health beyond “average”:</p>
+<h3>Pay Attention (Red)</h3>
+<ul>
+<li>Results requiring proactive attention and intervention</li>
+<li>Often still falls within standard laboratory &#8220;normal&#8221; ranges</li>
+<li>Our more stringent criteria serve as early warning signals</li>
+<li>Allows for preventive action before markers become out of range</li>
+<li>Based on clinical evidence of potential health impacts</li>
+<li>May indicate need for lifestyle changes or medical consultation</li>
+<li>Represents an opportunity for early intervention</li>
+</ul>
+<h3>Fair (Yellow)</h3>
+<ul>
+<li>Results that fall short of evidence-based optimal ranges</li>
+<li>Based on studies showing room for health improvement</li>
+<li>May be &#8220;normal&#8221; by standard ranges but below optimal</li>
+<li>Indicates opportunity for targeted optimization</li>
+</ul>
+<h3>Good (Blue)</h3>
+<ul>
+<li>Results aligned with positive health outcomes in research</li>
+<li>Better than population averages</li>
+<li>Supported by studies showing good health markers</li>
+<li>Represents solid foundation for wellness</li>
+</ul>
+<h3>Optimal (Green)</h3>
+<ul>
+<li>Results matching levels seen in research on exceptional health</li>
+<li>Based on studies of longevity and peak performance</li>
+<li>Aligned with best documented health outcomes</li>
+<li>Represents evidence-based ideal targets</li>
+</ul>
+<h2>Why Our Approach Makes a Difference: A Practical Example</h2>
+<p>Let&#8217;s take Vitamin D as an example:</p>
+<ul>
+<li>Standard laboratory range: 25-100 ng/mL</li>
+<li>Our evidence-based optimization grades:
+<ul>
+<li>Pay Attention: &lt; 30 ng/mL or &gt; 100 mg/mL</li>
+<li>Fair: 30-35 ng/mL</li>
+<li>Good: 35-40 ng/mL</li>
+<li>Optimal: 40-70 ng/mL</li>
+</ul>
+</li>
+</ul>
+<p>While a result of 32 ng/mL would be &#8220;within range&#8221; on a standard report, research shows better health outcomes at higher levels. Our grades reflect this scientific evidence rather than just population averages.</p>
+<h2>The Power of Evidence-Based Optimization</h2>
+<p>Our approach offers several advantages:</p>
+<ol>
+<li>More nuanced understanding of your health markers</li>
+<li>Grades based on actual health outcomes rather than population statistics</li>
+<li>Targets derived from scientific research rather than averages</li>
+<li>Focus on optimization rather than just avoiding disease</li>
+</ol>
+<p>Remember: Standard ranges tell you if you&#8217;re similar to the general population. Our grades tell you how close you are to optimal health based on clinical evidence. This difference empowers you to make more informed decisions about your health journey.</p>
+<p><!-- notionvc: 0b8ab9cd-56a6-4518-a6b4-0ea2891ea544 --></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Calcium</title>
 		<link>/hub/biomarkers-2/calcium/</link>
 		
@@ -76,7 +171,7 @@
 							<content:encoded><![CDATA[
 <h3>What is eGFR?</h3>
 <p>Estimated Glomerular Filtration Rate (eGFR) is a test used to assess how well your kidneys are functioning. It estimates the amount of blood that gets filtered by the glomeruli (tiny filters in the kidneys) each minute. The following image depicts the complexity of the kidney, starting with the nephron.</p>
-<p><a href="https://www.niddk.nih.gov/health-information/kidney-disease/glomerular-disease?utm_source=copy&amp;utm_medium=sharing+button&amp;utm_content=%2Fhealth-information%2Fkidney-disease%2Fglomerular-disease" data-sanitized-target="_blank"><img fetchpriority="high" decoding="async" src="https://cdn.shopify.com/s/files/1/0656/6798/9733/files/Screenshot_2024-03-12_133721_480x480.png?v=1710265095" alt="" width="406" height="372" /></a></p>
+<p><a href="https://www.niddk.nih.gov/health-information/kidney-disease/glomerular-disease?utm_source=copy&amp;utm_medium=sharing+button&amp;utm_content=%2Fhealth-information%2Fkidney-disease%2Fglomerular-disease" data-sanitized-target="_blank"><img decoding="async" src="https://cdn.shopify.com/s/files/1/0656/6798/9733/files/Screenshot_2024-03-12_133721_480x480.png?v=1710265095" alt="" width="406" height="372" /></a></p>
 <p><em>National Institute of Diabetes and Digestive and Kidney Diseases &#8211; Glomerular Disease</em></p>
 <p>The nephron is the basic <span style="text-decoration: underline;"><a href="https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work#:~:text=Each%20of%20your%20kidneys%20is,your%20blood%20and%20removes%20wastes." data-sanitized-target="_blank">structural and functional unit of the kidney</a></span>, responsible for the vital process of filtering blood, removing waste products, and regulating water and solute balance in the body. Each human kidney contains approximately one million nephrons, which work collectively to perform the kidney&#8217;s complex functions. The structure of a nephron is specially designed to efficiently filter blood, reabsorb necessary nutrients and water, and excrete waste products in the form of urine.</p>
 <p>The glomerulus plays a crucial role within the kidney as a component of the nephron. The glomerulus is a network of tiny blood vessels (capillaries) located at the beginning of the nephron. Its roles include:</p>
@@ -346,7 +441,7 @@
 
 							<content:encoded><![CDATA[
 <h3><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">What is prolactin (PRL)?</span></h3>
-<p>Prolactin is a hormone synthesized mostly by the pituitary gland in the brain. In women, it is primarily known for regulating milk production after childbirth (lactation) and playing a role in the menstrual cycle. It also affects male reproductive health by regulating testosterone production, impacting libido, erectile function, and fertility. In both men and women, prolactin is released in response to stress, sleep, and other factors, and can have interactions with cortisol and thyroid hormones. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2954_6('footnote_plugin_reference_2954_6_1');" onkeypress="footnote_moveToReference_2954_6('footnote_plugin_reference_2954_6_1');" ><span id="footnote_plugin_tooltip_2954_6_1" class="footnote_plugin_tooltip_text">[1]</span></a><span id="footnote_plugin_tooltip_text_2954_6_1" class="footnote_tooltip"></span></span></span></p>
+<p>Prolactin is a hormone synthesized mostly by the pituitary gland in the brain. In women, it is primarily known for regulating milk production after childbirth (lactation) and playing a role in the menstrual cycle. It also affects male reproductive health by regulating testosterone production, impacting libido, erectile function, and fertility. In both men and women, prolactin is released in response to stress, sleep, and other factors, and can have interactions with cortisol and thyroid hormones. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2954_7('footnote_plugin_reference_2954_7_1');" onkeypress="footnote_moveToReference_2954_7('footnote_plugin_reference_2954_7_1');" ><span id="footnote_plugin_tooltip_2954_7_1" class="footnote_plugin_tooltip_text">[1]</span></a><span id="footnote_plugin_tooltip_text_2954_7_1" class="footnote_tooltip"></span></span></span></p>
 <h3><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Why is prolactin important?</span></h3>
 <p>PRL is critical for the analysis of a variety of issues, and abnormal levels may indicate pituitary gland irregularities, including tumors. <span style="text-decoration: underline;"><a href="https://home.siphoxhealth.com/pricing/unlimited?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=&amp;utm_term=siphox%20health&amp;utm_content=&amp;tw_source=google&amp;tw_adid=687640324952&amp;tw_campaign=19925277251&amp;gad_source=1&amp;gclid=Cj0KCQjwvb-zBhCmARIsAAfUI2uY8He_1BAaSvECNZqCwMQtT6Y41yJBFoDVgu-iAMehWiJa-uL2CFIaAjjgEALw_wcB">SiPhox Health</a></span> includes PRL in our Hormone+ Panel to help monitor and manage PRL levels.</p>
 <p>In men, low PRL is correlated with negative metabolic, psychological, and sexual characteristics. On the other hand, high PRL can inhibit testosterone production, causing decreased energy, muscle mass, and blood count (anemia). High PRL can also lead to erectile dysfunction, decreased libido, and low sperm production</p>
@@ -358,7 +453,7 @@
 <li><span style="text-decoration: underline;">Nonpregnant women</span>: &lt;25 ng/mL</li>
 <li><span style="text-decoration: underline;">Pregnant women</span>: 80-400 ng/mL</li>
 </ul>
-<p>In both men and women, certain medications (antipsychotic, cardiovascular, opiates, etc.), health conditions (infections, autoimmune disease, Sheehan syndrome, etc.), and pituitary gland disorders (prolactinomas or pituitary gland tumors) can all cause abnormally high or low levels of prolactin, which is why it is important to consult with your physician if you are concerned about any of your results. It is important to remember that prolactin levels follow a circadian rhythm associated with the onset of sleep and can appear higher or lower depending on a multitude of factors, with the <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6304861/" data-sanitized-target="_blank">optimal timing</a></span> for blood tests being 2-3 hours after waking and while fasting. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2954_6('footnote_plugin_reference_2954_6_2');" onkeypress="footnote_moveToReference_2954_6('footnote_plugin_reference_2954_6_2');" ><span id="footnote_plugin_tooltip_2954_6_2" class="footnote_plugin_tooltip_text">[2]</span></a><span id="footnote_plugin_tooltip_text_2954_6_2" class="footnote_tooltip"></span></span></span></p>
+<p>In both men and women, certain medications (antipsychotic, cardiovascular, opiates, etc.), health conditions (infections, autoimmune disease, Sheehan syndrome, etc.), and pituitary gland disorders (prolactinomas or pituitary gland tumors) can all cause abnormally high or low levels of prolactin, which is why it is important to consult with your physician if you are concerned about any of your results. It is important to remember that prolactin levels follow a circadian rhythm associated with the onset of sleep and can appear higher or lower depending on a multitude of factors, with the <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6304861/" data-sanitized-target="_blank">optimal timing</a></span> for blood tests being 2-3 hours after waking and while fasting. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2954_7('footnote_plugin_reference_2954_7_2');" onkeypress="footnote_moveToReference_2954_7('footnote_plugin_reference_2954_7_2');" ><span id="footnote_plugin_tooltip_2954_7_2" class="footnote_plugin_tooltip_text">[2]</span></a><span id="footnote_plugin_tooltip_text_2954_7_2" class="footnote_tooltip"></span></span></span></p>
 <h3>How can I maintain optimal Prolactin levels?</h3>
 <p>If your PRL levels are abnormal, consider the following strategies:</p>
 <p><strong>Dietary Changes:</strong> Consuming a diet rich in <span style="text-decoration: underline;"><a href="https://my.clevelandclinic.org/health/articles/22588-dopamine-deficiency">tyrosine</a></span> (dopamine precursor) and <span style="text-decoration: underline;"><a href="https://pubmed.ncbi.nlm.nih.gov/9316450/">vitamin C</a></span> (dopamine inhibitor) can help to lower prolactin levels since dopamine suppresses prolactin. Limiting <span style="text-decoration: underline;"><a href="https://pubmed.ncbi.nlm.nih.gov/15085559/">gluten</a></span> consumption can also help to decrease prolactin production since gluten stimulates prolactin release.</p>
@@ -374,13 +469,13 @@
 <li><span style="text-decoration: underline;"><a href="https://link.springer.com/article/10.1007/s12020-022-03145-1" data-sanitized-target="_blank">Springer Link &#8211; Cardiometabolic profile of young women with hypoprolactinemia</a></span></li>
 </ul>
 <p><strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong></p>
-<div class="speaker-mute footnotes_reference_container"> <div class="footnote_container_prepare"><p><span role="button" tabindex="0" class="footnote_reference_container_label pointer" onclick="footnote_expand_collapse_reference_container_2954_6();">References</span><span role="button" tabindex="0" class="footnote_reference_container_collapse_button" style="" onclick="footnote_expand_collapse_reference_container_2954_6();">[<a id="footnote_reference_container_collapse_button_2954_6">+</a>]</span></p></div> <div id="footnote_references_container_2954_6" style="display: none;"><table class="footnotes_table footnote-reference-container"><caption class="accessibility">References</caption> <tbody> 
+<div class="speaker-mute footnotes_reference_container"> <div class="footnote_container_prepare"><p><span role="button" tabindex="0" class="footnote_reference_container_label pointer" onclick="footnote_expand_collapse_reference_container_2954_7();">References</span><span role="button" tabindex="0" class="footnote_reference_container_collapse_button" style="" onclick="footnote_expand_collapse_reference_container_2954_7();">[<a id="footnote_reference_container_collapse_button_2954_7">+</a>]</span></p></div> <div id="footnote_references_container_2954_7" style="display: none;"><table class="footnotes_table footnote-reference-container"><caption class="accessibility">References</caption> <tbody> 
 
-<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2954_6_1" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2954_6('footnote_plugin_tooltip_2954_6_1');"><a role="button" tabindex="0" class="footnote_plugin_link" >1</a></th> <td class="footnote_plugin_text"><span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">Al-Chalabi M, Bass AN, Alsalman I. Physiology, Prolactin. [Updated 2023 Jul 24]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024 Jan-. </span><span class="bk_cite_avail" style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">Available from: <span class="footnote_url_wrap">https://www.ncbi.nlm.nih.gov/books/NBK507829/</span></td></tr>
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2954_7_1" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2954_7('footnote_plugin_tooltip_2954_7_1');"><a role="button" tabindex="0" class="footnote_plugin_link" >1</a></th> <td class="footnote_plugin_text"><span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">Al-Chalabi M, Bass AN, Alsalman I. Physiology, Prolactin. [Updated 2023 Jul 24]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024 Jan-. </span><span class="bk_cite_avail" style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">Available from: <span class="footnote_url_wrap">https://www.ncbi.nlm.nih.gov/books/NBK507829/</span></td></tr>
 
-<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2954_6_2" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2954_6('footnote_plugin_tooltip_2954_6_2');"><a role="button" tabindex="0" class="footnote_plugin_link" >2</a></th> <td class="footnote_plugin_text"><span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">Thapa S, Bhusal K. Hyperprolactinemia. [Updated 2023 Jul 24]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024 Jan-. </span><span class="bk_cite_avail" style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">Available from: <span class="footnote_url_wrap">https://www.ncbi.nlm.nih.gov/books/NBK537331/</span></td></tr>
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2954_7_2" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2954_7('footnote_plugin_tooltip_2954_7_2');"><a role="button" tabindex="0" class="footnote_plugin_link" >2</a></th> <td class="footnote_plugin_text"><span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">Thapa S, Bhusal K. Hyperprolactinemia. [Updated 2023 Jul 24]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024 Jan-. </span><span class="bk_cite_avail" style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">Available from: <span class="footnote_url_wrap">https://www.ncbi.nlm.nih.gov/books/NBK537331/</span></td></tr>
 
- </tbody> </table> </div></div><script type="text/javascript"> function footnote_expand_reference_container_2954_6() { jQuery('#footnote_references_container_2954_6').show(); jQuery('#footnote_reference_container_collapse_button_2954_6').text('−'); } function footnote_collapse_reference_container_2954_6() { jQuery('#footnote_references_container_2954_6').hide(); jQuery('#footnote_reference_container_collapse_button_2954_6').text('+'); } function footnote_expand_collapse_reference_container_2954_6() { if (jQuery('#footnote_references_container_2954_6').is(':hidden')) { footnote_expand_reference_container_2954_6(); } else { footnote_collapse_reference_container_2954_6(); } } function footnote_moveToReference_2954_6(p_str_TargetID) { footnote_expand_reference_container_2954_6(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.25 }, 500); } } function footnote_moveToAnchor_2954_6(p_str_TargetID) { footnote_expand_reference_container_2954_6(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.25 }, 500); } }</script>]]></content:encoded>
+ </tbody> </table> </div></div><script type="text/javascript"> function footnote_expand_reference_container_2954_7() { jQuery('#footnote_references_container_2954_7').show(); jQuery('#footnote_reference_container_collapse_button_2954_7').text('−'); } function footnote_collapse_reference_container_2954_7() { jQuery('#footnote_references_container_2954_7').hide(); jQuery('#footnote_reference_container_collapse_button_2954_7').text('+'); } function footnote_expand_collapse_reference_container_2954_7() { if (jQuery('#footnote_references_container_2954_7').is(':hidden')) { footnote_expand_reference_container_2954_7(); } else { footnote_collapse_reference_container_2954_7(); } } function footnote_moveToReference_2954_7(p_str_TargetID) { footnote_expand_reference_container_2954_7(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.25 }, 500); } } function footnote_moveToAnchor_2954_7(p_str_TargetID) { footnote_expand_reference_container_2954_7(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.25 }, 500); } }</script>]]></content:encoded>
 					
 		
 		
@@ -547,68 +642,6 @@
 <li data-sanitized-data-mce-fragment="1"><span style="text-decoration: underline;"><a href="https://www.cdc.gov/diabetes/library/spotlights/blood-sugar.html">CDC &#8211; 10 Surprising Things That Can Spike Your Glucose</a></span></li>
 </ul>
 <p data-sanitized-data-mce-fragment="1"><strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>ApoB</title>
-		<link>/hub/biomarkers-2/biomarker-apob/</link>
-		
-		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Wed, 19 Jun 2024 19:32:52 +0000</pubDate>
-				<category><![CDATA[Biomarkers]]></category>
-		<category><![CDATA[ApoB]]></category>
-		<category><![CDATA[at-home]]></category>
-		<category><![CDATA[at-home test]]></category>
-		<category><![CDATA[biomarkers]]></category>
-		<category><![CDATA[blood]]></category>
-		<category><![CDATA[blood test]]></category>
-		<category><![CDATA[cardiovascular]]></category>
-		<category><![CDATA[cholesterol]]></category>
-		<category><![CDATA[health]]></category>
-		<guid isPermaLink="false">https://hub.siphoxhealth.com/?p=2908</guid>
-
-					<description><![CDATA[ApoB is an atherogenic (forms plaques in arteries) particle that transports "bad" cholesterol. Studies show that ApoB is a better predictor of cardiovascular events such as myocardial infarction than LDL-C.]]></description>
-			
-
-							<content:encoded><![CDATA[
-<h3 style="text-align: left;" data-sanitized-data-mce-style="text-align: left;"><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">What is ApoB ?</span></h3>
-<p style="text-align: left;" data-sanitized-data-mce-style="text-align: left;"><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0"><span style="text-decoration: underline;"><a href="https://my.clevelandclinic.org/health/diagnostics/24992-apolipoprotein-b-test" data-sanitized-data-mce-href="https://my.clevelandclinic.org/health/diagnostics/24992-apolipoprotein-b-test" data-sanitized-target="_blank">ApoB</a></span> <span data-sanitized-data-mce-fragment="1">(apolipoprotein B) </span>is an atherogenic (artery plaque-forming) particle that transports &#8220;bad&#8221; cholesterol. Each particle of VLDL, IDL, <span style="text-decoration: underline;"><a href="https://siphoxhealth.com/pages/ldl" data-sanitized-target="_blank">LDL</a></span>, or Lp(a) contains a single molecule of ApoB. Since ApoB measures additional types of &#8220;bad cholesterol&#8221; rather than just LDL-C, <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8540246/" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8540246/">studies</a></span> have shown that ApoB is a better predictor of cardiovascular events such as myocardial infarction than LDL-C in both men and women, independent of age.</span></p>
-<p style="text-align: left;" data-sanitized-data-mce-style="text-align: left;"><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0"><a href="https://medlineplus.gov/ldlthebadcholesterol.html#:~:text=LDL%20and%20HDL%20have%20different,stands%20for%20high%2Ddensity%20lipoproteins." data-sanitized-target="_blank"><strong>Note</strong></a>: While VLDL, IDL, LDL, or Lp(a) particles in themselves are not &#8220;bad&#8221;, high levels of these lipoproteins can build up and block arteries (<span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/books/NBK305896/" data-sanitized-target="_blank">pro-atherogenic</a></span>). These lipoproteins, however, are healthy in moderation, and very low levels can have negative implications as well.</span></p>
-<h3 style="text-align: left;" data-sanitized-data-mce-style="text-align: left;"><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">Why is ApoB important?</span></h3>
-<p style="text-align: left;" data-sanitized-data-mce-style="text-align: left;"><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">Because there is only one ApoB per LDL particle, this measurement gives us the most accurate estimate of the quantity of non-HDL cholesterol relative to total cholesterol. <span style="text-decoration: underline;"><a href="https://www.thelancet.com/journals/lanhl/article/PIIS2666-7568(21)00086-6/fulltext#:~:text=Higher%20apoB%20shortens%20lifespan%2C%20increases,cholesterol%2C%20increases%20risk%20of%20diabetes." data-sanitized-data-mce-href="https://www.thelancet.com/journals/lanhl/article/PIIS2666-7568(21)00086-6/fulltext#:~:text=Higher%20apoB%20shortens%20lifespan%2C%20increases,cholesterol%2C%20increases%20risk%20of%20diabetes." data-sanitized-target="_blank">High </a></span><span data-sanitized-data-mce-fragment="1"><span style="text-decoration: underline;"><a href="https://www.thelancet.com/journals/lanhl/article/PIIS2666-7568(21)00086-6/fulltext#:~:text=Higher%20apoB%20shortens%20lifespan%2C%20increases,cholesterol%2C%20increases%20risk%20of%20diabetes." data-sanitized-data-mce-href="https://www.thelancet.com/journals/lanhl/article/PIIS2666-7568(21)00086-6/fulltext#:~:text=Higher%20apoB%20shortens%20lifespan%2C%20increases,cholesterol%2C%20increases%20risk%20of%20diabetes." data-sanitized-target="_blank">ApoB</a></span> </span>levels are strongly associated with increased risk for <span data-sanitized-data-mce-fragment="1">cardiovascular events and </span>shortened lifespan. <span style="text-decoration: underline;"><a href="https://home.siphoxhealth.com/pricing/unlimited?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=&amp;utm_term=siphox%20health&amp;utm_content=&amp;tw_source=google&amp;tw_adid=687640324952&amp;tw_campaign=19925277251&amp;gad_source=1&amp;gclid=Cj0KCQjwvb-zBhCmARIsAAfUI2uY8He_1BAaSvECNZqCwMQtT6Y41yJBFoDVgu-iAMehWiJa-uL2CFIaAjjgEALw_wcB">SiPhox Health</a></span> includes ApoB in our foundation panel to help monitor and manage ApoB levels.</span></p>
-<h3 style="text-align: left;" data-sanitized-data-mce-style="text-align: left;"><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">How can I better understand my results?</span></h3>
-<p style="text-align: left;" data-sanitized-data-mce-style="text-align: left;"><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">To better interpret your results, here are a few values that can be used to gauge your cardiovascular health. It is important to consult with your physician if you are concerned with any of your results.</span></p>
-<ul style="text-align: left;" data-sanitized-data-mce-style="text-align: left;">
-<li><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0"><span style="text-decoration: underline;"><a href="https://www.mayocliniclabs.com/test-catalog/overview/614544#Clinical-and-Interpretive" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.mayocliniclabs.com/test-catalog/overview/614544#Clinical-and-Interpretive">Low</a></span>: &lt; 50 mg/dL</span></li>
-<li><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0"><span style="text-decoration: underline;"><a href="https://my.clevelandclinic.org/health/diagnostics/24992-apolipoprotein-b-test" data-sanitized-data-mce-href="https://my.clevelandclinic.org/health/diagnostics/24992-apolipoprotein-b-test" data-sanitized-target="_blank">Optimal</a></span>: 50-65 mg/dL</span></li>
-<li><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0"><span style="text-decoration: underline;"><a href="https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=167&amp;contentid=apolipoprotein_b100#:~:text=Normal%20levels%20of%20ApoB%2D100,risk%20of%20developing%20cardiovascular%20disease." data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=167&amp;contentid=apolipoprotein_b100#:~:text=Normal%20levels%20of%20ApoB%2D100,risk%20of%20developing%20cardiovascular%20disease.">Normal</a></span>: 65-100 mg/dL</span></li>
-<li><span style="text-decoration: underline;">High</span>: 100-120 mg/dL</li>
-<li><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0"><span style="text-decoration: underline;"><a href="https://www.ahajournals.org/doi/10.1161/CIRCOUTCOMES.110.959247" data-sanitized-target="_blank">High risk of vascular disease</a></span>: &gt; 120 mg/dL</span></li>
-</ul>
-<p>Ranges specific to the Cardiometabolic Program:</p>
-<ul>
-<li>Optimal: ≤70 mg/dL</li>
-<li>Good: 70.1-89.9 mg/dL</li>
-<li>Fair: 90-104.9 mg/dL</li>
-<li>Pay attention: 105-129.9 mg/dL</li>
-<li>Alert: ≥130 mg/dL</li>
-</ul>
-<p style="text-align: left;" data-sanitized-data-mce-style="text-align: left;"><span style="text-decoration: underline;"><a href="https://my.clevelandclinic.org/health/diagnostics/24992-apolipoprotein-b-test" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://my.clevelandclinic.org/health/diagnostics/24992-apolipoprotein-b-test">High ApoB</a></span> results may be indicative of pregnancy, high cholesterol, or kidney issues. <span style="text-decoration: underline;"><a href="https://my.clevelandclinic.org/health/diagnostics/24992-apolipoprotein-b-test" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://my.clevelandclinic.org/health/diagnostics/24992-apolipoprotein-b-test">Low ApoB</a></span> on the other hand may be indicative of sepsis, liver disease, malabsorption, or high estrogen levels.</p>
-<h3 data-sanitized-data-mce-style="text-align: left;">How can I maintain optimal ApoB levels?</h3>
-<p style="text-align: left;" data-sanitized-data-mce-style="text-align: left;">If your ApoB levels are higher than normal, you can try:</p>
-<p data-sanitized-data-mce-style="text-align: left;"><span style="text-decoration: underline;"><strong><a href="https://my.clevelandclinic.org/health/diagnostics/24992-apolipoprotein-b-test">Lifestyle changes</a></strong></span><strong>: </strong>If your ApoB levels are higher than normal, exercising for at least 30 minutes a day and maintaining a healthy weight can help in maintaining healthy ApoB levels. Avoiding tobacco also aids in improving ApoB levels.</p>
-<p data-sanitized-data-mce-style="text-align: left;"><span style="text-decoration: underline;"><strong><a href="https://my.clevelandclinic.org/health/diagnostics/24992-apolipoprotein-b-test">Dietary Adjustments</a></strong></span><strong>:</strong> Limiting saturated and trans fat intake can help lower high ApoB levels and increasing consumption of fruits and vegetables. Additionally consuming foods with omega-3s (such as cold-water fish and walnuts), psyllium, and/or phytosterols (such as nuts and whole grains) can help improve ApoB levels. Following a balanced <span style="text-decoration: underline;"><a href="https://pubmed.ncbi.nlm.nih.gov/27821191/">Mediterranean</a></span> diet has also been proven to aid in maintaining healthy ApoB levels.</p>
-<p data-sanitized-data-mce-style="text-align: left;"><span style="text-decoration: underline;"><a href="https://my.clevelandclinic.org/health/diagnostics/24992-apolipoprotein-b-test"><strong>Medication</strong></a></span><a href="https://my.clevelandclinic.org/health/diagnostics/24992-apolipoprotein-b-test"><strong><span style="text-decoration: underline;">:</span> </strong></a>If your ApoB levels are considerably high, consult your physician to see if taking a cholesterol-lowering drug would be a good option for you.</p>
-<h3 style="text-align: left;" data-sanitized-data-mce-style="text-align: left;"><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">Where can I learn more?</span></h3>
-<ul>
-<li style="text-align: left;" data-sanitized-data-mce-style="text-align: left;"><span style="text-decoration: underline;"><a href="https://peterattiamd.com/tomdayspring2/"><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0"><span class="link-annotation-unknown-block-id-224174883">Peter Attia (podcast) &#8211; Dr. Dayspring: Lipid metrics, measurements, cholesterol regulation</span></span></a></span></li>
-<li style="text-align: left;" data-sanitized-data-mce-style="text-align: left;"><span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3146376/">NIH &#8211; Opening a New Lipid “Apo-thecary”</a></span></li>
-<li style="text-align: left;" data-sanitized-data-mce-style="text-align: left;"><span style="text-decoration: underline;"><a href="https://my.clevelandclinic.org/health/diagnostics/24992-apolipoprotein-b-test">Cleveland Clinic &#8211; ApoB Test</a></span></li>
-</ul>
-<p style="text-align: left;" data-sanitized-data-mce-style="text-align: left;"><strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong></p>
 ]]></content:encoded>
 					
 		
