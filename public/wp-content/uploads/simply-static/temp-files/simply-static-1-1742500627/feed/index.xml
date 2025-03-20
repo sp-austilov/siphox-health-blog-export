@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SiPhox Health</title>
+	<atom:link href="/hub/feed/" rel="self" type="application/rss+xml" />
+	<link>/hub/</link>
+	<description></description>
+	<lastBuildDate>Wed, 19 Mar 2025 19:25:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>Understanding Your Lab Results: Beyond Standard Ranges</title>
+		<link>/hub/guides/biomarkers/understanding-your-lab-results-beyond-standard-ranges/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Tue, 11 Mar 2025 19:47:33 +0000</pubDate>
+				<category><![CDATA[Biomarkers]]></category>
+		<category><![CDATA[Guides]]></category>
+		<guid isPermaLink="false">/hub/?p=3743</guid>
+
+					<description><![CDATA[When you receive your lab results, you'll notice two different types of grading systems: the “lab reference range” and our clinical optimization grades “SiPhox Grades”. Understanding the difference between these approaches can help you make better decisions about your health.]]></description>
+			
+
+							<content:encoded><![CDATA[
+<p>When you receive your lab results, you&#8217;ll notice two different types of grading systems: the “lab reference range” and our clinical optimization grades “SiPhox Grades”. Understanding the difference between these approaches can help you make better decisions about your health.</p>
+<h2>Laboratory Reference Ranges: How They&#8217;re Determined</h2>
+<p>Laboratory reference ranges are typically established through a standardized process:</p>
+<ul>
+<li>Testing a large sample of the local population</li>
+<li>Including people who aren&#8217;t necessarily in optimal health</li>
+<li>Using statistical analysis to include approximately 95% of results</li>
+<li>Creating a bell curve of results and setting ranges based on standard deviations</li>
+<li>Focusing primarily on identifying disease states rather than optimal health</li>
+</ul>
+<p>This means these ranges are designed to identify clearly abnormal results rather than guide you toward optimal health. They reflect what&#8217;s common in the general population, not what&#8217;s ideal for your wellbeing.</p>
+<p><a href="/hub/wp-content/uploads/2025/03/image-4.png"><img fetchpriority="high" decoding="async" class="alignleft size-full wp-image-3747" src="/hub/wp-content/uploads/2025/03/image-4.png" alt="" width="1999" height="1387" srcset="/hub/wp-content/uploads/2025/03/image-4.png 1999w, /hub/wp-content/uploads/2025/03/image-4-300x208.png 300w, /hub/wp-content/uploads/2025/03/image-4-1024x710.png 1024w, /hub/wp-content/uploads/2025/03/image-4-768x533.png 768w, /hub/wp-content/uploads/2025/03/image-4-1536x1066.png 1536w, /hub/wp-content/uploads/2025/03/image-4-1568x1088.png 1568w" sizes="(max-width: 1999px) 100vw, 1999px" /></a></p>
+<h2>Our SiPhox Grades: A Research-Based Approach</h2>
+<p>Our grading system is fundamentally different. We determine our ranges through:</p>
+<ul>
+<li>Comprehensive review of peer-reviewed clinical studies</li>
+<li>Analysis of research linking specific biomarker levels to health outcomes</li>
+<li>Evaluation of data from longevity and wellness research</li>
+<li>Integration of findings from multiple populations and health contexts</li>
+<li>Focus on identifying truly optimal ranges for health and performance</li>
+</ul>
+<p>This evidence-based approach allows us to provide more refined and meaningful grades for those looking to improve their health beyond “average”:</p>
+<h3>Pay Attention (Red)</h3>
+<ul>
+<li>Results requiring proactive attention and intervention</li>
+<li>Often still falls within standard laboratory &#8220;normal&#8221; ranges</li>
+<li>Our more stringent criteria serve as early warning signals</li>
+<li>Allows for preventive action before markers become out of range</li>
+<li>Based on clinical evidence of potential health impacts</li>
+<li>May indicate need for lifestyle changes or medical consultation</li>
+<li>Represents an opportunity for early intervention</li>
+</ul>
+<h3>Fair (Yellow)</h3>
+<ul>
+<li>Results that fall short of evidence-based optimal ranges</li>
+<li>Based on studies showing room for health improvement</li>
+<li>May be &#8220;normal&#8221; by standard ranges but below optimal</li>
+<li>Indicates opportunity for targeted optimization</li>
+</ul>
+<h3>Good (Blue)</h3>
+<ul>
+<li>Results aligned with positive health outcomes in research</li>
+<li>Better than population averages</li>
+<li>Supported by studies showing good health markers</li>
+<li>Represents solid foundation for wellness</li>
+</ul>
+<h3>Optimal (Green)</h3>
+<ul>
+<li>Results matching levels seen in research on exceptional health</li>
+<li>Based on studies of longevity and peak performance</li>
+<li>Aligned with best documented health outcomes</li>
+<li>Represents evidence-based ideal targets</li>
+</ul>
+<h2>Why Our Approach Makes a Difference: A Practical Example</h2>
+<p>Let&#8217;s take Vitamin D as an example:</p>
+<ul>
+<li>Standard laboratory range: 25-100 ng/mL</li>
+<li>Our evidence-based optimization grades:
+<ul>
+<li>Pay Attention: &lt; 30 ng/mL or &gt; 100 mg/mL</li>
+<li>Fair: 30-35 ng/mL</li>
+<li>Good: 35-40 ng/mL</li>
+<li>Optimal: 40-70 ng/mL</li>
+</ul>
+</li>
+</ul>
+<p>While a result of 32 ng/mL would be &#8220;within range&#8221; on a standard report, research shows better health outcomes at higher levels. Our grades reflect this scientific evidence rather than just population averages.</p>
+<h2>The Power of Evidence-Based Optimization</h2>
+<p>Our approach offers several advantages:</p>
+<ol>
+<li>More nuanced understanding of your health markers</li>
+<li>Grades based on actual health outcomes rather than population statistics</li>
+<li>Targets derived from scientific research rather than averages</li>
+<li>Focus on optimization rather than just avoiding disease</li>
+</ol>
+<p>Remember: Standard ranges tell you if you&#8217;re similar to the general population. Our grades tell you how close you are to optimal health based on clinical evidence. This difference empowers you to make more informed decisions about your health journey.</p>
+<p><!-- notionvc: 0b8ab9cd-56a6-4518-a6b4-0ea2891ea544 --></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Calcium</title>
+		<link>/hub/biomarkers-2/calcium/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Thu, 27 Feb 2025 17:42:55 +0000</pubDate>
+				<category><![CDATA[Biomarkers]]></category>
+		<guid isPermaLink="false">/hub/?p=3739</guid>
+
+					<description><![CDATA[Calcium is a vital mineral that plays a key role in bone strength, muscle function, nerve signaling, and blood clotting.]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h3 data-start="0" data-end="22">What is Calcium?</h3>
+<p data-start="23" data-end="400">Calcium is a vital mineral that plays a key role in bone strength, muscle function, nerve signaling, and blood clotting. Most of the body&#8217;s calcium is stored in bones and teeth, while a small but crucial amount circulates in the blood to support various physiological processes. Measuring blood calcium levels helps assess bone health, kidney function, and metabolic balance.</p>
+<h3 data-start="402" data-end="433">Why is Calcium Important?</h3>
+<p data-start="434" data-end="995">Calcium levels in the blood must remain tightly regulated for the body to function properly. Low calcium (hypocalcemia) may indicate vitamin D deficiency, kidney disease, or issues with parathyroid function, leading to muscle cramps, tingling, and weakened bones. High calcium (hypercalcemia) can result from conditions like hyperparathyroidism, excessive vitamin D intake, or certain cancers, potentially causing fatigue, kidney stones, and abnormal heart rhythms. Regular calcium testing can help identify imbalances early and prevent complications.</p>
+<h3 data-start="997" data-end="1045">How Can I Maintain Optimal Calcium Levels?</h3>
+<p data-start="1046" data-end="1149">Maintaining balanced calcium levels requires proper nutrition, hormone regulation, and kidney health.</p>
+<p data-start="1151" data-end="1173"><strong data-start="1151" data-end="1171">For Low Calcium:</strong></p>
+<ul data-start="1174" data-end="1479">
+<li data-start="1174" data-end="1274"><strong data-start="1176" data-end="1204">Increase calcium intake:</strong> Consume dairy products, leafy greens, almonds, and fortified foods.</li>
+<li data-start="1275" data-end="1374"><strong data-start="1277" data-end="1304">Boost vitamin D levels:</strong> Sun exposure or vitamin D supplements help with calcium absorption.</li>
+<li data-start="1375" data-end="1479"><strong data-start="1377" data-end="1421">Monitor parathyroid and kidney function:</strong> Dysfunction in these organs can affect calcium balance.</li>
+</ul>
+<p data-start="1481" data-end="1504"><strong data-start="1481" data-end="1502">For High Calcium:</strong></p>
+<ul data-start="1505" data-end="1849">
+<li data-start="1505" data-end="1606"><strong data-start="1507" data-end="1525">Stay hydrated:</strong> Proper fluid intake helps prevent kidney stones and excessive calcium buildup.</li>
+<li data-start="1607" data-end="1705"><strong data-start="1609" data-end="1653">Limit calcium and vitamin D supplements:</strong> Excessive intake can contribute to hypercalcemia.</li>
+<li data-start="1706" data-end="1849"><strong data-start="1708" data-end="1744">Check for underlying conditions:</strong> If levels are persistently high, further testing for parathyroid or metabolic disorders may be needed.</li>
+</ul>
+<h3 data-start="1851" data-end="1880">Where Can I Learn More?</h3>
+<ul data-start="1881" data-end="2006">
+<li data-start="1881" data-end="1947"><span style="text-decoration: underline;"><a href="https://www.bonehealthandosteoporosis.org/patients/treatment/calciumvitamin-d/"><strong data-start="1883" data-end="1945">Bone Health and Osteoporosis Foundation – Calcium and Vitamin D</strong></a></span></li>
+<li data-start="1948" data-end="2006"><span style="text-decoration: underline;"><a href="https://ods.od.nih.gov/factsheets/Calcium-Consumer/"><strong data-start="1950" data-end="2004">National Institutes of Health – Calcium Fact Sheet</strong></a></span></li>
+</ul>
+<p data-start="2008" data-end="2104" data-is-last-node="" data-is-only-node=""><strong data-start="2008" data-end="2023">DISCLAIMER:</strong> <strong>IF YOU ARE CONCERNED ABOUT YOUR CALCIUM LEVELS, PLEASE CONSULT YOUR PHYSICIAN.</strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>eGFR</title>
+		<link>/hub/biomarkers-2/biomarker-egfr/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Fri, 21 Jun 2024 17:56:01 +0000</pubDate>
+				<category><![CDATA[Biomarkers]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?p=3053</guid>
+
+					<description><![CDATA[eGFR (estimated Glomerular Filtration Rate) is a measure of kidney function that estimates how well blood is filtered by the kidneys, helping to diagnose and monitor kidney disease.]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h3>What is eGFR?</h3>
+<p>Estimated Glomerular Filtration Rate (eGFR) is a test used to assess how well your kidneys are functioning. It estimates the amount of blood that gets filtered by the glomeruli (tiny filters in the kidneys) each minute. The following image depicts the complexity of the kidney, starting with the nephron.</p>
+<p><a href="https://www.niddk.nih.gov/health-information/kidney-disease/glomerular-disease?utm_source=copy&amp;utm_medium=sharing+button&amp;utm_content=%2Fhealth-information%2Fkidney-disease%2Fglomerular-disease" data-sanitized-target="_blank"><img decoding="async" src="https://cdn.shopify.com/s/files/1/0656/6798/9733/files/Screenshot_2024-03-12_133721_480x480.png?v=1710265095" alt="" width="406" height="372" /></a></p>
+<p><em>National Institute of Diabetes and Digestive and Kidney Diseases &#8211; Glomerular Disease</em></p>
+<p>The nephron is the basic <span style="text-decoration: underline;"><a href="https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work#:~:text=Each%20of%20your%20kidneys%20is,your%20blood%20and%20removes%20wastes." data-sanitized-target="_blank">structural and functional unit of the kidney</a></span>, responsible for the vital process of filtering blood, removing waste products, and regulating water and solute balance in the body. Each human kidney contains approximately one million nephrons, which work collectively to perform the kidney&#8217;s complex functions. The structure of a nephron is specially designed to efficiently filter blood, reabsorb necessary nutrients and water, and excrete waste products in the form of urine.</p>
+<p>The glomerulus plays a crucial role within the kidney as a component of the nephron. The glomerulus is a network of tiny blood vessels (capillaries) located at the beginning of the nephron. Its roles include:</p>
+<ol>
+<li><strong>Blood Filtration</strong>: The glomerulus is where the filtration of blood begins. Blood pressure forces water, salt, glucose, amino acids, and waste products (like urea and <span style="text-decoration: underline;"><a href="https://siphoxhealth.com/pages/creatinine" rel="noopener noreferrer" data-sanitized-target="_blank">creatinine</a></span>) from the blood through the capillary walls and into the Bowman&#8217;s capsule, another part of the nephron that collects the filtrate. The filtrate then travels through the rest of the nephron, where further processing occurs.</li>
+<li><strong>Prevention of Protein Loss</strong>: The structure of the glomerulus prevents large molecules, such as proteins and blood cells, from being filtered into the urine, retaining them within the bloodstream.</li>
+</ol>
+<p>The eGFR is calculated based on your blood <a href="https://siphoxhealth.com/pages/creatinine" rel="noopener noreferrer" data-sanitized-target="_blank"><span style="text-decoration: underline;">creatinine</span></a> level, age, body size, and gender. This calculation provides a critical insight into the kidney&#8217;s health, indicating how efficiently they&#8217;re filtering waste from your blood.</p>
+<p>Unlike direct measurements of kidney function, which can be invasive and complex, eGFR offers a simple and non-invasive way to monitor kidney health. It&#8217;s a crucial part of any comprehensive health assessment, particularly for those with risk factors for kidney disease, such as hypertension, diabetes, or a family history of kidney failure.</p>
+<h3>Why is eGFR Important?</h3>
+<p>The primary importance of eGFR lies in its role in detecting and monitoring kidney disease. According to the <a href="https://www.kidney.org/atoz/content/sixstepshealthprimer" data-sanitized-data-mce-href="https://www.kidney.org/atoz/content/sixstepshealthprimer"><span style="text-decoration: underline;">National Kidney Foundation</span></a>, 33% (1 in 3 people) of American adults are at risk for kidney disease. Healthy kidneys ensure the removal of toxins and waste materials from the blood, maintaining a delicate balance of body fluids and electrolytes. A decline in eGFR can indicate a reduction in kidney function, signaling acute or chronic kidney disease (CKD). In addition to CKD, impaired kidneys can cause heart disease, heart attack and stroke, high blood pressure, weak bones, nerve damage, and low red blood cell count.</p>
+<p>Monitoring eGFR levels is essential for diagnosing conditions that affect kidney function, assessing the severity of kidney damage, and guiding the management and treatment of kidney-related disorders. It&#8217;s particularly important for individuals with conditions that can impair kidney function, including diabetes, high blood pressure, and heart disease.</p>
+<h3>How can I better understand my eGFR results?</h3>
+<p>eGFR results are typically reported in milliliters per minute per 1.73 m² (mL/min/1.73 m²). When interpreting eGFR results, this table from the <span style="text-decoration: underline;"><a href="https://www.kidney.org/sites/default/files/11-10-1813_estimated_glomerular_filtration_rate.pdf" data-sanitized-data-mce-href="https://www.kidney.org/sites/default/files/11-10-1813_estimated_glomerular_filtration_rate.pdf">National Kidney Foundation</a></span> illustrates how even normal kidney function could accompany kidney damage:</p>
+<p><a href="https://www.kidney.org/sites/default/files/11-10-1813_estimated_glomerular_filtration_rate.pdf" data-sanitized-target="_blank"><img decoding="async" class="alignnone" src="https://cdn.shopify.com/s/files/1/0656/6798/9733/files/Screenshot_2024-03-12_105050_480x480.png?v=1710265411" alt="eGFR" width="372" height="373" /></a></p>
+<p><em>National Kidney Foundation &#8211; eGFR: A key to understanding how well your kidneys are working</em></p>
+<p>According to the <a href="https://ukkidney.org/health-professionals/information-resources/uk-eckd-guide/about-egfr" data-sanitized-data-mce-href="https://ukkidney.org/health-professionals/information-resources/uk-eckd-guide/about-egfr"><span style="text-decoration: underline;">UK Kidney Association</span></a>:</p>
+<div data-dynamic-ranges="true" data-test="1"></div>
+<div data-ranges="true">
+<ul>
+<li>Healthy: ~60-120 mL/min/1.73 m²</li>
+</ul>
+<p>Ranges specific to the Cardiometabolic Program:</p>
+<ul>
+<li>Optimal: ≥100 mL/min/1.73 m²</li>
+<li>Good: 90-99.9 mL/min/1.73 m²</li>
+<li>Fair: 80.1-89.9 mL/min/1.73 m²</li>
+<li>Pay attention: ≤ 80 mL/min/1.73 m²</li>
+<li>Alert: &lt;60 mL/min/1.73 m²</li>
+</ul>
+</div>
+<p>It&#8217;s important to note that eGFR is an estimate of kidney function and must be interpreted within the context of other clinical findings and patient factors. For example, a mildly decreased eGFR in an elderly individual without any other signs of kidney disease may be considered normal aging. Conversely, even a slight decrease in eGFR in a young adult may warrant further investigation. <a href="https://www.kidneyfund.org/all-about-kidneys/tests/blood-test-egfr#what-does-my-egfr-mean" data-sanitized-data-mce-href="https://www.kidneyfund.org/all-about-kidneys/tests/blood-test-egfr#what-does-my-egfr-mean"><span style="text-decoration: underline;">American Kidney Fund</span></a> recommends discussing your eGFR results with your doctor, and doing so immediately if your levels are 60 or less is very important.</p>
+<h3>How can I maintain optimal eGFR levels?</h3>
+<p>While improving renal function is not easy, it is possible. A <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3862566/" data-sanitized-target="_blank"><span style="text-decoration: underline;">study from 2013</span></a> found that it is possible to improve renal function at any stage of CKD!</p>
+<p>In addition to staying healthy and reducing blood pressure and blood sugar through weight management, regular exercise, following a balanced diet, and practicing healthy habits (quitting smoking and limiting alcohol intake), the <a href="https://www.kidney.org/atoz/content/sixstepshealthprimer" data-sanitized-data-mce-href="https://www.kidney.org/atoz/content/sixstepshealthprimer"><span style="text-decoration: underline;">National Kidney Foundation</span></a> also recommends that people with kidney disease should:</p>
+<p><strong>Dietary Changes:</strong> Reducing salt intake can help improve kidney function. <a href="https://www.actiononsalt.org.uk/salthealth/salt-and-the-kidneys/#:~:text=A%20high salt diet will,can lead to kidney disease." data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.actiononsalt.org.uk/salthealth/salt-and-the-kidneys/#:~:text=A%20high salt diet will,can lead to kidney disease."><span style="text-decoration: underline;">Action on Salt</span></a> states that a high salt diet can disrupt the balance of sodium and limit kidney function, promoting high blood pressure and straining the kidneys. Moderate protein consumption, according to this <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5962279/" data-sanitized-data-mce-href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5962279/"><span style="text-decoration: underline;">study from 2018</span></a>, can reduce potential glomeruli damage caused by high protein intake. A low-protein diet can preserve renal function in those who have CKD.</p>
+<p><strong>Lifestyle</strong> <strong>Changes: </strong>According to the <span style="text-decoration: underline;"><a href="https://www.ajkd.org/article/S0272-6386(20)30724-1/fulltext" data-sanitized-data-mce-href="https://www.ajkd.org/article/S0272-6386(20)30724-1/fulltext">American Journal of Kidney Diseases</a></span>, NSAIDs can harm kidney function by reducing blood flow and prostaglandin (maintains GFR and renal blood flow) production, impairing sodium and water excretion, leading to acute kidney injury. So refrain from using NSAIDs. Additionally, getting an annual flu shot can help since the <a href="https://www.cdc.gov/kidneydisease/publications-resources/ckd-and-flu.html" data-sanitized-data-mce-href="https://www.cdc.gov/kidneydisease/publications-resources/ckd-and-flu.html"><span style="text-decoration: underline;">CDC</span></a> emphasizes the importance of the flu vaccine for people with CKD who are “at high risk of developing serious flu complications”. Additionally, <a href="https://bmcnephrol.biomedcentral.com/articles/10.1186/s12882-019-1586-5#citeas" data-sanitized-target="_blank"><span style="text-decoration: underline;">exercise therapy</span></a> and certain <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7230954/" data-sanitized-target="_blank">dietary patterns</a></span> may be associated with a lower rate of eGFR decline.</p>
+<h3>Where can I learn more?</h3>
+<ul>
+<li><span style="text-decoration: underline;"><a href="https://www.kidneyfund.org/all-about-kidneys/tests/blood-test-egfr#what-does-my-egfr-mean" data-sanitized-data-mce-href="https://www.kidneyfund.org/all-about-kidneys/tests/blood-test-egfr#what-does-my-egfr-mean">American Kidney Fund &#8211; Blood Test: eGFR</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work#:~:text=Each%20of your kidneys is,your blood and removes wastes." data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work#:~:text=Each%20of your kidneys is,your blood and removes wastes.">National Institute of Diabetes and Digestive and Kidney Diseases &#8211; Your Kidneys &amp; How They Work</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://ukkidney.org/health-professionals/information-resources/uk-eckd-guide/about-egfr" data-sanitized-data-mce-href="https://ukkidney.org/health-professionals/information-resources/uk-eckd-guide/about-egfr">UK Kidney Association &#8211; About eGFR</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://ukkidney.org/health-professionals/information-resources/uk-eckd-guide/about-egfr" data-sanitized-data-mce-href="https://ukkidney.org/health-professionals/information-resources/uk-eckd-guide/about-egfr">National Kidney Foundation &#8211; eGFR: A key to understanding how well your kidneys are working</a></span></li>
+<li>Scientific Literature
+<ul>
+<li>Cai Q, Dekker LH, Bakker SJL, de Borst MH, Navis GJ. Dietary Patterns Based on Estimated Glomerular Filtration Rate and Kidney Function Decline in the General Population: The Lifelines Cohort Study. Nutrients. 2020 Apr 16;12(4):1099. doi: 10.3390/nu12041099.</li>
+<li>Kamyar Kalantar-Zadeh, Holly M Kramer, Denis Fouque, High-protein diet is bad for kidney health: unleashing the taboo, <em style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">Nephrology Dialysis Transplantation</em><span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">, Volume 35, Issue 1, January 2020, Pages 1–4, </span><a href="https://doi.org/10.1093/ndt/gfz216" data-sanitized-data-google-interstitial="false" data-google-interstitial="false">https://doi.org/10.1093/ndt/gfz216</a></li>
+<li>Tang R<span class="al-author-delim" style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">, </span><span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">Kou M</span><span class="al-author-delim" style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">, </span><span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">Wang X, et al. Self-Reported Frequency of Adding Salt to Food and Risk of Incident Chronic Kidney Disease. </span><em style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">JAMA Netw Open.</em><span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);"> 2023;6(12):e2349930. doi:10.1001/jamanetworkopen.2023.49930</span></li>
+<li>Zhang, L., Wang, Y., Xiong, L. <i style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">et al.</i><span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);"> Exercise therapy improves eGFR, and reduces blood pressure and BMI in non-dialysis CKD patients: evidence from a meta-analysis. </span><i style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">BMC Nephrol</i><span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);"> </span><b style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">20</b><span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">, 398 (2019). https://doi.org/10.1186/s12882-019-1586-5</span></li>
+</ul>
+</li>
+</ul>
+<p><strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Thyroglobulin Antibody (TgAb)</title>
+		<link>/hub/biomarkers-2/biomarker-tgab/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2025 19:25:35 +0000</pubDate>
+				<category><![CDATA[Biomarkers]]></category>
+		<guid isPermaLink="false">/hub/?p=3751</guid>
+
+					<description><![CDATA[Thyroglobulin Antibody (TgAb) is an immune system protein that mistakenly targets thyroglobulin, a key protein involved in thyroid hormone production.]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h3 data-sanitized-data-mce-fragment="1">What is Thyroglobulin Antibody (TgAb)?</h3>
+<p data-sanitized-data-mce-fragment="1">Thyroglobulin Antibody (TgAb) is an immune system protein that mistakenly targets thyroglobulin, a key protein involved in thyroid hormone production. The presence of TgAb in the blood is often associated with autoimmune thyroid conditions, where the immune system attacks the thyroid gland, leading to inflammation and potential dysfunction. Measuring TgAb helps assess thyroid health and can be particularly useful in diagnosing and monitoring autoimmune thyroid diseases.</p>
+<h3 data-sanitized-data-mce-fragment="1">Why is TgAb Important?</h3>
+<p>Elevated TgAb levels are commonly linked to <strong class="sc-jwpOCX gKUUgZ" data-mark="strong">Hashimoto’s thyroiditis</strong> and <strong class="sc-jwpOCX gKUUgZ" data-mark="strong">Graves’ disease</strong>, two autoimmune disorders that can lead to hypothyroidism or hyperthyroidism. Since thyroid disorders often develop gradually, testing for TgAb can help detect autoimmune activity early, even before symptoms appear.</p>
+<h3 data-sanitized-data-mce-fragment="1">How Can I Maintain Optimal Thyroid Health?</h3>
+<p data-sanitized-data-mce-fragment="1">Managing TgAb levels involves addressing underlying thyroid conditions and supporting overall immune function. Monitoring your thyroid function with regular testing and managing any known autoimmune conditions you may have will help to maintain optimal thyroid health.</p>
+<h3 data-sanitized-data-mce-fragment="1">Where Can I Learn More?</h3>
+<ul>
+<li><span style="text-decoration: underline;"><a href="https://www.medicalnewstoday.com/articles/thyroglobulin-antibody" rel="noopener noreferrer" data-sanitized-target="_blank">Medical News Today- What to know about the thyroglobulin antibody (TgAb) test</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://www.mountsinai.org/health-library/tests/antithyroglobulin-antibody" rel="noopener noreferrer" data-sanitized-target="_blank">Mount Sinai- Antithyroglobulin antibody</a></span></li>
+</ul>
+<p><strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Progesterone</title>
+		<link>/hub/biomarkers-2/biomarker-progesterone/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Fri, 21 Jun 2024 13:45:51 +0000</pubDate>
+				<category><![CDATA[Biomarkers]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?p=2967</guid>
+
+					<description><![CDATA[Progesterone is a hormone involved in the menstrual cycle, pregnancy, and embryogenesis, primarily produced in the ovaries.]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h3 data-sanitized-data-mce-fragment="1">What is progesterone?</h3>
+<p data-sanitized-data-mce-fragment="1"><span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/books/NBK558960/" rel="noopener noreferrer" data-sanitized-target="_blank">Progesterone</a></span> is a hormone produced primarily by the ovaries in females, with smaller amounts produced by the adrenal glands. Serving a critical role in the menstrual cycle, <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10656370/" rel="noopener noreferrer" data-sanitized-target="_blank">progesterone fluctuates</a></span>, peaking during the luteal phase (after ovulation) and declining before menstruation. Normal levels are necessary for regular menstrual cycles, fertility, embryo implantation, and pregnancy maintenance. In addition to its role in reproductive health, this hormone also influences mood, sleep, and overall well-being.</p>
+<h3 data-sanitized-data-mce-fragment="1">Why is progesterone important?</h3>
+<p><span style="text-decoration: underline;"><a href="https://my.clevelandclinic.org/health/body/24562-progesterone">Progesterone</a></span> plays a critical role in numerous physiological processes, making it essential for maintaining overall health. <span style="text-decoration: underline;"><a href="https://home.siphoxhealth.com/pricing/unlimited?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=&amp;utm_term=siphox%20health&amp;utm_content=&amp;tw_source=google&amp;tw_adid=687640324952&amp;tw_campaign=19925277251&amp;gad_source=1&amp;gclid=Cj0KCQjwvb-zBhCmARIsAAfUI2uY8He_1BAaSvECNZqCwMQtT6Y41yJBFoDVgu-iAMehWiJa-uL2CFIaAjjgEALw_wcB">SiPhox Health</a></span> includes progesterone in both our Fertility+ Panel and Hormone+ and Fertility Panel for women to help monitor and manage progesterone levels. Inadequate progesterone levels in the United States can cause menstrual irregularities, infertility, and increased risk of miscarriage. According to the Cleveland Clinic, maintaining balanced progesterone levels is crucial for reproductive health and overall well-being.</p>
+<h3 data-sanitized-data-mce-fragment="1">How can I better understand my progesterone levels?</h3>
+<p data-sanitized-data-mce-fragment="1">Progesterone levels in females are typically measured in nanograms per milliliter (ng/mL) of blood. Normal progesterone levels vary depending on the menstrual cycle phase, pregnancy status, and individual health factors.</p>
+<p data-sanitized-data-mce-fragment="1">The <span style="text-decoration: underline;"><a href="https://www.abim.org/Media/bfijryql/laboratory-reference-ranges.pdf" rel="noopener noreferrer" data-sanitized-target="_blank">American Board of Internal Medicine</a></span> defines normal progesterone levels as:</p>
+<div data-dynamic-ranges="true" data-test="1"></div>
+<div data-ranges="true">
+<ul>
+<li>Female (follicular phase): 0.02 &#8211; 0.9 ng/mL</li>
+<li>Female (luteal phase): 2 &#8211; 30 ng/mL</li>
+<li>Male (adult): 0.12 &#8211; 0.3 ng/mL</li>
+</ul>
+</div>
+<p><span style="text-decoration: underline;"><a href="https://my.clevelandclinic.org/health/diseases/24613-low-progesterone" rel="noopener noreferrer" data-sanitized-target="_blank">Lower than normal progesterone levels</a></span> may occur during the follicular phase of the menstrual cycle or in conditions such as anovulation (absence of ovulation), luteal phase defect, or certain hormonal disorders. Additional testing and medical evaluation are essential to identify the underlying cause and determine appropriate management.</p>
+<p>Higher than normal progesterone levels may occur during the luteal phase of the menstrual cycle or pregnancy. <span style="text-decoration: underline;"><a href="https://my.clevelandclinic.org/health/body/24562-progesterone" rel="noopener noreferrer" data-sanitized-target="_blank">Elevated levels</a></span> do not typically negatively impact health. In non-pregnant individuals, elevated progesterone levels may indicate conditions such as ovarian cysts, adrenal disorders, or certain medications. Further evaluation by a healthcare provider is necessary to determine the underlying cause.</p>
+<h3 data-sanitized-data-mce-fragment="1">How can I maintain optimal progesterone levels?</h3>
+<p>If you need to maintain or adjust your progesterone levels consider the following strategies:</p>
+<p><strong>Dietary Changes: </strong>Both <span style="text-decoration: underline;"><a href="https://pubmed.ncbi.nlm.nih.gov/9218745/" rel="noopener noreferrer" data-sanitized-target="_blank">macronutrient</a></span> and <span style="text-decoration: underline;"><a href="https://pubmed.ncbi.nlm.nih.gov/29673411/">mineral</a></span> intake may affect progesterone levels. <span style="text-decoration: underline;"><a href="https://my.clevelandclinic.org/health/body/24562-progesterone" rel="noopener noreferrer" data-sanitized-target="_blank">Cleveland Clinic</a></span> suggests that foods rich in zinc, vitamin C, vitamin B, and magnesium may help support healthy progesterone levels. Additionally, higher intake of synthetic folate was significantly associated with higher luteal progesterone levels, according to a <span style="text-decoration: underline;"><a href="https://pubmed.ncbi.nlm.nih.gov/23050004/" rel="noopener noreferrer" data-sanitized-target="_blank">2012 study</a></span>.</p>
+<p><strong>Lifestyle Changes: </strong><span style="text-decoration: underline;"><a href="https://pubmed.ncbi.nlm.nih.gov/25643098/" rel="noopener noreferrer" data-sanitized-target="_blank">Managing stress</a></span> using techniques such as mindfulness, meditation, deep breathing exercises, and adequate sleep can help balance progesterone levels.</p>
+<h3 data-sanitized-data-mce-fragment="1">Where can I learn more?</h3>
+<ul>
+<li><span style="text-decoration: underline;"><a href="https://my.clevelandclinic.org/health/body/24562-progesterone" rel="noopener noreferrer" data-sanitized-target="_blank">Cleveland Clinic &#8211; Progesterone</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://www.youtube.com/watch?v=hW4XpW7LfIM" rel="noopener noreferrer" data-sanitized-target="_blank">Osmosis from Elsevier (video) &#8211; Estrogen &amp; Progesterone</a></span></li>
+</ul>
+<p><strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Testosterone</title>
+		<link>/hub/biomarkers-2/biomarker-testosterone/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Fri, 21 Jun 2024 13:10:03 +0000</pubDate>
+				<category><![CDATA[Biomarkers]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?p=2964</guid>
+
+					<description><![CDATA[Testosterone is a primary male sex hormone responsible for the development of reproductive tissues and secondary sexual characteristics.]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h3><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">What is testosterone?</span></h3>
+<p><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot=""><span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/books/NBK526128/#:~:text=Testosterone%20is%20the%20primary%20male,characteristics%2C%20spermatogenesis%2C%20and%20fertility." data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.ncbi.nlm.nih.gov/books/NBK526128/#:~:text=Testosterone%20is%20the%20primary%20male,characteristics%2C%20spermatogenesis%2C%20and%20fertility.">Testosterone</a></span> is the primary male hormone responsible for sexual health and development, in addition to other physiological functions. Having proper levels of testosterone is essential not only for males but for females, too. An imbalance of testosterone can have negative effects on both reproductive and overall health</span><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">.</span></p>
+<p>While testosterone is a hormone primarily associated with male development and reproductive function, it is also present in females. <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10673631/#:~:text=Testosterone%20in%20women%20has%20various,as%20well%20as%20mood%20regulation." data-sanitized-data-mce-href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10673631/#:~:text=Testosterone%20in%20women%20has%20various,as%20well%20as%20mood%20regulation." data-sanitized-target="_blank">In women</a></span>, testosterone plays a role in maintaining muscle mass, bone density, libido, and overall well-being.</p>
+<h3><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Why is testosterone important?</span></h3>
+<p><span style="text-decoration: underline;"><a href="https://home.siphoxhealth.com/pricing/unlimited?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=&amp;utm_term=siphox%20health&amp;utm_content=&amp;tw_source=google&amp;tw_adid=687640324952&amp;tw_campaign=19925277251&amp;gad_source=1&amp;gclid=Cj0KCQjwvb-zBhCmARIsAAfUI2uY8He_1BAaSvECNZqCwMQtT6Y41yJBFoDVgu-iAMehWiJa-uL2CFIaAjjgEALw_wcB">SiPhox Health</a></span> includes testosterone in our Foundation Panel for men and Fertility+ Panel for women to help monitor and manage testosterone levels. <span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot=""><span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/books/NBK526128/#:~:text=Testosterone%20is%20the%20primary%20male,characteristics%2C%20spermatogenesis%2C%20and%20fertility." data-sanitized-target="_blank">In men</a></span>, testosterone regulates sex drive (libido), bone mass, fat distribution, muscle mass and strength, and the production of red blood cells and sperm. <span style="text-decoration: underline;"><a href="https://my.clevelandclinic.org/health/diseases/15603-low-testosterone-male-hypogonadism" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://my.clevelandclinic.org/health/diseases/15603-low-testosterone-male-hypogonadism">Symptoms of low testosterone</a></span> may include reduced sex drive, erectile dysfunction, low sperm count, and other emotional and physiological changes. </span></p>
+<p>While testosterone levels are typically much lower in females compared to males, they still play a vital role in various <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/books/NBK526128/" data-sanitized-data-mce-href="https://www.ncbi.nlm.nih.gov/books/NBK526128/" data-sanitized-target="_blank">physiological processes</a></span>. Fluctuations or abnormalities in female testosterone levels can impact reproductive health, sexual function, mood, and overall health. Testosterone is essential for maintaining optimal health and well-being in females. Proper testosterone levels contribute to reproductive health, libido, muscle strength, bone density, mood regulation, and overall vitality.</p>
+<h3><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">How can I better understand my testosterone levels?</span></h3>
+<p><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Free and total testosterone are two different measurements. Total testosterone quantifies, as the name suggests, the overall quantity of testosterone including molecules that are both free (unbound) and bound to proteins (mainly <span style="text-decoration: underline;"><a href="https://siphoxhealth.com/pages/shbg" data-sanitized-target="_blank">SHBG</a></span> and <span style="text-decoration: underline;"><a href="https://siphoxhealth.com/pages/albumin" data-sanitized-target="_blank">albumin</a></span>). On the other hand, a measure of free testosterone does not measure molecules that are bound to proteins. This is an important measurement as free testosterone is generally more bioactive than bound testosterone. People who may be experiencing symptoms of low testosterone but have normal levels of total testosterone may be advised to take a free testosterone test.</span></p>
+<h4><strong><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Males:</span></strong></h4>
+<p><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Free and total testosterone ranges vary based on many factors, including age. The <span style="text-decoration: underline;"><a href="https://www.cincinnatichildrens.org/-/media/Cincinnati-Childrens/Home/service/p/pathology/mass-spectrometry/Testosterone-reference-ranges.pdf" data-sanitized-target="_blank">Cincinnati Children&#8217;s Hospital</a></span> released a list of normal free and total testosterone ranges in males by age.</span></p>
+<div data-dynamic-ranges="true" data-test="1"></div>
+<div data-ranges="true">
+<span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Normal total testosterone in males:</span></p>
+<ul>
+<li><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Age 20-49: 3.0 &#8211; 10.8 ng/mL</span></li>
+<li><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Age 40-60: 3.0 &#8211; 8.9 ng/mL</span></li>
+<li><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Age 60+: 3.0 &#8211; 7.2 ng/mL</span></li>
+</ul>
+<p><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Normal free testosterone in males:</span></p>
+<ul>
+<li><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Age 18+<strong>:</strong> 0.047 &#8211; 0.244 ng/mL</span></li>
+</ul>
+</div>
+<p><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">According to the <span style="text-decoration: underline;"><a href="https://my.clevelandclinic.org/health/diseases/15603-low-testosterone-male-hypogonadism" data-sanitized-data-mce-href="https://my.clevelandclinic.org/health/diseases/15603-low-testosterone-male-hypogonadism" data-sanitized-target="_blank">Cleveland Clinic</a></span>, the </span>American Urology Association (AUA) considers low total testosterone to be &lt; 3.0 ng/mL for adult males. However, some researchers and healthcare providers believe that no more than 2.50 ng/mL should be indicative of low testosterone.</p>
+<p><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Testosterone, like many hormones, follows a <span style="text-decoration: underline;"><a href="https://www.endocrinology.org/endocrinologist/134-winter19/features/24-hours-in-the-life-of-a-hormone-what-time-is-the-right-time-for-a-pituitary-function-test/#:~:text=TESTOSTERONE,to%20rise%20again%20at%20night." data-sanitized-target="_blank">diurnal rhythm</a></span>, peaking in the morning and dipping in the early evening. Peak secretion occurs between 7 and 10 a.m., which is why testing testosterone levels in the morning helps to limit variations, particularly in younger men.</span></p>
+<p><a href="https://www.researchgate.net/publication/33515149_Loss_of_Circadian_Rhythmicity_in_Blood_Testosterone_Levels_with_Aging_in_Normal_Men" data-sanitized-data-mce-href="https://www.researchgate.net/publication/33515149_Loss_of_Circadian_Rhythmicity_in_Blood_Testosterone_Levels_with_Aging_in_Normal_Men" data-sanitized-target="_blank"><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot=""><img decoding="async" src="https://themenshealthclinic.co.uk/wp-content/uploads/2020/02/diurnal_pattern.gif" data-sanitized-data-mce-src="https://themenshealthclinic.co.uk/wp-content/uploads/2020/02/diurnal_pattern.gif" /></span></a></p>
+<p><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Prinz, Patricia &amp; Bremner, William &amp; Vitiello, Michael. (1983). Loss of Circadian Rhythmicity in Blood Testosterone Levels with Aging in Normal Men*. J Clin Endocrinol Metab. 56. 10.1210/jcem-56-6-1278.</span></p>
+<p><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot=""><span style="text-decoration: underline;"><a href="https://my.clevelandclinic.org/health/diseases/15603-low-testosterone-male-hypogonadism" data-sanitized-data-mce-href="https://my.clevelandclinic.org/health/diseases/15603-low-testosterone-male-hypogonadism" data-sanitized-target="_blank">Low testosterone</a></span> is more likely to affect those who are older, obese, have type 2 diabetes or HIV/AIDS, have sleep apnea, or have chronic conditions such as kidney or liver dysfunction. Since abnormally high or low testosterone levels may indicate problems with the testicles, pituitary gland, or hypothalamus, it is important to consult with your physician if you are concerned about your levels.</span></p>
+<div data-ranges="true">
+<h4><strong>Females:</strong></h4>
+<p>According to the <span style="text-decoration: underline;"><a href="https://www.abim.org/Media/bfijryql/laboratory-reference-ranges.pdf" data-sanitized-data-mce-href="https://www.abim.org/Media/bfijryql/laboratory-reference-ranges.pdf" data-sanitized-target="_blank">American Board of Internal Medicine</a>:</span></p>
+<p>Normal serum testosterone levels in females</p>
+<ul>
+<li>0.18 &#8211; 0.54 ng/mL.</li>
+</ul>
+</div>
+<p>It&#8217;s important to note that different labs have slight variations on the normal reference range.</p>
+<p>Higher than normal testosterone levels in females, known as <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8548673/" data-sanitized-data-mce-href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8548673/" data-sanitized-target="_blank">hyperandrogenism</a></span>, may indicate conditions such as polycystic ovary syndrome (PCOS), adrenal disorders, ovarian tumors, or certain medications. Further evaluation, including additional tests and medical history assessment, may be necessary to determine the underlying cause. Lower than normal testosterone levels in females may result from conditions such as primary ovarian insufficiency (early menopause), adrenal insufficiency, pituitary disorders, or certain medications. Additional testing and medical evaluation are essential to identify the underlying cause and determine appropriate management.</p>
+<h3>How can I maintain optimal testosterone levels?</h3>
+<p>If you need to maintain or adjust your testosterone levels, consider the following strategies:</p>
+<p><strong>Dietary Changes: </strong>Consuming <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8166567/" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8166567/">fenugreek seed extract, ashwagandha roots and leaves</a></span>, or <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6612531/" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6612531/">honey</a></span> can help to increase lower testosterone levels. Additionally, research suggests that <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8538516/" data-sanitized-data-mce-href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8538516/" data-sanitized-target="_blank">macronutrient, vitamin, and mineral</a></span> intake can impact testosterone synthesis. <span style="text-decoration: underline;"><a href="https://pcosweightloss.org/does-zinc-boost-testosterone/#:~:text=Zinc%20actually%20helps%20regulate%20your,a%20good%20thing%20to%20consider!" data-sanitized-data-mce-href="https://pcosweightloss.org/does-zinc-boost-testosterone/#:~:text=Zinc%20actually%20helps%20regulate%20your,a%20good%20thing%20to%20consider!" data-sanitized-target="_blank">Adequate zinc intake</a></span>, for example, has been shown to regulate both elevated and decreased hormone levels, including testosterone.</p>
+<p><strong>Lifestyle Changes: </strong>Avoiding <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8743653/">chronic stressors</a></span>, getting <span style="text-decoration: underline;"><a href="https://www.uchicagomedicine.org/forefront/news/sleep-loss-lowers-testosterone-in-healthy-young-men#:~:text=The%20effects%20of%20sleep%20loss,2%20pm%20and%2010%20pm" data-sanitized-target="_blank">more</a></span> and <span style="text-decoration: underline;"><a href="https://www.youtube.com/watch?v=qJXKhu5UZwk&amp;t=2864s" data-sanitized-target="_blank">higher-quality</a></span> sleep, and lowering <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5924956/" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5924956/">abdominal fat percentage</a></span> through a healthy regimen can help in improving testosterone levels. Additionally, engaging in regular <span style="text-decoration: underline;"><a href="https://pubmed.ncbi.nlm.nih.gov/11915780/" data-sanitized-data-mce-href="https://pubmed.ncbi.nlm.nih.gov/11915780/" data-sanitized-target="_blank">physical activity</a></span>, including strength training and aerobic exercise, can help support hormone balance, muscle strength, and overall well-being. Practicing stress-reducing techniques such as mindfulness, meditation, deep breathing exercises, and adequate sleep can also help support <span style="text-decoration: underline;"><a href="https://www.tandfonline.com/doi/full/10.1080/10253890.2021.1891220" data-sanitized-data-mce-href="https://www.tandfonline.com/doi/full/10.1080/10253890.2021.1891220" data-sanitized-target="_blank">hormone balance</a></span> and overall health.</p>
+<p><strong>Supplementation: </strong>Consuming <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8538516/">saw palmetto or boron</a></span> supplements can aid in regulating testosterone levels.</p>
+<h3><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Where can I learn more?</span></h3>
+<ul>
+<li><span style="text-decoration: underline;"><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot=""><a class="notion-link-token notion-enable-hover" href="https://hubermanlab.com/the-science-of-how-to-optimize-testosterone-and-estrogen/" data-sanitized-target="_blank" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot=""><span class="link-annotation-unknown-block-id--1590225648">Andrew Huberman has a masterclass on testosterone for males.</span></a></span></span></li>
+<li><span style="text-decoration: underline;"><a href="https://www.health.harvard.edu/staying-healthy/testosterone--what-it-does-and-doesnt-do" data-sanitized-target="_blank">Harvard Medical School &#8211; Testosterone: What It Is and How It Affects Your Health</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://my.clevelandclinic.org/health/articles/24101-testosterone" data-sanitized-target="_blank">Cleveland Clinic &#8211; Testosterone</a></span></li>
+</ul>
+<section id="shopify-section-template--16608353878245__main" class="shopify-section section">
+<div class="page-width page-width--narrow section-template--16608353878245__main-padding">
+<div class="rte">
+<p style="text-align: left;" data-sanitized-data-mce-style="text-align: left;"><strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong></p>
+</div>
+</div>
+</section>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>HOMA-IR</title>
+		<link>/hub/biomarkers-2/biomarker-homa-ir/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Fri, 21 Jun 2024 13:04:52 +0000</pubDate>
+				<category><![CDATA[Biomarkers]]></category>
+		<category><![CDATA[HOMA-IR]]></category>
+		<category><![CDATA[insulin]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?p=2961</guid>
+
+					<description><![CDATA[HOMA-IR (Homeostatic Model Assessment of Insulin Resistance) is a method used to quantify insulin resistance and beta-cell function.]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h3 data-sanitized-data-mce-fragment="1">What is HOMA-IR?</h3>
+<div class="flex-1 overflow-hidden" data-sanitized-data-mce-fragment="1">
+<div class="react-scroll-to-bottom--css-jfwsr-79elbk h-full" data-sanitized-data-mce-fragment="1">
+<div class="react-scroll-to-bottom--css-jfwsr-1n7m0yu" data-sanitized-data-mce-fragment="1">
+<div class="flex flex-col text-sm pb-9" data-sanitized-data-mce-fragment="1">
+<div class="w-full text-token-text-primary" dir="auto" data-sanitized-data-testid="conversation-turn-3" data-testid="conversation-turn-3" data-sanitized-data-scroll-anchor="true" data-scroll-anchor="true" data-sanitized-data-mce-fragment="1">
+<div class="py-2 px-3 text-base md:px-4 m-auto md:px-5 lg:px-1 xl:px-5" data-sanitized-data-mce-fragment="1">
+<div class="mx-auto flex flex-1 gap-3 text-base juice:gap-4 juice:md:gap-6 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem]" data-sanitized-data-mce-fragment="1">
+<div class="relative flex w-full min-w-0 flex-col agent-turn" data-sanitized-data-mce-fragment="1">
+<div class="flex-col gap-1 md:gap-3" data-sanitized-data-mce-fragment="1">
+<div class="flex flex-grow flex-col max-w-full" data-sanitized-data-mce-fragment="1">
+<div class="min-h-[20px] text-message flex flex-col items-start whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto gap-3" dir="auto" data-sanitized-data-message-author-role="assistant" data-message-author-role="assistant" data-sanitized-data-message-id="b10c49d2-3397-4f71-8bab-041e4684d8e3" data-message-id="b10c49d2-3397-4f71-8bab-041e4684d8e3" data-sanitized-data-mce-fragment="1">
+<div class="markdown prose w-full break-words dark:prose-invert light" data-sanitized-data-mce-fragment="1">
+<p data-sanitized-data-mce-fragment="1">HOMA-IR (Homeostatic Model Assessment of Insulin Resistance) is a method used to estimate insulin resistance, which is a condition where the body&#8217;s cells become less responsive to the hormone insulin. Insulin resistance can lead to higher blood sugar levels and is associated with type 2 diabetes, obesity, and other metabolic disorders. Learn more about insulin <span style="text-decoration: underline;"><a href="/hub/biomarkers-2/biomarker-fasting-insulin/">here</a></span>.</p>
+<p data-sanitized-data-mce-fragment="1">HOMA-IR is calculated using the fasting glucose and fasting insulin levels from a blood sample. The formula for HOMA-IR is:</p>
+<p data-sanitized-data-mce-fragment="1"><span class="math math-inline" data-sanitized-data-mce-fragment="1"><span class="katex" data-sanitized-data-mce-fragment="1"><span class="katex-html" data-sanitized-aria-hidden="true" aria-hidden="true" data-sanitized-data-mce-fragment="1"><span class="base" data-sanitized-data-mce-fragment="1"><span class="mord text" data-sanitized-data-mce-fragment="1"><span class="mord" data-sanitized-data-mce-fragment="1"><span style="text-decoration: underline;"><a href="https://doi.org/10.1016/j.eclinm.2023.101934" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://doi.org/10.1016/j.eclinm.2023.101934">HOMA-IR</a></span> </span></span><span class="mrel" data-sanitized-data-mce-fragment="1">= </span></span><span class="base" data-sanitized-data-mce-fragment="1"><span class="minner" data-sanitized-data-mce-fragment="1"><span class="mopen delimcenter" data-sanitized-data-mce-fragment="1">(</span><span class="mord text" data-sanitized-data-mce-fragment="1"><span class="mord" data-sanitized-data-mce-fragment="1">Fasting Insulin </span></span><span class="mopen" data-sanitized-data-mce-fragment="1">(</span><span class="mord mathnormal" data-sanitized-data-mce-fragment="1">μIU</span><span class="mord" data-sanitized-data-mce-fragment="1">/</span><span class="mord mathnormal" data-sanitized-data-mce-fragment="1">m</span><span class="mord mathnormal" data-sanitized-data-mce-fragment="1">l</span><span class="mclose" data-sanitized-data-mce-fragment="1">) </span><span class="mbin" data-sanitized-data-mce-fragment="1">× </span><span class="mord text" data-sanitized-data-mce-fragment="1"><span class="mord" data-sanitized-data-mce-fragment="1">Fasting Glucose </span></span><span class="mopen" data-sanitized-data-mce-fragment="1">(</span><span class="mord mathnormal" data-sanitized-data-mce-fragment="1">m</span><span class="mord mathnormal" data-sanitized-data-mce-fragment="1">g</span><span class="mord" data-sanitized-data-mce-fragment="1">/</span><span class="mord mathnormal" data-sanitized-data-mce-fragment="1">d</span><span class="mord mathnormal" data-sanitized-data-mce-fragment="1">l</span><span class="mclose" data-sanitized-data-mce-fragment="1">)</span><span class="mclose delimcenter" data-sanitized-data-mce-fragment="1">) </span></span><span class="mord" data-sanitized-data-mce-fragment="1">/ 405</span></span></span></span></span></p>
+<p data-sanitized-data-mce-fragment="1">This calculation provides an index that reflects the function of beta cells (which produce insulin) and insulin sensitivity in the body. A higher HOMA-IR score indicates greater insulin resistance.</p>
+</div>
+<h3 class="markdown prose w-full break-words dark:prose-invert light" data-sanitized-data-mce-fragment="1">Why is HOMA-IR important?</h3>
+<div class="markdown prose w-full break-words dark:prose-invert light" data-sanitized-data-mce-fragment="1">
+<p data-sanitized-data-mce-fragment="1">HOMA-IR is crucial for maintaining and assessing metabolic health because it offers a quantifiable measure of insulin resistance, a pivotal factor in numerous metabolic disorders, including type 2 diabetes and metabolic syndrome. By detecting insulin resistance early, HOMA-IR helps clinicians identify at-risk individuals before the manifestation of clinical symptoms, allowing for timely interventions. Additionally, HOMA-IR is valuable for monitoring the progression or remission of metabolic diseases in patients, providing insights into how effectively they are responding to treatment strategies like diet modifications, exercise, or pharmacological interventions. It also aids in tailoring these therapeutic strategies by highlighting the severity of insulin resistance, which can guide the aggressiveness of treatment approaches. Moreover, a high HOMA-IR score can indicate an increased risk of developing diabetes, enabling preventive measures to be put in place. Since <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/books/NBK507839/" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.ncbi.nlm.nih.gov/books/NBK507839/">insulin resistance</a></span> is often linked with other conditions such as dyslipidemia, hypertension, and obesity, HOMA-IR also serves as a comprehensive tool for evaluating an individual&#8217;s overall metabolic health and pinpointing multiple risk factors simultaneously.</p>
+<h3 data-sanitized-data-mce-fragment="1">How can I better understand my HOMA-IR levels?</h3>
+<p>In general, a low HOMA-IR value is sought after because it is indicative of low fasting insulin and fasting glucose. While there is no consensus on &#8220;normal&#8221; HOMA-IR values yet, here are the generally accepted ranges:</p>
+<div data-dynamic-ranges="true" data-test="1"></div>
+<div data-ranges="true">
+<ul>
+<li> <span style="text-decoration: underline;"><a href="https://thinkvida.com/blog/are-you-insulin-sensitive/">&lt;1.0</a></span> is considered insulin sensitive (low diabetes risk)</li>
+<li><span style="text-decoration: underline;"><a href="https://www.youtube.com/watch?v=0o2h9nxkOv8" data-sanitized-target="_blank">1.5-2.9 may be indicative of insulin resistance</a></span> (borderline diabetes risk)</li>
+<li><span style="text-decoration: underline;"><a href="https://thinkvida.com/blog/are-you-insulin-sensitive/" data-sanitized-target="_blank">2.9</a>&lt;</span> is considered significantly insulin resistant (high diabetes risk).</li>
+</ul>
+<p>Ranges specific to the Cardiometabolic Program:</p>
+<ul>
+<li>Optimal: ≤1</li>
+<li>Good: 1.1-1.49</li>
+<li>Fair: 1.5-1.99</li>
+<li>Pay attention: ≥2</li>
+</ul>
+</div>
+<p>It is important to discuss your results with a physician if you are concerned with your HOMA-IR value to assess your metabolic health.</p>
+<h3>How can I maintain optimal HOMA-IR levels?</h3>
+<p>Since HOMA-IR is a calculation of fasting glucose and fasting insulin levels, some ways to improve these markers include:</p>
+<p><strong>Dietary Changes: </strong><span style="text-decoration: underline;"><a href="https://www.mdpi.com/2072-6643/15/21/4524" data-sanitized-target="_blank">Mediterranean diets</a></span>, <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8707429/" data-sanitized-target="_blank">high-protein diets</a></span>, and <span style="text-decoration: underline;"><a href="https://www.redalyc.org/pdf/3092/309231672007.pdf" data-sanitized-target="_blank">low-calorie diets</a></span> are among a few interventions that have been shown to reduce HOMA-IR in various studies.</p>
+<p><strong>Lifestyle Changes: </strong>Whether it is HIIT, moderate-intensity, strength training, or resistance training, studies show that <span style="text-decoration: underline;"><a href="https://bmjopensem.bmj.com/content/2/1/e000143">physical activity can significantly reduce</a></span> HOMA-IR compared to sedentary individuals. <span style="text-decoration: underline;"><a href="https://www.sciencedirect.com/science/article/pii/S1087079222000077#bib49">Sufficient sleep duration</a></span> (about 8 hours) lowers HOMA-IR levels.</p>
+<h3>Where can I learn more?</h3>
+<ul>
+<li><span style="text-decoration: underline;"><a href="https://www.youtube.com/watch?v=Fr7RkcHGxtk" data-sanitized-target="_blank">Dr. Eric Berg DC (video) &#8211; HOMA-IR &#8211; The Best Insulin Resistance Test</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://bmcendocrdisord.biomedcentral.com/articles/10.1186/s12902-023-01291-9" data-sanitized-target="_blank">BMC Endocrine Disorders &#8211; Are HOMA-IR and HOMA-B good predictors for diabetes and pre-diabetes subtypes?</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://journals.lww.com/ajg/fulltext/2009/10003/accuracy_of_homa_ir_in_clinical_practice__342.342.aspx" data-sanitized-target="_blank">The American Journal of Gastroenterology &#8211; Accuracy of HOMA-IR in Clinical Practice</a></span></li>
+</ul>
+<section id="shopify-section-template--16608353878245__main" class="shopify-section section">
+<div class="page-width page-width--narrow section-template--16608353878245__main-padding">
+<div class="rte">
+<p><strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong></p>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Prolactin (PRL)</title>
+		<link>/hub/biomarkers-2/biomarker-prolactin-prl/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Thu, 20 Jun 2024 20:58:42 +0000</pubDate>
+				<category><![CDATA[Biomarkers]]></category>
+		<category><![CDATA[blood test]]></category>
+		<category><![CDATA[pregnancy]]></category>
+		<category><![CDATA[PRL]]></category>
+		<category><![CDATA[prolactin]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?p=2954</guid>
+
+					<description><![CDATA[Prolactin is a hormone that is known for playing a role in regulating milk production after childbirth in women and for regulating testosterone production in men. Irregularities in prolactin levels can indicate issues with an individual's pituitary gland.]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h3><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">What is prolactin (PRL)?</span></h3>
+<p>Prolactin is a hormone synthesized mostly by the pituitary gland in the brain. In women, it is primarily known for regulating milk production after childbirth (lactation) and playing a role in the menstrual cycle. It also affects male reproductive health by regulating testosterone production, impacting libido, erectile function, and fertility. In both men and women, prolactin is released in response to stress, sleep, and other factors, and can have interactions with cortisol and thyroid hormones. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2954_8('footnote_plugin_reference_2954_8_1');" onkeypress="footnote_moveToReference_2954_8('footnote_plugin_reference_2954_8_1');" ><span id="footnote_plugin_tooltip_2954_8_1" class="footnote_plugin_tooltip_text">[1]</span></a><span id="footnote_plugin_tooltip_text_2954_8_1" class="footnote_tooltip"></span></span></span></p>
+<h3><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Why is prolactin important?</span></h3>
+<p>PRL is critical for the analysis of a variety of issues, and abnormal levels may indicate pituitary gland irregularities, including tumors. <span style="text-decoration: underline;"><a href="https://home.siphoxhealth.com/pricing/unlimited?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=&amp;utm_term=siphox%20health&amp;utm_content=&amp;tw_source=google&amp;tw_adid=687640324952&amp;tw_campaign=19925277251&amp;gad_source=1&amp;gclid=Cj0KCQjwvb-zBhCmARIsAAfUI2uY8He_1BAaSvECNZqCwMQtT6Y41yJBFoDVgu-iAMehWiJa-uL2CFIaAjjgEALw_wcB">SiPhox Health</a></span> includes PRL in our Hormone+ Panel to help monitor and manage PRL levels.</p>
+<p>In men, low PRL is correlated with negative metabolic, psychological, and sexual characteristics. On the other hand, high PRL can inhibit testosterone production, causing decreased energy, muscle mass, and blood count (anemia). High PRL can also lead to erectile dysfunction, decreased libido, and low sperm production</p>
+<p>In women, low PRL can impede sufficient breast milk production. While high PRL can cause menstrual cycle and ovulation irregularities. High PRL levels can cause vaginal dryness and a milky discharge from the nipples when not pregnant (galactorrhea). Additionally, females of reproductive age with either abnormally low and abnormally high PRL may be more prone to cardiovascular and metabolic complications.</p>
+<h3><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">How can I better understand my Prolactin levels?</span></h3>
+<p>According to <span style="text-decoration: underline;"><a href="https://www.mountsinai.org/health-library/tests/prolactin-blood-test#:~:text=The%20normal%20values%20for%20prolactin,80%20to%20400%20%C2%B5g%2FL)">Mount Sinai</a></span>, normal PRL values are:</p>
+<div data-dynamic-ranges="true" data-test="1"></div>
+<div data-ranges="true">
+<ul>
+<li><span style="text-decoration: underline;">Men</span>: &lt;20 ng/mL</li>
+<li><span style="text-decoration: underline;">Nonpregnant women</span>: &lt;25 ng/mL</li>
+<li><span style="text-decoration: underline;">Pregnant women</span>: 80-400 ng/mL</li>
+</ul>
+</div>
+<p>In both men and women, certain medications (antipsychotic, cardiovascular, opiates, etc.), health conditions (infections, autoimmune disease, Sheehan syndrome, etc.), and pituitary gland disorders (prolactinomas or pituitary gland tumors) can all cause abnormally high or low levels of prolactin, which is why it is important to consult with your physician if you are concerned about any of your results. It is important to remember that prolactin levels follow a circadian rhythm associated with the onset of sleep and can appear higher or lower depending on a multitude of factors, with the <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6304861/" data-sanitized-target="_blank">optimal timing</a></span> for blood tests being 2-3 hours after waking and while fasting. <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_2954_8('footnote_plugin_reference_2954_8_2');" onkeypress="footnote_moveToReference_2954_8('footnote_plugin_reference_2954_8_2');" ><span id="footnote_plugin_tooltip_2954_8_2" class="footnote_plugin_tooltip_text">[2]</span></a><span id="footnote_plugin_tooltip_text_2954_8_2" class="footnote_tooltip"></span></span></span></p>
+<h3>How can I maintain optimal Prolactin levels?</h3>
+<p>If your PRL levels are abnormal, consider the following strategies:</p>
+<p><strong>Dietary Changes:</strong> Consuming a diet rich in <span style="text-decoration: underline;"><a href="https://my.clevelandclinic.org/health/articles/22588-dopamine-deficiency">tyrosine</a></span> (dopamine precursor) and <span style="text-decoration: underline;"><a href="https://pubmed.ncbi.nlm.nih.gov/9316450/">vitamin C</a></span> (dopamine inhibitor) can help to lower prolactin levels since dopamine suppresses prolactin. Limiting <span style="text-decoration: underline;"><a href="https://pubmed.ncbi.nlm.nih.gov/15085559/">gluten</a></span> consumption can also help to decrease prolactin production since gluten stimulates prolactin release.</p>
+<p><strong>Lifestyle Changes: </strong>Limiting alcohol consumption can help to decrease prolactin levels and increase testosterone levels. Reducing stressors can also aid in mitigating higher <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6304861/">prolactin</a></span> levels.</p>
+<p><strong>Supplementation:</strong> Consuming <span style="text-decoration: underline;"><a href="https://www.conceiveabilities.com/about/blog/high-prolactin-and-infertility#:~:text=Foods%20that%20lower%20prolactin%20levels,help%20boost%20those%20vitamin%20levels.">vitamin B6</a></span>, <span style="text-decoration: underline;"><a href="https://pubmed.ncbi.nlm.nih.gov/10064178/">vitamin E</a></span>, <span style="text-decoration: underline;"><a href="https://www.conceiveabilities.com/about/blog/high-prolactin-and-infertility#:~:text=Foods%20that%20lower%20prolactin%20levels,help%20boost%20those%20vitamin%20levels.">zinc</a></span>, or <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9701317/">ashwagandha</a></span> supplements could aid in lowering elevated prolactin levels. Including these nutrients in your diet can also help to decrease prolactin levels. If your PRL levels are slightly low, many women try <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7388198/#CD011505-bbs2-0200" data-sanitized-target="_blank">pharmacologic or natural galactagogues</a></span> (milk boosters) such as <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7602737/#B26-genes-11-01208" data-sanitized-target="_blank">fenugreek</a></span> to raise PRL levels and promote lactation.</p>
+<h3><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Where can I learn more?</span></h3>
+<ul>
+<li><span style="text-decoration: underline;"><a href="https://www.longdom.org/open-access/the-role-of-prolactin-in-men-22949.html" data-sanitized-target="_blank">Longdom &#8211; The Role of Prolactin in Men</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/books/NBK537331/" data-sanitized-target="_blank">NIH &#8211; Hyperprolactinemia</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://www.uptodate.com/contents/high-prolactin-levels-and-prolactinomas-beyond-the-basics/print" data-sanitized-target="_blank">Wolters Kluwer &#8211; Patient education: High prolactin levels and prolactinomas</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://qpulse.ipp-uk.com/QPulseDocumentService/Documents.svc/documents/active/attachment?number=PF-PIP-12" data-sanitized-target="_blank">Synlab &#8211; Drugs Causing Hyperprolactinaemia</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://www.sciencedirect.com/science/article/abs/pii/S1743609515305567#:~:text=Original%20Research%E2%80%94Endocrinology-,Low%20Prolactin%20Is%20Associated%20with%20Sexual%20Dysfunction%20and%20Psychological%20or,European%20Male%20Aging%20Study%20(EMAS)" data-sanitized-target="_blank">Science Direct &#8211; Low prolactin is associated with sexual dysfunction and psychological or metabolic disturbances in middle-aged and elderly men</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://link.springer.com/article/10.1007/s12020-022-03145-1" data-sanitized-target="_blank">Springer Link &#8211; Cardiometabolic profile of young women with hypoprolactinemia</a></span></li>
+</ul>
+<p><strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong></p>
+<div class="speaker-mute footnotes_reference_container"> <div class="footnote_container_prepare"><p><span role="button" tabindex="0" class="footnote_reference_container_label pointer" onclick="footnote_expand_collapse_reference_container_2954_8();">References</span><span role="button" tabindex="0" class="footnote_reference_container_collapse_button" style="" onclick="footnote_expand_collapse_reference_container_2954_8();">[<a id="footnote_reference_container_collapse_button_2954_8">+</a>]</span></p></div> <div id="footnote_references_container_2954_8" style="display: none;"><table class="footnotes_table footnote-reference-container"><caption class="accessibility">References</caption> <tbody> 
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2954_8_1" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2954_8('footnote_plugin_tooltip_2954_8_1');"><a role="button" tabindex="0" class="footnote_plugin_link" >1</a></th> <td class="footnote_plugin_text"><span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">Al-Chalabi M, Bass AN, Alsalman I. Physiology, Prolactin. [Updated 2023 Jul 24]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024 Jan-. </span><span class="bk_cite_avail" style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">Available from: <span class="footnote_url_wrap">https://www.ncbi.nlm.nih.gov/books/NBK507829/</span></td></tr>
+
+<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_2954_8_2" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_2954_8('footnote_plugin_tooltip_2954_8_2');"><a role="button" tabindex="0" class="footnote_plugin_link" >2</a></th> <td class="footnote_plugin_text"><span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">Thapa S, Bhusal K. Hyperprolactinemia. [Updated 2023 Jul 24]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024 Jan-. </span><span class="bk_cite_avail" style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">Available from: <span class="footnote_url_wrap">https://www.ncbi.nlm.nih.gov/books/NBK537331/</span></td></tr>
+
+ </tbody> </table> </div></div><script type="text/javascript"> function footnote_expand_reference_container_2954_8() { jQuery('#footnote_references_container_2954_8').show(); jQuery('#footnote_reference_container_collapse_button_2954_8').text('−'); } function footnote_collapse_reference_container_2954_8() { jQuery('#footnote_references_container_2954_8').hide(); jQuery('#footnote_reference_container_collapse_button_2954_8').text('+'); } function footnote_expand_collapse_reference_container_2954_8() { if (jQuery('#footnote_references_container_2954_8').is(':hidden')) { footnote_expand_reference_container_2954_8(); } else { footnote_collapse_reference_container_2954_8(); } } function footnote_moveToReference_2954_8(p_str_TargetID) { footnote_expand_reference_container_2954_8(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.25 }, 500); } } function footnote_moveToAnchor_2954_8(p_str_TargetID) { footnote_expand_reference_container_2954_8(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.25 }, 500); } }</script>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DHEA-S</title>
+		<link>/hub/biomarkers-2/biomarker-dhea-s-2/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Thu, 20 Jun 2024 20:25:29 +0000</pubDate>
+				<category><![CDATA[Biomarkers]]></category>
+		<category><![CDATA[blood test]]></category>
+		<category><![CDATA[DHEA]]></category>
+		<category><![CDATA[DHEA-S]]></category>
+		<category><![CDATA[estrogen]]></category>
+		<category><![CDATA[testosterone]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?p=2936</guid>
+
+					<description><![CDATA[DHEA-S is a hormone that serves as a precursor for testosterone and estrogen, the primary sex hormones for males and females. As a result, DHEA-S levels can provide a glimpse into an individual's sexual and reproductive health.]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h3><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">What is DHEA-S?</span></h3>
+<p><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot=""><span style="text-decoration: underline;"><a href="https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=167&amp;contentid=dhea" data-sanitized-target="_blank">DHEA</a></span> (dehydroepiandrosterone) is a hormone produced primarily by the adrenal glands of the kidneys, but also by the ovaries and testes in smaller amounts, and converted into DHEA-S (<span data-sanitized-data-mce-fragment="1">dehydroepiandrosterone sulfate) by the adrenal glands and liver</span>. DHEA-S serves as a precursor for testosterone and estrogen, the primary sex hormones for males and females.</span></p>
+<h3><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Why is DHEA-S important?</span></h3>
+<p><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">DHEA-S levels provide a glimpse into sexual and reproductive health given its connection with testosterone and estrogen. DHEA-S is currently included in the <span style="text-decoration: underline;"><a href="https://siphoxhealth.com/" data-sanitized-target="_blank">SiPhox Health</a></span> male base panel as well as the female Hormone+ panel. It serves as a good <span style="text-decoration: underline;"><a href="https://www.labcorp.com/tests/004020/dehydroepiandrosterone-dhea-sulfate" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.labcorp.com/tests/004020/dehydroepiandrosterone-dhea-sulfate">indicator</a></span> of overall adrenal function and can potentially point toward adrenal tumors or hyperplasia (enlargement).</span></p>
+<h3><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">How can I better understand my results?</span></h3>
+<p><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot=""><span data-sanitized-data-mce-fragment="1">Generally, it is advisable to fall within the higher end of the normal range. To assist in interpreting results, <span style="text-decoration: underline;"><a href="https://www.mountsinai.org/health-library/tests/dhea-sulfate-test#:~:text=Normal%20Results&amp;text=Ages%2018%20to%2019%3A%20145,0.86%20to%206.48%20%C2%B5mol%2FL" data-sanitized-target="_blank">Mount</a></span></span><span style="text-decoration: underline;"><a href="https://www.mountsinai.org/health-library/tests/dhea-sulfate-test#:~:text=Normal%20Results&amp;text=Ages%2018%20to%2019%3A%20145,0.86%20to%206.48%20%C2%B5mol%2FL" data-sanitized-target="_blank"> Sinai</a></span> established normal ranges of DHEA-S broken down by age and sex:</span></p>
+<div data-dynamic-ranges="true" data-test="1"></div>
+<div data-ranges="true">
+<span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot=""><strong>Male</strong>:</span></p>
+<ul>
+<li><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Age 18-19: 108-441 ug/dL</span></li>
+<li><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Age 20-29: 280-640 ug/dL</span></li>
+<li><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Age 30-39: 120-520 ug/dL</span></li>
+<li><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Age 40-49: 95-530 ug/dL</span></li>
+<li><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Age 50-59: 70-310 ug/dL</span></li>
+<li>Age 60-69: 42-290 ug/dL</li>
+<li>Age 69+: 28-175 ug/dL</li>
+</ul>
+<p><strong>Female</strong>:</p>
+<ul>
+<li><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">Age 18-19: 145-395 ug/dL</span></li>
+<li><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">Age 20-29: 65-380 ug/dL</span></li>
+<li><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">Age 30-39: 45-270 ug/dL</span></li>
+<li><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">Age 40-49: 32-240 ug/dL</span></li>
+<li><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">Age 50-59: 26-200 ug/dL</span></li>
+<li>Age 60-69: 13-130 ug/dL</li>
+<li>Age 69+: 17-90 ug/dL</li>
+</ul>
+</div>
+<p>According to <span style="text-decoration: underline;"><a href="https://medlineplus.gov/lab-tests/dhea-sulfate-test/" data-sanitized-target="_blank">MedlinePlus</a></span>, abnormally high DHEA-S may be caused by adrenal hyperplasia, adrenal tumors, or PCOS in females, while low levels may indicate Addison&#8217;s disease or hypopituitarism. It is important to consult with your physician if you are concerned with your results.</p>
+<h3>How can I maintain optimal DHEA-S levels?</h3>
+<p>If you have low DHEA-S, here are some lifestyle modifications you can try:</p>
+<p><strong>Lifestyle Changes: </strong>If you want to increase your DHEA-S levels, studies have shown that practicing <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8604255/">MSBR</a></span> (mindfulness-based stress reduction) such as through yoga or meditation may help. DHEA-S levels can also be raised through regular exercise, especially with <span style="text-decoration: underline;"><a href="https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/EP085361">high-intensity interval training</a></span> (HIIT).</p>
+<p><strong>Supplementation:</strong> If you have low DHEA-S levels, supplementing with <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6438434/">ashwagandha</a></span> may help.</p>
+<p>If you have elevated DHEA-S levels, you can try:</p>
+<p><strong>Lifestyle Changes: </strong>If you wish to lower your DHEA-S levels, practicing <span style="text-decoration: underline;"><a href="https://www.mdpi.com/2072-6643/14/11/2343">intermittent fasting</a></span> may help.</p>
+<p><strong>Supplementation: </strong>Consuming fish oil and vitamin E supplements may help in decreasing elevated DHEA-S levels.</p>
+<h3><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Where can I learn more?</span></h3>
+<ul>
+<li><span style="text-decoration: underline;"><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot=""><a class="notion-link-token notion-enable-hover" href="https://hubermanlab.com/the-science-of-how-to-optimize-testosterone-and-estrogen/" data-sanitized-target="_blank" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot=""><span class="link-annotation-unknown-block-id--1590225648">Andrew Huberman touches on DHEA in this episode on testosterone</span></a></span></span></li>
+<li><span style="text-decoration: underline;"><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot=""><a class="notion-link-token notion-enable-hover" href="https://www.mountsinai.org/health-library/supplement/dehydroepiandrosterone" data-sanitized-target="_blank" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot=""><span class="link-annotation-unknown-block-id-854033424">Mount Sinai has great educational material on DHEA</span></a></span></span></li>
+</ul>
+<p data-sanitized-data-mce-fragment="1"><strong data-sanitized-data-mce-fragment="1">DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Homocysteine</title>
+		<link>/hub/biomarkers-2/biomarker-homocysteine/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Wed, 19 Jun 2024 20:59:54 +0000</pubDate>
+				<category><![CDATA[Biomarkers]]></category>
+		<category><![CDATA[at-home blood test]]></category>
+		<category><![CDATA[blood test]]></category>
+		<category><![CDATA[blood testing]]></category>
+		<category><![CDATA[cardiovascular]]></category>
+		<category><![CDATA[homocysteine]]></category>
+		<category><![CDATA[inflammation]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?p=2923</guid>
+
+					<description><![CDATA[Homocysteine is a naturally produced amino acid that is metabolized to create other compounds, and high homocysteine levels are associated with elevated risks for cardiovascular diseases and neurological disorders.]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h3><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">What is homocysteine?</span></h3>
+<p><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0"><span style="text-decoration: underline;"><a href="https://my.clevelandclinic.org/health/articles/21527-homocysteine" data-sanitized-target="_blank">Homocysteine</a></span> is a naturally produced, sulfur-containing amino acid that is metabolized to create other essential compounds such as methionine and cysteine. <span style="text-decoration: underline;"><a href="https://my.clevelandclinic.org/health/articles/21527-homocysteine" data-sanitized-target="_blank">High homocysteine</a></span> levels are associated with elevated cardiovascular risk including coronary artery disease, heart attacks, blood clots, or strokes, and neurological disorders such as dementia.</span></p>
+<h3><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">Why is homocysteine important?</span></h3>
+<p>Homocysteine can elevate cardiovascular risk through a mechanism that activates <span style="text-decoration: underline;"><a href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/monocyte" data-sanitized-target="_blank">monocytes</a></span>, a type of immune cell that promotes an inflammatory response. Thus, higher homocysteine levels are linked to increased inflammation. <span style="text-decoration: underline;"><a href="https://home.siphoxhealth.com/pricing/unlimited?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=&amp;utm_term=siphox%20health&amp;utm_content=&amp;tw_source=google&amp;tw_adid=687640324952&amp;tw_campaign=19925277251&amp;gad_source=1&amp;gclid=Cj0KCQjwvb-zBhCmARIsAAfUI2uY8He_1BAaSvECNZqCwMQtT6Y41yJBFoDVgu-iAMehWiJa-uL2CFIaAjjgEALw_wcB">SiPhox Health</a></span> includes homocysteine in our foundation panel to help monitor and manage homocysteine levels.</p>
+<h3><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">How can I better understand my results?</span></h3>
+<p>To assist in interpreting results, the <span style="text-decoration: underline;"><a href="https://www.ahajournals.org/doi/full/10.1161/01.cir.99.1.178" data-sanitized-target="_blank">American Heart Association</a></span> outlined ranges that indicate normal levels of fasting plasma homocysteine in addition to moderate, intermediate, and severe hyperhomocysteinemia.</p>
+<div data-dynamic-ranges="true" data-test="1"></div>
+<div data-ranges="true">
+<ul>
+<li><span style="text-decoration: underline;"><a href="https://www.peirsoncenter.com/uploads/6/0/5/5/6055321/significance-of-low-plasma-homocysteine.pdf" data-sanitized-target="_blank">Low</a></span>: &lt;5 umol/L</li>
+<li><span style="text-decoration: underline;"><a href="https://www.ahajournals.org/doi/full/10.1161/01.cir.99.1.178" data-sanitized-target="_blank">Optimal</a></span>: 5-9 umol/L</li>
+<li><span style="text-decoration: underline;"><a href="https://www.urmc.rochester.edu/encyclopedia/content.aspx?ContentTypeID=167&amp;ContentID=homocysteine#:~:text=Homocysteine%20is%20a%20type%20of,%2C%20blood%20clots%2C%20and%20strokes." data-sanitized-target="_blank">Normal</a></span>: 5-15 umol/L</li>
+<li><span style="text-decoration: underline;"><a href="https://www.urmc.rochester.edu/encyclopedia/content.aspx?ContentTypeID=167&amp;ContentID=homocysteine#:~:text=Homocysteine%20is%20a%20type%20of,%2C%20blood%20clots%2C%20and%20strokes." data-sanitized-target="_blank">Moderate</a></span>: 16-30 umol/L</li>
+<li><span style="text-decoration: underline;"><a href="https://www.urmc.rochester.edu/encyclopedia/content.aspx?ContentTypeID=167&amp;ContentID=homocysteine#:~:text=Homocysteine%20is%20a%20type%20of,%2C%20blood%20clots%2C%20and%20strokes." data-sanitized-target="_blank">Intermediate</a>:</span> 31-100 umol/L</li>
+<li><span style="text-decoration: underline;"><a href="https://www.urmc.rochester.edu/encyclopedia/content.aspx?ContentTypeID=167&amp;ContentID=homocysteine#:~:text=Homocysteine%20is%20a%20type%20of,%2C%20blood%20clots%2C%20and%20strokes." data-sanitized-target="_blank">Severe</a></span>: &gt;100 umol/L</li>
+</ul>
+<p>Ranges specific to the Cardiometabolic Program:</p>
+<ul>
+<li>Optimal: &lt;4 umol/L</li>
+<li>Good: 4-5.9 umol/L</li>
+<li>Fair: 6-9.9 umol/L</li>
+<li>Pay attention: 10-14.9 umol/L</li>
+<li>Alert: &gt;15 umol/L</li>
+</ul>
+</div>
+<p>High levels of homocysteine may be caused by low levels of B vitamins and/or folate, aging, excessive alcohol use, smoking, thyroid or kidney diseases, medications, or genetic diseases. <span data-sanitized-data-mce-fragment="1">It is important to consult with your physician if you are concerned about any of your results.</span></p>
+<h3>How can I maintain optimal homocysteine levels?</h3>
+<p><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">If you have elevated homocysteine levels, you can try:</span></p>
+<p><strong>Lifestyle changes: </strong>Reducing <span style="text-decoration: underline;"><a href="https://pubmed.ncbi.nlm.nih.gov/18425703/#:~:text=Blood%20pressure%2C%20heart%20rate%2C%20and,balance%20(p%20%3C%200.05).">stress</a></span>, cutting back on <span style="text-decoration: underline;"><a href="https://pubmed.ncbi.nlm.nih.gov/12450889/">coffee</a></span>, limiting <span style="text-decoration: underline;"><a href="https://academic.oup.com/alcalc/article/36/3/189/170133">alcohol</a></span> intake, quitting <span style="text-decoration: underline;"><a href="https://pubmed.ncbi.nlm.nih.gov/21143017/#:~:text=Conclusions%3A%20Cigarette%20smoking%20increases%20homocysteine,of%20consumption%20exceeded%2020%20years.">smoking</a></span>, and regularly engaging in <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4795785/">resistance training</a></span> can help to mediate elevated homocysteine levels.</p>
+<p><strong><span style="text-decoration: underline;"><a href="https://my.clevelandclinic.org/health/articles/21527-homocysteine">Supplementation</a></span>:</strong> Supplementing with B vitamins (B6, B12, folic acid) can aid in decreasing higher homocysteine levels.</p>
+<h3><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">Where can I learn more?</span></h3>
+<ul>
+<li><span style="text-decoration: underline;"><a href="https://michaellustgarten.com/2017/11/22/homocysteine-and-all-cause-mortality-risk/"><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">Michael Lustgarten, PhD &#8211; Homocysteine and All-Cause Mortality</span></a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://my.clevelandclinic.org/health/articles/21527-homocysteine" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://my.clevelandclinic.org/health/articles/21527-homocysteine"><span class="notion-enable-hover" style="text-decoration: underline;" data-sanitized-data-mce-style="color: #0b3ff9;" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">Cleveland Clinic &#8211; Homocysteine</span></a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://jamanetwork.com/journals/jamaneurology/fullarticle/777652" data-sanitized-target="_blank"><span class="notion-enable-hover" data-sanitized-mce-data-marked="1" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">JAMA Neurology &#8211; Homocysteine and Neurologic Disease</span></a></span></li>
+</ul>
+<p><strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
