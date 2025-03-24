@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/6.7.2" created="2025-03-24 14:56" -->
+    <!-- generator="WordPress/6.7.2" created="2025-03-24 15:20" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Mon, 24 Mar 2025 14:56:14 +0000</pubDate>
+            <pubDate>Mon, 24 Mar 2025 15:20:40 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -4628,8 +4628,8 @@ Understanding your Vitamin D levels is crucial for maintaining good health, espe
                                                         		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="female-fertility"><![CDATA[female fertility]]></category>
 		<category domain="post_tag" nicename="fertility"><![CDATA[fertility]]></category>
-		<category domain="category" nicename="fsh"><![CDATA[FSH]]></category>
 		<category domain="post_tag" nicename="fsh"><![CDATA[FSH]]></category>
+		<category domain="category" nicename="fsh"><![CDATA[FSH]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
 		<category domain="post_tag" nicename="womens-health"><![CDATA[womens health]]></category>
                                                             <wp:postmeta>
@@ -5139,8 +5139,8 @@ Check out the table below for an overview of our offerings, and for an in-depth 
 		<category domain="post_tag" nicename="diabetes"><![CDATA[diabetes]]></category>
 		<category domain="post_tag" nicename="glucose"><![CDATA[glucose]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
-		<category domain="category" nicename="hba1c"><![CDATA[HbA1C]]></category>
 		<category domain="post_tag" nicename="hba1c"><![CDATA[HbA1c]]></category>
+		<category domain="category" nicename="hba1c"><![CDATA[HbA1C]]></category>
 		<category domain="post_tag" nicename="hemoglobin-a1c"><![CDATA[Hemoglobin A1C]]></category>
 		<category domain="post_tag" nicename="insulin"><![CDATA[insulin]]></category>
 		<category domain="post_tag" nicename="metabolism"><![CDATA[metabolism]]></category>
@@ -5646,8 +5646,8 @@ In conclusion, DNA methylation analysis offers a powerful tool for predicting bi
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
-                                                        		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
-		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
+                                                        		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
+		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -16044,7 +16044,7 @@ Elevated TgAb levels are commonly linked to <strong class="sc-jwpOCX gKUUgZ" dat
                                                     </item>
                                                 <item>
                             <title><![CDATA[Day 3 Hormone Testing: Understanding the Baseline for Fertility]]></title>
-                            <link>/hub/blog/day-3-hormone-testing-understanding-the-baseline-for-fertility/</link>
+                            <link>/hub/guides/biomarkers/day-3-hormone-testing-understanding-the-baseline-for-fertility/</link>
                             <pubDate>Mon, 24 Mar 2025 14:56:14 +0000</pubDate>
                             <dc:creator><![CDATA[siphoxhealth]]></dc:creator>
                             <guid isPermaLink="false">/hub/?p=3754</guid>
@@ -16054,8 +16054,8 @@ Elevated TgAb levels are commonly linked to <strong class="sc-jwpOCX gKUUgZ" dat
                             <wp:post_id>3754</wp:post_id>
                             <wp:post_date><![CDATA[2025-03-24 14:56:14]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2025-03-24 14:56:14]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2025-03-24 14:56:14]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2025-03-24 14:56:14]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2025-03-24 15:20:40]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2025-03-24 15:20:40]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[day-3-hormone-testing-understanding-the-baseline-for-fertility]]></wp:post_name>
@@ -16065,14 +16065,15 @@ Elevated TgAb levels are commonly linked to <strong class="sc-jwpOCX gKUUgZ" dat
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
-                                                        		<category domain="category" nicename="blog"><![CDATA[Blogs]]></category>
+                                                        		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
+		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[7]]></wp:meta_value>
                                 </wp:postmeta>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[written_by]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[]]></wp:meta_value>
+                                    <wp:meta_value><![CDATA[a:1:{i:0;s:1:"7";}]]></wp:meta_value>
                                 </wp:postmeta>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_written_by]]></wp:meta_key>

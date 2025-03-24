@@ -10,7 +10,7 @@
 	<title>SiPhox Health</title>
 	<link>/hub/</link>
 	<description></description>
-	<dc:date>2025-03-24T14:56:14Z	</dc:date>
+	<dc:date>2025-03-24T15:20:40Z	</dc:date>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -19,7 +19,7 @@
 	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=6.7.2" />
 	<items>
 		<rdf:Seq>
-					<rdf:li rdf:resource="/hub/blog/day-3-hormone-testing-understanding-the-baseline-for-fertility/"/>
+					<rdf:li rdf:resource="/hub/guides/biomarkers/day-3-hormone-testing-understanding-the-baseline-for-fertility/"/>
 					<rdf:li rdf:resource="/hub/guides/biomarkers/understanding-your-lab-results-beyond-standard-ranges/"/>
 					<rdf:li rdf:resource="/hub/biomarkers-2/calcium/"/>
 					<rdf:li rdf:resource="/hub/biomarkers-2/biomarker-egfr/"/>
@@ -32,13 +32,14 @@
 				</rdf:Seq>
 	</items>
 </channel>
-<item rdf:about="/hub/blog/day-3-hormone-testing-understanding-the-baseline-for-fertility/">
+<item rdf:about="/hub/guides/biomarkers/day-3-hormone-testing-understanding-the-baseline-for-fertility/">
 	<title>Day 3 Hormone Testing: Understanding the Baseline for Fertility</title>
-	<link>/hub/blog/day-3-hormone-testing-understanding-the-baseline-for-fertility/</link>
+	<link>/hub/guides/biomarkers/day-3-hormone-testing-understanding-the-baseline-for-fertility/</link>
 
 	<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
 	<dc:date>2025-03-24T14:56:14Z</dc:date>
-			<dc:subject><![CDATA[Blogs]]></dc:subject>
+			<dc:subject><![CDATA[Biomarkers]]></dc:subject>
+		<dc:subject><![CDATA[Guides]]></dc:subject>
 
 			<description><![CDATA[Day 3 hormone testing is a common practice in reproductive health, providing a standardized baseline to evaluate your hormonal balance and fertility.]]></description>
 		<content:encoded><![CDATA[

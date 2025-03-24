@@ -12,7 +12,7 @@
 	<atom:link href="/hub/author/siphoxhealth/feed/" rel="self" type="application/rss+xml" />
 	<link>/hub/</link>
 	<description></description>
-	<lastBuildDate>Mon, 24 Mar 2025 14:56:14 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Mar 2025 15:20:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,11 +21,12 @@
 	<generator>https://wordpress.org/?v=6.7.2</generator>
 	<item>
 		<title>Day 3 Hormone Testing: Understanding the Baseline for Fertility</title>
-		<link>/hub/blog/day-3-hormone-testing-understanding-the-baseline-for-fertility/</link>
+		<link>/hub/guides/biomarkers/day-3-hormone-testing-understanding-the-baseline-for-fertility/</link>
 		
 		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
 		<pubDate>Mon, 24 Mar 2025 14:56:14 +0000</pubDate>
-				<category><![CDATA[Blogs]]></category>
+				<category><![CDATA[Biomarkers]]></category>
+		<category><![CDATA[Guides]]></category>
 		<guid isPermaLink="false">/hub/?p=3754</guid>
 
 					<description><![CDATA[Day 3 hormone testing is a common practice in reproductive health, providing a standardized baseline to evaluate your hormonal balance and fertility.]]></description>
