@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/6.7.2" created="2025-03-24 15:20" -->
+    <!-- generator="WordPress/6.7.2" created="2025-04-02 17:11" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Mon, 24 Mar 2025 15:20:40 +0000</pubDate>
+            <pubDate>Wed, 02 Apr 2025 17:11:26 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -39,7 +39,6 @@
 	<wp:author><wp:author_id>17</wp:author_id><wp:author_login><![CDATA[PavelKorecky]]></wp:author_login><wp:author_email><![CDATA[pavel@siphox.com]]></wp:author_email><wp:author_display_name><![CDATA[Pavel Korecky]]></wp:author_display_name><wp:author_first_name><![CDATA[Pavel]]></wp:author_first_name><wp:author_last_name><![CDATA[Korecky]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>18</wp:author_id><wp:author_login><![CDATA[Colin Budries]]></wp:author_login><wp:author_email><![CDATA[colin@siphox.com]]></wp:author_email><wp:author_display_name><![CDATA[Colin Budries]]></wp:author_display_name><wp:author_first_name><![CDATA[Colin]]></wp:author_first_name><wp:author_last_name><![CDATA[Budries]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>16</wp:author_id><wp:author_login><![CDATA[Eva Medved]]></wp:author_login><wp:author_email><![CDATA[evamedved7@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[Eva Medved]]></wp:author_display_name><wp:author_first_name><![CDATA[Eva]]></wp:author_first_name><wp:author_last_name><![CDATA[Medved]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>15</wp:author_id><wp:author_login><![CDATA[Divya Kashyap]]></wp:author_login><wp:author_email><![CDATA[divya@siphoxhealth.com]]></wp:author_email><wp:author_display_name><![CDATA[Divya Kashyap]]></wp:author_display_name><wp:author_first_name><![CDATA[Divya]]></wp:author_first_name><wp:author_last_name><![CDATA[Kashyap]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>27</wp:author_id><wp:author_login><![CDATA[rami.abrams@siphoxhealth.com]]></wp:author_login><wp:author_email><![CDATA[rami.abrams@siphoxhealth.com]]></wp:author_email><wp:author_display_name><![CDATA[rami.abrams@siphoxhealth.com]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
                                                 
@@ -438,20 +437,20 @@ The Metabolic+ Panel tests 10 additional thyroid markers on top of our standard 
                                                 <item>
                             <title><![CDATA[Y Combinator Launch 2022!]]></title>
                             <link>/hub/blog/y-combinator-launch-2022/</link>
-                            <pubDate>Wed, 29 Mar 2023 10:00:06 +0000</pubDate>
-                            <dc:creator><![CDATA[PavelKorecky]]></dc:creator>
+                            <pubDate>Thu, 29 Dec 2022 10:00:06 +0000</pubDate>
+                            <dc:creator><![CDATA[siphoxhealth]]></dc:creator>
                             <guid isPermaLink="false">https://hub.siphoxhealth.com/?post_type=blog&#038;p=1514</guid>
                             <description></description>
                             <content:encoded><![CDATA[[lwptoc]
 <h2>SiPhox - Convenient at-home health tracking</h2>
-<p style="text-align: left">At-home health testing is too expensive and slow. We’re fixing that.</p>
+<p style="text-align: left;">At-home health testing is too expensive and slow. We’re fixing that.</p>
 https://youtu.be/u6oF_lyUsII
 
 <strong>The average American lifespan has plateaued over the last 2 decades</strong>
 
 <img class="alignnone wp-image-1089 size-full" src="/hub/wp-content/uploads/2023/02/ae9a0197-58ee-4f23-884b-e894463751d3.webp" alt="" width="843" height="818" />
 
-<span style="background-color: var(--global--color-background);color: var(--global--color-primary);font-family: var(--global--font-secondary);font-size: var(--global--font-size-base)">We believe that every human is unique. Biomarker tracking is required to know whether a particular lifestyle or health intervention is working. At scale, we envision that frequent population biomarker tracking will enable humans to live longer and healthier lives.</span>
+<span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">We believe that every human is unique. Biomarker tracking is required to know whether a particular lifestyle or health intervention is working. At scale, we envision that frequent population biomarker tracking will enable humans to live longer and healthier lives.</span>
 
 <strong>To enable this future, our team is working to decrease the cost of at-home testing by 10x and make results available immediately.</strong>
 
@@ -487,8 +486,8 @@ https://youtu.be/u6oF_lyUsII
 <h3 id="h-4348">Use this link for a 10% discount on your first 3 test kits: <a href="https://siphoxhealth.com/pages/tier-page?utm_source=YC-launch&amp;utm_medium=post&amp;utm_campaign=YC-launch&amp;utm_id=YC-launch">JOIN QUANTIFY</a></h3>]]></content:encoded>
                             <excerpt:encoded><![CDATA[Until the last decade, life expectancy in the US was increasing. Then it plateaued. Now it is decreasing. Find out how SiPhox is working to reverse this alarming trend.]]></excerpt:encoded>
                             <wp:post_id>1514</wp:post_id>
-                            <wp:post_date><![CDATA[2023-03-29 10:00:06]]></wp:post_date>
-                            <wp:post_date_gmt><![CDATA[2023-03-29 10:00:06]]></wp:post_date_gmt>
+                            <wp:post_date><![CDATA[2022-12-29 10:00:06]]></wp:post_date>
+                            <wp:post_date_gmt><![CDATA[2022-12-29 10:00:06]]></wp:post_date_gmt>
                             <wp:post_modified><![CDATA[2024-02-16 04:22:47]]></wp:post_modified>
                             <wp:post_modified_gmt><![CDATA[2024-02-16 04:22:47]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -548,7 +547,7 @@ https://youtu.be/u6oF_lyUsII
                                 </wp:postmeta>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[written_by]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[17]]></wp:meta_value>
+                                    <wp:meta_value><![CDATA[a:1:{i:0;s:2:"17";}]]></wp:meta_value>
                                 </wp:postmeta>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_written_by]]></wp:meta_key>
@@ -4289,10 +4288,10 @@ On this episode of Health &amp; Life Sciences at the Edge, host Michelle Dawn Mo
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
-                            <title><![CDATA[How Blue Light Blocking Glasses Unlock Better Sleep and Improve Biomarkers: A Beginner's Guide]]></title>
+                            <title><![CDATA[How Blue Light Blocking Glasses Unlock Better Sleep and Improve Biomarkers]]></title>
                             <link>/hub/blog/better-sleep-blue-light-blocking-glasses/</link>
                             <pubDate>Sun, 20 Aug 2023 09:33:03 +0000</pubDate>
-                            <dc:creator><![CDATA[Eva Medved]]></dc:creator>
+                            <dc:creator><![CDATA[siphoxhealth]]></dc:creator>
                             <guid isPermaLink="false">https://hub.siphoxhealth.com/?p=2014</guid>
                             <description></description>
                             <content:encoded><![CDATA[]]></content:encoded>
@@ -4348,7 +4347,7 @@ On this episode of Health &amp; Life Sciences at the Edge, host Michelle Dawn Mo
                                 </wp:postmeta>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[written_by]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[16]]></wp:meta_value>
+                                    <wp:meta_value><![CDATA[a:1:{i:0;s:2:"16";}]]></wp:meta_value>
                                 </wp:postmeta>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_written_by]]></wp:meta_key>
@@ -4467,7 +4466,7 @@ Remember that by becoming an Unlimited member, you will receive a free pair of h
                             <title><![CDATA[The Untold Story of Vitamin D]]></title>
                             <link>/hub/blog/the-untold-story-of-vitamin-d/</link>
                             <pubDate>Fri, 13 Oct 2023 15:00:47 +0000</pubDate>
-                            <dc:creator><![CDATA[Divya Kashyap]]></dc:creator>
+                            <dc:creator><![CDATA[siphoxhealth]]></dc:creator>
                             <guid isPermaLink="false">https://hub.siphoxhealth.com/?p=2067</guid>
                             <description></description>
                             <content:encoded><![CDATA[]]></content:encoded>
@@ -4550,7 +4549,7 @@ Understanding your Vitamin D levels is crucial for maintaining good health, espe
                                 </wp:postmeta>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[written_by]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[15]]></wp:meta_value>
+                                    <wp:meta_value><![CDATA[a:1:{i:0;s:2:"15";}]]></wp:meta_value>
                                 </wp:postmeta>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_written_by]]></wp:meta_key>
@@ -4628,8 +4627,8 @@ Understanding your Vitamin D levels is crucial for maintaining good health, espe
                                                         		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="female-fertility"><![CDATA[female fertility]]></category>
 		<category domain="post_tag" nicename="fertility"><![CDATA[fertility]]></category>
-		<category domain="post_tag" nicename="fsh"><![CDATA[FSH]]></category>
 		<category domain="category" nicename="fsh"><![CDATA[FSH]]></category>
+		<category domain="post_tag" nicename="fsh"><![CDATA[FSH]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
 		<category domain="post_tag" nicename="womens-health"><![CDATA[womens health]]></category>
                                                             <wp:postmeta>
@@ -5646,8 +5645,8 @@ In conclusion, DNA methylation analysis offers a powerful tool for predicting bi
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
-                                                        		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
-		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
+                                                        		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
+		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -6853,8 +6852,8 @@ If zinc levels are too low, it can lead to a variety of health issues, including
                                                         		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="post_tag" nicename="at-home"><![CDATA[at-home]]></category>
 		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
-		<category domain="post_tag" nicename="biomarkers"><![CDATA[biomarkers]]></category>
 		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
+		<category domain="post_tag" nicename="biomarkers"><![CDATA[biomarkers]]></category>
 		<category domain="post_tag" nicename="blood"><![CDATA[blood]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -10471,6 +10470,14 @@ If your cortisol levels are on the lower side, studies suggest the following i
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_content_1_copies]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -16144,14 +16151,6 @@ In conclusion, <strong>day 3 hormone testing is recommended because it offers a 
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_content]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_6414004cd50ab]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                 </channel>
