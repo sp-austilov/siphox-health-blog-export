@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/6.7.2" created="2025-04-02 17:11" -->
+    <!-- generator="WordPress/6.8.1" created="2025-05-13 20:25" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Wed, 02 Apr 2025 17:11:26 +0000</pubDate>
+            <pubDate>Tue, 13 May 2025 20:25:51 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -42,7 +42,7 @@
 	<wp:author><wp:author_id>27</wp:author_id><wp:author_login><![CDATA[rami.abrams@siphoxhealth.com]]></wp:author_login><wp:author_email><![CDATA[rami.abrams@siphoxhealth.com]]></wp:author_email><wp:author_display_name><![CDATA[rami.abrams@siphoxhealth.com]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
                                                 
-            <generator>https://wordpress.org/?v=6.7.2</generator>
+            <generator>https://wordpress.org/?v=6.8.1</generator>
 
                                     <item>
                             <title><![CDATA[What We Measure]]></title>
@@ -7532,7 +7532,7 @@ In both men and women, certain medications (antipsychotic, cardiovascular, opia
 <h3>How can I maintain optimal Prolactin levels?</h3>
 If your PRL levels are abnormal, consider the following strategies:
 
-<strong>Dietary Changes:</strong> Consuming a diet rich in <span style="text-decoration: underline;"><a href="https://my.clevelandclinic.org/health/articles/22588-dopamine-deficiency">tyrosine</a></span> (dopamine precursor) and <span style="text-decoration: underline;"><a href="https://pubmed.ncbi.nlm.nih.gov/9316450/">vitamin C</a></span> (dopamine inhibitor) can help to lower prolactin levels since dopamine suppresses prolactin. Limiting <span style="text-decoration: underline;"><a href="https://pubmed.ncbi.nlm.nih.gov/15085559/">gluten</a></span> consumption can also help to decrease prolactin production since gluten stimulates prolactin release.
+<strong>Dietary Changes:</strong> Consuming a diet rich in <span style="text-decoration: underline;"><a href="https://pubmed.ncbi.nlm.nih.gov/9316450/">vitamin C</a></span> (dopamine inhibitor) can help to lower prolactin levels since dopamine suppresses prolactin. Limiting <span style="text-decoration: underline;"><a href="https://pubmed.ncbi.nlm.nih.gov/15085559/">gluten</a></span> consumption can also help to decrease prolactin production since gluten stimulates prolactin release.
 
 <strong>Lifestyle Changes: </strong>Limiting alcohol consumption can help to decrease prolactin levels and increase testosterone levels. Reducing stressors can also aid in mitigating higher <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6304861/">prolactin</a></span> levels.
 
@@ -7551,6 +7551,14 @@ If your PRL levels are abnormal, consider the following strategies:
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_content_1_copies]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -10435,10 +10443,11 @@ Cortisol is a hormone synthesized and secreted by the adrenal glands of the kidn
 <a href="https://www.zrtlab.com/landing-pages/diurnal-cortisol-curves/" data-sanitized-target="_blank"><img class="alignnone" style="display: block; margin-left: auto; margin-right: auto;" src="https://www.zrtlab.com/media/1476/adrenal_curve_normal.jpg?width=359&amp;height=299" alt="cortisol" width="293" height="244" data-sanitized-data-mce-style="display: block; margin-left: auto; margin-right: auto;" data-sanitized-data-mce-src="https://www.zrtlab.com/media/1476/adrenal_curve_normal.jpg?width=359&amp;height=299" data-sanitized-data-mce-fragment="1" /></a></span>
 <h3><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">Why is cortisol important?</span></h3>
 <span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">High cortisol levels are an indicator of acute (sudden), chronic (long-term), and/or traumatic (life-threatening) stress. Secondary factors associated with mental stress include alcohol drinking, smoking, a lack of exercise, inadequate sleep, and poor nutrition. Over time, prolonged high levels of cortisol (Cushing's disease or hypercortisolism) can lead to weight gain, fat redistribution, poor sleep, a lowered immune system, and increased inflammation. Low levels might indicate poor adrenal function or Addison's disease.</span>
-<h3><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">How can I better understand my fingerprick cortisol levels?</span></h3>
+
+Cortisol also plays a large role in your metabolism and metabolic health (how your body uses food for energy) by controlling how your body uses carbohydrates, fats, and proteins. When you’re stressed, cortisol raises your blood sugar for a quick energy boost – it signals your liver to release glucose (sugar) into your bloodstream and temporarily blocks insulin (the hormone that normally lowers blood sugar) to keep that sugar available. This burst of energy is helpful in the short term, but if cortisol stays high (for example, from chronic stress), it can keep blood sugar elevated and cause extra sugar to be stored as fat.
+<h3><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">How can I better understand my blood cortisol levels?</span></h3>
 <div data-dynamic-ranges="true" data-test="1"></div>
-<div data-ranges="true">
-<span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0"><a href="https://my.clevelandclinic.org/health/articles/22187-cortisol" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://my.clevelandclinic.org/health/articles/22187-cortisol"><span style="text-decoration: underline;">Normal serum cortisol ranges</span></a></span>
+<div data-ranges="true"><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0"><a href="https://my.clevelandclinic.org/health/articles/22187-cortisol" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://my.clevelandclinic.org/health/articles/22187-cortisol"><span style="text-decoration: underline;">Normal serum cortisol ranges</span></a></span>
 <ul>
  	<li><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">Peaks in the morning between 6 am - 8 am: 10-15 ug/dL</span></li>
  	<li><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">Falls in the evening around 4 pm: 4-10 ug/dL</span></li>
@@ -10470,14 +10479,6 @@ If your cortisol levels are on the lower side, studies suggest the following i
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_content_1_copies]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
