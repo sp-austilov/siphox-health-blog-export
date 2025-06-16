@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for SiPhox Health	</title>
-	<atom:link href="/hub/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/hub/</link>
+	Comments on: Continuous Glucose Monitoring (CGM)	</title>
+	<atom:link href="/hub/biomarkers-2/biomarker-cgm/feed/" rel="self" type="application/rss+xml" />
+	<link>/hub/biomarkers-2/biomarker-cgm/</link>
 	<description></description>
 	<lastBuildDate>Mon, 16 Jun 2025 16:35:04 +0000</lastBuildDate>
 	<sy:updatePeriod>
