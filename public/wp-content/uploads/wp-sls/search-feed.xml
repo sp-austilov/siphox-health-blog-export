@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/6.8.1" created="2025-06-19 16:01" -->
+    <!-- generator="WordPress/6.8.1" created="2025-06-19 16:05" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Thu, 19 Jun 2025 16:01:47 +0000</pubDate>
+            <pubDate>Thu, 19 Jun 2025 16:05:45 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -16472,8 +16472,8 @@ Maintaining balanced iron saturation involves managing both iron intake and abso
                             <wp:post_id>3781</wp:post_id>
                             <wp:post_date><![CDATA[2025-06-18 13:42:18]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2025-06-18 13:42:18]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2025-06-19 16:01:47]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2025-06-19 16:01:47]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2025-06-19 16:05:45]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2025-06-19 16:05:45]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[when-to-test-guide]]></wp:post_name>
@@ -16588,7 +16588,7 @@ Light walking is fine, but no strenuous activity.
 </tr>
 </tbody>
 </table>
-<h2>Women-Specific Hormone Testing</h2>
+<h2>♀️<!-- notionvc: 41ff3dfd-795f-42f8-b5b9-6cfe3340081f -->Women-Specific Hormone Testing</h2>
 <strong>We recommend following these guidelines to capture a more standardized baseline, but testing on other days can still be informative. </strong>
 
 <strong><a href="https://siphoxhealth.com/hub/guides/biomarkers/day-3-hormone-testing-understanding-the-baseline-for-fertility">READ MORE</a></strong>
@@ -16610,14 +16610,6 @@ You can take the hormonal panel on <strong>any day</strong>.
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_content_2_copies]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                 </channel>
