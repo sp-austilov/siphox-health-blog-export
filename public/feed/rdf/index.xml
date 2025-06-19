@@ -10,7 +10,7 @@
 	<title>SiPhox Health</title>
 	<link>/hub/</link>
 	<description></description>
-	<dc:date>2025-06-18T13:42:18Z	</dc:date>
+	<dc:date>2025-06-19T16:01:47Z	</dc:date>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -19,7 +19,7 @@
 	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=6.8.1" />
 	<items>
 		<rdf:Seq>
-					<rdf:li rdf:resource="/hub/guides/when-to-test-a-guide-to-timing-fasting-and-preparation/"/>
+					<rdf:li rdf:resource="/hub/guides/when-to-test-guide/"/>
 					<rdf:li rdf:resource="/hub/biomarkers-2/biomarker-iron-saturation/"/>
 					<rdf:li rdf:resource="/hub/biomarkers-2/biomarker-cgm/"/>
 					<rdf:li rdf:resource="/hub/guides/biomarkers/day-3-hormone-testing-understanding-the-baseline-for-fertility/"/>
@@ -32,9 +32,9 @@
 				</rdf:Seq>
 	</items>
 </channel>
-<item rdf:about="/hub/guides/when-to-test-a-guide-to-timing-fasting-and-preparation/">
+<item rdf:about="/hub/guides/when-to-test-guide/">
 	<title>When Should You Take Your SiPhox Health Test?</title>
-	<link>/hub/guides/when-to-test-a-guide-to-timing-fasting-and-preparation/</link>
+	<link>/hub/guides/when-to-test-guide/</link>
 
 	<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
 	<dc:date>2025-06-18T13:42:18Z</dc:date>
@@ -44,7 +44,7 @@
 			<description><![CDATA[
 
 
-A Guide to Timing, Fasting, and Preparation To get the most accurate insights from your SiPhox blood test—whether you’re using EasyDraw or finger prick—timing and preparation matter. Here&#8217;s how to prepare based on the panel you’re taking: ⏰ Best Time to Test Test in the morning, ideally within 1–2 hours of waking up. This aligns&#8230; <a class="more-link" href="/hub/guides/when-to-test-a-guide-to-timing-fasting-and-preparation/">Continue reading <span class="screen-reader-text">When Should You Take Your SiPhox Health Test?</span></a>]]></description>
+A Guide to Timing, Fasting, and Preparation To get the most accurate insights from your SiPhox blood test—whether you’re using EasyDraw or finger prick—timing and preparation matter. Here&#8217;s how to prepare based on the panel you’re taking: ⏰ Best Time to Test Test in the morning, ideally within 1–2 hours of waking up. This aligns&#8230; <a class="more-link" href="/hub/guides/when-to-test-guide/">Continue reading <span class="screen-reader-text">When Should You Take Your SiPhox Health Test?</span></a>]]></description>
 		<content:encoded><![CDATA[
 
 
@@ -99,7 +99,7 @@ A Guide to Timing, Fasting, and Preparation To get the most accurate insights fr
 </tr>
 </tbody>
 </table>
-<h2>Women-Specific Hormone Testing</h2>
+<h2><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/2640.png" alt="♀" class="wp-smiley" style="height: 1em; max-height: 1em;" /><!-- notionvc: 41ff3dfd-795f-42f8-b5b9-6cfe3340081f -->Women-Specific Hormone Testing</h2>
 <p><strong>We recommend following these guidelines to capture a more standardized baseline, but testing on other days can still be informative. </strong></p>
 <p><strong><a href="https://siphoxhealth.com/hub/guides/biomarkers/day-3-hormone-testing-understanding-the-baseline-for-fertility">READ MORE</a></strong></p>
 <h3><strong>If you have menstrual cycles and are not on birth control:</strong></h3>
