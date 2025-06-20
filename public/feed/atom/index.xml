@@ -6,7 +6,7 @@
 	<title type="text">SiPhox Health</title>
 	<subtitle type="text"></subtitle>
 
-	<updated>2025-06-19T16:05:45Z</updated>
+	<updated>2025-06-20T21:04:03Z</updated>
 
 	<link rel="alternate" type="text/html" href="/hub/" />
 	<id>/hub/feed/atom/</id>
@@ -22,7 +22,7 @@
 		<link rel="alternate" type="text/html" href="/hub/guides/when-to-test-guide/" />
 
 		<id>/hub/?p=3781</id>
-		<updated>2025-06-19T16:05:45Z</updated>
+		<updated>2025-06-20T21:04:03Z</updated>
 		<published>2025-06-18T13:42:18Z</published>
 		<category scheme="/hub/" term="Biomarkers" /><category scheme="/hub/" term="Guides" />
 		<summary type="html"><![CDATA[
@@ -47,44 +47,15 @@ A Guide to Timing, Fasting, and Preparation To get the most accurate insights fr
 <li><strong>Hormones</strong> like cortisol, DHEA-S, IGF-1, and even testosterone</li>
 </ul>
 <h2><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/1f48a.png" alt="💊" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Supplements &amp; Meds</strong></h2>
-<p>Avoid supplements for 24 hours <strong>before testing, </strong>especially <strong>biotin, B12, vitamin D</strong>, and <strong>adaptogens</strong>, which may skew results. Take prescribed medications as instructed by your health provider.</p>
-<h2><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/1f3cb.png" alt="🏋" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Exercise</strong></h2>
-<p><strong>Avoid intense workouts the morning of your test</strong>. Exercise can elevate:</p>
 <ul>
-<li><strong>Cortisol</strong></li>
-<li><strong>Testosterone</strong></li>
-<li><strong>Glucose and insulin</strong></li>
-<li><strong>Creatine kinase (CK)</strong></li>
+<li><strong>Avoid supplements:</strong> Do not take any supplements for 24 hours before testing, especially biotin, B12, vitamin D, and adaptogens, which may skew results.</li>
+<li><strong>Do not stop taking medications:</strong> Take your prescribed medications as instructed by your healthcare provider.</li>
 </ul>
-<p>Light walking is fine, but no strenuous activity.</p>
-<h2><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/1f9ea.png" alt="🧪" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Panel-Specific Prep</strong></h2>
-<table>
-<thead>
-<tr>
-<th><strong>Panel</strong></th>
-<th><strong>Prep Instructions</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Core Health</strong></td>
-<td>Fast 8–12 hours, test in the morning, no exercise</td>
-</tr>
-<tr>
-<td><strong>Heart &amp; Metabolic</strong></td>
-<td>Fast 8–12 hours, test in the morning, avoid exercise and supplements</td>
-</tr>
-<tr>
-<td><strong>Hormones</strong></td>
-<td>Fast 8-12 hours, test within 1–2 hrs of waking, no supplements or exercise</td>
-</tr>
-<tr>
-<td><strong>Ultimate</strong></td>
-<td>Fast 8–12 hours, test within 1–2 hrs of waking, no supplements or exercise</td>
-</tr>
-</tbody>
-</table>
-<h2><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/2640.png" alt="♀" class="wp-smiley" style="height: 1em; max-height: 1em;" /><!-- notionvc: 41ff3dfd-795f-42f8-b5b9-6cfe3340081f -->Women-Specific Hormone Testing</h2>
+<h2><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/1f3cb.png" alt="🏋" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Exercise</strong></h2>
+<ul>
+<li><strong><span class="notion-enable-hover" data-token-index="0">No intense exercise:</span> </strong>Avoid intense workouts in the morning before your test.<!-- notionvc: d0c227c1-d83f-42a5-9805-ab2c032f1be7 --></li>
+</ul>
+<h2><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/2640.png" alt="♀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Women-Specific Hormone Testing</strong></h2>
 <p><strong>We recommend following these guidelines to capture a more standardized baseline, but testing on other days can still be informative.</strong></p>
 <p><a href="https://siphoxhealth.com/hub/guides/biomarkers/day-3-hormone-testing-understanding-the-baseline-for-fertility"><strong>Click here to read more about Day 3 Hormone Testing</strong></a></p>
 <h3><strong>If you have menstrual cycles and are not on birth control:</strong></h3>
@@ -93,7 +64,7 @@ A Guide to Timing, Fasting, and Preparation To get the most accurate insights fr
 <p><em>Get your period at 3 pm on Monday? Test on Wednesday.</em></p>
 <p><em>Get your period at 8 pm on Monday? Test on Thursday.</em></p>
 <h3><strong>If you have menstrual cycles and are on birth control:</strong></h3>
-<p>Users of continuous contraceptives like the minipill or hormonal IUD who still have regular periods should test on <strong>Day 3</strong> of their periods. If you do not experience regular periods, it&#8217;s advised to wait three months after stopping contraceptives for hormone levels to normalize.</p>
+<p>Users of continuous contraceptives like the minipill or hormonal IUD who still have regular periods should test on <b data-stringify-type="bold">Day 3</b> of their periods. If you do not experience regular periods, it’s advised to wait three months after stopping contraceptives for hormone levels to normalize (please consult with your healthcare provider before stopping any medications).</p>
 <h3><strong>If you do not undergo menstruation cycles due to menopause:</strong></h3>
 <p>You can take the hormonal panel on <strong>any day</strong>.</p>
 <p><!-- notionvc: 0c598a9c-916f-418d-92c8-5a5d26fa7e5c --></p>
