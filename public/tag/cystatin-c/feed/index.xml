@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cystatin c &#8211; SiPhox Health</title>
+	<atom:link href="/hub/tag/cystatin-c/feed/" rel="self" type="application/rss+xml" />
+	<link>/hub/</link>
+	<description></description>
+	<lastBuildDate>Thu, 06 Feb 2025 21:38:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+	<item>
+		<title>Cystatin C</title>
+		<link>/hub/biomarkers-2/cystatin-c/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Fri, 07 Feb 2025 21:16:39 +0000</pubDate>
+				<category><![CDATA[Biomarkers]]></category>
+		<category><![CDATA[cystatin c]]></category>
+		<guid isPermaLink="false">/hub/?p=3706</guid>
+
+					<description><![CDATA[Cystatin C is a protein produced by nearly all cells in the body and is filtered out of the blood by the kidneys. It serves as a reliable marker for kidney function and is used to estimate the glomerular filtration rate (eGFR), which helps assess how well your kidneys are working.]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h3>What is Cystatin C?</h3>
+<p>Cystatin C is a protein produced by nearly all cells in the body and is filtered out of the blood by the kidneys. It serves as a reliable marker for kidney function and is used to estimate the glomerular filtration rate (eGFR), which helps assess how well your kidneys are working. Unlike creatinine, another common kidney function marker, cystatin C levels are less affected by muscle mass, age, or diet, making it a more precise indicator of kidney health.</p>
+<h3>Why is Cystatin C important?</h3>
+<p>Measuring cystatin C can help detect kidney dysfunction earlier than traditional creatinine-based tests, especially in individuals with low muscle mass, older adults, or those at risk for cardiovascular disease. It can also improve the accuracy of eGFR calculations, aiding in better disease management and risk assessment.</p>
+<h3>How can I better understand my Cystatin C levels?</h3>
+<p>Cystatin C levels are measured through a simple blood test and can be used to estimate eGFR. Unlike creatinine, which can fluctuate based on muscle breakdown, cystatin C remains relatively stable. Elevated levels may indicate decreased kidney function, which could be caused by factors such as high blood pressure, diabetes, or other chronic conditions affecting the kidneys.</p>
+<div data-dynamic-ranges="true" data-test="1"></div>
+<div data-ranges="true"></div>
+<p>If your cystatin C levels are higher than normal, consult with your physician to determine the cause and possible next steps.</p>
+<h3>How can I maintain optimal Cystatin C levels?</h3>
+<p>If you need to support your kidney health, consider the following strategies:</p>
+<p><strong>Dietary Changes:</strong> Reduce salt intake and prioritize kidney-friendly foods such as fruits, vegetables, and whole grains.</p>
+<p><strong>Lifestyle Adjustments:</strong> Maintain a healthy weight, exercise regularly, and stay hydrated to support kidney function.</p>
+<p><strong>Manage Chronic Conditions:</strong> Control blood pressure, blood sugar, and cholesterol levels to reduce strain on the kidneys.</p>
+<p>Certain medications, such as NSAIDs, and conditions like high blood pressure or diabetes can impact kidney function. Always consult your healthcare provider if you have concerns about your kidney health.</p>
+<h3>Where can I learn more?</h3>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li><span style="text-decoration: underline;"><a href="https://www.kidney.org/kidney-topics/cystatin-c">National Kidney Foundation – Cystatin C</a></span></li>
+<li><a class="notion-link-token notion-focusable-token notion-enable-hover" style="background-color: var(--global--color-background); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);" tabindex="0" href="https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/prevention" rel="noopener noreferrer" data-token-index="0"><span class="link-annotation-unknown-block-id-1410636744">National Institute of Diabetes and Digestive and Kidney Diseases-Preventing Chronic Kidney Disease</span></a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul><!-- notionvc: 8e9247cb-be02-46b8-b497-359f921c8199 --></ul>
+</li>
+</ul>
+<p><strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

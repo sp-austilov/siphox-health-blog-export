@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Customer B2B &#8211; SiPhox Health</title>
+	<atom:link href="/hub/category/blog/stories/customer-b2b/feed/" rel="self" type="application/rss+xml" />
+	<link>/hub/</link>
+	<description></description>
+	<lastBuildDate>Fri, 16 Feb 2024 04:22:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+	<item>
+		<title>A Case Study in Holistic Medicine</title>
+		<link>/hub/blog/a-case-study-in-holistic-medicine/</link>
+		
+		<dc:creator><![CDATA[Colin Budries]]></dc:creator>
+		<pubDate>Sun, 21 May 2023 15:15:54 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[Customer B2B]]></category>
+		<category><![CDATA[Stories]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?p=1632</guid>
+
+					<description><![CDATA[Learn about how SiPhox Health's at-home biomarker tracking allowed a leading holistic health center to unlock more convenient and faster blood testing for their patients.]]></description>
+			
+							<content:encoded><![CDATA[<h2>Case Study: A Leading Holistic Health Center in South Florida</h2>
+<p>How SiPhox Health enabled a leading wellness clinic on a mission to improve early health tracking with at-home blood testing and biomarker tracking.</p>
+<p>The customer is based in South Florida and is led by licensed wellness professionals focusing on PEMF therapy, biofeedback coaching, multiscan evaluation, body balance, and applied kinesiology.</p>
+<h3>Key Areas of Focus:</h3>
+<ul>
+<li>Increase access and convenience of blood testing</li>
+<li>Increase patient engagement and follow-ups based on test results</li>
+<li>Unlock core clinic wellness treatments with at-home testing</li>
+</ul>
+<h3>SiPhox Health Offering:</h3>
+<ul>
+<li>SiPhox Health at-home kits testing for biomarkers for inflammation, metabolic fitness, hormone and nutritional balance, and cardiovascular health.</li>
+<li>SiPhox Health platform that enables real-time access to test results and biomarker trends.</li>
+</ul>
+<h3><span class="notion-enable-hover" data-token-index="0">The Problem</span></h3>
+<p>The customer wanted to unlock more convenient and faster blood testing. They were previously operating with very limited biomarker data and were asking patients to go to a Quest or Labcorp. The team felt less empowered in their care without regular blood testing for their patients.</p>
+<h3><span class="notion-enable-hover" data-token-index="0">The Solution</span></h3>
+<p>SiPhox Health deploys kits to the customer which the customer uses in two workflows:</p>
+<ul>
+<li>Kits are mailed directly to patients to take their blood at home. The sample is then shipped to our lab and results are presented to the wellness team within three days. Clinical decisions and follow-ups are conducted based on the data presented.</li>
+<li>Kits are offered to patients in-office while they have an appointment. They are completed on-site at the office and shipped directly to our lab.</li>
+</ul>
+<h3><span class="notion-enable-hover" data-token-index="0">By the Numbers</span></h3>
+<ul>
+<li><span class="notion-enable-hover" data-token-index="0">40% </span>growth in kits ordered month over month</li>
+</ul>
+<h3><span class="notion-enable-hover" data-token-index="0">Hear it from Them:</span></h3>
+<p>“It is very nice to know that our feedback is valued highly.”</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

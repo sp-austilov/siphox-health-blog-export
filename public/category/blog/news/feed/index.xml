@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>News &#8211; SiPhox Health</title>
+	<atom:link href="/hub/category/blog/news/feed/" rel="self" type="application/rss+xml" />
+	<link>/hub/</link>
+	<description></description>
+	<lastBuildDate>Fri, 16 Feb 2024 04:22:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+	<item>
+		<title>Intel Podcast: Scaling Clinical Diagnostic Testing to the Masses</title>
+		<link>/hub/blog/intel-podcast-scaling-clinical-diagnostic-testing-to-the-masses/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Mon, 17 Jul 2023 09:50:47 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?p=1940</guid>
+
+					<description><![CDATA[The rising cost of health care has hit Americans differently depending on their economic status. On this episode of Health &#38; Life Sciences at the Edge, find out what SiPhox is doing to make clinical diagnostic testing more accessible for everyone.]]></description>
+			
+
+							<content:encoded><![CDATA[<p>The rising cost of health care has hit Americans differently depending on their economic status. There is no shortage of news stories covering the reality of those with higher incomes having higher life expectancies than those in lower financial brackets. Healthcare services such as clinical diagnostic testing may be out of reach for those who could really use it. So what are some of the things a company can do to make clinical diagnostic testing more accessible for everyone? How can an important medical test be affordable to all?</p>
+<p>On this episode of Health &amp; Life Sciences at the Edge, host Michelle Dawn Mooney talks with Intel Head of Business Innovation and Life Science Specialist Blake Harlan and SiPhox Chief Product Officer Mike Dubrovsky about clinical diagnostic testing, the way it is used, and the way its use can be improved.</p>
+<p>“Clinical diagnostic testing is actually a major part of the [healthcare] system,” says Dubrovsky. “Seventy percent of all medical decisions require diagnostic tests. However, the way that it’s done now is very reactive, so the whole system is based on first the patient having symptoms and then they’re put through a series of tests to try to resolve the problem.” Harlan and Dubrovsky further mention how it’s easy for those in higher income brackets to get tested more often, as those types of tests cost much more than the ones for reactive patients who are presently experiencing symptoms.</p>
+<p>Read more <a href="https://marketscale.com/industries/healthcare/scaling-clinical-diagnostic-testing-to-the-masses/">here</a> and <a href="https://marketscale.com/industries/healthcare/scaling-clinical-diagnostic-testing-to-the-masses-part-2/">here.</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Value of Biosensing for Preventative Medicine &#124; Michael Dubrovsky &#038; Josh Clemente</title>
+		<link>/hub/blog/the-value-of-biosensing-for-preventive-medicine-michael-dubrovsky-josh-clemente/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Mon, 17 Jul 2023 18:02:11 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?p=1979</guid>
+
+					<description><![CDATA[Michael Dubrovsky and Josh Clemente discuss the value of biosensing and how it has the potential to disrupt the healthcare industry, shifting from a diagnose-and-treat approach to a preventive and actionable approach.]]></description>
+			
+
+							<content:encoded><![CDATA[<p>Biosensing offers people real-time insight into their health status. Regular insight, rather than one-time results at an annual checkup, helps people assess how lifestyle factors are impacting their health, whether they need to make adjustments, and which adjustments might have the most impact. Michael Dubrovsky and Josh Clemente discuss the value of biosensing and how it has the potential to disrupt the healthcare industry, shifting from a diagnose-and-treat approach to a preventive and actionable approach.</p>
+<p>Listen to the podcast <a href="https://www.levelshealth.com/podcasts/216-the-value-of-biosensing-for-preventive-medicine-michael-dubrovsky-josh-clemente">here</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Y Combinator Launch 2022!</title>
+		<link>/hub/blog/y-combinator-launch-2022/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Thu, 29 Dec 2022 10:00:06 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://hub.siphoxhealth.com/?post_type=blog&#038;p=1514</guid>
+
+					<description><![CDATA[Until the last decade, life expectancy in the US was increasing. Then it plateaued. Now it is decreasing. Find out how SiPhox is working to reverse this alarming trend.]]></description>
+			
+							<content:encoded><![CDATA[
+<h2>SiPhox &#8211; Convenient at-home health tracking</h2>
+<p style="text-align: left;">At-home health testing is too expensive and slow. We’re fixing that.</p>
+<p><iframe title="SiPhox Facilities and Technology" width="750" height="422" src="https://www.youtube.com/embed/u6oF_lyUsII?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p><strong>The average American lifespan has plateaued over the last 2 decades</strong></p>
+<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-1089 size-full" src="/hub/wp-content/uploads/2023/02/ae9a0197-58ee-4f23-884b-e894463751d3.webp" alt="" width="843" height="818" srcset="/hub/wp-content/uploads/2023/02/ae9a0197-58ee-4f23-884b-e894463751d3.webp 843w, /hub/wp-content/uploads/2023/02/ae9a0197-58ee-4f23-884b-e894463751d3-300x291.webp 300w, /hub/wp-content/uploads/2023/02/ae9a0197-58ee-4f23-884b-e894463751d3-768x745.webp 768w" sizes="(max-width: 843px) 100vw, 843px" /></p>
+<p><span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">We believe that every human is unique. Biomarker tracking is required to know whether a particular lifestyle or health intervention is working. At scale, we envision that frequent population biomarker tracking will enable humans to live longer and healthier lives.</span></p>
+<p><strong>To enable this future, our team is working to decrease the cost of at-home testing by 10x and make results available immediately.</strong></p>
+<p><strong>SiPhox just launched SiPhox Health, an at-home test kit service that enables users to track 17 health tests ($85/test)</strong> <img src="https://s.w.org/images/core/emoji/15.1.0/72x72/1fa78.png" alt="🩸" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>+ sleep, activity, and heart rate data from your wearable device <img src="https://s.w.org/images/core/emoji/15.1.0/72x72/231a.png" alt="⌚" class="wp-smiley" style="height: 1em; max-height: 1em;" /> in a single dashboard.</strong> <a href="http://siphoxhealth.com/discount/welcome10">JOIN SIPHOX 10% OFF</a></p>
+<h3 id="h-1479">About SiPhox</h3>
+<ul>
+<li>SiPhox was created to empower individuals to take control of their health journey.</li>
+<li>SiPhox is a simple, convenient, low-cost, and comprehensive way to track your health and minimize chronic disease risk.</li>
+<li>We measure inflammation, metabolic fitness, hormonal + nutritional balance, and cardiovascular health. These are shown in a comprehensive, easy-to-understand wellness dashboard (<a href="https://app.siphoxhealth.com/reports/d3e8b07917dba">sample dashboard</a>) with personalized insights so you can track and improve over time.</li>
+<li>For now, all the tests are done via <strong>mail-in,</strong> <strong>self-collected samples</strong> at a <strong>gold standard CLIA-certified lab</strong>, SiPhox hardware will be phased in next year.</li>
+<li><strong>Over the last 3 months, our alpha users discovered and improved things like low Vit. D, high inflammation (hsCRP), low Testosterone, High ApoB/LDL cholesterol, high fasting Insulin, poor sleep, and more.</strong></li>
+<li>We want this sort of tracking to be broadly accessible to those that can’t afford concierge medicine. <strong>At $85/kit for the monthly membership (before discount) we set the lowest price on the market (compare to $250 for Insidetracker InnerAge 2.0).</strong></li>
+<li>Use this link for a 10% discount on your first 3 test kits: <a href="http://siphoxhealth.com/discount/welcome10">JOIN SIPHOX</a></li>
+</ul>
+<p><img decoding="async" class="alignnone wp-image-2209 size-full" src="/hub/wp-content/uploads/2023/03/Whats-in-the-box-scaled.jpg" alt="" width="2048" height="2560" srcset="/hub/wp-content/uploads/2023/03/Whats-in-the-box-scaled.jpg 2048w, /hub/wp-content/uploads/2023/03/Whats-in-the-box-240x300.jpg 240w, /hub/wp-content/uploads/2023/03/Whats-in-the-box-819x1024.jpg 819w, /hub/wp-content/uploads/2023/03/Whats-in-the-box-768x960.jpg 768w, /hub/wp-content/uploads/2023/03/Whats-in-the-box-1229x1536.jpg 1229w, /hub/wp-content/uploads/2023/03/Whats-in-the-box-1638x2048.jpg 1638w, /hub/wp-content/uploads/2023/03/Whats-in-the-box-1568x1960.jpg 1568w" sizes="(max-width: 2048px) 100vw, 2048px" /></p>
+<h2>How it works <img src="https://s.w.org/images/core/emoji/15.1.0/72x72/2699.png" alt="⚙" class="wp-smiley" style="height: 1em; max-height: 1em;" /></h2>
+<ol>
+<li>Subscribe to SiPhox</li>
+<li>Connect your wearable devices (8sleep, Fitbit, Whoop, Oura, etc.)</li>
+<li>Receive an at-home collection kit to self-collect a blood sample (see picture above)</li>
+<li>Schedule a guided self-collection meeting with one of our experts if you have never done it before. You will be a pro in 10 minutes <img src="https://s.w.org/images/core/emoji/15.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>Mail in your sample (USPS pickup) and view the results in your intuitive wellness dashboard (<a href="https://app.siphoxhealth.com/reports/d3e8b07917dba">sample dashboard</a>)</li>
+<li>Receive customized insights based on your blood biomarker and wearable data</li>
+<li>Do your own experiments (diet, supplements, exercise, biohacking, etc.)</li>
+<li>Test again and track your results over time</li>
+<li>Compare your scores against SiPhox user averages</li>
+</ol>
+<h2>Get in touch <img src="https://s.w.org/images/core/emoji/15.1.0/72x72/2709.png" alt="✉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></h2>
+<ol>
+<li>Feel free to contact us at <a class="c-link" href="mailto:Support@siphoxhealth.com" target="_blank" rel="noopener noreferrer" data-stringify-link="mailto:Support@siphoxhealth.com" data-sk="tooltip_parent" aria-haspopup="menu">support@siphoxhealth.com</a> with any questions or suggestions about the service</li>
+<li>If you are interested in integrating SiPhox into your product offering, please get in touch via <a class="c-link" href="mailto:enterprise@siphoxhealth.com" target="_blank" rel="noopener noreferrer" data-stringify-link="mailto:enterprise@siphoxhealth.com" data-sk="tooltip_parent" aria-haspopup="menu" aria-describedby="sk-tooltip-7508">enterprise@siphoxhealth.com</a></li>
+</ol>
+<h3 id="h-4348">Use this link for a 10% discount on your first 3 test kits: <a href="http://siphoxhealth.com/discount/welcome10">JOIN SIPHOX</a></h3>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

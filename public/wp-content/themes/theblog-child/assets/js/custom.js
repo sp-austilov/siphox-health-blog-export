@@ -194,13 +194,11 @@ function newsletterSubmit(e){
   var headers = {
     "Content-Type": "application/json",
   }
-  var urls = "/wp-json/klaviyo/v1/add-to-list/"
-
-  btn.text("...")
-  btn.attr("disabled", "true")
-  fetch(urls, {
+    var urls = "https://connect.siphoxhealth.com/user/invitation";
+    btn.text("...");
+    btn.attr("disabled", "true"); fetch(urls, {
     method: "POST",
-    body: JSON.stringify({ email, list_id: "V2Vbyi" }),
+    body: JSON.stringify({ email, source: "blog", first_name: email.split('@')[0], last_name: email.split('@')[0] }),
     headers: headers,
   }).then(function(res){
     if(res.status === 200){
