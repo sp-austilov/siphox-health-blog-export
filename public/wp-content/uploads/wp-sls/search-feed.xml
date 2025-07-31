@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/6.8.1" created="2025-06-20 21:04" -->
+    <!-- generator="WordPress/6.8.2" created="2025-07-30 21:20" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Fri, 20 Jun 2025 21:04:03 +0000</pubDate>
+            <pubDate>Wed, 30 Jul 2025 21:20:05 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -42,7 +42,7 @@
 	<wp:author><wp:author_id>27</wp:author_id><wp:author_login><![CDATA[rami.abrams@siphoxhealth.com]]></wp:author_login><wp:author_email><![CDATA[rami.abrams@siphoxhealth.com]]></wp:author_email><wp:author_display_name><![CDATA[rami.abrams@siphoxhealth.com]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
                                                 
-            <generator>https://wordpress.org/?v=6.8.1</generator>
+            <generator>https://wordpress.org/?v=6.8.2</generator>
 
                                     <item>
                             <title><![CDATA[What We Measure]]></title>
@@ -153,7 +153,7 @@ Metabolic fitness is the condition of a robust and healthy set of cellular mecha
                             <wp:post_name><![CDATA[what-we-measure]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>177</wp:menu_order>
+                            <wp:menu_order>181</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -495,7 +495,7 @@ https://youtu.be/u6oF_lyUsII
                             <wp:post_name><![CDATA[y-combinator-launch-2022]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>176</wp:menu_order>
+                            <wp:menu_order>180</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -711,7 +711,7 @@ Thanks to Roman Gelperin.]]></content:encoded>
                             <wp:post_name><![CDATA[siphox-2020-retrospective-2]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>182</wp:menu_order>
+                            <wp:menu_order>186</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -924,7 +924,7 @@ We’re hard at work commercializing <a href="http://siphox.com/onelab" target=
                             <wp:post_name><![CDATA[trapping-light-a-brief-overview-of-silicon-micro-ring-optical-biosensors]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>181</wp:menu_order>
+                            <wp:menu_order>185</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -1151,7 +1151,7 @@ We’re hard at work commercializing <a href="https://siphoxhealth.com/pages/abo
                             <wp:post_name><![CDATA[optimal-ferritin-levels-and-how-to-lower-ferritin-a-biohackers-guide]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>171</wp:menu_order>
+                            <wp:menu_order>175</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -1857,7 +1857,7 @@ Additionally, high ferritin levels may double the risk of metabolic syndrome, a 
                             <wp:post_name><![CDATA[why-measure-your-insulin-levels-and-what-the-results-mean]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>170</wp:menu_order>
+                            <wp:menu_order>174</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -2100,7 +2100,7 @@ Given what we know about the systematic secretion of insulin in response to gluc
                             <wp:post_name><![CDATA[huberman-on-biohacking-your-cortisol]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>169</wp:menu_order>
+                            <wp:menu_order>173</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -2416,7 +2416,7 @@ Many people do that reflexively, however, they reach for carbohydrate-rich foods
                             <wp:post_name><![CDATA[a-life-saving-ferritin-discovery]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>166</wp:menu_order>
+                            <wp:menu_order>170</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -2548,7 +2548,7 @@ The user left <a href="https://www.trustpilot.com/reviews/63df2e8c745e4800219b1f
                             <wp:post_name><![CDATA[canadian-blood-tests-siphox]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>101</wp:menu_order>
+                            <wp:menu_order>105</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -2662,7 +2662,7 @@ SiPhox Health stood up an extensive Canadian logistical network, enabling us to 
                             <wp:post_name><![CDATA[a-case-study-in-holistic-medicine]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>100</wp:menu_order>
+                            <wp:menu_order>104</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -2781,7 +2781,7 @@ SiPhox Health deploys kits to the customer which the customer uses in two workfl
                             <wp:post_name><![CDATA[how-to-optimize-your-cholesterol-a-biohackers-guide]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>139</wp:menu_order>
+                            <wp:menu_order>143</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -3037,7 +3037,7 @@ Dr. Peter Attia- Founder, <em>Early Medical</em>
                             <wp:post_name><![CDATA[how-to-optimize-your-vitamin-d-a-biohackers-guide-2]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>111</wp:menu_order>
+                            <wp:menu_order>115</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -3521,7 +3521,7 @@ In 2023 SiPhox Health will be launching (for investigational use) our 3-minute a
                             <wp:post_name><![CDATA[why-measure-your-inflammation-hs-crp-and-what-does-it-mean]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>97</wp:menu_order>
+                            <wp:menu_order>101</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -3888,7 +3888,7 @@ SiPhox Health is developing next-generation at-home testing hardware that will d
                             <wp:post_name><![CDATA[what-we-dont-measure]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>99</wp:menu_order>
+                            <wp:menu_order>103</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -4102,7 +4102,7 @@ To learn more about these biomarkers including why they are important, whether t
                             <wp:post_name><![CDATA[intel-podcast-scaling-clinical-diagnostic-testing-to-the-masses]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>93</wp:menu_order>
+                            <wp:menu_order>97</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -4208,7 +4208,7 @@ On this episode of Health &amp; Life Sciences at the Edge, host Michelle Dawn Mo
                             <wp:post_name><![CDATA[the-value-of-biosensing-for-preventive-medicine-michael-dubrovsky-josh-clemente]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>94</wp:menu_order>
+                            <wp:menu_order>98</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -4306,7 +4306,7 @@ On this episode of Health &amp; Life Sciences at the Edge, host Michelle Dawn Mo
                             <wp:post_name><![CDATA[better-sleep-blue-light-blocking-glasses]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>48</wp:menu_order>
+                            <wp:menu_order>52</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -4481,7 +4481,7 @@ Remember that by becoming an Unlimited member, you will receive a free pair of h
                             <wp:post_name><![CDATA[the-untold-story-of-vitamin-d]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>37</wp:menu_order>
+                            <wp:menu_order>41</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -4620,7 +4620,7 @@ Understanding your Vitamin D levels is crucial for maintaining good health, espe
                             <wp:post_name><![CDATA[optimizing-fsh-for-enhanced-fertility-a-guide]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>36</wp:menu_order>
+                            <wp:menu_order>40</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -4947,7 +4947,7 @@ At SiPhox Health, we firmly believe in the power of understanding your body thro
                             <wp:post_name><![CDATA[why-a-yearly-physical-blood-test-is-not-enough]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>35</wp:menu_order>
+                            <wp:menu_order>39</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -5129,7 +5129,7 @@ Check out the table below for an overview of our offerings, and for an in-depth 
                             <wp:post_name><![CDATA[optimizing-lower-hba1c-better-metabolic-health]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>33</wp:menu_order>
+                            <wp:menu_order>37</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -5340,7 +5340,7 @@ Subscribe to SiPhox and start tracking your HbA1c + 16 other critical biomarkers
                             <wp:post_name><![CDATA[why-blood-test-results-dont-always-align]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>34</wp:menu_order>
+                            <wp:menu_order>38</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -5514,7 +5514,7 @@ Variability in lab results is a known entity, yet it doesn’t detract from the 
                             <wp:post_name><![CDATA[predicting-biological-age-with-dna-methylation]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>44</wp:menu_order>
+                            <wp:menu_order>48</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -5641,7 +5641,7 @@ In conclusion, DNA methylation analysis offers a powerful tool for predicting bi
                             <wp:post_name><![CDATA[decoding-apob-the-key-to-cardiovascular-health]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>32</wp:menu_order>
+                            <wp:menu_order>36</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -5845,7 +5845,7 @@ Cardiovascular health is no joke. Several studies mentioned earlier in this guid
                             <wp:post_name><![CDATA[cortisol-levels-unveiled-managing-stress-through-at-home-testing]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>43</wp:menu_order>
+                            <wp:menu_order>47</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -6058,7 +6058,7 @@ A stress response can result from any physical or psychological stimulus (stress
                             <wp:post_name><![CDATA[biomarker-magnesium]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>42</wp:menu_order>
+                            <wp:menu_order>46</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -6193,7 +6193,7 @@ If you need to maintain or increase your magnesium levels, consider the followin
                             <wp:post_name><![CDATA[biomarker-cadmium]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>41</wp:menu_order>
+                            <wp:menu_order>45</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -6317,7 +6317,7 @@ If you need to maintain or increase your magnesium levels, consider the followin
                             <wp:post_name><![CDATA[biomarker-mercury]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>29</wp:menu_order>
+                            <wp:menu_order>33</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -6448,7 +6448,7 @@ If you need to maintain or increase your magnesium levels, consider the followin
                             <wp:post_name><![CDATA[biomarker-selenium]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>40</wp:menu_order>
+                            <wp:menu_order>44</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -6574,7 +6574,7 @@ According to ZRT Laboratory, the normal range for selenium is 130-362 ug/L.
                             <wp:post_name><![CDATA[biomarker-copper]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>28</wp:menu_order>
+                            <wp:menu_order>32</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -6704,7 +6704,7 @@ According to ZRT Laboratory, the normal range for selenium is 130-362 ug/L.
                             <wp:post_name><![CDATA[biomarker-zinc]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>27</wp:menu_order>
+                            <wp:menu_order>31</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -6845,7 +6845,7 @@ If zinc levels are too low, it can lead to a variety of health issues, including
                             <wp:post_name><![CDATA[biomarker-apob]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>16</wp:menu_order>
+                            <wp:menu_order>20</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -6996,7 +6996,7 @@ Ranges specific to the Cardiometabolic Program:
                             <wp:post_name><![CDATA[biomarker-fasting-glucose]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>15</wp:menu_order>
+                            <wp:menu_order>19</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -7134,7 +7134,7 @@ If you need to maintain or adjust your fasting glucose levels, <span style="text
                             <wp:post_name><![CDATA[biomarker-homocysteine]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>14</wp:menu_order>
+                            <wp:menu_order>18</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -7279,7 +7279,7 @@ High levels of homocysteine may be caused by low levels of B vitamins and/or fol
                             <wp:post_name><![CDATA[biomarker-dhea-s-2]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>13</wp:menu_order>
+                            <wp:menu_order>17</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -7432,7 +7432,7 @@ If you have elevated DHEA-S levels, you can try:
                             <wp:post_name><![CDATA[biomarker-prolactin-prl]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>12</wp:menu_order>
+                            <wp:menu_order>16</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -7573,7 +7573,7 @@ If your PRL levels are abnormal, consider the following strategies:
                             <wp:post_name><![CDATA[biomarker-homa-ir]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>11</wp:menu_order>
+                            <wp:menu_order>15</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -7748,7 +7748,7 @@ Since HOMA-IR is a calculation of fasting glucose and fasting insulin levels, so
                             <wp:post_name><![CDATA[biomarker-testosterone]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>10</wp:menu_order>
+                            <wp:menu_order>14</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -7916,7 +7916,7 @@ If you need to maintain or adjust your testosterone levels, consider the followi
                             <wp:post_name><![CDATA[biomarker-progesterone]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>9</wp:menu_order>
+                            <wp:menu_order>13</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -8047,7 +8047,7 @@ If you need to maintain or adjust your progesterone levels consider the followin
                             <wp:post_name><![CDATA[biomarker-bilirubin]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>17</wp:menu_order>
+                            <wp:menu_order>21</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -8180,7 +8180,7 @@ If you need to maintain or adjust your bilirubin levels, <span style="text-decor
                             <wp:post_name><![CDATA[exploring-wearable-data-oura]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>71</wp:menu_order>
+                            <wp:menu_order>75</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -8347,7 +8347,7 @@ Correlation between APOB and REM sleep among females aged 40 and older.
                             <wp:post_name><![CDATA[biomarker-albumin]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>18</wp:menu_order>
+                            <wp:menu_order>22</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -8492,7 +8492,7 @@ If your albumin levels are high, you can try:
                             <wp:post_name><![CDATA[biomarker-bun]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>26</wp:menu_order>
+                            <wp:menu_order>30</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -8624,7 +8624,7 @@ While specific interventions may vary depending on the underlying cause of abnor
                             <wp:post_name><![CDATA[biomarker-ldl-c]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>25</wp:menu_order>
+                            <wp:menu_order>29</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -8765,7 +8765,7 @@ If your LDL-C is elevated, here are some changes you can try:
                             <wp:post_name><![CDATA[biomarker-hdl-c]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>24</wp:menu_order>
+                            <wp:menu_order>28</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -8920,7 +8920,7 @@ If you need to maintain or adjust your HDL-C levels, consider the <span style="t
                             <wp:post_name><![CDATA[biomarker-apoa1]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>23</wp:menu_order>
+                            <wp:menu_order>27</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -9057,7 +9057,7 @@ If you need to maintain or adjust your ApoA1 levels, consider the <span style="t
                             <wp:post_name><![CDATA[biomarker-lpa]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>22</wp:menu_order>
+                            <wp:menu_order>26</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -9223,7 +9223,7 @@ Lp(a) is considered to be solely impacted by genetics, and research trying to e
                             <wp:post_name><![CDATA[biomarker-total-cholesterolhdl-ratio]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>21</wp:menu_order>
+                            <wp:menu_order>25</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -9354,7 +9354,7 @@ For more information on how to improve your TC:HDL ratio, please refer to the <
                             <wp:post_name><![CDATA[biomarker-alt]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>20</wp:menu_order>
+                            <wp:menu_order>24</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -9491,7 +9491,7 @@ Ranges specific to the Cardiometabolic Program:
                             <wp:post_name><![CDATA[biomarker-dna-methylation]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>19</wp:menu_order>
+                            <wp:menu_order>23</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -9621,7 +9621,7 @@ Ranges specific to the Cardiometabolic Program:
                             <wp:post_name><![CDATA[biomarker-egfr]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>7</wp:menu_order>
+                            <wp:menu_order>11</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -9789,7 +9789,7 @@ In addition to staying healthy and reducing blood pressure and blood sugar throu
                             <wp:post_name><![CDATA[biomarker-creatinine]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>84</wp:menu_order>
+                            <wp:menu_order>88</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -9929,7 +9929,7 @@ In addition to staying healthy and reducing blood pressure and blood sugar throu
                             <wp:post_name><![CDATA[biomarker-total-cholesterol]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>74</wp:menu_order>
+                            <wp:menu_order>78</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -10064,7 +10064,7 @@ In addition to staying healthy and reducing blood pressure and blood sugar throu
                             <wp:post_name><![CDATA[biomarker-ast]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>76</wp:menu_order>
+                            <wp:menu_order>80</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -10206,7 +10206,7 @@ In addition to staying healthy and reducing blood pressure and blood sugar throu
                             <wp:post_name><![CDATA[biomarker-ferritin]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>80</wp:menu_order>
+                            <wp:menu_order>84</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -10354,7 +10354,7 @@ If you have high ferritin, a few ways to lower levels include:
                             <wp:post_name><![CDATA[biomarker-cortisol]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>79</wp:menu_order>
+                            <wp:menu_order>83</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -10493,7 +10493,7 @@ If your cortisol levels are on the lower side, studies suggest the following i
                             <wp:post_name><![CDATA[biomarker-apobapoa1-ratio]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>78</wp:menu_order>
+                            <wp:menu_order>82</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -10636,7 +10636,7 @@ The ApoB:ApoA1 ratio is highly valuable for detecting atherogenic (plaque-filled
                             <wp:post_name><![CDATA[biomarker-daily-steps]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>77</wp:menu_order>
+                            <wp:menu_order>81</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -10761,7 +10761,7 @@ The ApoB:ApoA1 ratio is highly valuable for detecting atherogenic (plaque-filled
                             <wp:post_name><![CDATA[biomarker-sleep]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>75</wp:menu_order>
+                            <wp:menu_order>79</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -10882,7 +10882,7 @@ Wearable health trackers like Fitbit, Apple Watch, and Garmin devices provide va
                             <wp:post_name><![CDATA[biomarker-heart-rate]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>73</wp:menu_order>
+                            <wp:menu_order>77</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -11015,7 +11015,7 @@ Wearable health trackers like Fitbit, Apple Watch, and Garmin devices provide ad
                             <wp:post_name><![CDATA[biomarker-hemoglobin-a1c]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>72</wp:menu_order>
+                            <wp:menu_order>76</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -11160,7 +11160,7 @@ If your A1C is elevated, you can <span style="text-decoration: underline;"><a h
                             <wp:post_name><![CDATA[biomarker-thyroid-peroxidase-antibody-tpoab]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>70</wp:menu_order>
+                            <wp:menu_order>74</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -11287,7 +11287,7 @@ The TPOAb test is usually suggested for people who are experiencing hypothyroidi
                             <wp:post_name><![CDATA[biomarker-thyroid-stimulating-hormone-tsh]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>81</wp:menu_order>
+                            <wp:menu_order>85</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -11431,7 +11431,7 @@ If you need to maintain or adjust your TSH levels, consider the following strate
                             <wp:post_name><![CDATA[biomarker-free-t4]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>85</wp:menu_order>
+                            <wp:menu_order>89</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -11563,7 +11563,7 @@ If you need to maintain or adjust your free T4 levels, consider the following st
                             <wp:post_name><![CDATA[biomarker-estradiol-e2]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>82</wp:menu_order>
+                            <wp:menu_order>86</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -11710,7 +11710,7 @@ If you need to maintain or adjust your estradiol levels, consider the <span styl
                             <wp:post_name><![CDATA[biomarker-testosteronecortisol-ratio]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>88</wp:menu_order>
+                            <wp:menu_order>92</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -11845,7 +11845,7 @@ If you need to maintain or adjust your testosterone:cortisol ratio, it is best t
                             <wp:post_name><![CDATA[biomarker-free-t3]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>87</wp:menu_order>
+                            <wp:menu_order>91</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -11974,7 +11974,7 @@ If you need to maintain or adjust your free T3 levels, consider the following st
                             <wp:post_name><![CDATA[biomarker-b12]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>86</wp:menu_order>
+                            <wp:menu_order>90</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -12127,7 +12127,7 @@ The quantity of B12 intake differs for pregnant and non-pregnant adult females:
                             <wp:post_name><![CDATA[biomarker-folate]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>83</wp:menu_order>
+                            <wp:menu_order>87</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -12253,7 +12253,7 @@ The quantity of B12 intake differs for pregnant and non-pregnant adult females:
                             <wp:post_name><![CDATA[biomarker-anti-mullerian-hormone-amh]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>69</wp:menu_order>
+                            <wp:menu_order>73</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -12433,7 +12433,7 @@ Lower levels of AMH can indicate a shortage of eggs in the ovaries. This could i
                             <wp:post_name><![CDATA[biomarker-follicle-stimulating-hormone-fsh]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>68</wp:menu_order>
+                            <wp:menu_order>72</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -12580,7 +12580,7 @@ If you need to maintain or adjust your FSH levels, consider the following strate
                             <wp:post_name><![CDATA[biomarker-luteinizing-hormone-lh]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>57</wp:menu_order>
+                            <wp:menu_order>61</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -12740,7 +12740,7 @@ If you need to maintain or adjust your LH levels, consider the following strateg
                             <wp:post_name><![CDATA[biomarker-prostate-specific-antigen-psa]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>56</wp:menu_order>
+                            <wp:menu_order>60</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -12914,7 +12914,7 @@ If your PSA levels are elevated, try incorporating some of these changes to lowe
                             <wp:post_name><![CDATA[biomarker-sex-hormone-binding-globulin-shbg]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>55</wp:menu_order>
+                            <wp:menu_order>59</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -13054,7 +13054,7 @@ If you need to maintain or adjust your SHBG levels, consider the following strat
                             <wp:post_name><![CDATA[biomarker-triglyceridehdl-ratio]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>54</wp:menu_order>
+                            <wp:menu_order>58</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -13191,7 +13191,7 @@ For more information on how to improve your TG:HDL-C ratio, please refer to the 
                             <wp:post_name><![CDATA[biomarker-triglycerides]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>53</wp:menu_order>
+                            <wp:menu_order>57</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -13322,7 +13322,7 @@ If you need to maintain or adjust your triglyceride levels, consider the followi
                             <wp:post_name><![CDATA[biomarker-fasting-insulin]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>51</wp:menu_order>
+                            <wp:menu_order>55</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -13470,7 +13470,7 @@ If you need to maintain or adjust your insulin levels, consider the <span style=
                             <wp:post_name><![CDATA[biomarker-high-sensitivity-c-reactive-protein-hs-crp]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>50</wp:menu_order>
+                            <wp:menu_order>54</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -13611,7 +13611,7 @@ Ranges specific to the Cardiometabolic Program:
                             <wp:post_name><![CDATA[biomarker-vitamin-d]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>52</wp:menu_order>
+                            <wp:menu_order>56</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -13744,7 +13744,7 @@ If your vitamin D levels are low, you can try:
                             <wp:post_name><![CDATA[blood-pressure]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>58</wp:menu_order>
+                            <wp:menu_order>62</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -13934,7 +13934,7 @@ If your blood pressure levels are higher than normal, you can try:
                             <wp:post_name><![CDATA[waist-height-ratio-w-ht-r]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>59</wp:menu_order>
+                            <wp:menu_order>63</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -14075,7 +14075,7 @@ If your W/Ht.R. indicates an increased risk, consider the following strategies t
                             <wp:post_name><![CDATA[smoking]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>67</wp:menu_order>
+                            <wp:menu_order>71</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -14209,7 +14209,7 @@ If you are a smoker and want to quit, consider the following strategies:
                             <wp:post_name><![CDATA[physical-activity]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>66</wp:menu_order>
+                            <wp:menu_order>70</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -14553,7 +14553,7 @@ In 2023 SiPhox Health will be launching (for investigational use) our 3-minute a
                             <wp:post_name><![CDATA[im-low-carb-which-blood-tests-should-i-get]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>98</wp:menu_order>
+                            <wp:menu_order>102</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -14847,7 +14847,7 @@ Regularly reviewing these key biomarkers, combined with the right testing servic
                             <wp:post_name><![CDATA[c-peptide]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>64</wp:menu_order>
+                            <wp:menu_order>68</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -14991,7 +14991,7 @@ UCSF Health – I<a href="https://www.ucsfhealth.org/medical-tests/insulin-c-pe
                             <wp:post_name><![CDATA[vldl]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>63</wp:menu_order>
+                            <wp:menu_order>67</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -15111,7 +15111,7 @@ If you need to maintain or adjust your VLDL-C levels, consider the following str
                             <wp:post_name><![CDATA[free-androgen-index-fai]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>62</wp:menu_order>
+                            <wp:menu_order>66</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -15249,7 +15249,7 @@ If you need to maintain or adjust your FAI, consider the following strategies {{
                             <wp:post_name><![CDATA[cystatin-c]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>60</wp:menu_order>
+                            <wp:menu_order>64</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -15368,7 +15368,7 @@ Certain medications, such as NSAIDs, and conditions like high blood pressure or 
                             <wp:post_name><![CDATA[iron]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>61</wp:menu_order>
+                            <wp:menu_order>65</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -15476,7 +15476,7 @@ If you need to improve your iron levels, consider the following:
                             <wp:post_name><![CDATA[alp]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>65</wp:menu_order>
+                            <wp:menu_order>69</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -15580,7 +15580,7 @@ If your ALP levels are high or low, addressing the underlying cause is key.
                             <wp:post_name><![CDATA[protein]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>49</wp:menu_order>
+                            <wp:menu_order>53</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -15684,7 +15684,7 @@ Maintaining balanced protein levels involves addressing any underlying health is
                             <wp:post_name><![CDATA[calcium]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>6</wp:menu_order>
+                            <wp:menu_order>10</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -15792,7 +15792,7 @@ Maintaining balanced protein levels involves addressing any underlying health is
                             <wp:post_name><![CDATA[understanding-your-lab-results-beyond-standard-ranges]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>5</wp:menu_order>
+                            <wp:menu_order>9</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -15948,7 +15948,7 @@ Remember: Standard ranges tell you if you're similar to the general population. 
                             <wp:post_name><![CDATA[biomarker-tgab]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>8</wp:menu_order>
+                            <wp:menu_order>12</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -16062,7 +16062,7 @@ Elevated TgAb levels are commonly linked to <strong class="sc-jwpOCX gKUUgZ" dat
                             <wp:post_name><![CDATA[day-3-hormone-testing-understanding-the-baseline-for-fertility]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>4</wp:menu_order>
+                            <wp:menu_order>8</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -16166,7 +16166,7 @@ In conclusion, <strong>day 3 hormone testing is recommended because it offers a 
                             <wp:post_name><![CDATA[biomarker-cgm]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>3</wp:menu_order>
+                            <wp:menu_order>7</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -16347,7 +16347,7 @@ Values below this range suggest more stable glucose levels, which is generally f
                             <wp:post_name><![CDATA[biomarker-iron-saturation]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>2</wp:menu_order>
+                            <wp:menu_order>6</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -16479,7 +16479,7 @@ Maintaining balanced iron saturation involves managing both iron intake and abso
                             <wp:post_name><![CDATA[when-to-test-guide]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>0</wp:menu_order>
+                            <wp:menu_order>5</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -16551,44 +16551,15 @@ Yes, <strong>fast for 8–12 hours</strong> before your test. Water is fine. Fas
  	<li><strong>Hormones</strong> like cortisol, DHEA-S, IGF-1, and even testosterone</li>
 </ul>
 <h2>💊 <strong>Supplements &amp; Meds</strong></h2>
-Avoid supplements for 24 hours <strong>before testing, </strong>especially <strong>biotin, B12, vitamin D</strong>, and <strong>adaptogens</strong>, which may skew results. Take prescribed medications as instructed by your health provider.
-<h2>🏋️ <strong>Exercise</strong></h2>
-<strong>Avoid intense workouts the morning of your test</strong>. Exercise can elevate:
 <ul>
- 	<li><strong>Cortisol</strong></li>
- 	<li><strong>Testosterone</strong></li>
- 	<li><strong>Glucose and insulin</strong></li>
- 	<li><strong>Creatine kinase (CK)</strong></li>
+ 	<li><strong>Avoid supplements:</strong> Do not take any supplements for 24 hours before testing, especially biotin, B12, vitamin D, and adaptogens, which may skew results.</li>
+ 	<li><strong>Do not stop taking medications:</strong> Take your prescribed medications as instructed by your healthcare provider.</li>
 </ul>
-Light walking is fine, but no strenuous activity.
-<h2>🧪 <strong>Panel-Specific Prep</strong></h2>
-<table>
-<thead>
-<tr>
-<th><strong>Panel</strong></th>
-<th><strong>Prep Instructions</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Core Health</strong></td>
-<td>Fast 8–12 hours, test in the morning, no exercise</td>
-</tr>
-<tr>
-<td><strong>Heart &amp; Metabolic</strong></td>
-<td>Fast 8–12 hours, test in the morning, avoid exercise and supplements</td>
-</tr>
-<tr>
-<td><strong>Hormones</strong></td>
-<td>Fast 8-12 hours, test within 1–2 hrs of waking, no supplements or exercise</td>
-</tr>
-<tr>
-<td><strong>Ultimate</strong></td>
-<td>Fast 8–12 hours, test within 1–2 hrs of waking, no supplements or exercise</td>
-</tr>
-</tbody>
-</table>
-<h2>♀️<!-- notionvc: 41ff3dfd-795f-42f8-b5b9-6cfe3340081f -->Women-Specific Hormone Testing</h2>
+<h2>🏋️ <strong>Exercise</strong></h2>
+<ul>
+ 	<li><strong><span class="notion-enable-hover" data-token-index="0">No intense exercise:</span> </strong>Avoid intense workouts in the morning before your test.<!-- notionvc: d0c227c1-d83f-42a5-9805-ab2c032f1be7 --></li>
+</ul>
+<h2>♀️ <strong>Women-Specific Hormone Testing</strong></h2>
 <strong>We recommend following these guidelines to capture a more standardized baseline, but testing on other days can still be informative.</strong>
 
 <a href="https://siphoxhealth.com/hub/guides/biomarkers/day-3-hormone-testing-understanding-the-baseline-for-fertility"><strong>Click here to read more about Day 3 Hormone Testing</strong></a>
@@ -16601,7 +16572,7 @@ Count day 1 as the first day of full flow that starts before 5 pm.
 
 <em>Get your period at 8 pm on Monday? Test on Thursday.</em>
 <h3><strong>If you have menstrual cycles and are on birth control:</strong></h3>
-Users of continuous contraceptives like the minipill or hormonal IUD who still have regular periods should test on <strong>Day 3</strong> of their periods. If you do not experience regular periods, it's advised to wait three months after stopping contraceptives for hormone levels to normalize.
+Users of continuous contraceptives like the minipill or hormonal IUD who still have regular periods should test on <b data-stringify-type="bold">Day 3</b> of their periods. If you do not experience regular periods, it’s advised to wait three months after stopping contraceptives for hormone levels to normalize (please consult with your healthcare provider before stopping any medications).
 <h3><strong>If you do not undergo menstruation cycles due to menopause:</strong></h3>
 You can take the hormonal panel on <strong>any day</strong>.
 
@@ -16610,6 +16581,597 @@ You can take the hormonal panel on <strong>any day</strong>.
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_content_2_copies]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                    </item>
+                                                <item>
+                            <title><![CDATA[Male Free Testosterone]]></title>
+                            <link>/hub/biomarkers-2/biomarker-male-free-testosterone/</link>
+                            <pubDate>Wed, 30 Jul 2025 20:50:38 +0000</pubDate>
+                            <dc:creator><![CDATA[siphoxhealth]]></dc:creator>
+                            <guid isPermaLink="false">/hub/?p=3790</guid>
+                            <description></description>
+                            <content:encoded><![CDATA[]]></content:encoded>
+                            <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+                            <wp:post_id>3790</wp:post_id>
+                            <wp:post_date><![CDATA[2025-07-30 20:50:38]]></wp:post_date>
+                            <wp:post_date_gmt><![CDATA[2025-07-30 20:50:38]]></wp:post_date_gmt>
+                            <wp:post_modified><![CDATA[2025-07-30 21:00:39]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2025-07-30 21:00:39]]></wp:post_modified_gmt>
+                            <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+                            <wp:ping_status><![CDATA[open]]></wp:ping_status>
+                            <wp:post_name><![CDATA[biomarker-male-free-testosterone]]></wp:post_name>
+                            <wp:status><![CDATA[publish]]></wp:status>
+                            <wp:post_parent>0</wp:post_parent>
+                            <wp:menu_order>4</wp:menu_order>
+                            <wp:post_type><![CDATA[post]]></wp:post_type>
+                            <wp:post_password><![CDATA[]]></wp:post_password>
+                            <wp:is_sticky>0</wp:is_sticky>
+                                                        		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
+		<category domain="post_tag" nicename="free-testosterone"><![CDATA[free testosterone]]></category>
+		<category domain="post_tag" nicename="male-free-testosterone"><![CDATA[male free testosterone]]></category>
+		<category domain="post_tag" nicename="testosterone"><![CDATA[testosterone]]></category>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[7]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[written_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:1:{i:0;s:1:"7";}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_written_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_641a6cfe4d592]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[reviewed_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_reviewed_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_641bbb3ce67e4]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[select_related_posts]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_0_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[[lwptoc min="2"]]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_0_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_1_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[<h2>What is free testosterone in males?</h2>
+Free testosterone is the fraction of testosterone in the blood that is not bound to proteins such as <a href="https://siphoxhealth.com/hub/biomarkers-2/biomarker-sex-hormone-binding-globulin-shbg">SHBG</a> and <a href="https://siphoxhealth.com/pages/albumin">albumin</a>. This bioactive form of testosterone plays a crucial role in many physiological processes, including sexual health, muscle mass, bone density, and mood regulation. Unlike total testosterone, free testosterone is the portion that is readily available to the body’s tissues to exert its effects.
+
+Testosterone is primarily produced by the testes, under the regulation of the pituitary gland. Although only 1–2% of the testosterone in a man’s body is free, it is essential for driving bodily functions. Free testosterone levels naturally decline as men age, but maintaining balanced testosterone is crucial for overall health and vitality.
+<h2>Why is free testosterone important?</h2>
+Free testosterone is important because it represents the <strong>bioactive</strong> form of testosterone in the body. This fraction of testosterone is responsible for the development and maintenance of male sexual characteristics, muscle mass, bone density, and overall vitality. It regulates libido, energy levels, and mood.
+
+<a href="https://my.clevelandclinic.org/health/diseases/15603-low-testosterone-male-hypogonadism">Low testosterone</a> levels in men can lead to fatigue, reduced muscle mass, low libido, and mood swings. However, the available free testosterone is what actually interacts with tissues to produce these effects, making it a critical measurement for assessing testosterone deficiency.
+
+High or low levels of free testosterone can cause significant health issues:
+<ul>
+ 	<li><strong>Low free testosterone</strong> can contribute to symptoms of fatigue, muscle loss, and low sexual desire, even if total testosterone is within the normal range.</li>
+ 	<li><strong>High free testosterone</strong> can cause issues such as acne, hair loss, and aggression, and is often seen in exogenous steroid users.</li>
+</ul>
+<h2>How can I better understand my free testosterone levels?</h2>
+To better understand your free testosterone levels, it’s important to distinguish them from total testosterone. <strong>Total testosterone</strong> measures all the testosterone in your bloodstream, both bound and free, while <strong>free testosterone</strong> measures only the portion that is not bound to proteins and is available for tissue use.
+
+Normal free testosterone levels for adult males can vary depending on age, time of day, and individual health. Free testosterone tends to be higher in younger men and decreases with age. Because testosterone follows a natural <a href="https://www.endocrinology.org/endocrinologist/134-winter19/features/24-hours-in-the-life-of-a-hormone-what-time-is-the-right-time-for-a-pituitary-function-test/#:~:text=TESTOSTERONE,to%20rise%20again%20at%20night.)">diurnal rhythm</a>, it is highest in the early morning, which is why it is typically recommended to test testosterone levels in the morning.
+<div data-dynamic-ranges="true" data-test="1"></div>
+<div data-ranges="true">
+<h3>Lab Range:</h3>
+<ul>
+ 	<li>Out of range (low): &lt;0.03 ng/mL</li>
+ 	<li>In range: 0.03-0.2 ng/mL</li>
+ 	<li>Out of range (high): &gt;0.2 ng/mL</li>
+</ul>
+<h3>SiPhox Ranges:</h3>
+<table style="height: 309px;" width="599">
+<thead>
+<tr>
+<th><strong>Age</strong></th>
+<th><strong>Optimal Range</strong></th>
+<th><strong>Good Range</strong></th>
+<th><strong>Fair Range</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>20-39 yrs</strong></td>
+<td>0.13-0.30 ng/mL</td>
+<td>0.08-0.30 ng/mL</td>
+<td>&gt;0.05 ng/mL</td>
+</tr>
+<tr>
+<td><strong>40-49 yrs</strong></td>
+<td>0.1-0.29 ng/mL</td>
+<td>0.06-0.29 ng/mL</td>
+<td>&gt;0.04 ng/mL</td>
+</tr>
+<tr>
+<td><strong>50-59 yrs</strong></td>
+<td>0.1-0.28 ng/mL</td>
+<td>0.06-0.28 ng/mL</td>
+<td>&gt;0.04 ng/mL</td>
+</tr>
+<tr>
+<td><strong>60-69 yrs</strong></td>
+<td>0.09-0.27 ng/mL</td>
+<td>0.05-0.27 ng/mL</td>
+<td>&gt;0.03 ng/mL</td>
+</tr>
+<tr>
+<td><strong>&gt;70 yrs</strong></td>
+<td>0.08-0.26 ng/mL</td>
+<td>0.04-0.26 ng/mL</td>
+<td>&gt;0.03 ng/mL</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>How can I maintain optimal testosterone levels?</h2>
+If you need to maintain or adjust your testosterone levels, consider the following strategies:
+
+<strong>Dietary Changes:</strong>  A diet rich in lean proteins, healthy fats, antioxidant-rich foods, and hormone-supporting herbs like ginger and turmeric can support testosterone regulation. Including <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6612531/">honey</a> can help to increase lower testosterone levels. Research suggests that <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8538516/">macronutrient, vitamin, and mineral</a> intake can impact testosterone synthesis. Zinc-containing foods like oysters and pumpkin seeds can also regulate testosterone.
+
+<strong>Lifestyle Changes:</strong> Avoiding <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8743653/">chronic stressors</a>, getting <a href="https://www.uchicagomedicine.org/forefront/news/sleep-loss-lowers-testosterone-in-healthy-young-men#:~:text=The%20effects%20of%20sleep%20loss,2%20pm%20and%2010%20pm">more</a> and <a href="https://www.youtube.com/watch?v=qJXKhu5UZwk&amp;t=2864s">higher-quality</a> sleep, and lowering <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5924956/">abdominal fat percentage</a> through a healthy regimen can help in improving testosterone levels. Additionally, engaging in regular <a href="https://pubmed.ncbi.nlm.nih.gov/11915780/">physical activity</a>, including strength training and aerobic exercise, can help support hormone balance, muscle strength, and overall well-being. Practicing stress-reducing techniques such as mindfulness, meditation, deep breathing exercises, and adequate sleep can also help support <a href="https://www.tandfonline.com/doi/full/10.1080/10253890.2021.1891220">hormone balance</a> and overall health.
+
+<strong>Supplementation:</strong> Supplements like <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8166567/">fenugreek seed extract, ashwagandha roots and leaves</a>, and <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8538516/">saw palmetto or boron</a> can help to increase lower free testosterone levels. <a href="https://pcosweightloss.org/does-zinc-boost-testosterone/#:~:text=Zinc%20actually%20helps%20regulate%20your,a%20good%20thing%20to%20consider!)">Adequate zinc intake</a> has also been shown to regulate both elevated and decreased hormone levels, including testosterone.
+<h2>Where can I learn more?</h2>
+<ul>
+ 	<li><a href="https://hubermanlab.com/the-science-of-how-to-optimize-testosterone-and-estrogen/">Andrew Huberman has a masterclass on testosterone for males.</a></li>
+ 	<li><a href="https://www.health.harvard.edu/staying-healthy/testosterone--what-it-does-and-doesnt-do">Harvard Medical School – Testosterone: What It Is and How It Affects Your Health</a></li>
+ 	<li><a href="https://my.clevelandclinic.org/health/articles/24101-testosterone">Cleveland Clinic – Testosterone</a></li>
+</ul>
+<strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong>
+
+<!-- notionvc: 2505e4cd-71a9-442c-acab-25ece8d3c9bf -->]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_1_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:2:{i:0;s:11:"text_editor";i:1;s:11:"text_editor";}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_6414004cd50ab]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                    </item>
+                                                <item>
+                            <title><![CDATA[Female Free Testosterone]]></title>
+                            <link>/hub/biomarkers-2/biomarker-female-free-testosterone/</link>
+                            <pubDate>Wed, 30 Jul 2025 20:58:29 +0000</pubDate>
+                            <dc:creator><![CDATA[siphoxhealth]]></dc:creator>
+                            <guid isPermaLink="false">/hub/?p=3808</guid>
+                            <description></description>
+                            <content:encoded><![CDATA[]]></content:encoded>
+                            <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+                            <wp:post_id>3808</wp:post_id>
+                            <wp:post_date><![CDATA[2025-07-30 20:58:29]]></wp:post_date>
+                            <wp:post_date_gmt><![CDATA[2025-07-30 20:58:29]]></wp:post_date_gmt>
+                            <wp:post_modified><![CDATA[2025-07-30 20:58:30]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2025-07-30 20:58:30]]></wp:post_modified_gmt>
+                            <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+                            <wp:ping_status><![CDATA[open]]></wp:ping_status>
+                            <wp:post_name><![CDATA[biomarker-female-free-testosterone]]></wp:post_name>
+                            <wp:status><![CDATA[publish]]></wp:status>
+                            <wp:post_parent>0</wp:post_parent>
+                            <wp:menu_order>3</wp:menu_order>
+                            <wp:post_type><![CDATA[post]]></wp:post_type>
+                            <wp:post_password><![CDATA[]]></wp:post_password>
+                            <wp:is_sticky>0</wp:is_sticky>
+                                                        		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
+		<category domain="post_tag" nicename="female-free-testosterone"><![CDATA[female free testosterone]]></category>
+		<category domain="post_tag" nicename="free-testosterone"><![CDATA[free testosterone]]></category>
+		<category domain="post_tag" nicename="testosterone"><![CDATA[testosterone]]></category>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[7]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[written_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:1:{i:0;s:1:"7";}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_written_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_641a6cfe4d592]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[reviewed_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_reviewed_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_641bbb3ce67e4]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[select_related_posts]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_0_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[[lwptoc min="2"]]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_0_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_1_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[<h2>What is free testosterone in females?</h2>
+Free testosterone in females refers to the unbound portion of testosterone in the bloodstream, which is the biologically active form of the hormone. Although women produce testosterone in much lower amounts than men, it still plays a crucial role in maintaining sexual function, muscle mass, bone density, and overall energy levels.
+
+Testosterone in females is primarily produced by the ovaries and adrenal glands. Even small fluctuations in free testosterone can have a significant impact on health, including symptoms such as low libido, fatigue, and muscle weakness.
+<h2>Why is free testosterone important?</h2>
+Free testosterone is crucial for sexual health, muscle maintenance, bone density, and overall vitality in women. It helps regulate libido, energy, and mood.
+
+Low free testosterone can contribute to symptoms like low libido, fatigue, reduced muscle strength, and even depression. High levels, often seen in conditions like <a href="https://www.nhs.uk/conditions/polycystic-ovary-syndrome-pcos/causes/">PCOS</a>, can cause symptoms such as acne, excessive facial hair, and irregular periods.
+<h2>How can I better understand my free testosterone levels?</h2>
+Free testosterone is usually measured alongside total testosterone. Total testosterone includes both free and bound testosterone, but <strong>free testosterone</strong> is the active form that is available to tissues. Understanding the difference is important because a woman may have normal total testosterone but still experience symptoms of testosterone deficiency if their free testosterone levels are low.
+
+Normal free testosterone levels for women can vary depending on age, health status, and menstrual phase.
+<div data-dynamic-ranges="true" data-test="1"></div>
+
+<div data-ranges="true">
+<h3>Lab Range:</h3>
+<ul>
+ 	<li>Out of range (low): &lt;1.1 pg/mL</li>
+ 	<li>In range: 1.1-12.9 pg/mL</li>
+ 	<li>Out of range (high): &gt;12.9 pg/mL</li>
+</ul>
+<h3>SiPhox Range:</h3>
+<ul>
+ 	<li>Good Range: 1.1-12.9 pg/mL</li>
+</ul>
+</div>
+Since testosterone levels vary throughout a woman’s life, with a decrease occurring after menopause, it is important to evaluate free testosterone levels in the context of a woman’s age and symptoms. Conditions like PCOS or adrenal disorders can lead to high free testosterone levels, whereas conditions such as ovarian insufficiency can cause low levels.
+<h2>How can I maintain optimal free testosterone levels?</h2>
+To maintain optimal free testosterone levels, consider these lifestyle and dietary strategies:
+
+<strong>Dietary Changes:</strong> A diet rich in lean proteins, healthy fats, antioxidant-rich foods, and hormone-supporting herbs like ginger and turmeric can support testosterone regulation. Including <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6612531/">honey</a> can help to increase lower testosterone levels. Spearmint tea may reduce excess testosterone, especially in women with conditions like PCOS. Zinc-containing foods like oysters and pumpkin seeds can also regulate testosterone.
+
+<strong>Lifestyle Changes:</strong>  Avoiding <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8743653/">chronic stressors</a>, getting <a href="https://www.uchicagomedicine.org/forefront/news/sleep-loss-lowers-testosterone-in-healthy-young-men#:~:text=The%20effects%20of%20sleep%20loss,2%20pm%20and%2010%20pm">more</a> and <a href="https://www.youtube.com/watch?v=qJXKhu5UZwk&amp;t=2864s">higher-quality</a> sleep, and lowering <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5924956/">abdominal fat percentage</a> through a healthy regimen can help improve testosterone levels. Additionally, engaging in regular <a href="https://pubmed.ncbi.nlm.nih.gov/11915780/">physical activity</a>, including strength training and aerobic exercise, can help support hormone balance, muscle strength, and overall well-being. Practicing stress-reducing techniques such as mindfulness, meditation, deep breathing exercises, and adequate sleep can also help support <a href="https://www.tandfonline.com/doi/full/10.1080/10253890.2021.1891220">hormone balance</a> and overall health.
+
+<strong>Supplementation:</strong> Consuming <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8538516/">saw palmetto or boron</a> supplements can aid in increasing low testosterone in women. <strong>These supplements are not recommended in pregnancy or for individuals with kidney disease.</strong>
+<h2>Where can I learn more?</h2>
+<ul>
+ 	<li><a href="https://pubmed.ncbi.nlm.nih.gov/26358173/">PubMed - Testosterone in Women</a></li>
+ 	<li><a href="https://my.clevelandclinic.org/health/diseases/24897-low-testosterone-in-women">Cleveland Clinic - Low Testosterone in Women</a></li>
+ 	<li><a href="https://my.clevelandclinic.org/health/diseases/24639-hyperandrogenism">Cleveland Clinic - Hyperandrogenism in Women</a></li>
+</ul>
+<strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong>
+
+<!-- notionvc: 7e408f13-a5d1-4783-afcb-3d8bfb108074 -->]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_1_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:2:{i:0;s:11:"text_editor";i:1;s:11:"text_editor";}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_6414004cd50ab]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                    </item>
+                                                <item>
+                            <title><![CDATA[Female Testosterone]]></title>
+                            <link>/hub/biomarkers-2/biomarker-female-testosterone/</link>
+                            <pubDate>Wed, 30 Jul 2025 21:14:13 +0000</pubDate>
+                            <dc:creator><![CDATA[siphoxhealth]]></dc:creator>
+                            <guid isPermaLink="false">/hub/?p=3811</guid>
+                            <description></description>
+                            <content:encoded><![CDATA[]]></content:encoded>
+                            <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+                            <wp:post_id>3811</wp:post_id>
+                            <wp:post_date><![CDATA[2025-07-30 21:14:13]]></wp:post_date>
+                            <wp:post_date_gmt><![CDATA[2025-07-30 21:14:13]]></wp:post_date_gmt>
+                            <wp:post_modified><![CDATA[2025-07-30 21:14:14]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2025-07-30 21:14:14]]></wp:post_modified_gmt>
+                            <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+                            <wp:ping_status><![CDATA[open]]></wp:ping_status>
+                            <wp:post_name><![CDATA[biomarker-female-testosterone]]></wp:post_name>
+                            <wp:status><![CDATA[publish]]></wp:status>
+                            <wp:post_parent>0</wp:post_parent>
+                            <wp:menu_order>2</wp:menu_order>
+                            <wp:post_type><![CDATA[post]]></wp:post_type>
+                            <wp:post_password><![CDATA[]]></wp:post_password>
+                            <wp:is_sticky>0</wp:is_sticky>
+                                                        		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
+		<category domain="post_tag" nicename="female-testosterone"><![CDATA[female testosterone]]></category>
+		<category domain="post_tag" nicename="testosterone"><![CDATA[testosterone]]></category>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[7]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[written_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:1:{i:0;s:1:"7";}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_written_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_641a6cfe4d592]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[reviewed_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_reviewed_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_641bbb3ce67e4]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[select_related_posts]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_0_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[[lwptoc min="2"]]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_0_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_1_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[<h2>What is testosterone in females?</h2>
+While testosterone is a hormone primarily associated with male development and reproductive function, it is also present in females. <a href="https://pubmed.ncbi.nlm.nih.gov/26358173/">Testosterone in females</a> is an androgenic hormone produced in small amounts by the ovaries and adrenal glands. It plays a vital role in maintaining bone density, muscle mass, sexual function, and overall energy levels. While women have much lower testosterone levels than men, this hormone is still essential for health and vitality.
+
+Testosterone also serves as a precursor to estrogen, which plays a significant role in the menstrual cycle and reproductive health.
+<h2>Why is testosterone important?</h2>
+Testosterone supports sexual desire, bone health, muscle strength, and mood in women. Low testosterone levels can contribute to fatigue, low libido, and muscle weakness, while high testosterone levels are associated with conditions like <a href="https://www.nhs.uk/conditions/polycystic-ovary-syndrome-pcos/causes/">PCOS</a>, leading to symptoms such as excessive hair growth, acne, and menstrual irregularities.
+
+Proper testosterone levels are essential for maintaining optimal health, especially as women age.
+<h2>How can I better understand my testosterone levels?</h2>
+Total testosterone in females can vary depending on age, health status, and testing methods. Higher than normal testosterone levels in females, known as <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8548673/">hyperandrogenism</a>, may indicate conditions such as polycystic ovary syndrome (PCOS), adrenal disorders, ovarian tumors, or certain medications. Further evaluation, including additional tests and medical history assessment, may be necessary to determine the underlying cause. Lower than normal testosterone levels in females may result from conditions such as primary ovarian insufficiency (early menopause), adrenal insufficiency, pituitary disorders, or certain medications. Additional testing and medical evaluation are essential to identify the underlying cause and determine appropriate management.
+<div data-dynamic-ranges="true" data-test="1"></div>
+
+<div data-ranges="true">
+<h3>Lab Range:</h3>
+<ul>
+ 	<li>In range: 0-0.75 ng/mL</li>
+ 	<li>Out of range (high): &gt;0.75 ng/mL</li>
+</ul>
+<h3>SiPhox Range:</h3>
+<ul>
+ 	<li>Optimal Range: 0.1-0.3 ng/mL</li>
+ 	<li>Good Range: 0.3-0.4 ng/mL</li>
+ 	<li>Fair Range: 0.05-0.1 ng/mL or 0.4-0.9 ng/mL</li>
+</ul>
+</div>
+<h2>How can I maintain optimal testosterone levels?</h2>
+Maintaining balanced testosterone levels in women involves the following steps:
+
+<strong>Dietary Changes:</strong> A diet rich in lean proteins, healthy fats, antioxidant-rich foods, and hormone-supporting herbs like ginger and turmeric can support testosterone regulation. Including <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6612531/">honey</a> can help to increase lower testosterone levels. Spearmint tea may reduce excess testosterone, especially in women with conditions like PCOS. Zinc-containing foods like oysters and pumpkin seeds can also regulate testosterone.
+
+<strong>Lifestyle Changes:</strong>  Avoiding <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8743653/">chronic stressors</a>, getting <a href="https://www.uchicagomedicine.org/forefront/news/sleep-loss-lowers-testosterone-in-healthy-young-men#:~:text=The%20effects%20of%20sleep%20loss,2%20pm%20and%2010%20pm">more</a> and <a href="https://www.youtube.com/watch?v=qJXKhu5UZwk&amp;t=2864s">higher-quality</a> sleep, and lowering <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5924956/">abdominal fat percentage</a> through a healthy regimen can help improve testosterone levels. Additionally, engaging in regular <a href="https://pubmed.ncbi.nlm.nih.gov/11915780/">physical activity</a>, including strength training and aerobic exercise, can help support hormone balance, muscle strength, and overall well-being. Practicing stress-reducing techniques such as mindfulness, meditation, deep breathing exercises, and adequate sleep can also help support <a href="https://www.tandfonline.com/doi/full/10.1080/10253890.2021.1891220">hormone balance</a> and overall health.
+
+<strong>Supplementation:</strong> Consuming <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8538516/">saw palmetto or boron</a> supplements can aid in increasing low testosterone in women. <strong>These supplements are not recommended in pregnancy or for individuals with kidney disease.</strong>
+<h2>Where can I learn more?</h2>
+<ul>
+ 	<li><a href="https://pubmed.ncbi.nlm.nih.gov/26358173/">PubMed - Testosterone in Women</a></li>
+ 	<li><a href="https://my.clevelandclinic.org/health/diseases/24897-low-testosterone-in-women">Cleveland Clinic - Low Testosterone in Women</a></li>
+ 	<li><a href="https://my.clevelandclinic.org/health/diseases/24639-hyperandrogenism">Cleveland Clinic - Hyperandrogenism in Women</a></li>
+</ul>
+<strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong>
+
+<!-- notionvc: 337663ee-5a29-4fce-9ab8-632161b5939a -->]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_1_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:2:{i:0;s:11:"text_editor";i:1;s:11:"text_editor";}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_6414004cd50ab]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                    </item>
+                                                <item>
+                            <title><![CDATA[Male Testosterone]]></title>
+                            <link>/hub/biomarkers-2/biomarker-male-testosterone/</link>
+                            <pubDate>Wed, 30 Jul 2025 21:20:05 +0000</pubDate>
+                            <dc:creator><![CDATA[siphoxhealth]]></dc:creator>
+                            <guid isPermaLink="false">/hub/?p=3818</guid>
+                            <description></description>
+                            <content:encoded><![CDATA[]]></content:encoded>
+                            <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+                            <wp:post_id>3818</wp:post_id>
+                            <wp:post_date><![CDATA[2025-07-30 21:20:05]]></wp:post_date>
+                            <wp:post_date_gmt><![CDATA[2025-07-30 21:20:05]]></wp:post_date_gmt>
+                            <wp:post_modified><![CDATA[2025-07-30 21:20:05]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2025-07-30 21:20:05]]></wp:post_modified_gmt>
+                            <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+                            <wp:ping_status><![CDATA[open]]></wp:ping_status>
+                            <wp:post_name><![CDATA[biomarker-male-testosterone]]></wp:post_name>
+                            <wp:status><![CDATA[publish]]></wp:status>
+                            <wp:post_parent>0</wp:post_parent>
+                            <wp:menu_order>0</wp:menu_order>
+                            <wp:post_type><![CDATA[post]]></wp:post_type>
+                            <wp:post_password><![CDATA[]]></wp:post_password>
+                            <wp:is_sticky>0</wp:is_sticky>
+                                                        		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
+		<category domain="post_tag" nicename="male-testosterone"><![CDATA[male testosterone]]></category>
+		<category domain="post_tag" nicename="testosterone"><![CDATA[testosterone]]></category>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[7]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[written_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:1:{i:0;s:1:"7";}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_written_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_641a6cfe4d592]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[reviewed_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_reviewed_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_641bbb3ce67e4]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[select_related_posts]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_0_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[[lwptoc min="2"]]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_0_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_1_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[<h2>What is testosterone in males?</h2>
+Testosterone is the primary male sex hormone, responsible for the development of male sexual characteristics and maintaining functions such as sexual health, muscle mass, bone density, and mood. It’s produced mainly in the testes and regulated by the pituitary gland. As men age, their testosterone levels naturally decline, and maintaining balanced testosterone is essential for overall health.
+<h2>Why is testosterone important?</h2>
+<a href="https://www.ncbi.nlm.nih.gov/books/NBK526128/#:~:text=Testosterone%20is%20the%20primary%20male,characteristics%2C%20spermatogenesis%2C%20and%20fertility.)">In men</a>, testosterone regulates sex drive (libido), bone mass, fat distribution, muscle mass and strength, and the production of red blood cells and sperm.
+
+<a href="https://my.clevelandclinic.org/health/diseases/15603-low-testosterone-male-hypogonadism">Low testosterone</a> can lead to fatigue, muscle loss, and decreased libido, while high testosterone (especially due to steroids or tumors) can have negative effects on health. Testosterone also helps maintain mood and energy levels. Men with low testosterone often report symptoms like irritability, depression, or difficulty concentrating, which can affect their quality of life.
+<h2>How can I better understand my testosterone levels?</h2>
+Total testosterone quantifies, as the name suggests, the overall quantity of testosterone including molecules that are both free (unbound) and bound to proteins (mainly <a href="https://siphoxhealth.com/pages/shbg">SHBG</a> and <a href="https://siphoxhealth.com/pages/albumin">albumin</a>).
+
+Total testosterone ranges vary based on many factors, including age.
+
+Normal total testosterone in males:
+<ul>
+ 	<li>Age 20-49: 3.0 – 10.8 ng/mL</li>
+ 	<li>Age 40-60: 3.0 – 8.9 ng/mL</li>
+ 	<li>Age 60+: 3.0 – 7.2 ng/mL</li>
+</ul>
+<h3>SiPhox Ranges:</h3>
+<table style="height: 327px;" width="594">
+<thead>
+<tr>
+<th><strong>Age</strong></th>
+<th><strong>Optimal Range</strong></th>
+<th><strong>Good Range</strong></th>
+<th><strong>Fair Range</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>20-39 yrs</strong></td>
+<td>5-12 ng/mL</td>
+<td>3.51-12 ng/mL</td>
+<td>&gt;2.64 ng/mL</td>
+</tr>
+<tr>
+<td><strong>40-49 yrs</strong></td>
+<td>4.8-10 ng/mL</td>
+<td>3.41-10 ng/mL</td>
+<td>&gt;2.5 ng/mL</td>
+</tr>
+<tr>
+<td><strong>50-59 yrs</strong></td>
+<td>4.6-8.5 ng/mL</td>
+<td>3.21-8.5 ng/mL</td>
+<td>&gt;2.3 ng/mL</td>
+</tr>
+<tr>
+<td><strong>60-69 yrs</strong></td>
+<td>4.41-8 ng/mL</td>
+<td>3.01-8 ng/mL</td>
+<td>&gt;2.1 ng/mL</td>
+</tr>
+<tr>
+<td><strong>&gt;70 yrs</strong></td>
+<td>4.2-7.5 ng/mL</td>
+<td>2.81-7.5 ng/mL</td>
+<td>&gt;1.9 ng/mL</td>
+</tr>
+</tbody>
+</table>
+Testosterone, like many hormones, follows a <a href="https://www.endocrinology.org/endocrinologist/134-winter19/features/24-hours-in-the-life-of-a-hormone-what-time-is-the-right-time-for-a-pituitary-function-test/#:~:text=TESTOSTERONE,to%20rise%20again%20at%20night.)">diurnal rhythm</a>, peaking in the morning and dipping in the early evening. Peak secretion occurs between 7 and 10 a.m., which is why testing testosterone levels in the morning helps to limit variations, particularly in younger men.
+
+<a href="https://my.clevelandclinic.org/health/diseases/15603-low-testosterone-male-hypogonadism">Low testosterone</a> is more likely to affect those who are older, obese, have type 2 diabetes or HIV/AIDS, have sleep apnea, or have chronic conditions such as kidney or liver dysfunction. Since abnormally high or low testosterone levels may indicate problems with the testicles, pituitary gland, or hypothalamus, it is important to consult with your physician if you are concerned about your levels.
+<h2>How can I maintain optimal testosterone levels?</h2>
+If you need to maintain or adjust your testosterone levels, consider the following strategies:
+
+<strong>Dietary Changes:</strong>  A diet rich in lean proteins, healthy fats, antioxidant-rich foods, and hormone-supporting herbs like ginger and turmeric can support testosterone regulation. Including <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6612531/">honey</a> can help to increase lower testosterone levels. Research suggests that <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8538516/">macronutrient, vitamin, and mineral</a> intake can impact testosterone synthesis. Zinc-containing foods like oysters and pumpkin seeds can also regulate testosterone.
+
+<strong>Lifestyle Changes:</strong> Avoiding <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8743653/">chronic stressors</a>, getting <a href="https://www.uchicagomedicine.org/forefront/news/sleep-loss-lowers-testosterone-in-healthy-young-men#:~:text=The%20effects%20of%20sleep%20loss,2%20pm%20and%2010%20pm">more</a> and <a href="https://www.youtube.com/watch?v=qJXKhu5UZwk&amp;t=2864s">higher-quality</a> sleep, and lowering <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5924956/">abdominal fat percentage</a> through a healthy regimen can help in improving testosterone levels. Additionally, engaging in regular <a href="https://pubmed.ncbi.nlm.nih.gov/11915780/">physical activity</a>, including strength training and aerobic exercise, can help support hormone balance, muscle strength, and overall well-being. Practicing stress-reducing techniques such as mindfulness, meditation, deep breathing exercises, and adequate sleep can also help support <a href="https://www.tandfonline.com/doi/full/10.1080/10253890.2021.1891220">hormone balance</a> and overall health.
+
+<strong>Supplementation:</strong> Supplements like <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8166567/">fenugreek seed extract, ashwagandha roots and leaves</a>, and  <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8538516/">saw palmetto or boron</a> can help to increase lower testosterone levels. <a href="https://pcosweightloss.org/does-zinc-boost-testosterone/#:~:text=Zinc%20actually%20helps%20regulate%20your,a%20good%20thing%20to%20consider!)">Adequate zinc intake</a> has also been shown to regulate both elevated and decreased hormone levels, including testosterone.
+<h2>Where can I learn more?</h2>
+<ul>
+ 	<li><a href="https://hubermanlab.com/the-science-of-how-to-optimize-testosterone-and-estrogen/">Andrew Huberman has a masterclass on testosterone for males.</a></li>
+ 	<li><a href="https://www.health.harvard.edu/staying-healthy/testosterone--what-it-does-and-doesnt-do">Harvard Medical School – Testosterone: What It Is and How It Affects Your Health</a></li>
+ 	<li><a href="https://my.clevelandclinic.org/health/articles/24101-testosterone">Cleveland Clinic – Testosterone</a></li>
+</ul>
+<strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong>
+
+<!-- notionvc: cce275af-244a-4937-b7be-cb6e107782c7 -->]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_1_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:2:{i:0;s:11:"text_editor";i:1;s:11:"text_editor";}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_6414004cd50ab]]></wp:meta_value>
                                 </wp:postmeta>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
