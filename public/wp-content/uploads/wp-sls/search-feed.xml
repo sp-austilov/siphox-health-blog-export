@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/6.8.2" created="2025-07-30 21:20" -->
+    <!-- generator="WordPress/6.8.2" created="2025-08-01 14:17" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Wed, 30 Jul 2025 21:20:05 +0000</pubDate>
+            <pubDate>Fri, 01 Aug 2025 14:17:24 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -4627,8 +4627,8 @@ Understanding your Vitamin D levels is crucial for maintaining good health, espe
                                                         		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="female-fertility"><![CDATA[female fertility]]></category>
 		<category domain="post_tag" nicename="fertility"><![CDATA[fertility]]></category>
-		<category domain="category" nicename="fsh"><![CDATA[FSH]]></category>
 		<category domain="post_tag" nicename="fsh"><![CDATA[FSH]]></category>
+		<category domain="category" nicename="fsh"><![CDATA[FSH]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
 		<category domain="post_tag" nicename="womens-health"><![CDATA[womens health]]></category>
                                                             <wp:postmeta>
@@ -5645,8 +5645,8 @@ In conclusion, DNA methylation analysis offers a powerful tool for predicting bi
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
-                                                        		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
-		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
+                                                        		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
+		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -6852,8 +6852,8 @@ If zinc levels are too low, it can lead to a variety of health issues, including
                                                         		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="post_tag" nicename="at-home"><![CDATA[at-home]]></category>
 		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
-		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="biomarkers"><![CDATA[biomarkers]]></category>
+		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood"><![CDATA[blood]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -16472,8 +16472,8 @@ Maintaining balanced iron saturation involves managing both iron intake and abso
                             <wp:post_id>3781</wp:post_id>
                             <wp:post_date><![CDATA[2025-06-18 13:42:18]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2025-06-18 13:42:18]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2025-06-20 21:04:03]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2025-06-20 21:04:03]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2025-08-01 14:17:24]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2025-08-01 14:17:24]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[when-to-test-guide]]></wp:post_name>
@@ -16581,6 +16581,14 @@ You can take the hormonal panel on <strong>any day</strong>.
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_content_2_copies]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -16748,14 +16756,6 @@ If you need to maintain or adjust your testosterone levels, consider the followi
                                     <wp:meta_key><![CDATA[_content]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_6414004cd50ab]]></wp:meta_value>
                                 </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
                                                     </item>
                                                 <item>
                             <title><![CDATA[Female Free Testosterone]]></title>
@@ -16879,14 +16879,6 @@ To maintain optimal free testosterone levels, consider these lifestyle and dieta
                                     <wp:meta_key><![CDATA[_content]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_6414004cd50ab]]></wp:meta_value>
                                 </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
                                                     </item>
                                                 <item>
                             <title><![CDATA[Female Testosterone]]></title>
@@ -17006,14 +16998,6 @@ Maintaining balanced testosterone levels in women involves the following steps:
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_content]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_6414004cd50ab]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -17172,14 +17156,6 @@ If you need to maintain or adjust your testosterone levels, consider the followi
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_content]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_6414004cd50ab]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                 </channel>
