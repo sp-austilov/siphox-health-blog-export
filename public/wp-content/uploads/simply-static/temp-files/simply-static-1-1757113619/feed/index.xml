@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Biomarkers &#8211; SiPhox Health</title>
-	<atom:link href="/hub/category/biomarkers-2/feed/" rel="self" type="application/rss+xml" />
+	<title>SiPhox Health</title>
+	<atom:link href="/hub/feed/" rel="self" type="application/rss+xml" />
 	<link>/hub/</link>
 	<description></description>
 	<lastBuildDate>Mon, 11 Aug 2025 22:52:56 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.8.3</generator>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
 	<item>
 		<title>Urine Albumin</title>
 		<link>/hub/biomarkers-2/urine-albumin/</link>
