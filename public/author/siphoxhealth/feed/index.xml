@@ -12,789 +12,857 @@
 	<atom:link href="/hub/author/siphoxhealth/feed/" rel="self" type="application/rss+xml" />
 	<link>/hub/</link>
 	<description></description>
-	<lastBuildDate>Thu, 07 Aug 2025 20:59:05 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 Aug 2025 22:52:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.8.2</generator>
+	<generator>https://wordpress.org/?v=6.8.3</generator>
 	<item>
-		<title>Male Testosterone</title>
-		<link>/hub/biomarkers-2/biomarker-male-testosterone/</link>
+		<title>Urine Albumin</title>
+		<link>/hub/biomarkers-2/urine-albumin/</link>
 		
 		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Wed, 30 Jul 2025 21:20:05 +0000</pubDate>
+		<pubDate>Mon, 11 Aug 2025 20:30:46 +0000</pubDate>
 				<category><![CDATA[Biomarkers]]></category>
-		<category><![CDATA[male testosterone]]></category>
-		<category><![CDATA[testosterone]]></category>
-		<guid isPermaLink="false">/hub/?p=3818</guid>
+		<guid isPermaLink="false">/hub/?p=3936</guid>
 
 					<description><![CDATA[
-
-What is testosterone in males? Testosterone is the primary male sex hormone, responsible for the development of male sexual characteristics and maintaining functions such as sexual health, muscle mass, bone density, and mood. It’s produced mainly in the testes and regulated by the pituitary gland. As men age, their testosterone levels naturally decline, and maintaining&#8230; <a class="more-link" href="/hub/biomarkers-2/biomarker-male-testosterone/">Continue reading <span class="screen-reader-text">Male Testosterone</span></a>]]></description>
+What is Urine Albumin? Urine albumin is the presence of albumin—a major blood protein—in your urine. Under normal conditions, healthy kidneys filter waste products while keeping essential proteins like albumin in your bloodstream. When albumin appears in urine, it may indicate that the kidney’s filtering units (glomeruli) are damaged or stressed, allowing protein to leak&#8230; <a class="more-link" href="/hub/biomarkers-2/urine-albumin/">Continue reading <span class="screen-reader-text">Urine Albumin</span></a>]]></description>
 			
-
 							<content:encoded><![CDATA[
-<h2>What is testosterone in males?</h2>
-<p>Testosterone is the primary male sex hormone, responsible for the development of male sexual characteristics and maintaining functions such as sexual health, muscle mass, bone density, and mood. It’s produced mainly in the testes and regulated by the pituitary gland. As men age, their testosterone levels naturally decline, and maintaining balanced testosterone is essential for overall health.</p>
-<h2>Why is testosterone important?</h2>
-<p><a href="https://www.ncbi.nlm.nih.gov/books/NBK526128/#:~:text=Testosterone%20is%20the%20primary%20male,characteristics%2C%20spermatogenesis%2C%20and%20fertility.)">In men</a>, testosterone regulates sex drive (libido), bone mass, fat distribution, muscle mass and strength, and the production of red blood cells and sperm.</p>
-<p><a href="https://my.clevelandclinic.org/health/diseases/15603-low-testosterone-male-hypogonadism">Low testosterone</a> can lead to fatigue, muscle loss, and decreased libido, while high testosterone (especially due to steroids or tumors) can have negative effects on health. Testosterone also helps maintain mood and energy levels. Men with low testosterone often report symptoms like irritability, depression, or difficulty concentrating, which can affect their quality of life.</p>
-<h2>How can I better understand my testosterone levels?</h2>
-<p>Total testosterone quantifies, as the name suggests, the overall quantity of testosterone including molecules that are both free (unbound) and bound to proteins (mainly <a href="https://siphoxhealth.com/pages/shbg">SHBG</a> and <a href="https://siphoxhealth.com/pages/albumin">albumin</a>).</p>
-<p>Total testosterone ranges vary based on many factors, including age.</p>
-<p>Normal total testosterone in males:</p>
+<!-- <div class='highlight-card mb-32px highlight-card-info'>
+    <div class='d-flex'>
+        <div class='icon-container'>
+            <img decoding="async" src="/hub/wp-content/themes/theblog-child/assets/images/tip.svg" alt=''/>
+        </div>
+        <div class='d-flex ms-16px'>
+            <h2>What is Urine Albumin?</h2>
+<p>Urine albumin is the presence of albumin—a major blood protein—in your urine. Under normal conditions, healthy kidneys filter waste products while keeping essential proteins like albumin in your bloodstream. When albumin appears in urine, it may indicate that the kidney’s filtering units (glomeruli) are damaged or stressed, allowing protein to leak through.</p>
+<h2>Why Testing Urine Albumin Matters</h2>
+<p>Detecting albumin in urine (<strong>albuminuria</strong>) is an early marker for kidney disease. Because kidney damage often progresses without symptoms, regular urine albumin testing can identify problems before they cause significant, irreversible damage. The test is especially important for people with <strong>diabetes</strong> or <strong>high blood pressure</strong>, which are leading causes of chronic kidney disease (CKD). It’s also used to monitor individuals with other conditions that can affect kidney function.</p>
+<h2>Types of Urine Albumin Tests</h2>
 <ul>
-<li>Age 20-49: 3.0 – 10.8 ng/mL</li>
-<li>Age 40-60: 3.0 – 8.9 ng/mL</li>
-<li>Age 60+: 3.0 – 7.2 ng/mL</li>
+<li><strong>Random urine albumin test:</strong> Measures albumin concentration from a single sample.</li>
+<li><strong>24-hour urine collection:</strong> Measures total albumin excretion over a full day.</li>
+<li><strong>Albumin-to-creatinine ratio (ACR):</strong> Preferred method that adjusts for urine concentration differences.</li>
 </ul>
-<h3>SiPhox Ranges:</h3>
-<table style="height: 327px;" width="594">
-<thead>
-<tr>
-<th><strong>Age</strong></th>
-<th><strong>Optimal Range</strong></th>
-<th><strong>Good Range</strong></th>
-<th><strong>Fair Range</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>20-39 yrs</strong></td>
-<td>5-12 ng/mL</td>
-<td>3.51-12 ng/mL</td>
-<td>&gt;2.64 ng/mL</td>
-</tr>
-<tr>
-<td><strong>40-49 yrs</strong></td>
-<td>4.8-10 ng/mL</td>
-<td>3.41-10 ng/mL</td>
-<td>&gt;2.5 ng/mL</td>
-</tr>
-<tr>
-<td><strong>50-59 yrs</strong></td>
-<td>4.6-8.5 ng/mL</td>
-<td>3.21-8.5 ng/mL</td>
-<td>&gt;2.3 ng/mL</td>
-</tr>
-<tr>
-<td><strong>60-69 yrs</strong></td>
-<td>4.41-8 ng/mL</td>
-<td>3.01-8 ng/mL</td>
-<td>&gt;2.1 ng/mL</td>
-</tr>
-<tr>
-<td><strong>&gt;70 yrs</strong></td>
-<td>4.2-7.5 ng/mL</td>
-<td>2.81-7.5 ng/mL</td>
-<td>&gt;1.9 ng/mL</td>
-</tr>
-</tbody>
-</table>
-<p>Testosterone, like many hormones, follows a <a href="https://www.endocrinology.org/endocrinologist/134-winter19/features/24-hours-in-the-life-of-a-hormone-what-time-is-the-right-time-for-a-pituitary-function-test/#:~:text=TESTOSTERONE,to%20rise%20again%20at%20night.)">diurnal rhythm</a>, peaking in the morning and dipping in the early evening. Peak secretion occurs between 7 and 10 a.m., which is why testing testosterone levels in the morning helps to limit variations, particularly in younger men.</p>
-<p><a href="https://my.clevelandclinic.org/health/diseases/15603-low-testosterone-male-hypogonadism">Low testosterone</a> is more likely to affect those who are older, obese, have type 2 diabetes or HIV/AIDS, have sleep apnea, or have chronic conditions such as kidney or liver dysfunction. Since abnormally high or low testosterone levels may indicate problems with the testicles, pituitary gland, or hypothalamus, it is important to consult with your physician if you are concerned about your levels.</p>
-<h2>How can I maintain optimal testosterone levels?</h2>
-<p>If you need to maintain or adjust your testosterone levels, consider the following strategies:</p>
-<p><strong>Dietary Changes:</strong>  A diet rich in lean proteins, healthy fats, antioxidant-rich foods, and hormone-supporting herbs like ginger and turmeric can support testosterone regulation. Including <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6612531/">honey</a> can help to increase lower testosterone levels. Research suggests that <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8538516/">macronutrient, vitamin, and mineral</a> intake can impact testosterone synthesis. Zinc-containing foods like oysters and pumpkin seeds can also regulate testosterone.</p>
-<p><strong>Lifestyle Changes:</strong> Avoiding <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8743653/">chronic stressors</a>, getting <a href="https://www.uchicagomedicine.org/forefront/news/sleep-loss-lowers-testosterone-in-healthy-young-men#:~:text=The%20effects%20of%20sleep%20loss,2%20pm%20and%2010%20pm">more</a> and <a href="https://www.youtube.com/watch?v=qJXKhu5UZwk&amp;t=2864s">higher-quality</a> sleep, and lowering <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5924956/">abdominal fat percentage</a> through a healthy regimen can help in improving testosterone levels. Additionally, engaging in regular <a href="https://pubmed.ncbi.nlm.nih.gov/11915780/">physical activity</a>, including strength training and aerobic exercise, can help support hormone balance, muscle strength, and overall well-being. Practicing stress-reducing techniques such as mindfulness, meditation, deep breathing exercises, and adequate sleep can also help support <a href="https://www.tandfonline.com/doi/full/10.1080/10253890.2021.1891220">hormone balance</a> and overall health.</p>
-<p><strong>Supplementation:</strong> Supplements like <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8166567/">fenugreek seed extract, ashwagandha roots and leaves</a>, and  <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8538516/">saw palmetto or boron</a> can help to increase lower testosterone levels. <a href="https://pcosweightloss.org/does-zinc-boost-testosterone/#:~:text=Zinc%20actually%20helps%20regulate%20your,a%20good%20thing%20to%20consider!)">Adequate zinc intake</a> has also been shown to regulate both elevated and decreased hormone levels, including testosterone.</p>
-<h2>Where can I learn more?</h2>
-<ul>
-<li><a href="https://hubermanlab.com/the-science-of-how-to-optimize-testosterone-and-estrogen/">Andrew Huberman has a masterclass on testosterone for males.</a></li>
-<li><a href="https://www.health.harvard.edu/staying-healthy/testosterone--what-it-does-and-doesnt-do">Harvard Medical School – Testosterone: What It Is and How It Affects Your Health</a></li>
-<li><a href="https://my.clevelandclinic.org/health/articles/24101-testosterone">Cleveland Clinic – Testosterone</a></li>
-</ul>
-<p><strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong></p>
-<p><!-- notionvc: cce275af-244a-4937-b7be-cb6e107782c7 --></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Female Testosterone</title>
-		<link>/hub/biomarkers-2/biomarker-female-testosterone/</link>
-		
-		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Wed, 30 Jul 2025 21:14:13 +0000</pubDate>
-				<category><![CDATA[Biomarkers]]></category>
-		<category><![CDATA[female testosterone]]></category>
-		<category><![CDATA[testosterone]]></category>
-		<guid isPermaLink="false">/hub/?p=3811</guid>
-
-					<description><![CDATA[
-
-What is testosterone in females? While testosterone is a hormone primarily associated with male development and reproductive function, it is also present in females. Testosterone in females is an androgenic hormone produced in small amounts by the ovaries and adrenal glands. It plays a vital role in maintaining bone density, muscle mass, sexual function, and&#8230; <a class="more-link" href="/hub/biomarkers-2/biomarker-female-testosterone/">Continue reading <span class="screen-reader-text">Female Testosterone</span></a>]]></description>
-			
-
-							<content:encoded><![CDATA[
-<h2>What is testosterone in females?</h2>
-<p>While testosterone is a hormone primarily associated with male development and reproductive function, it is also present in females. <a href="https://pubmed.ncbi.nlm.nih.gov/26358173/">Testosterone in females</a> is an androgenic hormone produced in small amounts by the ovaries and adrenal glands. It plays a vital role in maintaining bone density, muscle mass, sexual function, and overall energy levels. While women have much lower testosterone levels than men, this hormone is still essential for health and vitality.</p>
-<p>Testosterone also serves as a precursor to estrogen, which plays a significant role in the menstrual cycle and reproductive health.</p>
-<h2>Why is testosterone important?</h2>
-<p>Testosterone supports sexual desire, bone health, muscle strength, and mood in women. Low testosterone levels can contribute to fatigue, low libido, and muscle weakness, while high testosterone levels are associated with conditions like <a href="https://www.nhs.uk/conditions/polycystic-ovary-syndrome-pcos/causes/">PCOS</a>, leading to symptoms such as excessive hair growth, acne, and menstrual irregularities.</p>
-<p>Proper testosterone levels are essential for maintaining optimal health, especially as women age.</p>
-<h2>How can I better understand my testosterone levels?</h2>
-<p>Total testosterone in females can vary depending on age, health status, and testing methods. Higher than normal testosterone levels in females, known as <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8548673/">hyperandrogenism</a>, may indicate conditions such as polycystic ovary syndrome (PCOS), adrenal disorders, ovarian tumors, or certain medications. Further evaluation, including additional tests and medical history assessment, may be necessary to determine the underlying cause. Lower than normal testosterone levels in females may result from conditions such as primary ovarian insufficiency (early menopause), adrenal insufficiency, pituitary disorders, or certain medications. Additional testing and medical evaluation are essential to identify the underlying cause and determine appropriate management.</p>
+<h2>Normal Ranges</h2>
 <div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true">
-<h3>Lab Range:</h3>
+<p><strong>Albumin-to-creatinine ratio (ACR):</strong></p>
 <ul>
-<li>In range: 0-0.75 ng/mL</li>
-<li>Out of range (high): &gt;0.75 ng/mL</li>
+<li>Normal: &lt; 30 mg/g</li>
+<li>Moderately increased (microalbuminuria): 30–300 mg/g</li>
+<li>Severely increased (macroalbuminuria): &gt; 300 mg/g</li>
 </ul>
-<h3>SiPhox Range:</h3>
+<p><strong>24-hour urine albumin:</strong></p>
 <ul>
-<li>Optimal Range: 0.1-0.3 ng/mL</li>
-<li>Good Range: 0.3-0.4 ng/mL</li>
-<li>Fair Range: 0.05-0.1 ng/mL or 0.4-0.9 ng/mL</li>
+<li>Normal: &lt; 30 mg/day</li>
+<li>Microalbuminuria: 30–300 mg/day</li>
+<li>Macroalbuminuria: &gt; 300 mg/day</li>
 </ul>
 </div>
-<h2>How can I maintain optimal testosterone levels?</h2>
-<p>Maintaining balanced testosterone levels in women involves the following steps:</p>
-<p><strong>Dietary Changes:</strong> A diet rich in lean proteins, healthy fats, antioxidant-rich foods, and hormone-supporting herbs like ginger and turmeric can support testosterone regulation. Including <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6612531/">honey</a> can help to increase lower testosterone levels. Spearmint tea may reduce excess testosterone, especially in women with conditions like PCOS. Zinc-containing foods like oysters and pumpkin seeds can also regulate testosterone.</p>
-<p><strong>Lifestyle Changes:</strong>  Avoiding <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8743653/">chronic stressors</a>, getting <a href="https://www.uchicagomedicine.org/forefront/news/sleep-loss-lowers-testosterone-in-healthy-young-men#:~:text=The%20effects%20of%20sleep%20loss,2%20pm%20and%2010%20pm">more</a> and <a href="https://www.youtube.com/watch?v=qJXKhu5UZwk&amp;t=2864s">higher-quality</a> sleep, and lowering <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5924956/">abdominal fat percentage</a> through a healthy regimen can help improve testosterone levels. Additionally, engaging in regular <a href="https://pubmed.ncbi.nlm.nih.gov/11915780/">physical activity</a>, including strength training and aerobic exercise, can help support hormone balance, muscle strength, and overall well-being. Practicing stress-reducing techniques such as mindfulness, meditation, deep breathing exercises, and adequate sleep can also help support <a href="https://www.tandfonline.com/doi/full/10.1080/10253890.2021.1891220">hormone balance</a> and overall health.</p>
-<p><strong>Supplementation:</strong> Consuming <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8538516/">saw palmetto or boron</a> supplements can aid in increasing low testosterone in women. <strong>These supplements are not recommended in pregnancy or for individuals with kidney disease.</strong></p>
-<h2>Where can I learn more?</h2>
+<p>Temporary elevations can occur with fever, intense exercise, urinary tract infections, dehydration, or menstruation. Repeat testing is often recommended to confirm persistent albuminuria.</p>
+<h2>Conditions Linked to Elevated Urine Albumin</h2>
 <ul>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/26358173/">PubMed &#8211; Testosterone in Women</a></li>
-<li><a href="https://my.clevelandclinic.org/health/diseases/24897-low-testosterone-in-women">Cleveland Clinic &#8211; Low Testosterone in Women</a></li>
-<li><a href="https://my.clevelandclinic.org/health/diseases/24639-hyperandrogenism">Cleveland Clinic &#8211; Hyperandrogenism in Women</a></li>
+<li>Diabetes (diabetic nephropathy)</li>
+<li>Hypertension (high blood pressure)</li>
+<li>Glomerulonephritis (inflammation of kidney filters)</li>
+<li>Polycystic kidney disease</li>
+<li>Lupus and other autoimmune disorders</li>
+<li>Heart failure</li>
+<li>Preeclampsia during pregnancy</li>
+<li>Multiple myeloma or amyloidosis</li>
 </ul>
-<p><strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong></p>
-<p><!-- notionvc: 337663ee-5a29-4fce-9ab8-632161b5939a --></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Free Testosterone</title>
-		<link>/hub/biomarkers-2/biomarker-free-testosterone/</link>
-		
-		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Wed, 30 Jul 2025 20:58:29 +0000</pubDate>
-				<category><![CDATA[Biomarkers]]></category>
-		<category><![CDATA[free testosterone]]></category>
-		<category><![CDATA[testosterone]]></category>
-		<guid isPermaLink="false">/hub/?p=3808</guid>
+<h2>Strategies to Reduce Urine Albumin &#038; Protect Kidneys</h2>
+<h3>Blood Pressure and Blood Sugar Control</h3>
+<ul>
+<li>Maintain blood pressure &lt;130/80 mmHg for CKD patients</li>
+<li>Use ACE inhibitors or ARBs for kidney protection</li>
+<li>Keep HbA1c below ~7% in diabetes to lower risk</li>
+</ul>
+<h3>Dietary Modifications</h3>
+<ul>
+<li>Limit sodium to &lt;2,300 mg/day</li>
+<li>Moderate protein intake (0.8–1.0 g/kg/day for kidney disease)</li>
+<li>Follow DASH or Mediterranean diet</li>
+<li>Reduce processed foods and added sugars</li>
+<li>Increase fruits, vegetables, and whole grains</li>
+</ul>
+<h3>Lifestyle Changes</h3>
+<ul>
+<li>Exercise regularly (150 minutes/week of moderate activity)</li>
+<li>Maintain healthy weight</li>
+<li>Quit smoking</li>
+<li>Stay well-hydrated</li>
+</ul>
+<h2>Monitoring Kidney Health Over Time</h2>
+<p>People with diabetes should start annual albumin testing at diagnosis (type 2) or after 5 years (type 1). Those with hypertension or other risk factors should test regularly. Kidney health monitoring should also include serum creatinine, eGFR, blood pressure, and electrolytes for a complete picture.</p>
+<p><strong>DISCLAIMER:</strong> This information is for educational purposes only and is not a substitute for professional medical advice. Always consult your healthcare provider for interpretation of your urine albumin results and for personalized kidney health recommendations.</p>
 
-					<description><![CDATA[
-
-What is free testosterone? Free testosterone is the fraction of testosterone in the blood that is not bound to proteins such as SHBG and albumin. This bioactive form of testosterone plays a crucial role in many physiological processes, including sexual health, muscle mass, bone density, and mood regulation. Unlike total testosterone, free testosterone is the&#8230; <a class="more-link" href="/hub/biomarkers-2/biomarker-free-testosterone/">Continue reading <span class="screen-reader-text">Free Testosterone</span></a>]]></description>
-			
-
-							<content:encoded><![CDATA[
-<h2>What is free testosterone?</h2>
-<p>Free testosterone is the fraction of testosterone in the blood that is not bound to proteins such as <a href="https://siphoxhealth.com/hub/biomarkers-2/biomarker-sex-hormone-binding-globulin-shbg">SHBG</a> and <a href="https://siphoxhealth.com/pages/albumin">albumin</a>. This bioactive form of testosterone plays a crucial role in many physiological processes, including sexual health, muscle mass, bone density, and mood regulation. Unlike total testosterone, free testosterone is the portion that is readily available to the body’s tissues to exert its effects.</p>
-<p>In <strong>males</strong>, testosterone is primarily produced by the testes, under the regulation of the pituitary gland. Although only 1–2% of the testosterone in a man’s body is free, it is essential for driving bodily functions. Free testosterone levels naturally decline as men age, but maintaining balanced testosterone is crucial for overall health and vitality. In <strong>females,</strong> testosterone is primarily produced by the ovaries and adrenal glands. Even small fluctuations in free testosterone can have a significant impact on health, including symptoms such as low libido, fatigue, and muscle weakness.</p>
-<h2>Why is free testosterone important?</h2>
-<p>Free testosterone is essential for:</p>
+        </div>
+    </div>
+</div> -->
+<div class="highlight-card highlight-card-info">
+    <h2>What is Urine Albumin?</h2>
+<p>Urine albumin is the presence of albumin—a major blood protein—in your urine. Under normal conditions, healthy kidneys filter waste products while keeping essential proteins like albumin in your bloodstream. When albumin appears in urine, it may indicate that the kidney’s filtering units (glomeruli) are damaged or stressed, allowing protein to leak through.</p>
+<h2>Why Testing Urine Albumin Matters</h2>
+<p>Detecting albumin in urine (<strong>albuminuria</strong>) is an early marker for kidney disease. Because kidney damage often progresses without symptoms, regular urine albumin testing can identify problems before they cause significant, irreversible damage. The test is especially important for people with <strong>diabetes</strong> or <strong>high blood pressure</strong>, which are leading causes of chronic kidney disease (CKD). It’s also used to monitor individuals with other conditions that can affect kidney function.</p>
+<h2>Types of Urine Albumin Tests</h2>
 <ul>
-<li><strong>Males</strong>: sexual health, sperm production, muscle growth, bone density, mood, and vitality.</li>
-<li><strong>Females</strong>: libido, lean muscle maintenance, energy, emotional stability, and bone strength.</li>
+<li><strong>Random urine albumin test:</strong> Measures albumin concentration from a single sample.</li>
+<li><strong>24-hour urine collection:</strong> Measures total albumin excretion over a full day.</li>
+<li><strong>Albumin-to-creatinine ratio (ACR):</strong> Preferred method that adjusts for urine concentration differences.</li>
 </ul>
-<p><strong>Low free testosterone</strong> in either sex can lead to fatigue, reduced muscle mass, low libido, and mood imbalances even if total testosterone appears normal.</p>
-<p><strong>High free testosterone</strong> can also signal problems:</p>
-<ul>
-<li>In men: is often seen in exogenous steroid users and can cause acne, aggression, or hair loss.</li>
-<li>In women: may indicate conditions like <a href="https://www.nhs.uk/conditions/polycystic-ovary-syndrome-pcos/causes/">PCOS</a>, and cause hirsutism, acne, or irregular periods.</li>
-</ul>
-<h2>How can I better understand my free testosterone levels?</h2>
-<p>Free testosterone is typically tested alongside total testosterone to assess hormonal activity. Levels vary by:</p>
-<ul>
-<li><strong>Age</strong> (typically decreasing over time)</li>
-<li><strong>Time of day</strong> (highest in the early morning due to <a href="https://www.endocrinology.org/endocrinologist/134-winter19/features/24-hours-in-the-life-of-a-hormone-what-time-is-the-right-time-for-a-pituitary-function-test/#:~:text=TESTOSTERONE">diurnal rhythm</a>)</li>
-<li><strong>Sex</strong>, menstrual cycle (in females), and menopausal status</li>
-</ul>
+<h2>Normal Ranges</h2>
 <div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true">
-<h3>Lab Ranges:</h3>
-<p><strong>Male:</strong></p>
+<p><strong>Albumin-to-creatinine ratio (ACR):</strong></p>
 <ul>
-<li>Out of range (low): &lt;0.03 ng/mL</li>
-<li>In range: 0.03-0.2 ng/mL</li>
-<li>Out of range (high): &gt;0.2 ng/mL</li>
+<li>Normal: &lt; 30 mg/g</li>
+<li>Moderately increased (microalbuminuria): 30–300 mg/g</li>
+<li>Severely increased (macroalbuminuria): &gt; 300 mg/g</li>
 </ul>
-<p><strong>Female:</strong></p>
+<p><strong>24-hour urine albumin:</strong></p>
 <ul>
-<li>Out of range (low): &lt;1.1 pg/mL</li>
-<li>In range: 1.1-12.9 pg/mL</li>
-<li>Out of range (high): &gt;12.9 pg/mL</li>
-</ul>
-<h3>SiPhox Ranges:</h3>
-<p><strong>Male:</strong></p>
-<table style="height: 348px;" width="710">
-<thead>
-<tr>
-<th><strong>Age</strong></th>
-<th><strong>Optimal Range</strong></th>
-<th><strong>Good Range</strong></th>
-<th><strong>Fair Range</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>20-39 yrs</td>
-<td>0.13-0.30 ng/mL</td>
-<td>0.08-0.30 ng/mL</td>
-<td>&gt;0.05 ng/mL</td>
-</tr>
-<tr>
-<td>40-49 yrs</td>
-<td>0.1-0.29 ng/mL</td>
-<td>0.06-0.29 ng/mL</td>
-<td>&gt;0.04 ng/mL</td>
-</tr>
-<tr>
-<td>50-59 yrs</td>
-<td>0.1-0.28 ng/mL</td>
-<td>0.06-0.28 ng/mL</td>
-<td>&gt;0.04 ng/mL</td>
-</tr>
-<tr>
-<td>60-69 yrs</td>
-<td>0.09-0.27 ng/mL</td>
-<td>0.05-0.27 ng/mL</td>
-<td>&gt;0.03 ng/mL</td>
-</tr>
-<tr>
-<td>&gt;70 yrs</td>
-<td>0.08-0.26 ng/mL</td>
-<td>0.04-0.26 ng/mL</td>
-<td>&gt;0.03 ng/mL</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Female:</strong></p>
-<ul>
-<li>Good Range: 1.1-12.9 pg/mL</li>
+<li>Normal: &lt; 30 mg/day</li>
+<li>Microalbuminuria: 30–300 mg/day</li>
+<li>Macroalbuminuria: &gt; 300 mg/day</li>
 </ul>
 </div>
-<h2>How can I maintain optimal free testosterone levels?</h2>
-<p><strong>Dietary Changes:</strong>  A diet rich in lean proteins, healthy fats, antioxidant-rich foods, and hormone-supporting herbs like ginger and turmeric can support testosterone regulation. Including <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6612531/">honey</a> can help to increase lower testosterone levels. Research suggests that <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8538516/">macronutrient, vitamin, and mineral</a> intake can impact testosterone synthesis. Spearmint tea may reduce excess testosterone, especially in women with conditions like PCOS. Zinc-containing foods like oysters and pumpkin seeds can also regulate testosterone.</p>
-<p><strong>Lifestyle Changes:</strong> Avoiding <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8743653/">chronic stressors</a>, getting <a href="https://www.uchicagomedicine.org/forefront/news/sleep-loss-lowers-testosterone-in-healthy-young-men#:~:text=The%20effects%20of%20sleep%20loss,2%20pm%20and%2010%20pm">more</a> and <a href="https://www.youtube.com/watch?v=qJXKhu5UZwk&amp;t=2864s">higher-quality</a> sleep, and lowering <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5924956/">abdominal fat percentage</a> through a healthy regimen can help in improving testosterone levels. Additionally, engaging in regular <a href="https://pubmed.ncbi.nlm.nih.gov/11915780/">physical activity</a>, including strength training and aerobic exercise, can help support hormone balance, muscle strength, and overall well-being. Practicing stress-reducing techniques such as mindfulness, meditation, deep breathing exercises, and adequate sleep can also help support <a href="https://www.tandfonline.com/doi/full/10.1080/10253890.2021.1891220">hormone balance</a> and overall health.</p>
-<p><strong>Supplementation:</strong> Supplements like <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8166567/">fenugreek seed extract, ashwagandha roots and leaves</a>, and  <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8538516/">saw palmetto or boron</a> can help to increase lower free testosterone levels. <a href="https://pcosweightloss.org/does-zinc-boost-testosterone/#:~:text=Zinc%20actually%20helps%20regulate%20your,a%20good%20thing%20to%20consider!">Adequate zinc intake</a> has also been shown to regulate both elevated and decreased hormone levels, including testosterone. <strong>These supplements are not recommended in pregnancy or for individuals with kidney disease.</strong></p>
-<h2>Where can I learn more?</h2>
+<p>Temporary elevations can occur with fever, intense exercise, urinary tract infections, dehydration, or menstruation. Repeat testing is often recommended to confirm persistent albuminuria.</p>
+<h2>Conditions Linked to Elevated Urine Albumin</h2>
 <ul>
-<li><a href="https://hubermanlab.com/the-science-of-how-to-optimize-testosterone-and-estrogen/">Andrew Huberman has a masterclass on testosterone for males.</a></li>
-<li><a href="https://www.health.harvard.edu/staying-healthy/testosterone--what-it-does-and-doesnt-do">Harvard Medical School – Testosterone: What It Is and How It Affects Your Health</a></li>
-<li><a href="https://my.clevelandclinic.org/health/articles/24101-testosterone">Cleveland Clinic – Testosterone</a></li>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/26358173/">PubMed &#8211; Testosterone in Women</a></li>
-<li><a href="https://my.clevelandclinic.org/health/diseases/24897-low-testosterone-in-women">Cleveland Clinic &#8211; Low Testosterone in Women</a></li>
-<li><a href="https://my.clevelandclinic.org/health/diseases/24639-hyperandrogenism">Cleveland Clinic &#8211; Hyperandrogenism in Women</a></li>
+<li>Diabetes (diabetic nephropathy)</li>
+<li>Hypertension (high blood pressure)</li>
+<li>Glomerulonephritis (inflammation of kidney filters)</li>
+<li>Polycystic kidney disease</li>
+<li>Lupus and other autoimmune disorders</li>
+<li>Heart failure</li>
+<li>Preeclampsia during pregnancy</li>
+<li>Multiple myeloma or amyloidosis</li>
 </ul>
-<p><strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong></p>
-<p><!-- notionvc: b8a1f3ef-ee54-45ca-92ec-b8f12c58455f --></p>
-]]></content:encoded>
+<h2>Strategies to Reduce Urine Albumin &#038; Protect Kidneys</h2>
+<h3>Blood Pressure and Blood Sugar Control</h3>
+<ul>
+<li>Maintain blood pressure &lt;130/80 mmHg for CKD patients</li>
+<li>Use ACE inhibitors or ARBs for kidney protection</li>
+<li>Keep HbA1c below ~7% in diabetes to lower risk</li>
+</ul>
+<h3>Dietary Modifications</h3>
+<ul>
+<li>Limit sodium to &lt;2,300 mg/day</li>
+<li>Moderate protein intake (0.8–1.0 g/kg/day for kidney disease)</li>
+<li>Follow DASH or Mediterranean diet</li>
+<li>Reduce processed foods and added sugars</li>
+<li>Increase fruits, vegetables, and whole grains</li>
+</ul>
+<h3>Lifestyle Changes</h3>
+<ul>
+<li>Exercise regularly (150 minutes/week of moderate activity)</li>
+<li>Maintain healthy weight</li>
+<li>Quit smoking</li>
+<li>Stay well-hydrated</li>
+</ul>
+<h2>Monitoring Kidney Health Over Time</h2>
+<p>People with diabetes should start annual albumin testing at diagnosis (type 2) or after 5 years (type 1). Those with hypertension or other risk factors should test regularly. Kidney health monitoring should also include serum creatinine, eGFR, blood pressure, and electrolytes for a complete picture.</p>
+<p><strong>DISCLAIMER:</strong> This information is for educational purposes only and is not a substitute for professional medical advice. Always consult your healthcare provider for interpretation of your urine albumin results and for personalized kidney health recommendations.</p>
+
+</div>]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>When Should You Take Your SiPhox Health Test?</title>
-		<link>/hub/guides/when-to-test-guide/</link>
+		<title>Urine Creatinine</title>
+		<link>/hub/biomarkers-2/urine-creatinine/</link>
 		
 		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Wed, 18 Jun 2025 13:42:18 +0000</pubDate>
+		<pubDate>Mon, 11 Aug 2025 20:28:55 +0000</pubDate>
 				<category><![CDATA[Biomarkers]]></category>
-		<category><![CDATA[Guides]]></category>
-		<guid isPermaLink="false">/hub/?p=3781</guid>
+		<guid isPermaLink="false">/hub/?p=3934</guid>
 
 					<description><![CDATA[
 
-
-A Guide to Timing, Fasting, and Preparation To get the most accurate insights from your SiPhox blood test—whether you’re using EasyDraw or finger prick—timing and preparation matter. Here&#8217;s how to prepare based on the panel you’re taking: ⏰ Best Time to Test Test in the morning, ideally within 1–2 hours of waking up. This aligns&#8230; <a class="more-link" href="/hub/guides/when-to-test-guide/">Continue reading <span class="screen-reader-text">When Should You Take Your SiPhox Health Test?</span></a>]]></description>
+What is Urine Creatinine? Urine creatinine is a waste product produced from the normal breakdown of muscle tissue. During muscle metabolism, creatine phosphate breaks down into creatinine, which travels through the bloodstream to the kidneys, where it is filtered out and eliminated in urine. Because creatinine production is relatively constant and proportional to muscle mass,&#8230; <a class="more-link" href="/hub/biomarkers-2/urine-creatinine/">Continue reading <span class="screen-reader-text">Urine Creatinine</span></a>]]></description>
 			
 
-
-							<content:encoded><![CDATA[<h1><span class="notion-enable-hover" data-token-index="0"> A Guide to Timing, Fasting, and Preparation</span></h1>
-<p><!-- notionvc: c7a3b1c5-453a-4b0d-886b-ac3d182edfa5 --></p>
-
-<p>To get the most accurate insights from your SiPhox blood test—whether you’re using <strong>EasyDraw</strong> or <strong>finger prick</strong>—timing and preparation matter. Here&#8217;s how to prepare based on the panel you’re taking:</p>
-<h2><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/23f0.png" alt="⏰" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Best Time to Test</strong></h2>
-<p>Test <strong>in the morning</strong>, ideally <strong>within 1–2 hours of waking up</strong>. This aligns with your body’s natural hormone rhythms (like <strong>cortisol</strong> and <strong>testosterone</strong>) and reduces variability.</p>
-<h2><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f9d8-200d-2640-fe0f.png" alt="🧘‍♀️" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Should You Fast?</strong></h2>
-<p>Yes, <strong>fast for 8–12 hours</strong> before your test. Water is fine. Fasting improves accuracy for:</p>
+							<content:encoded><![CDATA[
+<h2>What is Urine Creatinine?</h2>
+<p>Urine creatinine is a waste product produced from the normal breakdown of muscle tissue. During muscle metabolism, creatine phosphate breaks down into creatinine, which travels through the bloodstream to the kidneys, where it is filtered out and eliminated in urine. Because creatinine production is relatively constant and proportional to muscle mass, it serves as a reliable marker for assessing kidney function, muscle mass, and the accuracy of other urine test results.</p>
+<h2>Why Urine Creatinine Testing Matters</h2>
+<p>Urine creatinine testing provides insights that blood creatinine levels alone cannot. While blood creatinine reflects how well your kidneys filter waste, urine creatinine measures how much creatinine is actually excreted. This is important for:</p>
 <ul>
-<li><strong>Glucose &amp; insulin</strong> (Core, Heart &amp; Metabolic)</li>
-<li><strong>Lipids</strong> like LDL and triglycerides</li>
-<li><strong>Hormones</strong> like cortisol, DHEA-S, IGF-1, and even testosterone</li>
+<li><strong>Evaluating kidney function:</strong> Especially when used alongside blood tests and other urine markers.</li>
+<li><strong>Normalizing other urine results:</strong> For example, in the albumin-to-creatinine ratio (ACR) to detect early kidney damage.</li>
+<li><strong>Assessing muscle mass changes:</strong> Helpful in conditions that cause muscle wasting or growth.</li>
+<li><strong>Monitoring kidney disease progression:</strong> Regular measurements can track changes over time.</li>
 </ul>
-<h2><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f48a.png" alt="💊" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Supplements &amp; Meds</strong></h2>
+<h2>Normal Ranges</h2>
+<div data-dynamic-ranges="true" data-test="1"></div>
+<div data-ranges="true">
+<p><strong>24-hour urine collection:</strong></p>
 <ul>
-<li><strong>Avoid supplements:</strong> Do not take any supplements for 24 hours before testing, especially biotin, B12, vitamin D, and adaptogens, which may skew results.</li>
-<li><strong>Do not stop taking medications:</strong> Take your prescribed medications as instructed by your healthcare provider.</li>
+<li>Males: 955–2936 mg/24 hours (8.4–25.9 mmol/24 hours)</li>
+<li>Females: 601–1689 mg/24 hours (5.3–14.9 mmol/24 hours)</li>
 </ul>
-<h2><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f3cb.png" alt="🏋" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Exercise</strong></h2>
+<p><strong>Random urine sample:</strong></p>
 <ul>
-<li><strong><span class="notion-enable-hover" data-token-index="0">No intense exercise:</span> </strong>Avoid intense workouts in the morning before your test.<!-- notionvc: d0c227c1-d83f-42a5-9805-ab2c032f1be7 --></li>
+<li>Males: 20–370 mg/dL</li>
+<li>Females: 20–320 mg/dL</li>
 </ul>
-<h2><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/2640.png" alt="♀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Women-Specific Hormone Testing</strong></h2>
-<p><strong>We recommend following these guidelines to capture a more standardized baseline, but testing on other days can still be informative.</strong></p>
-<p><a href="https://siphoxhealth.com/hub/guides/biomarkers/day-3-hormone-testing-understanding-the-baseline-for-fertility"><strong>Click here to read more about Day 3 Hormone Testing</strong></a></p>
-<h3><strong>If you have menstrual cycles and are not on birth control:</strong></h3>
-<p>Take the test on <strong>Day 3</strong> of your period.</p>
-<p>Count day 1 as the first day of full flow that starts before 5 pm.</p>
-<p><em>Get your period at 3 pm on Monday? Test on Wednesday.</em></p>
-<p><em>Get your period at 8 pm on Monday? Test on Thursday.</em></p>
-<h3><strong>If you have menstrual cycles and are on birth control:</strong></h3>
-<p>Users of continuous contraceptives like the minipill or hormonal IUD who still have regular periods should test on <b data-stringify-type="bold">Day 3</b> of their periods. If you do not experience regular periods, it’s advised to wait three months after stopping contraceptives for hormone levels to normalize (please consult with your healthcare provider before stopping any medications).</p>
-<p><strong>If you have <em>no </em>menstrual cycles but <em>are </em>on birth control, any day is acceptable to test. </strong></p>
-<h3><strong>If you do not undergo menstruation cycles due to menopause:</strong></h3>
-<p>You can take the hormonal panel on <strong>any day</strong>.</p>
-<p><!-- notionvc: 0c598a9c-916f-418d-92c8-5a5d26fa7e5c --></p>
+</div>
+<p>Values above or below these ranges aren’t automatically abnormal—athletes often have higher values due to greater muscle mass, while elderly individuals or those with muscle-wasting conditions may have lower levels.</p>
+<h2>Factors Influencing Urine Creatinine</h2>
+<ul>
+<li><strong>Muscle mass:</strong> Higher mass increases creatinine production.</li>
+<li><strong>Age:</strong> Levels tend to decrease as muscle mass declines.</li>
+<li><strong>Diet:</strong> High protein intake or creatine supplements can temporarily raise levels.</li>
+<li><strong>Exercise:</strong> Intense activity can increase production.</li>
+<li><strong>Hydration status:</strong> Dehydration concentrates urine, elevating levels.</li>
+<li><strong>Pregnancy:</strong> Often lowers urine creatinine due to increased filtration.</li>
+<li><strong>Medications:</strong> ACE inhibitors, NSAIDs, certain antibiotics can affect results.</li>
+</ul>
+<h2>Optimizing Kidney Health</h2>
+<ul>
+<li>Stay well-hydrated—aim for at least 8 glasses of water daily, adjusting for activity and climate.</li>
+<li>Control blood pressure and blood sugar—hypertension and diabetes are leading causes of kidney disease.</li>
+<li>Maintain healthy muscle mass through regular, balanced exercise.</li>
+<li>Eat a nutrient-rich diet—fruits, vegetables, whole grains, and limited sodium and processed foods.</li>
+<li>Limit alcohol and avoid smoking to protect kidney function.</li>
+<li>Discuss long-term medication use with your healthcare provider, especially NSAIDs and other drugs that can affect the kidneys.</li>
+</ul>
+<h2>Key Takeaway</h2>
+<p>Urine creatinine is a steady, reliable indicator that helps assess kidney health, muscle mass, and the accuracy of other urine tests. Tracking it alongside other markers such as albumin can identify early kidney changes and guide preventive or therapeutic strategies.</p>
+<p><strong>DISCLAIMER:</strong> This information is for educational purposes only and should not replace professional medical advice. Always consult your healthcare provider for personalized interpretation of your urine creatinine results and recommendations for kidney health monitoring.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Iron Saturation</title>
-		<link>/hub/biomarkers-2/biomarker-iron-saturation/</link>
+		<title>Urine Albumin:Creatinine Ratio</title>
+		<link>/hub/biomarkers-2/urine-albumincreatinine-ratio/</link>
 		
 		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Mon, 16 Jun 2025 20:27:22 +0000</pubDate>
+		<pubDate>Mon, 11 Aug 2025 20:27:19 +0000</pubDate>
 				<category><![CDATA[Biomarkers]]></category>
-		<category><![CDATA[iron]]></category>
-		<category><![CDATA[iron saturation]]></category>
-		<guid isPermaLink="false">/hub/?p=3778</guid>
+		<guid isPermaLink="false">/hub/?p=3932</guid>
 
 					<description><![CDATA[
 
-What is Iron Saturation? Iron saturation is a blood test marker that measures the percentage of transferrin, the main protein that transports iron in the blood, that is currently carrying iron. It reflects how effectively your body is distributing available iron for essential functions Why is Iron Saturation Important? Iron saturation helps identify both iron&#8230; <a class="more-link" href="/hub/biomarkers-2/biomarker-iron-saturation/">Continue reading <span class="screen-reader-text">Iron Saturation</span></a>]]></description>
+What is the Urine Albumin:Creatinine Ratio? The urine albumin:creatinine ratio (ACR) is a simple but important urine test that measures the amount of albumin (a protein) in your urine relative to creatinine (a waste product from muscle metabolism). This ratio helps standardize results for urine concentration and is one of the most reliable ways to&#8230; <a class="more-link" href="/hub/biomarkers-2/urine-albumincreatinine-ratio/">Continue reading <span class="screen-reader-text">Urine Albumin:Creatinine Ratio</span></a>]]></description>
 			
 
 							<content:encoded><![CDATA[
-<h2><strong>What is Iron Saturation?</strong></h2>
-<p>Iron saturation is a blood test marker that measures the percentage of transferrin, the main protein that transports iron in the blood, that is currently carrying iron. It reflects how effectively your body is distributing available iron for essential functions</p>
-<h2><strong>Why is Iron Saturation Important?</strong></h2>
-<p>Iron saturation helps identify both iron deficiency and iron overload. It is critical for oxygen delivery through the formation of hemoglobin in red blood cells, energy production at the cellular level, and immune function.</p>
-<p>Abnormal levels can indicate potential health issues:</p>
+<h2>What is the Urine Albumin:Creatinine Ratio?</h2>
+<p>The urine albumin:creatinine ratio (ACR) is a simple but important urine test that measures the amount of albumin (a protein) in your urine relative to creatinine (a waste product from muscle metabolism). This ratio helps standardize results for urine concentration and is one of the most reliable ways to detect early kidney damage, especially in people with diabetes or high blood pressure.</p>
+<h2>Understanding the Albumin:Creatinine Ratio</h2>
+<p>Healthy kidneys act as selective filters, retaining essential proteins like albumin in the blood while excreting waste products into urine. When kidney filtering units (glomeruli) become damaged, they can leak albumin into the urine—a condition known as <strong>albuminuria</strong> or <strong>proteinuria</strong>. By comparing albumin to creatinine, the ACR accounts for changes in urine concentration, making it more accurate than measuring albumin alone.</p>
+<h2>Why This Test Matters</h2>
 <ul>
-<li><a href="https://www.nhlbi.nih.gov/health/anemia/iron-deficiency-anemia"><strong>Low iron saturation (below 20%)</strong></a> may signal iron deficiency or anemia. Common symptoms include tiredness, lightheadedness, shortness of breath, and poor concentration.</li>
-<li><a href="https://www.mayoclinic.org/diseases-conditions/hemochromatosis/symptoms-causes/syc-20351443"><strong>High iron saturation (above 50%)</strong></a> may indicate iron overload, which over time can contribute to conditions such as hemochromatosis, liver injury, joint pain, or heart dysfunction.</li>
+<li><strong>Early kidney disease detection:</strong> ACR can detect kidney damage before symptoms or standard kidney function tests show abnormalities.</li>
+<li><strong>Guiding treatment:</strong> Elevated ACR levels help healthcare providers decide when to start interventions like blood pressure or blood sugar optimization, or kidney-protective medications.</li>
+<li><strong>Cardiovascular risk assessment:</strong> Elevated albumin in urine is linked to higher risk of heart attack, stroke, and other vascular diseases.</li>
 </ul>
-<h2><strong>How can I better understand my iron saturation levels?</strong></h2>
-<p>Iron saturation is calculated using serum iron and total iron-binding capacity (TIBC). This marker helps assess how efficiently iron is being distributed throughout the body. Here are the general ranges for iron saturation:</p>
-<h3><strong>Lab Range:</strong></h3>
+<h2>Normal Ranges and Interpretation</h2>
+<div data-dynamic-ranges="true" data-test="1"></div>
+<div data-ranges="true">
 <ul>
-<li>Out of range (low): &lt;20%</li>
-<li>In range: 20%–50%</li>
-<li>Out of range (high): &gt;50%</li>
+<li><strong>Normal:</strong> &lt; 30 mg/g</li>
+<li><strong>Microalbuminuria (early kidney damage):</strong> 30–300 mg/g</li>
+<li><strong>Macroalbuminuria (advanced kidney damage):</strong> &gt; 300 mg/g</li>
 </ul>
-<h3><strong>SiPhox Ranges:</strong></h3>
+</div>
+<p>Temporary factors that can elevate ACR without indicating chronic kidney damage include urinary tract infection, vigorous exercise in the past 24 hours, fever, dehydration, and menstruation. Repeat testing is often recommended to confirm abnormal results.</p>
+<h2>Who Should Be Tested and How Often</h2>
 <ul>
-<li>Out of range (low): &lt;15%</li>
-<li>In range: 15%–55%</li>
-<li>Out of range (high): &gt;55%</li>
+<li><strong>Diabetes:</strong> All type 2 diabetics at diagnosis and all type 1 diabetics starting five years after diagnosis—then annually.</li>
+<li><strong>Hypertension:</strong> All patients should have regular ACR screening.</li>
+<li>Other groups: People over age 60, those with family history of kidney disease, cardiovascular disease, obesity, or metabolic syndrome.</li>
 </ul>
-<p>Iron saturation is typically interpreted alongside other iron-related markers such as <a href="https://siphoxhealth.com/hub/biomarkers-2/iron">serum iron</a>, <a href="https://siphoxhealth.com/hub/biomarkers-2/biomarker-ferritin">ferritin</a>, and UIBC. While serum iron can fluctuate daily, iron saturation gives a more balanced view of iron availability and transport.</p>
-<p>Understanding your iron saturation in context can help determine whether you are experiencing iron deficiency or iron overload, both of which may require lifestyle changes or medical treatment.</p>
-<h2><strong>How can I maintain optimal iron saturation levels?</strong></h2>
-<p>Maintaining balanced iron saturation involves managing both iron intake and absorption based on your current levels.</p>
-<p><strong>If your iron saturation is low:</strong></p>
+<p>Testing frequency is typically once a year if results are normal, and every 3–6 months if elevated or if kidney disease is present.</p>
+<h2>Protecting Kidney Health if ACR is Elevated</h2>
 <ul>
-<li><strong>Eat iron-rich foods</strong> such as red meat, poultry, lentils, beans, tofu, and leafy greens.</li>
-<li><strong>Pair iron with vitamin C</strong> (from citrus, peppers, or tomatoes) to improve absorption.</li>
-<li><strong>Cook with cast iron cookware</strong> to naturally boost the iron content of your meals. This is especially effective when preparing acidic or liquid-based dishes.</li>
-<li><strong>Avoid drinking tea, coffee, or calcium-rich beverages</strong> with meals, as they can block iron absorption.</li>
-<li><strong>Consider iron supplements</strong> if recommended by your healthcare provider, especially if dietary changes are not sufficient.</li>
-</ul>
-<p><strong>If your iron saturation is high:</strong></p>
+<li><strong>Control blood pressure:</strong> Aim for &lt;130/80 mmHg; ACE inhibitors or ARBs are preferred in albuminuria.</li>
+<li><strong>Manage blood sugar:</strong> Keep HbA1c below ~7% (individual targets may vary).</li>
+<li><strong>Adjust diet:</strong>
 <ul>
-<li><strong>Limit intake of red meat and iron-fortified foods</strong> to avoid excess iron.</li>
-<li><strong>Avoid unnecessary iron supplements</strong> unless specifically prescribed.</li>
-<li><strong>Reduce vitamin C supplementation</strong>, as it enhances iron absorption from food.</li>
-<li><strong>Stay hydrated and maintain a balanced diet</strong> to support proper iron metabolism and transport.</li>
-</ul>
-<h2><strong>Where Can I Learn More?</strong></h2>
-<ul>
-<li><a href="https://www.nhlbi.nih.gov/health/anemia/iron-deficiency-anemia"><strong>NIH- Iron-Deficiency Anemia</strong></a></li>
-<li><a href="https://www.mayoclinic.org/diseases-conditions/hemochromatosis/symptoms-causes/syc-20351443"><strong>Mayo Clinic- Hemochromatosis</strong></a></li>
-<li><a href="https://emedicine.medscape.com/article/2087960-overview?form=fpf"><strong>Medscape &#8211; Iron Saturation</strong></a></li>
-</ul>
-<p><strong>DISCLAIMER:</strong> <strong>IF YOU ARE CONCERNED ABOUT YOUR IRON LEVELS, PLEASE CONSULT YOUR PHYSICIAN.</strong></p>
-<p><!-- notionvc: c64a481f-3bbd-451c-84f1-b51898273e9a --></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Continuous Glucose Monitoring (CGM)</title>
-		<link>/hub/biomarkers-2/biomarker-cgm/</link>
-		
-		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Mon, 16 Jun 2025 16:34:22 +0000</pubDate>
-				<category><![CDATA[Biomarkers]]></category>
-		<category><![CDATA[blood test]]></category>
-		<category><![CDATA[cgm]]></category>
-		<category><![CDATA[continuous glucose monitor]]></category>
-		<category><![CDATA[glucose]]></category>
-		<guid isPermaLink="false">/hub/?p=3770</guid>
-
-					<description><![CDATA[
-
-What is a Continuous Glucose Monitor (CGM)? A continuous glucose monitor (CGM) is a wearable sensor that tracks your glucose levels throughout the day and night, providing real-time data on how your body responds to food, activity, stress, and sleep. Unlike traditional fingerstick tests, CGMs measure glucose in interstitial fluid every few minutes, allowing for&#8230; <a class="more-link" href="/hub/biomarkers-2/biomarker-cgm/">Continue reading <span class="screen-reader-text">Continuous Glucose Monitoring (CGM)</span></a>]]></description>
-			
-
-							<content:encoded><![CDATA[
-<h2>What is a Continuous Glucose Monitor (CGM)?</h2>
-<p>A <a href="https://www.niddk.nih.gov/health-information/diabetes/overview/managing-diabetes/continuous-glucose-monitoring">continuous glucose monitor (CGM)</a> is a wearable sensor that tracks your glucose levels throughout the day and night, providing real-time data on how your body responds to food, activity, stress, and sleep. Unlike traditional fingerstick tests, CGMs measure glucose in interstitial fluid every few minutes, allowing for early detection of spikes, crashes, and trends that blood tests alone might miss. This data empowers users to make informed lifestyle changes to support stable blood sugar and long-term metabolic health.</p>
-<h2>Why is glucose important?</h2>
-<p>Glucose is the primary energy source for the body’s cells and is tightly regulated to maintain optimal function. Stable glucose levels are crucial for brain function, muscle activity, hormonal balance, and metabolic health. Chronically elevated or unstable glucose levels are associated with increased risk of diabetes, cardiovascular disease, and cognitive decline.</p>
-<h2>What is % of Glucose Readings Above the Range?</h2>
-<p>The % of Glucose Readings Above the Range reflects the proportion of time your blood glucose levels exceed the target range during continuous glucose monitoring. This metric is a key indicator of how often your body experiences hyperglycemia, or elevated blood sugar, over a given period.</p>
-<h2>How can I better understand my % of glucose readings above the range?</h2>
-<p>Even if your fasting glucose appears normal, a high percentage of readings above range may signal underlying metabolic stress or early-stage dysregulation. Here are the <a href="https://diabetes.org/about-diabetes/diagnosis">general ranges</a> for fasting % of glucose readings above the range:</p>
-<h3>Lab Range:</h3>
-<ul>
-<li>Out of range (low): &lt;0 %</li>
-<li>In range: &lt;0.5 %</li>
-<li>Out of range (high): &gt;0.5 %</li>
-</ul>
-<h3>SiPhox Ranges:</h3>
-<ul>
-<li>Optimal Range: &lt;0.1 %</li>
-<li>Good Range: 0.1-0.5 %</li>
-</ul>
-<p>Values above this range may indicate frequent episodes of hyperglycemia (high blood sugar), which can increase the risk of complications such as cardiovascular disease, kidney damage, and nerve dysfunction over time. Common symptoms of <a href="https://my.clevelandclinic.org/health/diseases/7104-diabetes">high glucose levels</a> include increased thirst and urination, fatigue, blurred vision, slow healing of cuts and wounds, and frequent infections.</p>
-<p>Values below this range suggest that <a href="https://diabetesjournals.org/care/article/42/8/1593/36184/Clinical-Targets-for-Continuous-Glucose-Monitoring">elevated glucose excursions are infrequent</a> or well-managed. This is generally favorable but should be considered in the context of other markers.</p>
-<h2>What is Average Glucose Level?</h2>
-<p>Average glucose level represents the mean of all glucose readings collected over a 2 week period. It gives a broader picture of daily glycemic exposure than individual measurements. This value is closely tied to hemoglobin A1c (HbA1c) and is a key indicator of long-term glucose control.</p>
-<h2>How can I better understand my average glucose levels?</h2>
-<p>Average glucose reflects the mean blood sugar level over a given period. Unlike a single fasting or post-meal reading, average glucose captures fluctuations throughout the day, including during meals, sleep, and periods of stress or physical activity. Here are the <a href="https://diabetes.org/about-diabetes/diagnosis">general ranges</a> for average glucose level:</p>
-<h3><strong>Lab Range:</strong></h3>
-<ul>
-<li>Out of range (low): &lt;70 mg/dL</li>
-<li>In range: 70-110 mg/dL</li>
-<li>Out of range (high): &gt;110 mg/dL</li>
-</ul>
-<h3><strong>SiPhox Ranges:</strong></h3>
-<ul>
-<li>Optimal Range: 80-100 mg/dL</li>
-<li>Good Range: 70-80 mg/dL or 100-110 mg/dL</li>
-</ul>
-<p>Values above this range may indicate chronic hyperglycemia and a higher risk of insulin resistance, prediabetes, or type 2 diabetes. Common symptoms of <a href="https://www.mayoclinic.org/diseases-conditions/hypoglycemia/symptoms-causes/syc-20373685">high average glucose</a> include increased thirst and urination, fatigue, blurred vision, slow healing of cuts and wounds, and frequent infections.</p>
-<p>Values below this range may suggest hypoglycemia or overtreatment with glucose-lowering medications. <a href="https://www.mayoclinic.org/diseases-conditions/hypoglycemia/symptoms-causes/syc-20373685">Symptoms of low average glucose</a> include hunger, weakness, blurred vision, difficulty concentrating, dizziness, and in severe cases, confusion or loss of consciousness.</p>
-<h2>What is Estimated Fasting Glucose level?</h2>
-<p>Fasting glucose, also known as fasting blood sugar, is a critical marker of metabolic health and refers to the concentration of glucose in the blood after an overnight fast. SiPhox estimates your fasting glucose by taking an average of a sample of the lowest readings throughout a 24 hour period. It provides insight into the body’s ability to maintain and regulate blood sugar levels within a narrow range, even in the absence of food intake.</p>
-<h2><strong>How can I better understand my fasting glucose levels?</strong></h2>
-<p>Fasting glucose is typically measured after an overnight fast of at least 8 hours. Here are the <a href="https://diabetes.org/about-diabetes/diagnosis">general ranges</a> for fasting glucose levels:</p>
-<h3><strong>Lab Range:</strong></h3>
-<ul>
-<li>Out of range (low): &lt;70 mg/dL</li>
-<li>In range: 70-125 mg/dL</li>
-<li>Out of range (high): &gt;125 mg/dL</li>
-</ul>
-<h3><strong>SiPhox Ranges:</strong></h3>
-<ul>
-<li>Optimal Range: 70-99 mg/dL</li>
-<li>Good Range: 99-125 mg/dL</li>
-</ul>
-<p>Values above this range may indicate hyperglycemia (high blood sugar), while values below the range may suggest hypoglycemia (low blood sugar). <a href="https://my.clevelandclinic.org/health/diseases/7104-diabetes">Symptoms of high fasting glucose levels</a> include increased thirst and frequent urination, fatigue, blurred vision, slow healing of cuts and wounds, and frequent infections. <a href="https://www.mayoclinic.org/diseases-conditions/hypoglycemia/symptoms-causes/syc-20373685">Symptoms of low fasting glucose</a> include hunger, weakness, blurred vision, difficulty concentrating, confusion/disorientation, dizziness/lightheadedness, and nausea.</p>
-<h2>What is Glucose Variability?</h2>
-<p>Glucose variability describes how much your glucose levels fluctuate throughout the day. High glucose variability, especially frequent or large swings between highs and lows, has been linked to increased oxidative stress, inflammation, and blood vessel damage. These effects may raise the risk of complications such as heart disease, nerve damage, and eye disease, even when average glucose appears normal.. Studies show that <a href="https://pubmed.ncbi.nlm.nih.gov/16567820/">reducing glucose variability</a> can independently improve outcomes, especially in people with diabetes.</p>
-<p>CGMs provide tools like <a href="https://diatribe.org/diabetes-management/understanding-average-glucose-standard-deviation-cv-and-blood-sugar-variability"><strong>standard deviation (SD)</strong> and <strong>coefficient of variation (CV)</strong></a> to help quantify variability:</p>
-<ul>
-<li><strong>Standard deviation (SD)</strong> measures how far readings deviate from your average.</li>
-<li><strong>Coefficient of variation (CV)</strong> expresses SD as a percentage of average glucose—values under 36% are generally considered acceptable.</li>
-</ul>
-<p>Lower glucose variability is a sign of metabolic stability and better resilience to lifestyle factors like stress, sleep loss, or high-carb meals.</p>
-<h2>How can I better understand my glucose variability?</h2>
-<p>Glucose variability measures how much your blood sugar levels fluctuate throughout the day. Here are the <a href="https://diabetes.org/about-diabetes/diagnosis">general ranges</a> for glucose variability:</p>
-<h3><strong>Lab Range:</strong></h3>
-<ul>
-<li>Out of range (low): &lt;0 %</li>
-<li>In range: &lt;33 %</li>
-<li>Out of range (high): &gt;33 %</li>
-</ul>
-<h3><strong>SiPhox Ranges:</strong></h3>
-<ul>
-<li>Optimal Range: &lt;25 %</li>
-<li>Good Range: 25-33 %</li>
-</ul>
-<p>Values above this range indicate high glycemic variability, which has been linked to oxidative stress, inflammation, and increased risk of cardiovascular disease and diabetes complications. Symptoms may include energy crashes, brain fog, irritability, and cravings after meals due to rapid glucose swings.</p>
-<p>Values below this range suggest more stable glucose levels, which is generally favorable. However, <a href="https://www.mayoclinic.org/diseases-conditions/hypoglycemia/symptoms-causes/syc-20373685">extremely low variability</a> combined with low average glucose may indicate unrecognized hypoglycemia or overcorrection with medications.</p>
-<h2>How can I improve my glucose levels?</h2>
-<p><strong>Use your CGM to identify patterns.</strong> <a href="https://www.niddk.nih.gov/health-information/diabetes/overview/managing-diabetes/continuous-glucose-monitoring">Continuous glucose monitors</a> offer powerful real-time insights. Tracking how meals, exercise, stress, and sleep affect your glucose allows you to fine-tune your habits and improve control.</p>
-<p><strong>Eat to minimize glucose spikes.</strong> A diet rich in fiber, lean protein, and healthy fats helps keep glucose stable. Avoid refined carbs and sugars, which tend to cause sharp elevations. Combining carbs with protein or fat can also <a href="https://my.clevelandclinic.org/health/diseases/7104-diabetes">slow glucose absorption</a>.</p>
-<p><strong>Exercise regularly, especially after meals.</strong> Physical activity, especially walking or light movement after eating, enhances insulin sensitivity and reduces glucose spikes. Consistent exercise helps your muscles use glucose more efficiently, supporting long-term stability.</p>
-<p><strong>Improve sleep and manage stress.</strong> Poor sleep and high stress elevate cortisol, which can raise blood glucose levels. Prioritizing 7–9 hours of quality sleep and practicing stress-reducing techniques like meditation or deep breathing can improve glucose control.</p>
-<p><strong>Take your medications as prescribed.</strong> If you have diabetes, following your physician’s treatment plan is essential. This includes taking oral medications or insulin as directed, checking your glucose regularly, and attending follow-up visits. Medication adherence plays a critical role in preventing complications and keeping your glucose levels within a healthy range.</p>
-<h2>Where can I learn more?</h2>
-<ul>
-<li><a href="https://my.clevelandclinic.org/health/diseases/7104-diabetes">Cleveland Clinic – Diabetes Overview</a></li>
-<li><a href="https://www.niddk.nih.gov/health-information/diabetes/overview/managing-diabetes/continuous-glucose-monitoring">NIH – Continuous Glucose Monitoring</a></li>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/16567820/">PubMed – Glucose Variability and Health Risks</a></li>
-<li><a href="https://diatribe.org/diabetes-management/understanding-average-glucose-standard-deviation-cv-and-blood-sugar-variability">diaTribe &#8211; Glucose Variability Guide</a></li>
-</ul>
-<p><!-- notionvc: 7d53c683-c275-4a76-8a97-c2342f2ea516 --></p>
-<p><strong data-sanitized-data-mce-fragment="1">DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Day 3 Hormone Testing: Understanding the Baseline for Fertility</title>
-		<link>/hub/guides/biomarkers/day-3-hormone-testing-understanding-the-baseline-for-fertility/</link>
-		
-		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Mon, 24 Mar 2025 14:56:14 +0000</pubDate>
-				<category><![CDATA[Biomarkers]]></category>
-		<category><![CDATA[Guides]]></category>
-		<guid isPermaLink="false">/hub/?p=3754</guid>
-
-					<description><![CDATA[Day 3 hormone testing is a common practice in reproductive health, providing a standardized baseline to evaluate your hormonal balance and fertility.]]></description>
-			
-
-							<content:encoded><![CDATA[
-<p>When your doctor asks you to get blood tests on the third day of your menstrual cycle, it’s not an arbitrary choice. Day 3 hormone testing is a common practice in reproductive health, providing a <strong>standardized baseline</strong> to evaluate your hormonal balance and fertility. By testing at this specific point early in the cycle, healthcare providers can get a clear snapshot of key hormone levels—before they start fluctuating later in the month <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_3754_13('footnote_plugin_reference_3754_13_1');" onkeypress="footnote_moveToReference_3754_13('footnote_plugin_reference_3754_13_1');" ><span id="footnote_plugin_tooltip_3754_13_1" class="footnote_plugin_tooltip_text">[1]</span></a><span id="footnote_plugin_tooltip_text_3754_13_1" class="footnote_tooltip"></span></span>. In this blog post, we’ll explain why day 3 is so important, and walk through the main hormones typically measured on that day: <strong>FSH, LH, estradiol, and prolactin</strong>. We’ll keep things accessible and informative, with research-backed explanations of what each hormone does and what your results might mean.</p>
-<h3>Why Day 3 of the Menstrual Cycle?</h3>
-<p><strong>Day 3 of your cycle (with day 1 being the first day of your period)</strong> is considered an ideal time for hormone testing because it represents the body’s <strong>baseline hormonal state</strong>. At this early follicular phase, the reproductive hormones are at low, stable levels—unaffected by the mid-cycle ovulation surge or the hormonal changes of the luteal phase. Doctors often call day 3 the “baseline” since hormones like estrogen are at their most steady levels before they begin to rise later in the cycle. By checking levels at this time, providers can ensure an “apples to apples” comparison against standard reference ranges and get an accurate read on your body&#8217;s natural hormone balance <strong>before</strong> any dramatic cycle-driven fluctuations kick in <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_3754_13('footnote_plugin_reference_3754_13_2');" onkeypress="footnote_moveToReference_3754_13('footnote_plugin_reference_3754_13_2');" ><span id="footnote_plugin_tooltip_3754_13_2" class="footnote_plugin_tooltip_text">[2]</span></a><span id="footnote_plugin_tooltip_text_3754_13_2" class="footnote_tooltip"></span></span>.</p>
-<p>Timing is critical because many hormone levels <strong>vary throughout the month</strong>. For example, <strong>follicle-stimulating hormone (FSH)</strong> and <strong>luteinizing hormone (LH)</strong> will spike around ovulation, and <strong>progesterone</strong> rises in the luteal (post-ovulation) phase. Testing in the middle or end of the cycle would give very different readings. By contrast, on about <strong>day 3</strong>, these levels are <strong>consistent and low</strong>, making it easier to detect abnormalities or imbalances. In fact, FSH levels can change from day to day in your cycle, so basic fertility evaluations specifically require an FSH blood test drawn on day 3 for a dependable measurement <span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_3754_13('footnote_plugin_reference_3754_13_3');" onkeypress="footnote_moveToReference_3754_13('footnote_plugin_reference_3754_13_3');" ><span id="footnote_plugin_tooltip_3754_13_3" class="footnote_plugin_tooltip_text">[3]</span></a><span id="footnote_plugin_tooltip_text_3754_13_3" class="footnote_tooltip"></span></span>. In short, day 3 provides a <strong>controlled checkpoint</strong> in the menstrual cycle when your hormones are at a baseline level. This baseline is invaluable for assessing reproductive health, because it allows doctors to spot warning signs (like unusually high or low levels) without the confounding effects of mid-cycle hormone surges.</p>
-<p>It’s worth noting that if your cycle is a bit shorter or longer, some providers say testing on <strong>day 2 or day 4</strong> is also acceptable – the goal is to capture that early follicular window.</p>
-<h3>What if I do not menstruate or am on birth control?</h3>
-<p>If you’re using hormonal birth control or in menopause, determining a true “day 3” can be challenging. <strong>Hormonal contraceptives</strong> often suppress your natural cycle, making it tough to pinpoint baseline hormone levels. Users of continuous contraceptives like the minipill or hormonal IUD who still have regular periods should test on <strong>Day 3</strong> of their periods. To gain the most accurate picture, if you do not experience regular periods, it&#8217;s advised to wait three months after stopping contraceptives for hormone levels to normalize.</p>
-<p><strong>Perimenopausal and menopausal women</strong> may no longer ovulate monthly or have predictable periods, so hormone levels can be measured at any time.</p>
-<h3>Putting It All Together</h3>
-<p>Day 3 hormone testing provides a crucial baseline look at a woman’s reproductive hormones. By evaluating <strong>FSH, LH, estradiol, and prolactin</strong> at this early cycle stage, healthcare providers can gain insight into overall hormonal balance. Importantly, testing on day 3 standardizes the results — we know what “normal” looks like on day 3, which makes it easier to spot anything out of the ordinary. For instance, a normal FSH and estradiol with normal prolactin would suggest that the fundamental hormonal environment for fertility is sound. On the other hand, an abnormal result (such as a high FSH) might indicate a need to expedite or adjust fertility plans, or to investigate specific conditions further.</p>
-<p>In conclusion, <strong>day 3 hormone testing is recommended because it offers a window into your reproductive system at rest, establishing a baseline against which potential problems can be measured</strong>. It’s a tried-and-true tool in gynecology and fertility medicine. By measuring FSH, LH, estradiol, and prolactin on cycle day 3, you can better understand your ovarian reserve and hormonal balance, ultimately helping to tailor recommendations or treatments to your needs. It’s all about catching your hormones at the right moment, so that you can get the clearest picture possible of your fertility health.</p>
-<p><strong>Where Can I Learn More?</strong></p>
-<ol>
-<li>One Fertility Clinic – <em>Cycle Monitoring Day 3 Testing</em>: Day 3 is known as the “baseline” since it captures hormone levels before they increase later in the cycle (<a href="https://www.onefertilitykitchenerwaterloo.com/fertility-cycle-monitoring-day-3-day-21-tests/#:~:text=What%20Do%20Day%203%20Tests,Show">Fertility Cycle Monitoring: Day 3 and Day 21 Tests</a>).</li>
-<li>Cleveland Clinic – <em>FSH Blood Test Timing</em>: FSH levels vary throughout the cycle, so testing is done on day 3 of the menstrual cycle to obtain a consistent baseline measurement (<a href="https://my.clevelandclinic.org/health/articles/24638-follicle-stimulating-hormone-fsh#:~:text=The%20timing%20for%20FSH%20testing,the%20day%20your%20period%20begins">Follicle-Stimulating Hormone (FSH): What It Is &amp; Function</a>).</li>
-<li>Center for Reproductive Medicine – <em>Fertility Hormones Overview</em>: High day-3 FSH is generally an indication of diminished ovarian reserve (fewer eggs), whereas normal-low FSH suggests a better ovarian response (<a href="https://www.ivforlando.com/blog/what-hormones-are-tested-for-female-fertility#:~:text=menstrual%20cycle%20to%20assess%20ovarian,hormonal%20imbalances%20are%20at%20play">What Hormones Are Tested for Female Fertility? | Blog</a>) (<a href="https://www.ivforlando.com/blog/what-hormones-are-tested-for-female-fertility#:~:text=,may%20indicate%20a%20fertility%20issue">What Hormones Are Tested for Female Fertility? | Blog</a>).</li>
-<li>IVF Orlando Blog – <em>LH and Estradiol on Day 3</em>: An elevated LH on day 3 may indicate polycystic ovary syndrome (PCOS), and an elevated estradiol level on day 3 can mask a high FSH (and may signal an ovarian cyst) (<a href="https://www.ivforlando.com/blog/what-hormones-are-tested-for-female-fertility#:~:text=,predict%20ovulation%20in%20fertility%20tracking">What Hormones Are Tested for Female Fertility? | Blog</a>) (<a href="https://www.ivforlando.com/blog/what-hormones-are-tested-for-female-fertility#:~:text=,can%20interfere%20with%20normal%20ovulation">What Hormones Are Tested for Female Fertility? | Blog</a>).</li>
-<li>Endotext (NCBI/NIH) – <em>Ovarian Reserve Testing</em>: An abnormally high estradiol (&gt;60–80 pg/mL) on day 3 can reflect diminished ovarian reserve and may artificially suppress FSH into a normal range (<a href="https://www.ncbi.nlm.nih.gov/books/NBK279058/#:~:text=rising%20closer%20to%20menses%20,could%20reflect%20diminishing%20ovarian%20reserve">Ovarian Reserve Testing &#8211; Endotext &#8211; NCBI Bookshelf</a>).</li>
-<li>IVF Orlando Blog – <em>Prolactin and Fertility</em>: Elevated prolactin (hyperprolactinemia) can disrupt ovulation and cause irregular or absent menstrual cycles, making it harder to conceive (<a href="https://www.ivforlando.com/blog/what-hormones-are-tested-for-female-fertility#:~:text=,stress%2C%20or%20benign%20pituitary%20tumors">What Hormones Are Tested for Female Fertility? | Blog</a>).</li>
-<li>Reproductive Medicine Associates of NY – <em>Day 3 Test Insights</em>: Day 3 hormone tests (FSH, LH, estradiol) together assess ovarian reserve (quantity and quality of eggs), and are often combined with AMH testing for a fuller fertility evaluation (<a href="https://www.rmany.com/blog/know-your-numbers-understanding-amh-day-3-test-results#:~:text=One%20of%20the%20critical%20components,guide%20changes%20to%20treatment%20protocol">Know Your Numbers: Understanding AMH &amp; Day 3 Test Results</a>) (<a href="https://www.rmany.com/blog/know-your-numbers-understanding-amh-day-3-test-results#:~:text=FSH%20is%20a%20hormone%20secreted,polycystic%20ovary%20disease%2C%20ovarian%20cysts">Know Your Numbers: Understanding AMH &amp; Day 3 Test Results</a>).</li>
-</ol>
-<p><!-- notionvc: 7714ad13-61ba-4e3b-b90b-9811628640fd --></p>
-<div class="speaker-mute footnotes_reference_container"> <div class="footnote_container_prepare"><p><span role="button" tabindex="0" class="footnote_reference_container_label pointer" onclick="footnote_expand_collapse_reference_container_3754_13();">References</span><span role="button" tabindex="0" class="footnote_reference_container_collapse_button" style="" onclick="footnote_expand_collapse_reference_container_3754_13();">[<a id="footnote_reference_container_collapse_button_3754_13">+</a>]</span></p></div> <div id="footnote_references_container_3754_13" style="display: none;"><table class="footnotes_table footnote-reference-container"><caption class="accessibility">References</caption> <tbody> 
-
-<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_3754_13_1" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_3754_13('footnote_plugin_tooltip_3754_13_1');"><a role="button" tabindex="0" class="footnote_plugin_link" >1</a></th> <td class="footnote_plugin_text">Cleveland Clinic – <em>FSH Blood Test Timing</em>: FSH levels vary throughout the cycle, so testing is done on day 3 of the menstrual cycle to obtain a consistent baseline measurement (<a href="https://my.clevelandclinic.org/health/articles/24638-follicle-stimulating-hormone-fsh#:~:text=The%20timing%20for%20FSH%20testing,the%20day%20your%20period%20begins">Follicle-Stimulating Hormone (FSH): What It Is &amp; Function</a>)</td></tr>
-
-<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_3754_13_2" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_3754_13('footnote_plugin_tooltip_3754_13_2');"><a role="button" tabindex="0" class="footnote_plugin_link" >2</a></th> <td class="footnote_plugin_text">One Fertility Clinic – <em>Cycle Monitoring Day 3 Testing</em>: Day 3 is known as the “baseline” since it captures hormone levels before they increase later in the cycle (<a href="https://www.onefertilitykitchenerwaterloo.com/fertility-cycle-monitoring-day-3-day-21-tests/#:~:text=What%20Do%20Day%203%20Tests,Show">Fertility Cycle Monitoring: Day 3 and Day 21 Tests</a>).</td></tr>
-
-<tr class="footnotes_plugin_reference_row"> <th scope="row" id="footnote_plugin_reference_3754_13_3" class="footnote_plugin_index pointer" onclick="footnote_moveToAnchor_3754_13('footnote_plugin_tooltip_3754_13_3');"><a role="button" tabindex="0" class="footnote_plugin_link" >3</a></th> <td class="footnote_plugin_text">Cleveland Clinic – <em>FSH Blood Test Timing</em>: FSH levels vary throughout the cycle, so testing is done on day 3 of the menstrual cycle to obtain a consistent baseline measurement (<a href="https://my.clevelandclinic.org/health/articles/24638-follicle-stimulating-hormone-fsh#:~:text=The%20timing%20for%20FSH%20testing,the%20day%20your%20period%20begins">Follicle-Stimulating Hormone (FSH): What It Is &amp; Function</a>).</td></tr>
-
- </tbody> </table> </div></div><script type="text/javascript"> function footnote_expand_reference_container_3754_13() { jQuery('#footnote_references_container_3754_13').show(); jQuery('#footnote_reference_container_collapse_button_3754_13').text('−'); } function footnote_collapse_reference_container_3754_13() { jQuery('#footnote_references_container_3754_13').hide(); jQuery('#footnote_reference_container_collapse_button_3754_13').text('+'); } function footnote_expand_collapse_reference_container_3754_13() { if (jQuery('#footnote_references_container_3754_13').is(':hidden')) { footnote_expand_reference_container_3754_13(); } else { footnote_collapse_reference_container_3754_13(); } } function footnote_moveToReference_3754_13(p_str_TargetID) { footnote_expand_reference_container_3754_13(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.25 }, 500); } } function footnote_moveToAnchor_3754_13(p_str_TargetID) { footnote_expand_reference_container_3754_13(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.25 }, 500); } }</script>]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Understanding Your Lab Results: Beyond Standard Ranges</title>
-		<link>/hub/guides/biomarkers/understanding-your-lab-results-beyond-standard-ranges/</link>
-		
-		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Tue, 11 Mar 2025 19:47:33 +0000</pubDate>
-				<category><![CDATA[Biomarkers]]></category>
-		<category><![CDATA[Guides]]></category>
-		<guid isPermaLink="false">/hub/?p=3743</guid>
-
-					<description><![CDATA[When you receive your lab results, you'll notice two different types of grading systems: the “lab reference range” and our clinical optimization grades “SiPhox Grades”. Understanding the difference between these approaches can help you make better decisions about your health.]]></description>
-			
-
-							<content:encoded><![CDATA[
-<p>When you receive your lab results, you&#8217;ll notice two different types of grading systems: the “lab reference range” and our clinical optimization grades “SiPhox Grades”. Understanding the difference between these approaches can help you make better decisions about your health.</p>
-<h2>Laboratory Reference Ranges: How They&#8217;re Determined</h2>
-<p>Laboratory reference ranges are typically established through a standardized process:</p>
-<ul>
-<li>Testing a large sample of the local population</li>
-<li>Including people who aren&#8217;t necessarily in optimal health</li>
-<li>Using statistical analysis to include approximately 95% of results</li>
-<li>Creating a bell curve of results and setting ranges based on standard deviations</li>
-<li>Focusing primarily on identifying disease states rather than optimal health</li>
-</ul>
-<p>This means these ranges are designed to identify clearly abnormal results rather than guide you toward optimal health. They reflect what&#8217;s common in the general population, not what&#8217;s ideal for your wellbeing.</p>
-<p><a href="/hub/wp-content/uploads/2025/03/image-4.png"><img fetchpriority="high" decoding="async" class="alignleft size-full wp-image-3747" src="/hub/wp-content/uploads/2025/03/image-4.png" alt="" width="1999" height="1387" srcset="/hub/wp-content/uploads/2025/03/image-4.png 1999w, /hub/wp-content/uploads/2025/03/image-4-300x208.png 300w, /hub/wp-content/uploads/2025/03/image-4-1024x710.png 1024w, /hub/wp-content/uploads/2025/03/image-4-768x533.png 768w, /hub/wp-content/uploads/2025/03/image-4-1536x1066.png 1536w, /hub/wp-content/uploads/2025/03/image-4-1568x1088.png 1568w" sizes="(max-width: 1999px) 100vw, 1999px" /></a></p>
-<h2>Our SiPhox Grades: A Research-Based Approach</h2>
-<p>Our grading system is fundamentally different. We determine our ranges through:</p>
-<ul>
-<li>Comprehensive review of peer-reviewed clinical studies</li>
-<li>Analysis of research linking specific biomarker levels to health outcomes</li>
-<li>Evaluation of data from longevity and wellness research</li>
-<li>Integration of findings from multiple populations and health contexts</li>
-<li>Focus on identifying truly optimal ranges for health and performance</li>
-</ul>
-<p>This evidence-based approach allows us to provide more refined and meaningful grades for those looking to improve their health beyond “average”:</p>
-<h3>Pay Attention (Red)</h3>
-<ul>
-<li>Results requiring proactive attention and intervention</li>
-<li>Often still falls within standard laboratory &#8220;normal&#8221; ranges</li>
-<li>Our more stringent criteria serve as early warning signals</li>
-<li>Allows for preventive action before markers become out of range</li>
-<li>Based on clinical evidence of potential health impacts</li>
-<li>May indicate need for lifestyle changes or medical consultation</li>
-<li>Represents an opportunity for early intervention</li>
-</ul>
-<h3>Fair (Yellow)</h3>
-<ul>
-<li>Results that fall short of evidence-based optimal ranges</li>
-<li>Based on studies showing room for health improvement</li>
-<li>May be &#8220;normal&#8221; by standard ranges but below optimal</li>
-<li>Indicates opportunity for targeted optimization</li>
-</ul>
-<h3>Good (Blue)</h3>
-<ul>
-<li>Results aligned with positive health outcomes in research</li>
-<li>Better than population averages</li>
-<li>Supported by studies showing good health markers</li>
-<li>Represents solid foundation for wellness</li>
-</ul>
-<h3>Optimal (Green)</h3>
-<ul>
-<li>Results matching levels seen in research on exceptional health</li>
-<li>Based on studies of longevity and peak performance</li>
-<li>Aligned with best documented health outcomes</li>
-<li>Represents evidence-based ideal targets</li>
-</ul>
-<h2>Why Our Approach Makes a Difference: A Practical Example</h2>
-<p>Let&#8217;s take Vitamin D as an example:</p>
-<ul>
-<li>Standard laboratory range: 25-100 ng/mL</li>
-<li>Our evidence-based optimization grades:
-<ul>
-<li>Pay Attention: &lt; 30 ng/mL or &gt; 100 mg/mL</li>
-<li>Fair: 30-35 ng/mL</li>
-<li>Good: 35-40 ng/mL</li>
-<li>Optimal: 40-70 ng/mL</li>
+<li>Limit sodium to &lt; 2,300 mg/day</li>
+<li>Moderate protein intake (0.8–1.0 g/kg/day for kidney disease)</li>
+<li>Choose fresh foods over processed items high in phosphorus and potassium</li>
+<li>Follow DASH or Mediterranean diet patterns</li>
 </ul>
 </li>
+<li><strong>Stay hydrated:</strong> About 6–8 glasses of water daily unless otherwise advised.</li>
 </ul>
-<p>While a result of 32 ng/mL would be &#8220;within range&#8221; on a standard report, research shows better health outcomes at higher levels. Our grades reflect this scientific evidence rather than just population averages.</p>
-<h2>The Power of Evidence-Based Optimization</h2>
-<p>Our approach offers several advantages:</p>
-<ol>
-<li>More nuanced understanding of your health markers</li>
-<li>Grades based on actual health outcomes rather than population statistics</li>
-<li>Targets derived from scientific research rather than averages</li>
-<li>Focus on optimization rather than just avoiding disease</li>
-</ol>
-<p>Remember: Standard ranges tell you if you&#8217;re similar to the general population. Our grades tell you how close you are to optimal health based on clinical evidence. This difference empowers you to make more informed decisions about your health journey.</p>
-<p><!-- notionvc: 0b8ab9cd-56a6-4518-a6b4-0ea2891ea544 --></p>
+<h2>Key Takeaway</h2>
+<p>The urine albumin:creatinine ratio is a critical, non-invasive tool for identifying early kidney damage and assessing cardiovascular risk. Regular testing—especially for those at higher risk—combined with proactive lifestyle changes and medical management can slow or prevent progression to chronic kidney disease and improve long-term health outcomes.</p>
+<p><strong>DISCLAIMER:</strong> This information is for educational purposes only and is not a substitute for professional medical advice. Always consult your healthcare provider for personalized recommendations and interpretation of your urine ACR results.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Calcium</title>
-		<link>/hub/biomarkers-2/calcium/</link>
+		<title>Urine Specific Gravity</title>
+		<link>/hub/biomarkers-2/urine-specific-gravity/</link>
 		
 		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Thu, 27 Feb 2025 17:42:55 +0000</pubDate>
+		<pubDate>Mon, 11 Aug 2025 20:25:40 +0000</pubDate>
 				<category><![CDATA[Biomarkers]]></category>
-		<guid isPermaLink="false">/hub/?p=3739</guid>
+		<guid isPermaLink="false">/hub/?p=3930</guid>
 
-					<description><![CDATA[Calcium is a vital mineral that plays a key role in bone strength, muscle function, nerve signaling, and blood clotting.]]></description>
+					<description><![CDATA[
+
+What is Urine Specific Gravity? Urine specific gravity (USG) measures how concentrated your urine is by comparing the density of dissolved particles in your urine to that of pure water (which has a specific gravity of 1.000). It reflects your kidneys’ ability to concentrate or dilute urine, providing important insights into hydration status, kidney function,&#8230; <a class="more-link" href="/hub/biomarkers-2/urine-specific-gravity/">Continue reading <span class="screen-reader-text">Urine Specific Gravity</span></a>]]></description>
 			
 
 							<content:encoded><![CDATA[
-<h3 data-start="0" data-end="22">What is Calcium?</h3>
-<p data-start="23" data-end="400">Calcium is a vital mineral that plays a key role in bone strength, muscle function, nerve signaling, and blood clotting. Most of the body&#8217;s calcium is stored in bones and teeth, while a small but crucial amount circulates in the blood to support various physiological processes. Measuring blood calcium levels helps assess bone health, kidney function, and metabolic balance.</p>
-<h3 data-start="402" data-end="433">Why is Calcium Important?</h3>
-<p data-start="434" data-end="995">Calcium levels in the blood must remain tightly regulated for the body to function properly. Low calcium (hypocalcemia) may indicate vitamin D deficiency, kidney disease, or issues with parathyroid function, leading to muscle cramps, tingling, and weakened bones. High calcium (hypercalcemia) can result from conditions like hyperparathyroidism, excessive vitamin D intake, or certain cancers, potentially causing fatigue, kidney stones, and abnormal heart rhythms. Regular calcium testing can help identify imbalances early and prevent complications.</p>
-<h3 data-start="997" data-end="1045">How Can I Maintain Optimal Calcium Levels?</h3>
-<p data-start="1046" data-end="1149">Maintaining balanced calcium levels requires proper nutrition, hormone regulation, and kidney health.</p>
-<p data-start="1151" data-end="1173"><strong data-start="1151" data-end="1171">For Low Calcium:</strong></p>
-<ul data-start="1174" data-end="1479">
-<li data-start="1174" data-end="1274"><strong data-start="1176" data-end="1204">Increase calcium intake:</strong> Consume dairy products, leafy greens, almonds, and fortified foods.</li>
-<li data-start="1275" data-end="1374"><strong data-start="1277" data-end="1304">Boost vitamin D levels:</strong> Sun exposure or vitamin D supplements help with calcium absorption.</li>
-<li data-start="1375" data-end="1479"><strong data-start="1377" data-end="1421">Monitor parathyroid and kidney function:</strong> Dysfunction in these organs can affect calcium balance.</li>
+<h2>What is Urine Specific Gravity?</h2>
+<p>Urine specific gravity (USG) measures how concentrated your urine is by comparing the density of dissolved particles in your urine to that of pure water (which has a specific gravity of 1.000). It reflects your kidneys’ ability to concentrate or dilute urine, providing important insights into hydration status, kidney function, and metabolic health.</p>
+<h2>Why Urine Specific Gravity Matters</h2>
+<p>USG helps healthcare providers evaluate:</p>
+<ul>
+<li><strong>Hydration status:</strong> Detecting dehydration or overhydration.</li>
+<li><strong>Kidney function:</strong> Assessing the kidneys’ ability to conserve or excrete water and solutes.</li>
+<li><strong>Metabolic and systemic conditions:</strong> Identifying patterns linked to diabetes insipidus, SIADH, acute kidney injury, or chronic kidney disease.</li>
+<li><strong>Fluid management:</strong> Monitoring patients receiving IV fluids or diuretics.</li>
 </ul>
-<p data-start="1481" data-end="1504"><strong data-start="1481" data-end="1502">For High Calcium:</strong></p>
-<ul data-start="1505" data-end="1849">
-<li data-start="1505" data-end="1606"><strong data-start="1507" data-end="1525">Stay hydrated:</strong> Proper fluid intake helps prevent kidney stones and excessive calcium buildup.</li>
-<li data-start="1607" data-end="1705"><strong data-start="1609" data-end="1653">Limit calcium and vitamin D supplements:</strong> Excessive intake can contribute to hypercalcemia.</li>
-<li data-start="1706" data-end="1849"><strong data-start="1708" data-end="1744">Check for underlying conditions:</strong> If levels are persistently high, further testing for parathyroid or metabolic disorders may be needed.</li>
-</ul>
-<h3 data-start="1851" data-end="1880">Where Can I Learn More?</h3>
-<ul data-start="1881" data-end="2006">
-<li data-start="1881" data-end="1947"><span style="text-decoration: underline;"><a href="https://www.bonehealthandosteoporosis.org/patients/treatment/calciumvitamin-d/"><strong data-start="1883" data-end="1945">Bone Health and Osteoporosis Foundation – Calcium and Vitamin D</strong></a></span></li>
-<li data-start="1948" data-end="2006"><span style="text-decoration: underline;"><a href="https://ods.od.nih.gov/factsheets/Calcium-Consumer/"><strong data-start="1950" data-end="2004">National Institutes of Health – Calcium Fact Sheet</strong></a></span></li>
-</ul>
-<p data-start="2008" data-end="2104" data-is-last-node="" data-is-only-node=""><strong data-start="2008" data-end="2023">DISCLAIMER:</strong> <strong>IF YOU ARE CONCERNED ABOUT YOUR CALCIUM LEVELS, PLEASE CONSULT YOUR PHYSICIAN.</strong></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>eGFR</title>
-		<link>/hub/biomarkers-2/biomarker-egfr/</link>
-		
-		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Fri, 21 Jun 2024 17:56:01 +0000</pubDate>
-				<category><![CDATA[Biomarkers]]></category>
-		<guid isPermaLink="false">https://hub.siphoxhealth.com/?p=3053</guid>
-
-					<description><![CDATA[eGFR (estimated Glomerular Filtration Rate) is a measure of kidney function that estimates how well blood is filtered by the kidneys, helping to diagnose and monitor kidney disease.]]></description>
-			
-
-							<content:encoded><![CDATA[
-<h3>What is eGFR?</h3>
-<p>Estimated Glomerular Filtration Rate (eGFR) is a test used to assess how well your kidneys are functioning. It estimates the amount of blood that gets filtered by the glomeruli (tiny filters in the kidneys) each minute. The following image depicts the complexity of the kidney, starting with the nephron.</p>
-<p><a href="https://www.niddk.nih.gov/health-information/kidney-disease/glomerular-disease?utm_source=copy&amp;utm_medium=sharing+button&amp;utm_content=%2Fhealth-information%2Fkidney-disease%2Fglomerular-disease" data-sanitized-target="_blank"><img decoding="async" src="https://cdn.shopify.com/s/files/1/0656/6798/9733/files/Screenshot_2024-03-12_133721_480x480.png?v=1710265095" alt="" width="406" height="372" /></a></p>
-<p><em>National Institute of Diabetes and Digestive and Kidney Diseases &#8211; Glomerular Disease</em></p>
-<p>The nephron is the basic <span style="text-decoration: underline;"><a href="https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work#:~:text=Each%20of%20your%20kidneys%20is,your%20blood%20and%20removes%20wastes." data-sanitized-target="_blank">structural and functional unit of the kidney</a></span>, responsible for the vital process of filtering blood, removing waste products, and regulating water and solute balance in the body. Each human kidney contains approximately one million nephrons, which work collectively to perform the kidney&#8217;s complex functions. The structure of a nephron is specially designed to efficiently filter blood, reabsorb necessary nutrients and water, and excrete waste products in the form of urine.</p>
-<p>The glomerulus plays a crucial role within the kidney as a component of the nephron. The glomerulus is a network of tiny blood vessels (capillaries) located at the beginning of the nephron. Its roles include:</p>
-<ol>
-<li><strong>Blood Filtration</strong>: The glomerulus is where the filtration of blood begins. Blood pressure forces water, salt, glucose, amino acids, and waste products (like urea and <span style="text-decoration: underline;"><a href="https://siphoxhealth.com/pages/creatinine" rel="noopener noreferrer" data-sanitized-target="_blank">creatinine</a></span>) from the blood through the capillary walls and into the Bowman&#8217;s capsule, another part of the nephron that collects the filtrate. The filtrate then travels through the rest of the nephron, where further processing occurs.</li>
-<li><strong>Prevention of Protein Loss</strong>: The structure of the glomerulus prevents large molecules, such as proteins and blood cells, from being filtered into the urine, retaining them within the bloodstream.</li>
-</ol>
-<p>The eGFR is calculated based on your blood <a href="https://siphoxhealth.com/pages/creatinine" rel="noopener noreferrer" data-sanitized-target="_blank"><span style="text-decoration: underline;">creatinine</span></a> level, age, body size, and gender. This calculation provides a critical insight into the kidney&#8217;s health, indicating how efficiently they&#8217;re filtering waste from your blood.</p>
-<p>Unlike direct measurements of kidney function, which can be invasive and complex, eGFR offers a simple and non-invasive way to monitor kidney health. It&#8217;s a crucial part of any comprehensive health assessment, particularly for those with risk factors for kidney disease, such as hypertension, diabetes, or a family history of kidney failure.</p>
-<h3>Why is eGFR Important?</h3>
-<p>The primary importance of eGFR lies in its role in detecting and monitoring kidney disease. According to the <a href="https://www.kidney.org/atoz/content/sixstepshealthprimer" data-sanitized-data-mce-href="https://www.kidney.org/atoz/content/sixstepshealthprimer"><span style="text-decoration: underline;">National Kidney Foundation</span></a>, 33% (1 in 3 people) of American adults are at risk for kidney disease. Healthy kidneys ensure the removal of toxins and waste materials from the blood, maintaining a delicate balance of body fluids and electrolytes. A decline in eGFR can indicate a reduction in kidney function, signaling acute or chronic kidney disease (CKD). In addition to CKD, impaired kidneys can cause heart disease, heart attack and stroke, high blood pressure, weak bones, nerve damage, and low red blood cell count.</p>
-<p>Monitoring eGFR levels is essential for diagnosing conditions that affect kidney function, assessing the severity of kidney damage, and guiding the management and treatment of kidney-related disorders. It&#8217;s particularly important for individuals with conditions that can impair kidney function, including diabetes, high blood pressure, and heart disease.</p>
-<h3>How can I better understand my eGFR results?</h3>
-<p>eGFR results are typically reported in milliliters per minute per 1.73 m² (mL/min/1.73 m²). When interpreting eGFR results, this table from the <span style="text-decoration: underline;"><a href="https://www.kidney.org/sites/default/files/11-10-1813_estimated_glomerular_filtration_rate.pdf" data-sanitized-data-mce-href="https://www.kidney.org/sites/default/files/11-10-1813_estimated_glomerular_filtration_rate.pdf">National Kidney Foundation</a></span> illustrates how even normal kidney function could accompany kidney damage:</p>
-<p><a href="https://www.kidney.org/sites/default/files/11-10-1813_estimated_glomerular_filtration_rate.pdf" data-sanitized-target="_blank"><img decoding="async" class="alignnone" src="https://cdn.shopify.com/s/files/1/0656/6798/9733/files/Screenshot_2024-03-12_105050_480x480.png?v=1710265411" alt="eGFR" width="372" height="373" /></a></p>
-<p><em>National Kidney Foundation &#8211; eGFR: A key to understanding how well your kidneys are working</em></p>
-<p>According to the <a href="https://ukkidney.org/health-professionals/information-resources/uk-eckd-guide/about-egfr" data-sanitized-data-mce-href="https://ukkidney.org/health-professionals/information-resources/uk-eckd-guide/about-egfr"><span style="text-decoration: underline;">UK Kidney Association</span></a>:</p>
+<h2>Normal Ranges and What They Mean</h2>
 <div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true">
 <ul>
-<li>Healthy: ~60-120 mL/min/1.73 m²</li>
-</ul>
-<p>Ranges specific to the Cardiometabolic Program:</p>
-<ul>
-<li>Optimal: ≥100 mL/min/1.73 m²</li>
-<li>Good: 90-99.9 mL/min/1.73 m²</li>
-<li>Fair: 80.1-89.9 mL/min/1.73 m²</li>
-<li>Pay attention: ≤ 80 mL/min/1.73 m²</li>
-<li>Alert: &lt;60 mL/min/1.73 m²</li>
+<li><strong>Normal range:</strong> 1.003 – 1.030</li>
+<li><strong>Well-hydrated:</strong> 1.003 – 1.010</li>
+<li><strong>Typical random sample:</strong> 1.010 – 1.025</li>
+<li><strong>Concentrated (dehydrated):</strong> 1.025 – 1.030</li>
+<li><strong>First morning sample:</strong> 1.015 – 1.025</li>
 </ul>
 </div>
-<p>It&#8217;s important to note that eGFR is an estimate of kidney function and must be interpreted within the context of other clinical findings and patient factors. For example, a mildly decreased eGFR in an elderly individual without any other signs of kidney disease may be considered normal aging. Conversely, even a slight decrease in eGFR in a young adult may warrant further investigation. <a href="https://www.kidneyfund.org/all-about-kidneys/tests/blood-test-egfr#what-does-my-egfr-mean" data-sanitized-data-mce-href="https://www.kidneyfund.org/all-about-kidneys/tests/blood-test-egfr#what-does-my-egfr-mean"><span style="text-decoration: underline;">American Kidney Fund</span></a> recommends discussing your eGFR results with your doctor, and doing so immediately if your levels are 60 or less is very important.</p>
-<h3>How can I maintain optimal eGFR levels?</h3>
-<p>While improving renal function is not easy, it is possible. A <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3862566/" data-sanitized-target="_blank"><span style="text-decoration: underline;">study from 2013</span></a> found that it is possible to improve renal function at any stage of CKD!</p>
-<p>In addition to staying healthy and reducing blood pressure and blood sugar through weight management, regular exercise, following a balanced diet, and practicing healthy habits (quitting smoking and limiting alcohol intake), the <a href="https://www.kidney.org/atoz/content/sixstepshealthprimer" data-sanitized-data-mce-href="https://www.kidney.org/atoz/content/sixstepshealthprimer"><span style="text-decoration: underline;">National Kidney Foundation</span></a> also recommends that people with kidney disease should:</p>
-<p><strong>Dietary Changes:</strong> Reducing salt intake can help improve kidney function. <a href="https://www.actiononsalt.org.uk/salthealth/salt-and-the-kidneys/#:~:text=A%20high salt diet will,can lead to kidney disease." data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.actiononsalt.org.uk/salthealth/salt-and-the-kidneys/#:~:text=A%20high salt diet will,can lead to kidney disease."><span style="text-decoration: underline;">Action on Salt</span></a> states that a high salt diet can disrupt the balance of sodium and limit kidney function, promoting high blood pressure and straining the kidneys. Moderate protein consumption, according to this <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5962279/" data-sanitized-data-mce-href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5962279/"><span style="text-decoration: underline;">study from 2018</span></a>, can reduce potential glomeruli damage caused by high protein intake. A low-protein diet can preserve renal function in those who have CKD.</p>
-<p><strong>Lifestyle</strong> <strong>Changes: </strong>According to the <span style="text-decoration: underline;"><a href="https://www.ajkd.org/article/S0272-6386(20)30724-1/fulltext" data-sanitized-data-mce-href="https://www.ajkd.org/article/S0272-6386(20)30724-1/fulltext">American Journal of Kidney Diseases</a></span>, NSAIDs can harm kidney function by reducing blood flow and prostaglandin (maintains GFR and renal blood flow) production, impairing sodium and water excretion, leading to acute kidney injury. So refrain from using NSAIDs. Additionally, getting an annual flu shot can help since the <a href="https://www.cdc.gov/kidneydisease/publications-resources/ckd-and-flu.html" data-sanitized-data-mce-href="https://www.cdc.gov/kidneydisease/publications-resources/ckd-and-flu.html"><span style="text-decoration: underline;">CDC</span></a> emphasizes the importance of the flu vaccine for people with CKD who are “at high risk of developing serious flu complications”. Additionally, <a href="https://bmcnephrol.biomedcentral.com/articles/10.1186/s12882-019-1586-5#citeas" data-sanitized-target="_blank"><span style="text-decoration: underline;">exercise therapy</span></a> and certain <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7230954/" data-sanitized-target="_blank">dietary patterns</a></span> may be associated with a lower rate of eGFR decline.</p>
-<h3>Where can I learn more?</h3>
+<p><strong>Low USG (&lt;1.003):</strong> Possible overhydration, diabetes insipidus, kidney concentrating defects, or excessive fluid intake.<br />
+<strong>High USG (&gt;1.030):</strong> Possible dehydration, glycosuria (glucose in urine), proteinuria, or recent contrast dye administration.</p>
+<h2>Factors Affecting Urine Specific Gravity</h2>
 <ul>
-<li><span style="text-decoration: underline;"><a href="https://www.kidneyfund.org/all-about-kidneys/tests/blood-test-egfr#what-does-my-egfr-mean" data-sanitized-data-mce-href="https://www.kidneyfund.org/all-about-kidneys/tests/blood-test-egfr#what-does-my-egfr-mean">American Kidney Fund &#8211; Blood Test: eGFR</a></span></li>
-<li><span style="text-decoration: underline;"><a href="https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work#:~:text=Each%20of your kidneys is,your blood and removes wastes." data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work#:~:text=Each%20of your kidneys is,your blood and removes wastes.">National Institute of Diabetes and Digestive and Kidney Diseases &#8211; Your Kidneys &amp; How They Work</a></span></li>
-<li><span style="text-decoration: underline;"><a href="https://ukkidney.org/health-professionals/information-resources/uk-eckd-guide/about-egfr" data-sanitized-data-mce-href="https://ukkidney.org/health-professionals/information-resources/uk-eckd-guide/about-egfr">UK Kidney Association &#8211; About eGFR</a></span></li>
-<li><span style="text-decoration: underline;"><a href="https://ukkidney.org/health-professionals/information-resources/uk-eckd-guide/about-egfr" data-sanitized-data-mce-href="https://ukkidney.org/health-professionals/information-resources/uk-eckd-guide/about-egfr">National Kidney Foundation &#8211; eGFR: A key to understanding how well your kidneys are working</a></span></li>
-<li>Scientific Literature
+<li><strong>Hydration status:</strong> Fluid intake is the main determinant.</li>
+<li><strong>Time of collection:</strong> Morning urine tends to be more concentrated.</li>
+<li><strong>Diet:</strong> High protein or sodium can increase USG.</li>
+<li><strong>Medications:</strong> Diuretics, lithium, certain antibiotics may alter results.</li>
+<li><strong>Medical conditions:</strong> Diabetes, heart failure, liver disease.</li>
+<li><strong>Exercise:</strong> Intense activity can temporarily raise USG.</li>
+<li><strong>Age:</strong> Concentrating ability decreases with age.</li>
+</ul>
+<h2>Optimizing Your Urine Specific Gravity</h2>
 <ul>
-<li>Cai Q, Dekker LH, Bakker SJL, de Borst MH, Navis GJ. Dietary Patterns Based on Estimated Glomerular Filtration Rate and Kidney Function Decline in the General Population: The Lifelines Cohort Study. Nutrients. 2020 Apr 16;12(4):1099. doi: 10.3390/nu12041099.</li>
-<li>Kamyar Kalantar-Zadeh, Holly M Kramer, Denis Fouque, High-protein diet is bad for kidney health: unleashing the taboo, <em style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">Nephrology Dialysis Transplantation</em><span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">, Volume 35, Issue 1, January 2020, Pages 1–4, </span><a href="https://doi.org/10.1093/ndt/gfz216" data-sanitized-data-google-interstitial="false" data-google-interstitial="false">https://doi.org/10.1093/ndt/gfz216</a></li>
-<li>Tang R<span class="al-author-delim" style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">, </span><span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">Kou M</span><span class="al-author-delim" style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">, </span><span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">Wang X, et al. Self-Reported Frequency of Adding Salt to Food and Risk of Incident Chronic Kidney Disease. </span><em style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">JAMA Netw Open.</em><span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);"> 2023;6(12):e2349930. doi:10.1001/jamanetworkopen.2023.49930</span></li>
-<li>Zhang, L., Wang, Y., Xiong, L. <i style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">et al.</i><span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);"> Exercise therapy improves eGFR, and reduces blood pressure and BMI in non-dialysis CKD patients: evidence from a meta-analysis. </span><i style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">BMC Nephrol</i><span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);"> </span><b style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">20</b><span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">, 398 (2019). https://doi.org/10.1186/s12882-019-1586-5</span></li>
+<li>Stay well-hydrated—aim for pale yellow urine, not completely clear.</li>
+<li>Adjust fluid intake based on activity, climate, and health status.</li>
+<li>Eat a balanced, low-processed diet to support kidney health.</li>
+<li>Manage blood pressure and blood sugar to prevent kidney damage.</li>
+<li>Exercise regularly to improve circulation and kidney function.</li>
 </ul>
-</li>
+<h2>When to Seek Medical Attention</h2>
+<p>See a healthcare provider if you have:</p>
+<ul>
+<li>Persistent excessive thirst or urination</li>
+<li>Dark urine despite good hydration</li>
+<li>Foamy urine or swelling (possible protein loss)</li>
+<li>Fatigue, weakness, confusion, or nausea</li>
 </ul>
-<p><strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong></p>
+<h2>Testing Methods</h2>
+<ul>
+<li><strong>Refractometry:</strong> Gold standard, measures light refraction through urine.</li>
+<li><strong>Dipstick test:</strong> Quick, less precise, common in clinics.</li>
+<li><strong>Urinometer:</strong> Laboratory instrument for density measurement.</li>
+</ul>
+<p>USG is often measured alongside urinalysis parameters like pH, protein, glucose, and ketones to give a full picture of kidney and metabolic function.</p>
+<p><strong>Bottom line:</strong> Urine specific gravity is a simple, non-invasive indicator of hydration and kidney health. Tracking USG over time, especially if you have kidney disease risk factors, can help identify issues early and guide lifestyle or treatment changes.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Urine pH</title>
+		<link>/hub/biomarkers-2/urine-ph/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Mon, 11 Aug 2025 20:23:39 +0000</pubDate>
+				<category><![CDATA[Biomarkers]]></category>
+		<guid isPermaLink="false">/hub/?p=3928</guid>
+
+					<description><![CDATA[
+
+What is Urine pH? Urine pH measures how acidic or alkaline your urine is, using a scale from 0 to 14. A pH of 7 is neutral, values below 7 are acidic, and values above 7 are alkaline. Normal urine pH typically falls between 4.5 and 8.0, with most healthy adults having slightly acidic urine&#8230; <a class="more-link" href="/hub/biomarkers-2/urine-ph/">Continue reading <span class="screen-reader-text">Urine pH</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h2>What is Urine pH?</h2>
+<p>Urine pH measures how acidic or alkaline your urine is, using a scale from 0 to 14. A pH of 7 is neutral, values below 7 are acidic, and values above 7 are alkaline. Normal urine pH typically falls between 4.5 and 8.0, with most healthy adults having slightly acidic urine in the range of 5.5–6.5. This simple biomarker offers insights into your metabolic processes, kidney function, and can flag potential conditions like urinary tract infections (UTIs) or kidney stones.</p>
+<h2>Why Urine pH Matters</h2>
+<p>Your kidneys help maintain your body’s acid–base balance by excreting acids or bases into urine. Shifts in urine pH can reflect dietary patterns, hydration status, medication use, or underlying health issues. Tracking urine pH over time can help identify imbalances before they cause more serious problems.</p>
+<h2>Normal Ranges</h2>
+<div data-dynamic-ranges="true" data-test="1"></div>
+<div data-ranges="true">
+<ul>
+<li><strong>Typical healthy range:</strong> 4.5–8.0</li>
+<li><strong>Slightly acidic (most common):</strong> 5.5–6.5</li>
+<li><strong>First morning urine:</strong> 5.0–6.0</li>
+<li><strong>After meals:</strong> 7.0–8.0</li>
+</ul>
+</div>
+<p>Morning urine is often more acidic due to overnight metabolism, while post-meal urine may become more alkaline due to the “alkaline tide” effect from digestion.</p>
+<h2>Factors Influencing Urine pH</h2>
+<h3>Diet</h3>
+<ul>
+<li><strong>Acid-forming foods:</strong> Meat, fish, eggs, dairy, grains, processed foods, alcohol</li>
+<li><strong>Alkaline-forming foods:</strong> Fruits (including citrus), vegetables, nuts, legumes</li>
+<li><strong>Neutral:</strong> Most fats, oils, sugars</li>
+</ul>
+<h3>Medical Conditions</h3>
+<ul>
+<li>UTIs from urease-producing bacteria (more alkaline urine)</li>
+<li>Metabolic acidosis or diabetic ketoacidosis (acidic urine)</li>
+<li>Kidney disease</li>
+<li>Respiratory disorders affecting CO₂ balance</li>
+</ul>
+<h3>Medications &#038; Supplements</h3>
+<ul>
+<li>Alkalinizing: Antacids, potassium citrate, some diuretics</li>
+<li>Acidifying: Vitamin C, methionine, certain antibiotics</li>
+</ul>
+<h2>Health Implications of Abnormal pH</h2>
+<h3>Acidic Urine (pH &lt; 5.0)</h3>
+<ul>
+<li>Increased risk of uric acid or cystine kidney stones</li>
+<li>Possible metabolic acidosis or diabetic ketoacidosis</li>
+<li>High-protein diet, dehydration, chronic diarrhea</li>
+</ul>
+<h3>Alkaline Urine (pH &gt; 8.0)</h3>
+<ul>
+<li>Possible UTI from urease-positive bacteria</li>
+<li>Increased risk of calcium phosphate or struvite stones</li>
+<li>Renal tubular acidosis, prolonged vomiting</li>
+</ul>
+<h2>Optimizing Urine pH</h2>
+<ul>
+<li>Stay hydrated (8–10 glasses water/day)</li>
+<li>Eat a balanced diet with plenty of fruits and vegetables</li>
+<li>Limit excessive animal protein if urine is consistently acidic</li>
+<li>Adjust diet for kidney stone prevention: uric acid stones (target pH 6.0–6.5), calcium phosphate stones (target pH &lt; 6.5)</li>
+<li>Work with your provider if you have recurrent UTIs or kidney stones</li>
+</ul>
+<h2>Testing and Monitoring</h2>
+<p>You can measure urine pH at home with pH test strips or through a lab urinalysis. For most accurate results, test first morning urine before eating or drinking. Lab tests also evaluate protein, glucose, ketones, and other markers for a fuller health picture.</p>
+<p><strong>Bottom line:</strong> Urine pH is an easy-to-measure indicator that, when interpreted alongside other findings and symptoms, can provide valuable information about kidney function, diet, and overall metabolic health.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Leukocytes in Urine</title>
+		<link>/hub/biomarkers-2/leukocytes-in-urine/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Mon, 11 Aug 2025 20:21:33 +0000</pubDate>
+				<category><![CDATA[Biomarkers]]></category>
+		<guid isPermaLink="false">/hub/?p=3926</guid>
+
+					<description><![CDATA[
+
+What are Leukocytes in Urine? Leukocytes, or white blood cells (WBCs), are immune cells that help fight infection. When they appear in urine—a condition called leukocyturia or pyuria—it usually indicates inflammation or infection somewhere in the urinary tract. In healthy individuals, urine contains very few or no white blood cells. Elevated levels detected during a&#8230; <a class="more-link" href="/hub/biomarkers-2/leukocytes-in-urine/">Continue reading <span class="screen-reader-text">Leukocytes in Urine</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h2>What are Leukocytes in Urine?</h2>
+<p>Leukocytes, or white blood cells (WBCs), are immune cells that help fight infection. When they appear in urine—a condition called <strong>leukocyturia</strong> or <strong>pyuria</strong>—it usually indicates inflammation or infection somewhere in the urinary tract. In healthy individuals, urine contains very few or no white blood cells. Elevated levels detected during a urinalysis often point to conditions like urinary tract infections (UTIs), kidney infections, or other urinary system disorders that may require medical evaluation.</p>
+<h2>Normal Ranges</h2>
+<ul>
+<li><strong>Normal:</strong> 0–5 WBCs per high-power field (hpf) on microscopic exam</li>
+<li><strong>Borderline elevated:</strong> 6–10 WBCs/hpf</li>
+<li><strong>Significant elevation:</strong> &gt;10 WBCs/hpf</li>
+<li><strong>Dipstick:</strong> Negative to trace amounts considered normal</li>
+</ul>
+<p>Counts above 5 WBCs/hpf typically warrant further investigation, especially if accompanied by urinary symptoms.</p>
+<h2>Common Causes of Leukocytes in Urine</h2>
+<ul>
+<li><strong>Urinary tract infections (UTIs):</strong> Bacterial infection of bladder (cystitis) or urethra.</li>
+<li><strong>Kidney infections (pyelonephritis):</strong> More serious infections with potential fever, flank pain.</li>
+<li><strong>Interstitial cystitis:</strong> Chronic bladder inflammation without bacterial cause.</li>
+<li><strong>Kidney stones:</strong> Can irritate urinary tract and trigger inflammation.</li>
+<li><strong>Sexually transmitted infections (STIs):</strong> Chlamydia, gonorrhea, and others.</li>
+<li><strong>Prostatitis:</strong> Inflammation of the prostate gland in men.</li>
+<li><strong>Pregnancy-related changes:</strong> Possible temporary elevation.</li>
+<li><strong>Kidney disease:</strong> Nephritis, glomerulonephritis.</li>
+<li><strong>Bladder or kidney cancer:</strong> Less common but possible cause of persistent leukocyturia.</li>
+</ul>
+<h2>Associated Symptoms</h2>
+<p>Leukocytes in urine may be present without symptoms, but often occur with:</p>
+<ul>
+<li>Burning or pain during urination</li>
+<li>Frequent urge to urinate</li>
+<li>Cloudy or foul-smelling urine</li>
+<li>Lower abdominal or back pain</li>
+</ul>
+<p><strong>Seek immediate care</strong> if you have fever, chills, nausea, severe flank pain, blood in urine, or persistent symptoms despite initial treatment—these may indicate kidney infection or a more serious condition.</p>
+<h2>Testing and Diagnosis</h2>
+<ul>
+<li><strong>Dipstick urinalysis:</strong> Detects leukocyte esterase, an enzyme from WBCs.</li>
+<li><strong>Microscopic exam:</strong> Directly counts WBCs in urine sediment.</li>
+<li><strong>Urine culture:</strong> Identifies bacteria and guides antibiotic choice.</li>
+<li><strong>Additional testing:</strong> May include imaging or specialized labs if structural or systemic disease is suspected.</li>
+</ul>
+<p>Proper sample collection (clean-catch, midstream) is important to avoid contamination that could produce false-positive results.</p>
+<h2>Treatment</h2>
+<p>Management depends on the underlying cause:</p>
+<ul>
+<li><strong>Bacterial UTIs:</strong> Treated with antibiotics tailored to culture results.</li>
+<li><strong>Kidney infections:</strong> Often require longer courses or intravenous antibiotics.</li>
+<li><strong>Non-infectious inflammation:</strong> Addressed with targeted therapies (e.g., for stones, interstitial cystitis).</li>
+<li><strong>Chronic/recurrent issues:</strong> May need prophylactic strategies or treatment of underlying risk factors.</li>
+</ul>
+<h2>Prevention Strategies</h2>
+<ul>
+<li>Stay well-hydrated.</li>
+<li>Practice proper genital hygiene; wipe front to back.</li>
+<li>Urinate promptly when you feel the urge; empty bladder fully.</li>
+<li>Urinate before and after sexual activity.</li>
+<li>Avoid irritating hygiene products in the genital area.</li>
+<li>Maintain a healthy immune system with balanced diet, exercise, and adequate sleep.</li>
+</ul>
+<p><strong>Bottom line:</strong> Leukocytes in urine signal an immune response to infection or inflammation in the urinary tract. Even without symptoms, persistent leukocyturia should be evaluated to identify and treat the underlying cause, preventing complications.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Nitrites in Urine</title>
+		<link>/hub/biomarkers-2/nitrites-in-urine/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Mon, 11 Aug 2025 20:19:47 +0000</pubDate>
+				<category><![CDATA[Biomarkers]]></category>
+		<guid isPermaLink="false">/hub/?p=3924</guid>
+
+					<description><![CDATA[
+
+What are Nitrites in Urine? Nitrites in urine are chemical compounds that can indicate the presence of certain bacteria in the urinary tract, most commonly pointing to a urinary tract infection (UTI). A positive nitrite test means that bacteria capable of converting nitrates to nitrites are present in your urinary system, and it is often&#8230; <a class="more-link" href="/hub/biomarkers-2/nitrites-in-urine/">Continue reading <span class="screen-reader-text">Nitrites in Urine</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h2>What are Nitrites in Urine?</h2>
+<p>Nitrites in urine are chemical compounds that can indicate the presence of certain bacteria in the urinary tract, most commonly pointing to a urinary tract infection (UTI). A positive nitrite test means that bacteria capable of converting nitrates to nitrites are present in your urinary system, and it is often used alongside other urinalysis markers to diagnose infection.</p>
+<h2>Understanding Nitrites in Urine</h2>
+<p>Normally, urine contains <strong>nitrates</strong>—harmless byproducts from dietary sources like leafy greens and beets. Some bacteria, particularly gram-negative species, produce the enzyme <em>nitrate reductase</em>, which converts nitrates to <strong>nitrites</strong>. This conversion usually takes several hours of urine being retained in the bladder, which is why first-morning urine often yields the most accurate nitrite results.</p>
+<h3>Common nitrite-producing bacteria include:</h3>
+<ul>
+<li><em>Escherichia coli</em> (E. coli) – causes 80–90% of UTIs</li>
+<li><em>Klebsiella</em> species</li>
+<li><em>Proteus</em> species</li>
+<li><em>Enterobacter</em> species</li>
+<li><em>Citrobacter</em> species</li>
+</ul>
+<h2>Normal Ranges and Test Interpretation</h2>
+<ul>
+<li><strong>Normal:</strong> Negative (no nitrites detected)</li>
+<li><strong>Abnormal:</strong> Positive (nitrites present)</li>
+</ul>
+<p>A positive nitrite test has high specificity (90–100%) for certain UTIs, but a negative result doesn’t completely rule out infection. Reasons for a false negative include:</p>
+<ul>
+<li>Infection by non–nitrite-producing bacteria (e.g., <em>Enterococcus</em>, <em>Staphylococcus</em>)</li>
+<li>Urine in bladder for less than 4 hours</li>
+<li>Low dietary nitrate intake</li>
+<li>Very dilute urine from high fluid intake</li>
+<li>Interference from high vitamin C intake</li>
+</ul>
+<h2>Clinical Significance and Symptoms</h2>
+<p>Positive nitrites in urine usually indicate bacteriuria and often a UTI, especially if symptoms are present:</p>
+<ul>
+<li>Burning or pain during urination</li>
+<li>Frequent or urgent need to urinate</li>
+<li>Cloudy or foul-smelling urine</li>
+<li>Pelvic discomfort (women)</li>
+<li>Visible blood in urine</li>
+<li>Fever or chills (possible kidney involvement)</li>
+</ul>
+<p>In certain groups—like pregnant women, immunocompromised patients, or those scheduled for urologic procedures—positive nitrites may warrant treatment even without symptoms.</p>
+<h2>Special Considerations</h2>
+<ul>
+<li><strong>Pregnancy:</strong> UTIs can lead to complications like preterm labor and low birth weight—prompt treatment is essential.</li>
+<li><strong>Elderly:</strong> May not show classic UTI symptoms despite positive nitrites; screening is often recommended if other signs of illness are present.</li>
+</ul>
+<h2>Prevention and Management</h2>
+<p>If nitrites are present, your provider will typically confirm with a urine culture and prescribe antibiotics targeted to the bacteria found. To reduce recurrence risk:</p>
+<ul>
+<li>Stay well-hydrated and urinate regularly</li>
+<li>Empty your bladder fully when urinating</li>
+<li>Wipe front to back to prevent bacterial spread</li>
+<li>Urinate after sexual activity</li>
+<li>Avoid irritating hygiene products in the genital area</li>
+<li>Discuss cranberry products or D-mannose with your provider if prone to UTIs</li>
+</ul>
+<p>Always finish the full course of prescribed antibiotics and follow up as advised, especially for complicated or recurrent infections.</p>
+<p><strong>DISCLAIMER:</strong> A positive nitrite test should be interpreted in the context of other urinalysis results and your symptoms. Consult a healthcare provider for diagnosis and treatment recommendations.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>White Blood Cells in Urine</title>
+		<link>/hub/biomarkers-2/white-blood-cells-in-urine/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Mon, 11 Aug 2025 20:18:12 +0000</pubDate>
+				<category><![CDATA[Biomarkers]]></category>
+		<guid isPermaLink="false">/hub/?p=3922</guid>
+
+					<description><![CDATA[
+
+What are White Blood Cells in Urine? White blood cells (WBCs) in urine, known as pyuria, indicate inflammation or infection somewhere in the urinary tract. In healthy urine, WBCs are minimal—typically 0–5 cells per high-power field (hpf) under a microscope. Elevated counts often signal urinary tract infections (UTIs), kidney infections, stones, or other urinary conditions&#8230; <a class="more-link" href="/hub/biomarkers-2/white-blood-cells-in-urine/">Continue reading <span class="screen-reader-text">White Blood Cells in Urine</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h2>What are White Blood Cells in Urine?</h2>
+<p>White blood cells (WBCs) in urine, known as <strong>pyuria</strong>, indicate inflammation or infection somewhere in the urinary tract. In healthy urine, WBCs are minimal—typically 0–5 cells per high-power field (hpf) under a microscope. Elevated counts often signal urinary tract infections (UTIs), kidney infections, stones, or other urinary conditions that require medical evaluation.</p>
+<h2>Understanding White Blood Cells in Urine</h2>
+<p>WBCs are part of your immune system’s defense against harmful microorganisms. When bacteria, viruses, or other irritants are detected in the urinary tract, the body dispatches WBCs to fight the threat. Their presence in urine reflects this immune activity and can help pinpoint underlying urinary or kidney problems.</p>
+<h2>Normal Ranges</h2>
+<div data-dynamic-ranges="true" data-test="1"></div>
+<div data-ranges="true">
+<ul>
+<li><strong>Normal:</strong> 0–5 WBCs/hpf</li>
+<li><strong>Borderline elevated:</strong> 6–10 WBCs/hpf</li>
+<li><strong>Significantly elevated:</strong> &gt;10 WBCs/hpf</li>
+<li><strong>Severe pyuria:</strong> &gt;50 WBCs/hpf</li>
+</ul>
+</div>
+<p>Results above 5 WBCs/hpf generally warrant further investigation, especially if accompanied by urinary symptoms.</p>
+<h2>Common Causes of Elevated WBCs in Urine</h2>
+<h3>Infections</h3>
+<ul>
+<li><strong>Urinary tract infections (UTIs):</strong> Most common cause; symptoms include burning urination, urgency, cloudy urine.</li>
+<li><strong>Kidney infections (pyelonephritis):</strong> Can cause fever, back pain, nausea.</li>
+<li><strong>Sexually transmitted infections (STIs):</strong> Such as chlamydia, gonorrhea, trichomoniasis.</li>
+</ul>
+<h3>Non-infectious Causes</h3>
+<ul>
+<li><strong>Kidney stones:</strong> Irritate urinary tract lining, sometimes with secondary infection.</li>
+<li><strong>Interstitial cystitis:</strong> Chronic bladder inflammation without infection.</li>
+<li><strong>Prostatitis:</strong> Prostate gland inflammation in men.</li>
+<li><strong>Autoimmune diseases:</strong> Lupus and others affecting the kidneys.</li>
+<li><strong>Urinary tract cancers:</strong> Rare but important to rule out.</li>
+<li><strong>Medication reactions:</strong> Certain antibiotics, NSAIDs.</li>
+</ul>
+<h2>Symptoms That May Accompany Pyuria</h2>
+<ul>
+<li>Painful or burning urination</li>
+<li>Frequent or urgent urination</li>
+<li>Cloudy or foul-smelling urine</li>
+<li>Lower abdominal or back pain</li>
+<li>Fever and chills</li>
+<li>General fatigue</li>
+</ul>
+<p>Some people, especially older adults or immunocompromised individuals, may have significant pyuria without noticeable symptoms.</p>
+<h2>Testing and Diagnosis</h2>
+<ul>
+<li><strong>Urinalysis:</strong> Chemical dipstick detects leukocyte esterase (WBC enzyme); microscopic exam counts cells.</li>
+<li><strong>Urine culture:</strong> Identifies bacteria and antibiotic sensitivity.</li>
+<li><strong>Clean-catch midstream collection:</strong> Reduces contamination from skin/genital flora.</li>
+<li><strong>Additional tests:</strong> Blood work for kidney function, imaging (ultrasound, CT) for structural issues.</li>
+</ul>
+<h2>Treatment Approaches</h2>
+<p>Depends on the cause:</p>
+<ul>
+<li><strong>Bacterial infections:</strong> Antibiotics tailored to culture results.</li>
+<li><strong>Kidney stones:</strong> Hydration, pain control, possible procedures to remove or break stones.</li>
+<li><strong>Non-infectious inflammation:</strong> Symptom management, addressing underlying condition.</li>
+<li><strong>Prostatitis:</strong> Combination of antibiotics, anti-inflammatory medications.</li>
+</ul>
+<h2>Prevention Strategies</h2>
+<ul>
+<li>Stay hydrated (8+ glasses water/day)</li>
+<li>Practice good bathroom hygiene (front-to-back wiping)</li>
+<li>Urinate after sexual activity</li>
+<li>Avoid irritating hygiene products in genital area</li>
+<li>Wear breathable cotton underwear</li>
+<li>Consider cranberry products, probiotics, vitamin C, or D-mannose if prone to UTIs (consult provider first)</li>
+</ul>
+<p><strong>When to Seek Care:</strong> See a healthcare provider promptly if WBCs in urine are accompanied by fever, severe pain, blood in urine, persistent vomiting, or symptoms lasting more than 48 hours. Early diagnosis and treatment help prevent complications.</p>
+<p><strong>DISCLAIMER: THIS INFORMATION IS FOR EDUCATIONAL PURPOSES AND SHOULD NOT REPLACE MEDICAL ADVICE. ALWAYS CONSULT YOUR HEALTHCARE PROVIDER FOR PERSONALIZED CARE.</strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Red Blood Cells in Urine</title>
+		<link>/hub/biomarkers-2/red-blood-cells-in-urine/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Mon, 11 Aug 2025 20:16:19 +0000</pubDate>
+				<category><![CDATA[Biomarkers]]></category>
+		<guid isPermaLink="false">/hub/?p=3920</guid>
+
+					<description><![CDATA[
+
+What are Red Blood Cells in Urine? Red blood cells (RBCs) in urine, known as hematuria, indicate the presence of blood that normally should not be there. This can result from issues anywhere along the urinary tract—from the kidneys to the urethra. Hematuria may be visible (gross hematuria), turning urine pink, red, or cola-colored, or&#8230; <a class="more-link" href="/hub/biomarkers-2/red-blood-cells-in-urine/">Continue reading <span class="screen-reader-text">Red Blood Cells in Urine</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h2>What are Red Blood Cells in Urine?</h2>
+<p>Red blood cells (RBCs) in urine, known as <strong>hematuria</strong>, indicate the presence of blood that normally should not be there. This can result from issues anywhere along the urinary tract—from the kidneys to the urethra. Hematuria may be visible (<strong>gross hematuria</strong>), turning urine pink, red, or cola-colored, or microscopic, detectable only through laboratory testing. While some causes are benign, persistent hematuria requires medical evaluation to rule out serious conditions.</p>
+<h2>Understanding Red Blood Cells in Urine</h2>
+<p>Under normal circumstances, the kidneys filter waste from the blood while retaining blood cells. RBCs in urine signal that the urinary tract lining has been irritated or damaged, or that the kidney&#8217;s filtering units (glomeruli) are compromised.</p>
+<h2>Common Causes and Risk Factors</h2>
+<h3>Urinary Tract Infections (UTIs)</h3>
+<ul>
+<li>Bacterial irritation of the bladder or urethra allows RBCs to leak into urine.</li>
+<li>Often accompanied by burning during urination, urgency, and cloudy or odorous urine.</li>
+</ul>
+<h3>Kidney and Bladder Stones</h3>
+<ul>
+<li>Mineral deposits scrape urinary tract walls, causing bleeding.</li>
+<li>May present with severe flank or abdominal pain.</li>
+</ul>
+<h3>Kidney Disease and Glomerulonephritis</h3>
+<ul>
+<li>Inflammation or damage to glomeruli allows RBCs into urine.</li>
+<li>Can be related to autoimmune conditions, infections, or chronic disease.</li>
+</ul>
+<h3>Other Causes</h3>
+<ul>
+<li>Enlarged prostate (BPH) in older men</li>
+<li>Strenuous exercise (“runner’s hematuria”)</li>
+<li>Recent urologic procedures or catheter use</li>
+<li>Certain medications (blood thinners, aspirin)</li>
+<li>Inherited disorders (e.g., sickle cell disease, Alport syndrome)</li>
+<li>Urinary tract cancers (bladder, kidney, prostate)</li>
+</ul>
+<h2>Diagnosis and Testing</h2>
+<ul>
+<li><strong>Urinalysis:</strong> Detects and counts RBCs; normal urine has &lt; 3 RBCs/high-power field.</li>
+<li><strong>Urine culture:</strong> Identifies infection-causing bacteria.</li>
+<li><strong>Urine cytology:</strong> Checks for abnormal or cancerous cells.</li>
+<li><strong>Blood tests:</strong> Evaluate kidney function (creatinine, BUN).</li>
+<li><strong>Imaging:</strong> Ultrasound, CT, or MRI to visualize kidneys, ureters, and bladder.</li>
+<li><strong>Cystoscopy:</strong> Endoscopic exam of the bladder and urethra.</li>
+<li><strong>Kidney biopsy:</strong> If glomerular disease is suspected.</li>
+</ul>
+<h2>Treatment Approaches</h2>
+<p>Treatment depends on the underlying cause:</p>
+<ul>
+<li><strong>UTIs:</strong> Antibiotics clear infection and resolve hematuria.</li>
+<li><strong>Kidney stones:</strong> Increased fluids, pain control, or procedures like lithotripsy.</li>
+<li><strong>BPH:</strong> Medications (alpha-blockers) or procedures to reduce prostate size.</li>
+<li><strong>Glomerulonephritis:</strong> May require corticosteroids, immunosuppressants, or blood pressure control.</li>
+<li><strong>Medication-related:</strong> Adjusting dose or switching drugs.</li>
+</ul>
+<h2>Lifestyle Support</h2>
+<ul>
+<li>Drink adequate fluids to dilute urine and flush the urinary tract.</li>
+<li>Reduce high-oxalate foods if prone to stones.</li>
+<li>Maintain healthy blood pressure.</li>
+<li>Quit smoking to lower bladder cancer risk.</li>
+<li>Use good hygiene to prevent UTIs.</li>
+<li>Moderate intense exercise if it triggers hematuria.</li>
+</ul>
+<h2>When to Seek Medical Attention</h2>
+<p>See a healthcare provider promptly if you notice:</p>
+<ul>
+<li>Visible blood in urine, even once</li>
+<li>Blood with severe pain, fever, or inability to urinate</li>
+<li>Blood clots in urine</li>
+<li>Persistent microscopic hematuria, especially over age 40 or with cancer risk factors</li>
+</ul>
+<p>Early evaluation can detect treatable conditions before they progress and improve long-term outcomes.</p>
+<p><strong>DISCLAIMER: ANY INSTANCE OF GROSS HEMATURIA OR PERSISTENT MICROSCOPIC HEMATURIA SHOULD BE EVALUATED BY A HEALTHCARE PROFESSIONAL.</strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Urine Ketones</title>
+		<link>/hub/biomarkers-2/urine-ketones/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Mon, 11 Aug 2025 20:14:29 +0000</pubDate>
+				<category><![CDATA[Biomarkers]]></category>
+		<guid isPermaLink="false">/hub/?p=3918</guid>
+
+					<description><![CDATA[
+
+What are Urine Ketones? Urine ketones are byproducts of fat metabolism that appear when your body burns fat for energy instead of glucose. They are a normal finding during fasting or on a ketogenic diet, but high levels—especially in people with diabetes—can signal diabetic ketoacidosis (DKA), a medical emergency. Understanding Ketones and Their Role in&#8230; <a class="more-link" href="/hub/biomarkers-2/urine-ketones/">Continue reading <span class="screen-reader-text">Urine Ketones</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h2>What are Urine Ketones?</h2>
+<p>Urine ketones are byproducts of fat metabolism that appear when your body burns fat for energy instead of glucose. They are a normal finding during fasting or on a ketogenic diet, but high levels—especially in people with diabetes—can signal diabetic ketoacidosis (DKA), a medical emergency.</p>
+<h2>Understanding Ketones and Their Role in Your Body</h2>
+<p>Ketones are organic compounds produced by the liver during fat breakdown, a process called <strong>ketosis</strong>. This happens when glucose, your body&#8217;s primary fuel, is limited. There are three main types:</p>
+<ul>
+<li><strong>Acetoacetate</strong></li>
+<li><strong>Beta-hydroxybutyrate</strong></li>
+<li><strong>Acetone</strong></li>
+</ul>
+<p>Under typical conditions, glucose from dietary carbohydrates fuels most cells. During fasting, prolonged exercise, low-carb eating, or certain illnesses, the body switches to fat as the primary fuel source, producing ketones that can be detected in urine, blood, or breath.</p>
+<h2>Why Ketones Appear in Urine</h2>
+<p>If ketone production exceeds the body’s usage, the excess is excreted in urine (<strong>ketonuria</strong>). Common causes include:</p>
+<ul>
+<li>Ketogenic or very low-carb diets</li>
+<li>Extended fasting or severe calorie restriction</li>
+<li>Intense or prolonged exercise</li>
+<li>Pregnancy (especially with morning sickness)</li>
+<li>Uncontrolled type 1 or advanced type 2 diabetes</li>
+<li>Excessive alcohol intake</li>
+<li>Vomiting, diarrhea, or other illnesses</li>
+</ul>
+<h2>Normal vs. Concerning Ketone Levels</h2>
+<ul>
+<li><strong>Normal:</strong> Negative to trace (&lt; 5 mg/dL)</li>
+<li><strong>Nutritional ketosis:</strong> Small to moderate (5–40 mg/dL)</li>
+<li><strong>Concerning (seek immediate care, especially if diabetic):</strong> Large (&gt; 80 mg/dL)</li>
+</ul>
+<h2>Testing Methods and When to Test</h2>
+<p>Urine ketone testing can be done at home with test strips that change color based on ketone concentration. Steps:</p>
+<ol>
+<li>Collect a urine sample.</li>
+<li>Dip the strip briefly into the sample.</li>
+<li>Wait the instructed time.</li>
+<li>Compare the strip color to the chart provided.</li>
+</ol>
+<p>Testing is recommended for people with diabetes when:</p>
+<ul>
+<li>Blood glucose is &gt; 240 mg/dL</li>
+<li>Experiencing DKA symptoms: nausea, vomiting, abdominal pain, fruity-smelling breath</li>
+<li>During illness or infection</li>
+<li>Pregnant with gestational diabetes</li>
+</ul>
+<p>For nutritional ketosis, many test in the morning or 3–4 hours after meals. Note: Urine testing becomes less accurate as the body adapts to ketone use.</p>
+<h2>Health Implications and Management</h2>
+<p>For healthy individuals, mild to moderate ketonuria during fasting or ketogenic diets is usually benign and may be linked to benefits such as fat loss and mental clarity. In diabetes, however, high ketones can mean DKA, which requires emergency care.</p>
+<h3>DKA Warning Signs</h3>
+<ul>
+<li>High blood glucose</li>
+<li>Large ketone levels</li>
+<li>Rapid breathing</li>
+<li>Confusion or lethargy</li>
+<li>Dehydration</li>
+</ul>
+<h3>Managing Ketone Levels</h3>
+<ul>
+<li>Stay well-hydrated</li>
+<li>Monitor blood glucose closely if diabetic</li>
+<li>Adjust insulin per medical advice</li>
+<li>Avoid strenuous exercise when ketones are high</li>
+<li>Seek prompt medical care for high ketones with symptoms</li>
+</ul>
+<p>Regular biomarker testing—especially in people with diabetes—can help track metabolic changes and detect issues early, guiding dietary and medical decisions.</p>
+<p><strong>DISCLAIMER: IF YOU HAVE DIABETES AND DETECT MODERATE TO HIGH KETONES, SEEK MEDICAL CARE IMMEDIATELY.</strong></p>
 ]]></content:encoded>
 					
 		
