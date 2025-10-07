@@ -11,11 +11,11 @@
 	<atom:link href="/hub/guides/when-to-test-guide/feed/" rel="self" type="application/rss+xml" />
 	<link>/hub/guides/when-to-test-guide/</link>
 	<description></description>
-	<lastBuildDate>Fri, 01 Aug 2025 14:17:24 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Oct 2025 14:52:01 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.8.2</generator>
+	<generator>https://wordpress.org/?v=6.8.3</generator>
 </channel>
 </rss>
