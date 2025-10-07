@@ -12,7 +12,7 @@
 	<id>/hub/feed/atom/</id>
 	<link rel="self" type="application/atom+xml" href="/hub/feed/atom/" />
 
-	<generator uri="https://wordpress.org/" version="6.8.2">WordPress</generator>
+	<generator uri="https://wordpress.org/" version="6.8.3">WordPress</generator>
 	<entry>
 		<author>
 			<name>SiPhox Health Research Team</name>
