@@ -12,7 +12,7 @@
 	<atom:link href="/hub/category/guides/feed/" rel="self" type="application/rss+xml" />
 	<link>/hub/</link>
 	<description></description>
-	<lastBuildDate>Wed, 08 Oct 2025 14:47:52 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 08 Oct 2025 15:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -130,20 +130,14 @@ A Guide to Timing, Fasting, and Preparation To get the most accurate insights fr
 <li><strong><span class="notion-enable-hover" data-token-index="0">No intense exercise:</span> </strong>Avoid intense workouts in the morning before your test.<!-- notionvc: d0c227c1-d83f-42a5-9805-ab2c032f1be7 --></li>
 </ul>
 <h2><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/2640.png" alt="♀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Women-Specific Hormone Testing</strong></h2>
-<p>We recommend following these guidelines to capture a more standardized baseline, but you can test <strong>on any day</strong> of your cycle. Your results will still be meaningful &#8211; our system adjusts reference ranges based on your questionnaire responses and cycle phase.</p>
+<p>You can test <strong>any day</strong> of your cycle, but some days may be more informative depending on your individual context.</p>
 <p><a href="https://siphoxhealth.com/hub/guides/biomarkers/day-3-hormone-testing-understanding-the-baseline-for-fertility"><strong>Click here to read more about Day 3 Hormone Testing</strong></a></p>
-<h3><strong>If you have menstrual cycles and are not on birth control:</strong></h3>
-<p>Take the test on <strong>Day 3</strong> of your period.</p>
-<p>Count day 1 as the first day of full flow that starts before 5 pm.</p>
-<p><em>Get your period at 3 pm on Monday? Test on Wednesday.</em></p>
-<p><em>Get your period at 8 pm on Monday? Test on Thursday.</em></p>
-<p>If you can’t catch Day 3, don’t wait — testing on another day will still provide valuable insights.</p>
-<h3><strong>If you have menstrual cycles and are on birth control:</strong></h3>
-<p>Users of continuous contraceptives like the minipill or hormonal IUD who still have regular periods should test on <strong>Day 3</strong> of their periods.</p>
-<p>If you do not experience regular periods, it&#8217;s advised to wait three months after stopping contraceptives for hormone levels to normalize (please consult with your healthcare provider before stopping any medications).</p>
-<p>If you have no menstrual cycles but are on birth control, <strong>any day</strong> is acceptable to test.</p>
-<h3><strong>If you do not undergo menstruation cycles:</strong></h3>
-<p>You can take the hormonal panel on <strong>any day</strong>. Results will be interpreted appropriately based on your hormonal status.</p>
+<ul class="p-rich_text_list p-rich_text_list__bullet p-rich_text_list--nested" data-stringify-type="unordered-list" data-list-tree="true" data-indent="0" data-border="0">
+<li data-stringify-indent="0" data-stringify-border="0"><b data-stringify-type="bold">For cycle mapping or fertility goals</b>, testing is optimal on Day 3–5 to measure baseline hormones such as FSH, LH, Estradiol, AMH, and SHBG, and on Day 19–23 to assess luteal markers like Progesterone.</li>
+<li data-stringify-indent="0" data-stringify-border="0"> For those <b data-stringify-type="bold">on hormonal contraception</b>, testing is best during the active hormone phase (not placebo/off days).</li>
+<li data-stringify-indent="0" data-stringify-border="0"> For women who <b data-stringify-type="bold">do not menstruate</b> — whether due to menopause or other conditions — testing can be done on any day.</li>
+</ul>
+<div class="p-rich_text_section">Testing on other days can still provide valuable insights into your overall hormonal balance and health. Your results will still be meaningful – our system adjusts reference ranges based on your questionnaire responses and cycle phase.</div>
 <p><!-- notionvc: bcec8128-79c2-4e2d-80d8-6716011ae3e8 --></p>
 <p><!-- notionvc: 0c598a9c-916f-418d-92c8-5a5d26fa7e5c --></p>
 ]]></content:encoded>
