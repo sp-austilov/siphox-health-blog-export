@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
 	>
-
 <channel>
-	<title>Divya Kashyap &#8211; SiPhox Health</title>
-	<atom:link href="/hub/author/divya-kashyap/feed/" rel="self" type="application/rss+xml" />
-	<link>/hub/</link>
+	<title>
+	Comments on: Transform Your Biomarkers Into Action: 30-Minute Health Coaching Calls	</title>
+	<atom:link href="/hub/guides/coaching-calls/feed/" rel="self" type="application/rss+xml" />
+	<link>/hub/guides/coaching-calls/</link>
 	<description></description>
 	<lastBuildDate>Sat, 22 Nov 2025 16:40:18 +0000</lastBuildDate>
-	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
