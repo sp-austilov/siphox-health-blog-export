@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/6.9" created="2026-01-08 19:53" -->
+    <!-- generator="WordPress/6.9" created="2026-01-09 19:08" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Thu, 08 Jan 2026 19:53:29 +0000</pubDate>
+            <pubDate>Fri, 09 Jan 2026 19:08:27 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -3254,6 +3254,14 @@ Ranges specific to the Cardiometabolic Program:
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_content_1_copies]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -13569,8 +13577,8 @@ Your doctor may recommend different types of blood pressure medications based on
                             <wp:post_id>3835</wp:post_id>
                             <wp:post_date><![CDATA[2025-08-11 19:03:14]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2025-08-11 19:03:14]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-01-08 19:53:29]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-01-08 19:53:29]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-01-08 19:53:30]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-01-08 19:53:30]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[ldlapob-ratio]]></wp:post_name>
@@ -13622,13 +13630,13 @@ Your doctor may recommend different types of blood pressure medications based on
                                     <wp:meta_value><![CDATA[<h2>What is the LDL:ApoB Ratio?</h2>
 The LDL:ApoB ratio reveals the size and density of your LDL cholesterol particles. A lower ratio indicates smaller, denser particles that pose greater cardiovascular risk, with ratios below 1.2 suggesting a predominance of these more harmful particles.
 <h2>Understanding the LDL:ApoB Ratio</h2>
-The LDL:ApoB ratio provides crucial insights into the characteristics of your LDL cholesterol particles. It's calculated by dividing your LDL cholesterol level by your apolipoprotein B (ApoB) level, both measured in mg/dL.
+The LDL:ApoB ratio provides crucial insights into the characteristics of your LDL cholesterol particles. It's calculated by dividing your <a href="https://siphoxhealth.com/hub/biomarkers-2/biomarker-ldl-c/">LDL cholesterol</a> level by your <a href="https://siphoxhealth.com/hub/biomarkers-2/biomarker-apob">apolipoprotein B (ApoB)</a> level, both measured in mg/dL.
 
 Here's the key insight: each LDL particle contains exactly one ApoB molecule, making ApoB a direct count of your LDL particle number. LDL cholesterol, by contrast, measures the total amount of cholesterol being carried. When these two measurements diverge, it reveals important information about particle size.
 
-A lower LDL:ApoB ratio means your cholesterol is distributed across more particles—indicating you have smaller, denser LDL particles. A higher ratio means fewer, larger particles are carrying the same amount of cholesterol. This distinction matters because small dense LDL particles are considerably more dangerous than their larger counterparts.
+A <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10362700/">lower LDL:ApoB ratio</a> means your cholesterol is distributed across more particles—indicating you have smaller, denser LDL particles. A higher ratio means fewer, larger particles are carrying the same amount of cholesterol. This distinction matters because small dense LDL particles are considerably more dangerous than their larger counterparts.
 <h2>Why This Ratio Matters for Your Heart Health</h2>
-<div class="p-rich_text_section">The LDL:ApoB ratio reveals cardiovascular risk that traditional cholesterol tests miss. Research consistently shows that people with lower ratios face significantly higher risks of coronary artery disease, even when their LDL cholesterol levels appear normal. This helps explain why some individuals with "acceptable" cholesterol numbers still experience heart attacks, while others with higher cholesterol remain healthy.</div>
+<div class="p-rich_text_section">The LDL:ApoB ratio <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10362700/">reveals cardiovascular ris</a>k that traditional cholesterol tests miss. Research consistently shows that people with lower ratios face significantly higher risks of coronary artery disease, even when their LDL cholesterol levels appear normal. This helps explain why some individuals with "acceptable" cholesterol numbers still experience heart attacks, while others with higher cholesterol remain healthy.</div>
 <div class="p-rich_text_section"><br aria-hidden="true" />Small dense LDL particles are particularly dangerous because they:</div>
 <ul class="p-rich_text_list p-rich_text_list__bullet p-rich_text_list--nested" data-stringify-type="unordered-list" data-list-tree="true" data-indent="0" data-border="0">
  	<li data-stringify-indent="0" data-stringify-border="0"><b data-stringify-type="bold">Penetrate arterial walls more easily</b> due to their compact size</li>
@@ -13667,7 +13675,12 @@ Improving your LDL:ApoB ratio requires addressing the underlying metabolic facto
 Your healthcare provider can determine the most appropriate treatment based on your complete lipid profile and risk factors.
 
 Understanding your LDL:ApoB ratio provides valuable insights beyond standard cholesterol testing. Regular monitoring of both LDL cholesterol and ApoB levels allows you to track changes in your particle profile over time and assess the effectiveness of lifestyle modifications or treatments. This comprehensive approach to lipid management offers a more nuanced understanding of cardiovascular risk and enables more personalized prevention strategies.
-
+<h2>Where can I learn more?</h2>
+<ul>
+ 	<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5441126/">Small Dense Low-Density Lipoprotein as Biomarker for Atherosclerotic Diseases</a></li>
+ 	<li><a href="https://pubmed.ncbi.nlm.nih.gov/22989852/">Small dense LDL: An emerging risk factor for cardiovascular disease</a></li>
+ 	<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10362700/">PubMed - LDL-C/ApoB ratio</a></li>
+</ul>
 <strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong>]]></wp:meta_value>
                                 </wp:postmeta>
                                                             <wp:postmeta>
@@ -13681,14 +13694,6 @@ Understanding your LDL:ApoB ratio provides valuable insights beyond standard cho
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_content]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_6414004cd50ab]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
