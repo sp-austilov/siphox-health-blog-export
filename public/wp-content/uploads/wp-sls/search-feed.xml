@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/6.9" created="2026-01-09 19:08" -->
+    <!-- generator="WordPress/6.9" created="2026-01-12 20:11" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Fri, 09 Jan 2026 19:08:27 +0000</pubDate>
+            <pubDate>Mon, 12 Jan 2026 20:11:09 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -1923,8 +1923,8 @@ Variability in lab results is a known entity, yet it doesn’t detract from the 
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
-                                                        		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
-		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
+                                                        		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
+		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -2130,8 +2130,8 @@ Cardiovascular health is no joke. Several studies mentioned earlier in this guid
                                                         		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
 		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
-		<category domain="category" nicename="cortisol"><![CDATA[Cortisol]]></category>
 		<category domain="post_tag" nicename="cortisol"><![CDATA[cortisol]]></category>
+		<category domain="category" nicename="cortisol"><![CDATA[Cortisol]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
 		<category domain="post_tag" nicename="health"><![CDATA[health]]></category>
 		<category domain="post_tag" nicename="hormones"><![CDATA[hormones]]></category>
@@ -3207,11 +3207,11 @@ If zinc levels are too low, it can lead to a variety of health issues, including
                                 </wp:postmeta>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[content_1_copies]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[<h3 style="text-align: left;" data-sanitized-data-mce-style="text-align: left;"><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">What is ApoB ?</span></h3>
+                                    <wp:meta_value><![CDATA[<h3>What is ApoB?</h3>
 <p style="text-align: left;" data-sanitized-data-mce-style="text-align: left;"><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0"><span style="text-decoration: underline;"><a href="https://my.clevelandclinic.org/health/diagnostics/24992-apolipoprotein-b-test" data-sanitized-data-mce-href="https://my.clevelandclinic.org/health/diagnostics/24992-apolipoprotein-b-test" data-sanitized-target="_blank">ApoB</a></span> <span data-sanitized-data-mce-fragment="1">(apolipoprotein B) </span>is an atherogenic (artery plaque-forming) particle that transports "bad" cholesterol. Each particle of VLDL, IDL, <span style="text-decoration: underline;"><a href="https://siphoxhealth.com/hub/biomarkers-2/biomarker-ldl-c" data-sanitized-target="_blank">LDL</a></span>, or Lp(a) contains a single molecule of ApoB. Since ApoB measures additional types of "bad cholesterol" rather than just LDL-C, <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8540246/" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8540246/">studies</a></span> have shown that ApoB is a better predictor of cardiovascular events such as myocardial infarction than LDL-C in both men and women, independent of age.</span></p>
 <p style="text-align: left;" data-sanitized-data-mce-style="text-align: left;"><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0"><a href="https://medlineplus.gov/ldlthebadcholesterol.html#:~:text=LDL%20and%20HDL%20have%20different,stands%20for%20high%2Ddensity%20lipoproteins." data-sanitized-target="_blank"><strong>Note</strong></a>: While VLDL, IDL, LDL, or Lp(a) particles in themselves are not "bad", high levels of these lipoproteins can build up and block arteries (<span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/books/NBK305896/" data-sanitized-target="_blank">pro-atherogenic</a></span>). These lipoproteins, however, are healthy in moderation, and very low levels can have negative implications as well.</span></p>
 
-<h3 style="text-align: left;" data-sanitized-data-mce-style="text-align: left;"><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">Why is ApoB important?</span></h3>
+<h3><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">Why is ApoB important?</span></h3>
 <p style="text-align: left;" data-sanitized-data-mce-style="text-align: left;"><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">Because there is only one ApoB per LDL particle, this measurement gives us the most accurate estimate of the quantity of non-HDL cholesterol relative to total cholesterol. <span style="text-decoration: underline;"><a href="https://www.thelancet.com/journals/lanhl/article/PIIS2666-7568(21)00086-6/fulltext#:~:text=Higher%20apoB%20shortens%20lifespan%2C%20increases,cholesterol%2C%20increases%20risk%20of%20diabetes." data-sanitized-data-mce-href="https://www.thelancet.com/journals/lanhl/article/PIIS2666-7568(21)00086-6/fulltext#:~:text=Higher%20apoB%20shortens%20lifespan%2C%20increases,cholesterol%2C%20increases%20risk%20of%20diabetes." data-sanitized-target="_blank">High </a></span><span data-sanitized-data-mce-fragment="1"><span style="text-decoration: underline;"><a href="https://www.thelancet.com/journals/lanhl/article/PIIS2666-7568(21)00086-6/fulltext#:~:text=Higher%20apoB%20shortens%20lifespan%2C%20increases,cholesterol%2C%20increases%20risk%20of%20diabetes." data-sanitized-data-mce-href="https://www.thelancet.com/journals/lanhl/article/PIIS2666-7568(21)00086-6/fulltext#:~:text=Higher%20apoB%20shortens%20lifespan%2C%20increases,cholesterol%2C%20increases%20risk%20of%20diabetes." data-sanitized-target="_blank">ApoB</a></span> </span>levels are strongly associated with increased risk for <span data-sanitized-data-mce-fragment="1">cardiovascular events and </span>shortened lifespan. <span style="text-decoration: underline;"><a href="https://home.siphoxhealth.com/pricing/unlimited?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=&amp;utm_term=siphox%20health&amp;utm_content=&amp;tw_source=google&amp;tw_adid=687640324952&amp;tw_campaign=19925277251&amp;gad_source=1&amp;gclid=Cj0KCQjwvb-zBhCmARIsAAfUI2uY8He_1BAaSvECNZqCwMQtT6Y41yJBFoDVgu-iAMehWiJa-uL2CFIaAjjgEALw_wcB">SiPhox Health</a></span> includes ApoB in our foundation panel to help monitor and manage ApoB levels.</span></p>
 
 <h3 style="text-align: left;" data-sanitized-data-mce-style="text-align: left;"><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">How can I better understand my results?</span></h3>
@@ -25026,8 +25026,8 @@ To learn more about these biomarkers including why they are important, whether t
 		<category domain="post_tag" nicename="diabetes"><![CDATA[diabetes]]></category>
 		<category domain="post_tag" nicename="glucose"><![CDATA[glucose]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
-		<category domain="category" nicename="hba1c"><![CDATA[HbA1C]]></category>
 		<category domain="post_tag" nicename="hba1c"><![CDATA[HbA1c]]></category>
+		<category domain="category" nicename="hba1c"><![CDATA[HbA1C]]></category>
 		<category domain="post_tag" nicename="hemoglobin-a1c"><![CDATA[Hemoglobin A1C]]></category>
 		<category domain="post_tag" nicename="insulin"><![CDATA[insulin]]></category>
 		<category domain="post_tag" nicename="metabolism"><![CDATA[metabolism]]></category>
