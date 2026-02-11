@@ -12,7 +12,7 @@
 	<atom:link href="/hub/category/guides/feed/" rel="self" type="application/rss+xml" />
 	<link>/hub/</link>
 	<description></description>
-	<lastBuildDate>Wed, 11 Feb 2026 16:07:31 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 11 Feb 2026 21:49:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,152 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.1</generator>
 	<item>
+		<title>Heart and Metabolic Age</title>
+		<link>/hub/guides/heart-metabolic-age/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Wed, 11 Feb 2026 21:49:46 +0000</pubDate>
+				<category><![CDATA[Guides]]></category>
+		<guid isPermaLink="false">/hub/?p=4165</guid>
+
+					<description><![CDATA[
+
+What is Heart &#38; Metabolic Age? Heart &#38; Metabolic Age is a simplified, age-like estimate of your cardiometabolic health, based on two powerful signals from your bloodwork: Atherogenic particle burden (how many “plaque-forming” cholesterol particles you carry) Insulin sensitivity (how efficiently your body handles energy and blood fats) It’s designed to be easy to understand,&#8230; <a class="more-link" href="/hub/guides/heart-metabolic-age/">Continue reading <span class="screen-reader-text">Heart and Metabolic Age</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h3><strong>What is Heart &amp; Metabolic Age?</strong></h3>
+<p><strong>Heart &amp; Metabolic Age</strong> is a simplified, age-like estimate of your <strong>cardiometabolic health</strong>, based on two powerful signals from your bloodwork:</p>
+<ol>
+<li><strong>Atherogenic particle burden</strong> (how many “plaque-forming” cholesterol particles you carry)</li>
+<li><strong>Insulin sensitivity</strong> (how efficiently your body handles energy and blood fats)</li>
+</ol>
+<p>It’s designed to be easy to understand, easy to track over time, and tightly focused on the health domains that drive long-term cardiovascular and metabolic risk.</p>
+<hr />
+<h3><strong>The Heart &amp; Metabolic Phenotype</strong></h3>
+<p>To give a clearer picture than a single number alone, we first place you into a <strong>2×2 phenotype map</strong> based on two inputs:</p>
+<h4>1) Lipid Metabolism (ApoB)</h4>
+<p><strong>ApoB</strong> reflects the number of <strong>atherogenic (“plaque-building”) particles</strong> in your blood (including LDL and other ApoB-containing particles). In general:</p>
+<ul>
+<li><strong>Lower ApoB</strong> = fewer atherogenic particles</li>
+<li><strong>Higher ApoB</strong> = more atherogenic particles</li>
+</ul>
+<h4>2) Insulin Sensitivity (Triglycerides/HDL-C Ratio)</h4>
+<p>The <strong>Triglycerides-to-HDL-C ratio (Trig/HDL-C)</strong> captures two hallmarks of reduced insulin sensitivity: <strong>higher triglycerides</strong> and <strong>lower HDL-C</strong>. A lower ratio suggests better metabolic efficiency.</p>
+<p>In general:</p>
+<ul>
+<li><strong>Lower Trig/HDL-C</strong> = better insulin sensitivity signal</li>
+<li><strong>Higher Trig/HDL-C</strong> = more insulin-resistance–associated pattern</li>
+</ul>
+<h4>What the 4 phenotypes mean</h4>
+<p>Your position on the map reflects one of four patterns:</p>
+<ul>
+<li><strong>Optimal:</strong> Both ApoB and insulin sensitivity look favorable</li>
+<li><strong>Lipid regulated, insulin resistant:</strong> ApoB looks favorable, but the Trig/HDL-C pattern suggests reduced insulin sensitivity</li>
+<li><strong>Lipid dysregulated, insulin sensitive:</strong> insulin sensitivity looks favorable, but ApoB suggests elevated atherogenic particle burden</li>
+<li><strong>Lipid dysregulated, insulin resistant:</strong> both signals suggest higher heart and metabolic risk</li>
+</ul>
+<p>This map helps you understand whether your focus should be on lipids, metabolic health, or both.</p>
+<hr />
+<h3><strong>How Heart &amp; Metabolic Age is Calculated</strong></h3>
+<p>After placing you on the 2×2 phenotype map, we translate your ApoB and Trig/HDL-C pattern into a single <strong>Heart &amp; Metabolic score</strong>, then translate that score into an age-like number relative to your chronological age.</p>
+<p><strong>Younger Heart &amp; Metabolic Age</strong> reflects a more favorable cardiometabolic profile—your markers look like those typically seen in lower-risk, younger individuals.</p>
+<p><strong>Older Heart &amp; Metabolic Age</strong> suggests more room for improvement in the factors that drive cardiovascular and metabolic risk.</p>
+<hr />
+<h3><strong>How to Interpret Your Heart &amp; Metabolic Age</strong></h3>
+<ul>
+<li><strong>Lower than your chronological age:</strong> Your ApoB and insulin-sensitivity pattern look more like what’s typical in lower-risk, younger cardiometabolic profiles.</li>
+<li><strong>Higher than your chronological age:</strong> Your markers look more like patterns commonly associated with higher cardiometabolic risk, which can be a useful prompt to focus on improvements.</li>
+<li><strong>Close to your chronological age:</strong> Your profile is broadly similar to others in your age range.</li>
+</ul>
+<p>Just like with any health score, the most useful insight often comes from <strong>trends over time</strong>, especially if your collection conditions are consistent.</p>
+<hr />
+<h3><strong>Why This Matters</strong></h3>
+<p>Cardiometabolic health isn&#8217;t just one factor among many, it&#8217;s foundational. <strong>Atherosclerosis and insulin resistance</strong> are among the strongest predictors of <strong>long-term disease risk</strong>, and both are influenced by modifiable factors like diet, exercise, sleep, and stress.</p>
+<p>Heart &amp; Metabolic Age distills these complex dynamics into a single, trackable number. Instead of interpreting multiple markers in isolation, you get a clear summary of where you stand and whether you&#8217;re trending in the right direction.</p>
+<hr />
+<h3><strong>Important Notes and Limitations</strong></h3>
+<ul>
+<li>This is <strong>not a diagnosis</strong> and does not replace medical care.</li>
+<li>Triglycerides (and therefore Trig/HDL-C) can shift with <strong>recent meals, alcohol, illness, sleep disruption, and recent intense exercise</strong>. For the cleanest comparisons, test under similar conditions each time.</li>
+<li>Medications and supplements (especially lipid- and glucose-related therapies) can meaningfully change these markers—often in a positive direction. This is expected and reflects real improvement.</li>
+</ul>
+<p><!-- notionvc: 1dbcc97d-9424-4e00-ae0a-6175e1f51df6 --></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Biological Age</title>
+		<link>/hub/guides/biological-age/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Wed, 11 Feb 2026 21:48:09 +0000</pubDate>
+				<category><![CDATA[Guides]]></category>
+		<guid isPermaLink="false">/hub/?p=4162</guid>
+
+					<description><![CDATA[
+
+What is Biological Age? You&#8217;re 45 years old, but is your body? That&#8217;s the question biological age tries to answer. Your chronological age is simply how many years you&#8217;ve been alive. Your biological age looks deeper, examining patterns across your blood biomarkers to estimate whether your body more closely resembles someone younger, older, or right&#8230; <a class="more-link" href="/hub/guides/biological-age/">Continue reading <span class="screen-reader-text">Biological Age</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h3><strong>What is Biological Age?</strong></h3>
+<p>You&#8217;re 45 years old, but is your body? That&#8217;s the question biological age tries to answer.</p>
+<p>Your <strong>chronological age</strong> is simply how many years you&#8217;ve been alive. Your <strong>biological age</strong> looks deeper, examining patterns across your blood biomarkers to estimate whether your body more closely resembles someone younger, older, or right around your actual age.</p>
+<p>Think of it as a health fingerprint translated into a single, trackable number.</p>
+<hr />
+<h3><strong>How to Interpret Your Result</strong></h3>
+<ul>
+<li><strong>Lower biological age</strong>: Your overall biomarker pattern looks more similar to people who are chronologically younger.</li>
+<li><strong>Higher biological age</strong>: Your overall biomarker pattern looks more similar to people who are chronologically older. This can be a useful prompt to focus on areas that may be holding your health back.</li>
+<li><strong>Similar to your chronological age</strong>: Your biomarker pattern is broadly similar to others in your age range, which is common.</li>
+</ul>
+<p>A helpful way to think about this: <strong>biological age is a summary signal</strong>, not a diagnosis. It reflects the combined “shape” of your biomarker profile, not any single result.</p>
+<hr />
+<h3><strong>Why It Matters</strong></h3>
+<p>Biological age can help you:</p>
+<ul>
+<li><strong>See the bigger picture</strong> across multiple body systems (metabolic, cardiovascular, inflammation, hormones, and more).</li>
+<li><strong>Track trends over time</strong>, especially when you test consistently.</li>
+<li><strong>Identify areas to prioritize</strong> when paired with your biomarker insights and action plan.</li>
+</ul>
+<p>Here&#8217;s what makes biological age especially useful: because biomarkers respond to lifestyle, sleep, stress, nutrition, and medical care, your biological age can change. Unlike your chronological age, this number isn&#8217;t fixed.</p>
+<hr />
+<h3><strong>How Is Biological Age Calculated?</strong></h3>
+<p>There is no single lab test that directly measures “true” biological age, so models like ours learn how biomarker patterns typically vary with age across large populations, then compare your results to those patterns.</p>
+<p>At a high level, our approach works like this:</p>
+<ul>
+<li><strong>Training data:</strong> We trained our model using a combination of large public health datasets and internal data.</li>
+<li><strong>How your score is generated:</strong> When you get results, the model compares your biomarker pattern to the patterns it learned and estimates the age your profile most closely resembles.</li>
+</ul>
+<hr />
+<h3><strong>How Accurate Is It?</strong></h3>
+<p>Biological age is an <strong>estimate</strong>. It is designed to be directionally meaningful and consistent over time, especially when you retest under similar conditions.</p>
+<p>Short-term factors (illness, major sleep disruption, inflammation, medication changes, recent supplementation, training load, etc.) can temporarily shift biomarkers and influence the score. Some biomarkers can move in ways that are “health-positive” but still correlate with age trends in population data (for example, supplementation effects), which can sometimes affect the estimate.</p>
+<hr />
+<h3><strong>Why Your Biological Age May Change Over Time</strong></h3>
+<p>It’s normal for biological age to shift between tests because your biomarkers change with lifestyle, recovery, stress, and health status. Normal biological variation and lab variation exist, and the model may be updated over time as we expand training data and improve performance.</p>
+<p>For interpretation, it’s best to focus on <strong>your trend over multiple tests, which biomarkers are driving the change, and whether changes match how you feel.</strong></p>
+<hr />
+<h3><strong>Biological Age vs. Heart &amp; Metabolic Age</strong></h3>
+<p>If you&#8217;ve also completed a Heart &amp; Metabolic panel, you&#8217;ll see a second age estimate. <a href="https://siphoxhealth.com/hub/guides/heart-metabolic-age"><strong>Heart &amp; Metabolic Age</strong></a> is a structured score translated into an age-like number based on the SiPhox Heart and Metabolic phenotype.</p>
+<p><strong>Biological Age</strong> uses a broader set of biomarkers and a machine learning approach trained on population patterns across age and sex. It is intended to reflect a more general “whole-body” biomarker aging signal rather than one specific domain.</p>
+<p>Both are useful. Heart &amp; Metabolic Age tells you how your cardiovascular system is holding up. Biological Age gives you a wider lens on overall aging. If you have access to both, consider them complementary views of your health.</p>
+<hr />
+<h3>Important Notes</h3>
+<ul>
+<li>Biological age is <strong>not a medical diagnosis</strong> and should not be used alone to diagnose or treat any condition.</li>
+<li>It does not capture every factor that influences aging (genetics, imaging findings, fitness, body composition, sleep quality, medical history, and more).</li>
+</ul>
+<p><!-- notionvc: 27b12321-006c-4b67-bb5a-9b6cb459e9ba --></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Protein Supplements: Choosing the Best Option for Your Health</title>
 		<link>/hub/guides/best-protein-supplements/</link>
 		
@@ -1111,147 +1257,6 @@ You&#8217;ve received your blood work results. Now what? Those pages of numbers 
 <p><a href="https://siphoxhealth.com/products/coaching-call-one-time">Schedule Your Health Coaching Call Today</a></p>
 <p><em>Have questions about scheduling or what to expect? Check out our FAQ or contact our support team.</em></p>
 <p><!-- notionvc: 0f0b655a-6316-4880-bc9a-7f69d9dcbf3f --></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Longevity and Allergy Panels</title>
-		<link>/hub/guides/longevity-allergy-panels/</link>
-		
-		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Sat, 22 Nov 2025 16:37:48 +0000</pubDate>
-				<category><![CDATA[Guides]]></category>
-		<guid isPermaLink="false">/hub/?p=4081</guid>
-
-					<description><![CDATA[
-
-Longevity/Longevity+ What These Panels Cover The SiPhox Longevity and Longevity+ panels give you a comprehensive look into your long-term health. They measure biomarkers tied to: Heart health – lipids, inflammatory markers, and cardiovascular risk factors Metabolic health – glucose regulation, insulin sensitivity, and key hormones Nutritional status – vitamins and minerals that support energy and&#8230; <a class="more-link" href="/hub/guides/longevity-allergy-panels/">Continue reading <span class="screen-reader-text">Longevity and Allergy Panels</span></a>]]></description>
-			
-
-							<content:encoded><![CDATA[
-<h2>Longevity/Longevity+</h2>
-<h3>What These Panels Cover</h3>
-<p>The SiPhox <strong>Longevity</strong> and <strong>Longevity+</strong> panels give you a comprehensive look into your long-term health. They measure biomarkers tied to:</p>
-<ul>
-<li><strong>Heart health</strong> – lipids, inflammatory markers, and cardiovascular risk factors</li>
-<li><strong>Metabolic health</strong> – glucose regulation, insulin sensitivity, and key hormones</li>
-<li><strong>Nutritional status</strong> – vitamins and minerals that support energy and cellular repair</li>
-<li><strong>Inflammation and aging</strong> – markers that influence longevity and disease risk</li>
-</ul>
-<p><strong>How Longevity+ differs:</strong> The core <strong>Longevity</strong> panel covers foundational markers for cardiovascular, metabolic, nutritional, and inflammatory health. <strong>Longevity+</strong> builds on that by adding <strong>60+ extra biomarkers</strong> spanning <strong>advanced lipids and cardiovascular risk, broader metabolic and endocrine hormones, longevity and cellular-aging cues, and a dedicated toxicology suite (including heavy metals and other environmental exposures).</strong> In short, Longevity+ turns a strong baseline view into a deep, systems-level assessment that can uncover hidden drivers of risk and rate-limiters for performance and healthy aging.</p>
-<h3>The Testing Process</h3>
-<ol>
-<li><strong>Purchase</strong> – Order your panel directly through SiPhox Health.</li>
-<li><strong>Lab Visit</strong> – Schedule a convenient blood draw at your nearest Labcorp location.</li>
-<li><strong>Processing Timeline</strong>
-<ul>
-<li>Most biomarkers return quickly. The <strong>first batch of results</strong> (covering standard panels) is usually ready in <strong>~5 business days</strong>.</li>
-<li>Specialized markers, such as <strong>heavy metals</strong>, require more complex analysis and typically arrive in <strong>~10 business days</strong>.</li>
-</ul>
-</li>
-<li><strong>Results Access</strong> – All results are delivered digitally through the SiPhox platform, with clear explanations and personalized insights.</li>
-</ol>
-<h3>Why It Matters</h3>
-<p>These panels help identify risk factors early, giving you the opportunity to take targeted steps toward better cardiovascular, metabolic, and overall longevity outcomes. For those who want the fullest picture, Longevity+ goes a step further by addressing hidden toxic exposures.</p>
-<h2>Allergy</h2>
-<h3>What the Panel Measures</h3>
-<p>The SiPhox <strong>Allergy Panel</strong> measures <strong>IgE antibodies</strong> to <strong>food and environmental allergens</strong> and reports <strong>Total IgE</strong> to help contextualize overall allergy load. Results for each allergen are grouped into clear categories (negative/uncertain, low, moderate, high, very high) so you can see where sensitization may be clinically meaningful.</p>
-<p>Coverage can include <strong>up to 295 allergens across 165 sources</strong>, spanning:</p>
-<ul>
-<li><strong>Foods:</strong> dairy, eggs, nuts, seafood, fruits, vegetables, grains, spices</li>
-<li><strong>Environmental triggers:</strong> pollen (trees, grasses, weeds), dust mites, molds, pets</li>
-<li><strong>Other exposures:</strong> insect venom, latex, and known cross-reactive proteins</li>
-</ul>
-<h3>The Testing Process</h3>
-<ol>
-<li><strong>Purchase</strong> – Order your Allergy Panel through SiPhox Health.</li>
-<li><strong>At-home sample</strong> using the <strong>EasyDraw arm collector</strong> for a simple, comfortable blood collection.</li>
-<li><strong>Processing</strong> – The lab analyzes your IgE antibody responses across the allergen panel.</li>
-<li><strong>Results Timeline</strong> – Reports are typically available within <strong>5–7 business days</strong>.</li>
-</ol>
-<h3>What You Receive</h3>
-<ul>
-<li><strong>Per-allergen IgE values</strong> with category bands (negative/uncertain → very high)</li>
-<li><strong>Total IgE</strong> to gauge overall sensitization</li>
-<li><strong>Grouped summaries</strong> to spot patterns across allergen families</li>
-<li><strong>Notes on cross-reactivity</strong> to inform next steps and conversations with your clinician</li>
-</ul>
-<h3>Why It Matters</h3>
-<p>Understanding your IgE profile helps identify likely triggers, supports personalized diet and lifestyle adjustments, and provides evidence to discuss with your allergist or healthcare provider. It is a powerful first step in managing allergic conditions and improving daily comfort.</p>
-<p><!-- notionvc: c8a92c92-0e2c-4bc2-a4c1-b92d5d694ae2 --></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Carbon Dioxide</title>
-		<link>/hub/guides/biomarkers/carbon-dioxide/</link>
-		
-		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Mon, 11 Aug 2025 19:11:35 +0000</pubDate>
-				<category><![CDATA[Biomarkers]]></category>
-		<guid isPermaLink="false">/hub/?p=3839</guid>
-
-					<description><![CDATA[
-
-What is CO2? CO2 (carbon dioxide) is a blood biomarker that measures the amount of carbon dioxide in your blood, primarily in the form of bicarbonate. It helps assess your body&#8217;s acid-base balance and can indicate respiratory, metabolic, or kidney issues. Understanding CO2 as a Blood Biomarker CO2, or carbon dioxide, is a waste product&#8230; <a class="more-link" href="/hub/guides/biomarkers/carbon-dioxide/">Continue reading <span class="screen-reader-text">Carbon Dioxide</span></a>]]></description>
-			
-
-							<content:encoded><![CDATA[
-<h2>What is CO2?</h2>
-<p>CO2 (carbon dioxide) is a blood biomarker that measures the amount of carbon dioxide in your blood, primarily in the form of bicarbonate. It helps assess your body&#8217;s acid-base balance and can indicate respiratory, metabolic, or kidney issues.</p>
-<h2>Understanding CO2 as a Blood Biomarker</h2>
-<p>CO2, or carbon dioxide, is a waste product produced by your cells during normal metabolism. When measured as a blood biomarker, CO2 primarily exists in the form of bicarbonate (HCO3-), which plays a crucial role in maintaining your body&#8217;s pH balance. This measurement is typically included in basic metabolic panels and comprehensive metabolic panels, providing valuable insights into your respiratory function, kidney health, and overall metabolic status.</p>
-<p>The CO2 blood test doesn&#8217;t actually measure carbon dioxide gas directly. Instead, it measures the total amount of carbon dioxide that exists in various forms in your blood, with about 90% being bicarbonate, 5% dissolved CO2, and 5% carbonic acid. This measurement helps healthcare providers understand how well your lungs and kidneys are working together to maintain proper acid-base balance.</p>
-<h2>Why CO2 Levels Matter for Your Health</h2>
-<p>Your body maintains a delicate balance between acids and bases, and CO2 plays a central role in this equilibrium. When you breathe, your lungs remove excess CO2 from your blood. Meanwhile, your kidneys regulate bicarbonate levels to help neutralize acids in your body. This intricate system keeps your blood pH within the narrow range of 7.35 to 7.45, which is essential for proper cellular function.</p>
-<p>Abnormal CO2 levels can indicate various health conditions. High levels might suggest respiratory problems where your lungs aren&#8217;t effectively removing CO2, metabolic alkalosis, or certain kidney conditions. Low levels could indicate metabolic acidosis, kidney disease, or conditions causing hyperventilation. Understanding your CO2 levels helps identify these issues early, allowing for timely intervention and treatment.</p>
-<h2>Normal CO2 Ranges and What They Mean</h2>
-<p>The normal range for CO2 in blood typically falls between:</p>
-<div data-dynamic-ranges="true" data-test="1"></div>
-<div data-ranges="true">
-23–29 mEq/L (milliequivalents per liter) for adults
-</div>
-<p>These ranges may vary slightly between laboratories and can be influenced by factors such as altitude, age, and certain medications. It&#8217;s important to interpret your results in context with other blood tests and your overall health picture.</p>
-<h2>High CO2 Levels (Hypercapnia)</h2>
-<p>CO2 levels above 29 mEq/L may indicate:</p>
-<ul>
-<li>Chronic obstructive pulmonary disease (COPD)</li>
-<li>Metabolic alkalosis from prolonged vomiting or excessive antacid use</li>
-<li>Cushing&#8217;s syndrome</li>
-<li>Conn&#8217;s syndrome (primary hyperaldosteronism)</li>
-<li>Severe dehydration</li>
-</ul>
-<h2>Low CO2 Levels (Hypocapnia)</h2>
-<p>CO2 levels below 23 mEq/L may suggest:</p>
-<ul>
-<li>Metabolic acidosis from diabetes, kidney disease, or severe diarrhea</li>
-<li>Respiratory alkalosis from hyperventilation or anxiety</li>
-<li>Addison&#8217;s disease</li>
-<li>Ethylene glycol or methanol poisoning</li>
-<li>Salicylate (aspirin) overdose</li>
-</ul>
-<h2>Factors That Influence CO2 Levels</h2>
-<p>Several lifestyle and environmental factors can affect your CO2 levels:</p>
-<ul>
-<li><strong>Exercise:</strong> Temporarily increases CO2 production as your muscles work harder and produce more metabolic waste; respiratory rate increases to maintain balance.</li>
-<li><strong>High altitude:</strong> Can lead to slightly lower CO2 levels as your body adapts to lower oxygen by breathing more rapidly.</li>
-<li><strong>Medications:</strong> Diuretics and corticosteroids can raise CO2 levels by causing metabolic alkalosis, while medications like metformin can lower CO2 if they cause lactic acidosis.</li>
-</ul>
-<h2>Optimizing Your CO2 Levels</h2>
-<p>Maintaining healthy CO2 levels involves supporting respiratory and kidney function:</p>
-<ul>
-<li>Engage in regular cardiovascular exercise to strengthen respiratory function.</li>
-<li>Stay well-hydrated to support kidney health and acid-base regulation.</li>
-<li>Address underlying respiratory issues with breathing exercises, pulmonary rehabilitation, or appropriate medications.</li>
-<li>Manage metabolic causes by treating root conditions such as kidney disease or diabetes, and following appropriate dietary plans.</li>
-<li>Maintain a balanced diet that avoids excessive protein or antacid overuse to prevent acid-base imbalances.</li>
-</ul>
-<p>Regular monitoring of your CO2 levels, especially if you have conditions affecting your lungs or kidneys, helps track your health status and treatment effectiveness. Understanding your CO2 levels as part of your complete metabolic panel provides valuable insights into your overall health.</p>
-<p><strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong></p>
 ]]></content:encoded>
 					
 		

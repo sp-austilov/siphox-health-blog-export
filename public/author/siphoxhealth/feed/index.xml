@@ -12,7 +12,7 @@
 	<atom:link href="/hub/author/siphoxhealth/feed/" rel="self" type="application/rss+xml" />
 	<link>/hub/</link>
 	<description></description>
-	<lastBuildDate>Wed, 11 Feb 2026 16:07:31 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 11 Feb 2026 21:49:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,152 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.1</generator>
 	<item>
+		<title>Heart and Metabolic Age</title>
+		<link>/hub/guides/heart-metabolic-age/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Wed, 11 Feb 2026 21:49:46 +0000</pubDate>
+				<category><![CDATA[Guides]]></category>
+		<guid isPermaLink="false">/hub/?p=4165</guid>
+
+					<description><![CDATA[
+
+What is Heart &#38; Metabolic Age? Heart &#38; Metabolic Age is a simplified, age-like estimate of your cardiometabolic health, based on two powerful signals from your bloodwork: Atherogenic particle burden (how many “plaque-forming” cholesterol particles you carry) Insulin sensitivity (how efficiently your body handles energy and blood fats) It’s designed to be easy to understand,&#8230; <a class="more-link" href="/hub/guides/heart-metabolic-age/">Continue reading <span class="screen-reader-text">Heart and Metabolic Age</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h3><strong>What is Heart &amp; Metabolic Age?</strong></h3>
+<p><strong>Heart &amp; Metabolic Age</strong> is a simplified, age-like estimate of your <strong>cardiometabolic health</strong>, based on two powerful signals from your bloodwork:</p>
+<ol>
+<li><strong>Atherogenic particle burden</strong> (how many “plaque-forming” cholesterol particles you carry)</li>
+<li><strong>Insulin sensitivity</strong> (how efficiently your body handles energy and blood fats)</li>
+</ol>
+<p>It’s designed to be easy to understand, easy to track over time, and tightly focused on the health domains that drive long-term cardiovascular and metabolic risk.</p>
+<hr />
+<h3><strong>The Heart &amp; Metabolic Phenotype</strong></h3>
+<p>To give a clearer picture than a single number alone, we first place you into a <strong>2×2 phenotype map</strong> based on two inputs:</p>
+<h4>1) Lipid Metabolism (ApoB)</h4>
+<p><strong>ApoB</strong> reflects the number of <strong>atherogenic (“plaque-building”) particles</strong> in your blood (including LDL and other ApoB-containing particles). In general:</p>
+<ul>
+<li><strong>Lower ApoB</strong> = fewer atherogenic particles</li>
+<li><strong>Higher ApoB</strong> = more atherogenic particles</li>
+</ul>
+<h4>2) Insulin Sensitivity (Triglycerides/HDL-C Ratio)</h4>
+<p>The <strong>Triglycerides-to-HDL-C ratio (Trig/HDL-C)</strong> captures two hallmarks of reduced insulin sensitivity: <strong>higher triglycerides</strong> and <strong>lower HDL-C</strong>. A lower ratio suggests better metabolic efficiency.</p>
+<p>In general:</p>
+<ul>
+<li><strong>Lower Trig/HDL-C</strong> = better insulin sensitivity signal</li>
+<li><strong>Higher Trig/HDL-C</strong> = more insulin-resistance–associated pattern</li>
+</ul>
+<h4>What the 4 phenotypes mean</h4>
+<p>Your position on the map reflects one of four patterns:</p>
+<ul>
+<li><strong>Optimal:</strong> Both ApoB and insulin sensitivity look favorable</li>
+<li><strong>Lipid regulated, insulin resistant:</strong> ApoB looks favorable, but the Trig/HDL-C pattern suggests reduced insulin sensitivity</li>
+<li><strong>Lipid dysregulated, insulin sensitive:</strong> insulin sensitivity looks favorable, but ApoB suggests elevated atherogenic particle burden</li>
+<li><strong>Lipid dysregulated, insulin resistant:</strong> both signals suggest higher heart and metabolic risk</li>
+</ul>
+<p>This map helps you understand whether your focus should be on lipids, metabolic health, or both.</p>
+<hr />
+<h3><strong>How Heart &amp; Metabolic Age is Calculated</strong></h3>
+<p>After placing you on the 2×2 phenotype map, we translate your ApoB and Trig/HDL-C pattern into a single <strong>Heart &amp; Metabolic score</strong>, then translate that score into an age-like number relative to your chronological age.</p>
+<p><strong>Younger Heart &amp; Metabolic Age</strong> reflects a more favorable cardiometabolic profile—your markers look like those typically seen in lower-risk, younger individuals.</p>
+<p><strong>Older Heart &amp; Metabolic Age</strong> suggests more room for improvement in the factors that drive cardiovascular and metabolic risk.</p>
+<hr />
+<h3><strong>How to Interpret Your Heart &amp; Metabolic Age</strong></h3>
+<ul>
+<li><strong>Lower than your chronological age:</strong> Your ApoB and insulin-sensitivity pattern look more like what’s typical in lower-risk, younger cardiometabolic profiles.</li>
+<li><strong>Higher than your chronological age:</strong> Your markers look more like patterns commonly associated with higher cardiometabolic risk, which can be a useful prompt to focus on improvements.</li>
+<li><strong>Close to your chronological age:</strong> Your profile is broadly similar to others in your age range.</li>
+</ul>
+<p>Just like with any health score, the most useful insight often comes from <strong>trends over time</strong>, especially if your collection conditions are consistent.</p>
+<hr />
+<h3><strong>Why This Matters</strong></h3>
+<p>Cardiometabolic health isn&#8217;t just one factor among many, it&#8217;s foundational. <strong>Atherosclerosis and insulin resistance</strong> are among the strongest predictors of <strong>long-term disease risk</strong>, and both are influenced by modifiable factors like diet, exercise, sleep, and stress.</p>
+<p>Heart &amp; Metabolic Age distills these complex dynamics into a single, trackable number. Instead of interpreting multiple markers in isolation, you get a clear summary of where you stand and whether you&#8217;re trending in the right direction.</p>
+<hr />
+<h3><strong>Important Notes and Limitations</strong></h3>
+<ul>
+<li>This is <strong>not a diagnosis</strong> and does not replace medical care.</li>
+<li>Triglycerides (and therefore Trig/HDL-C) can shift with <strong>recent meals, alcohol, illness, sleep disruption, and recent intense exercise</strong>. For the cleanest comparisons, test under similar conditions each time.</li>
+<li>Medications and supplements (especially lipid- and glucose-related therapies) can meaningfully change these markers—often in a positive direction. This is expected and reflects real improvement.</li>
+</ul>
+<p><!-- notionvc: 1dbcc97d-9424-4e00-ae0a-6175e1f51df6 --></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Biological Age</title>
+		<link>/hub/guides/biological-age/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Wed, 11 Feb 2026 21:48:09 +0000</pubDate>
+				<category><![CDATA[Guides]]></category>
+		<guid isPermaLink="false">/hub/?p=4162</guid>
+
+					<description><![CDATA[
+
+What is Biological Age? You&#8217;re 45 years old, but is your body? That&#8217;s the question biological age tries to answer. Your chronological age is simply how many years you&#8217;ve been alive. Your biological age looks deeper, examining patterns across your blood biomarkers to estimate whether your body more closely resembles someone younger, older, or right&#8230; <a class="more-link" href="/hub/guides/biological-age/">Continue reading <span class="screen-reader-text">Biological Age</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h3><strong>What is Biological Age?</strong></h3>
+<p>You&#8217;re 45 years old, but is your body? That&#8217;s the question biological age tries to answer.</p>
+<p>Your <strong>chronological age</strong> is simply how many years you&#8217;ve been alive. Your <strong>biological age</strong> looks deeper, examining patterns across your blood biomarkers to estimate whether your body more closely resembles someone younger, older, or right around your actual age.</p>
+<p>Think of it as a health fingerprint translated into a single, trackable number.</p>
+<hr />
+<h3><strong>How to Interpret Your Result</strong></h3>
+<ul>
+<li><strong>Lower biological age</strong>: Your overall biomarker pattern looks more similar to people who are chronologically younger.</li>
+<li><strong>Higher biological age</strong>: Your overall biomarker pattern looks more similar to people who are chronologically older. This can be a useful prompt to focus on areas that may be holding your health back.</li>
+<li><strong>Similar to your chronological age</strong>: Your biomarker pattern is broadly similar to others in your age range, which is common.</li>
+</ul>
+<p>A helpful way to think about this: <strong>biological age is a summary signal</strong>, not a diagnosis. It reflects the combined “shape” of your biomarker profile, not any single result.</p>
+<hr />
+<h3><strong>Why It Matters</strong></h3>
+<p>Biological age can help you:</p>
+<ul>
+<li><strong>See the bigger picture</strong> across multiple body systems (metabolic, cardiovascular, inflammation, hormones, and more).</li>
+<li><strong>Track trends over time</strong>, especially when you test consistently.</li>
+<li><strong>Identify areas to prioritize</strong> when paired with your biomarker insights and action plan.</li>
+</ul>
+<p>Here&#8217;s what makes biological age especially useful: because biomarkers respond to lifestyle, sleep, stress, nutrition, and medical care, your biological age can change. Unlike your chronological age, this number isn&#8217;t fixed.</p>
+<hr />
+<h3><strong>How Is Biological Age Calculated?</strong></h3>
+<p>There is no single lab test that directly measures “true” biological age, so models like ours learn how biomarker patterns typically vary with age across large populations, then compare your results to those patterns.</p>
+<p>At a high level, our approach works like this:</p>
+<ul>
+<li><strong>Training data:</strong> We trained our model using a combination of large public health datasets and internal data.</li>
+<li><strong>How your score is generated:</strong> When you get results, the model compares your biomarker pattern to the patterns it learned and estimates the age your profile most closely resembles.</li>
+</ul>
+<hr />
+<h3><strong>How Accurate Is It?</strong></h3>
+<p>Biological age is an <strong>estimate</strong>. It is designed to be directionally meaningful and consistent over time, especially when you retest under similar conditions.</p>
+<p>Short-term factors (illness, major sleep disruption, inflammation, medication changes, recent supplementation, training load, etc.) can temporarily shift biomarkers and influence the score. Some biomarkers can move in ways that are “health-positive” but still correlate with age trends in population data (for example, supplementation effects), which can sometimes affect the estimate.</p>
+<hr />
+<h3><strong>Why Your Biological Age May Change Over Time</strong></h3>
+<p>It’s normal for biological age to shift between tests because your biomarkers change with lifestyle, recovery, stress, and health status. Normal biological variation and lab variation exist, and the model may be updated over time as we expand training data and improve performance.</p>
+<p>For interpretation, it’s best to focus on <strong>your trend over multiple tests, which biomarkers are driving the change, and whether changes match how you feel.</strong></p>
+<hr />
+<h3><strong>Biological Age vs. Heart &amp; Metabolic Age</strong></h3>
+<p>If you&#8217;ve also completed a Heart &amp; Metabolic panel, you&#8217;ll see a second age estimate. <a href="https://siphoxhealth.com/hub/guides/heart-metabolic-age"><strong>Heart &amp; Metabolic Age</strong></a> is a structured score translated into an age-like number based on the SiPhox Heart and Metabolic phenotype.</p>
+<p><strong>Biological Age</strong> uses a broader set of biomarkers and a machine learning approach trained on population patterns across age and sex. It is intended to reflect a more general “whole-body” biomarker aging signal rather than one specific domain.</p>
+<p>Both are useful. Heart &amp; Metabolic Age tells you how your cardiovascular system is holding up. Biological Age gives you a wider lens on overall aging. If you have access to both, consider them complementary views of your health.</p>
+<hr />
+<h3>Important Notes</h3>
+<ul>
+<li>Biological age is <strong>not a medical diagnosis</strong> and should not be used alone to diagnose or treat any condition.</li>
+<li>It does not capture every factor that influences aging (genetics, imaging findings, fitness, body composition, sleep quality, medical history, and more).</li>
+</ul>
+<p><!-- notionvc: 27b12321-006c-4b67-bb5a-9b6cb459e9ba --></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Protein Supplements: Choosing the Best Option for Your Health</title>
 		<link>/hub/guides/best-protein-supplements/</link>
 		
@@ -1131,125 +1277,6 @@ Not everyone has time for a live call—but everyone deserves personalized healt
 <hr />
 <p><em>Your biomarkers hold the key to better health. Let us help you unlock it—on your schedule.</em></p>
 <p><!-- notionvc: 75566fc2-4255-4f65-8cd9-ee69b61cc481 --></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Estimated Average Glucose (eAG)</title>
-		<link>/hub/biomarkers-2/biomarkers-estimated-average-glucose/</link>
-		
-		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Tue, 09 Dec 2025 19:27:07 +0000</pubDate>
-				<category><![CDATA[Biomarkers]]></category>
-		<guid isPermaLink="false">/hub/?p=4105</guid>
-
-					<description><![CDATA[
-
-What is Estimated Average Glucose (eAG)? Estimated Average Glucose (eAG) is a calculated value derived from your HbA1c (hemoglobin A1c) test results. While HbA1c is reported as a percentage, eAG translates that percentage into the same units used by home blood glucose meters: milligrams per deciliter (mg/dL) or millimoles per liter (mmol/L). This conversion makes&#8230; <a class="more-link" href="/hub/biomarkers-2/biomarkers-estimated-average-glucose/">Continue reading <span class="screen-reader-text">Estimated Average Glucose (eAG)</span></a>]]></description>
-			
-
-							<content:encoded><![CDATA[
-<h2>What is Estimated Average Glucose (eAG)?</h2>
-<p><a href="https://medlineplus.gov/ency/patientinstructions/000966.htm" target="_blank" rel="noopener"><span style="text-decoration: underline;">Estimated Average Glucose (eAG)</span></a> is a calculated value derived from your <a href="https://home.siphoxhealth.com/hub/biomarkers-2/biomarker-hemoglobin-a1c" target="_blank" rel="noopener"><span style="text-decoration: underline;">HbA1c</span></a> (hemoglobin A1c) test results. While HbA1c is reported as a percentage, eAG translates that percentage into the same units used by home blood glucose meters: milligrams per deciliter (mg/dL) or millimoles per liter (mmol/L). This conversion makes it easier for people to understand their long-term blood sugar control in relation to the numbers they see during daily glucose monitoring. The formula used to calculate eAG was established by the A1c-Derived Average Glucose (ADAG) study, which included 507 subjects from 10 international centers: eAG (mg/dL) = (28.7 x A1C) &#8211; 46.7.</p>
-<h2>Why is Estimated Average Glucose (eAG) important?</h2>
-<p>Tracking your eAG helps you understand your average blood sugar levels over the past two to three months, providing valuable insight into how well your diabetes management plan is working. Unlike a single fasting glucose test, eAG reflects glucose levels throughout the day, including after meals and overnight. This comprehensive view makes eAG a useful tool for both patients and healthcare providers when assessing glycemic control.</p>
-<p>High eAG values indicate chronically elevated blood sugar, which increases the risk of <a href="https://my.clevelandclinic.org/health/diseases/9815-hyperglycemia-high-blood-sugar" target="_blank" rel="noopener"><span style="text-decoration: underline;">diabetes complications</span></a> such as cardiovascular disease, kidney damage (nephropathy), nerve damage (neuropathy), and eye problems (retinopathy). Symptoms of consistently high blood sugar may include increased thirst, frequent urination, fatigue, blurred vision, and slow-healing wounds. Low eAG values in people with diabetes may indicate well-controlled blood sugar, but excessively low values could suggest frequent hypoglycemic episodes, which can be dangerous and may cause confusion, shakiness, sweating, and in severe cases, loss of consciousness. If you are concerned about your eAG levels, it is important to consult with your physician.</p>
-<h2>How can I better understand my Estimated Average Glucose (eAG) levels?</h2>
-<div data-dynamic-ranges="true" data-test="1"></div>
-<div data-ranges="true">
-<p>According to the <a href="https://diabetes.org/a1c-eag-conversion-calculator" target="_blank" rel="noopener"><span style="text-decoration: underline;">American Diabetes Association</span></a> and <a href="https://medlineplus.gov/ency/patientinstructions/000966.htm" target="_blank" rel="noopener"><span style="text-decoration: underline;">MedlinePlus</span></a>:</p>
-<ul>
-<li>Normal (non-diabetic): 70-126 mg/dL (corresponds to A1C of 4-6%)</li>
-<li>Prediabetes range: 117-137 mg/dL (corresponds to A1C of 5.7-6.4%)</li>
-<li>Diabetes target for most adults: &lt;154 mg/dL (corresponds to A1C &lt;7%)</li>
-<li>Diabetes diagnosis threshold: &gt;140 mg/dL (corresponds to A1C &gt;6.5%)</li>
-</ul>
-<p><strong>Common A1C to eAG conversions:</strong></p>
-<ul>
-<li>A1C 5%: eAG 97 mg/dL</li>
-<li>A1C 6%: eAG 126 mg/dL</li>
-<li>A1C 7%: eAG 154 mg/dL</li>
-<li>A1C 8%: eAG 183 mg/dL</li>
-<li>A1C 9%: eAG 212 mg/dL</li>
-<li>A1C 10%: eAG 240 mg/dL</li>
-</ul>
-</div>
-<p>It is important to note that your eAG may not match the average of your home glucose meter readings. This is because most people tend to check their blood sugar before meals or when they feel low, which does not capture post-meal spikes or overnight glucose levels. eAG provides a more complete picture of your 24-hour glucose exposure.</p>
-<p>Certain conditions and medications can affect the accuracy of eAG calculations, including anemia, kidney disease, sickle cell disease, thalassemia, and recent blood transfusions. If you have any of these conditions, discuss with your healthcare provider how to best interpret your results.</p>
-<h3>How can I maintain optimal eAG levels?</h3>
-<p>If you need to maintain or improve your eAG levels, consider the following strategies:</p>
-<p><strong>Dietary Changes:</strong> Focus on a balanced diet rich in <a href="https://www.hopkinsmedicine.org/health/conditions-and-diseases/diabetes/managing-diabetes-six-healthy-steps-with-the-most-benefit" target="_blank" rel="noopener"><span style="text-decoration: underline;">fiber from vegetables, whole grains, and legumes</span></a>. Limit refined carbohydrates, sugary beverages, and ultra-processed foods. The American Diabetes Association recommends following the Diabetes Plate Method: fill half your plate with non-starchy vegetables, one quarter with lean protein, and one quarter with whole grains or starchy foods. Pairing carbohydrates with protein, fiber, and healthy fats can help prevent blood sugar spikes.</p>
-<p><strong>Physical Activity:</strong> Regular <a href="https://diabetes.org/health-wellness/fitness/blood-glucose-and-exercise" target="_blank" rel="noopener"><span style="text-decoration: underline;">exercise</span></a> improves insulin sensitivity and helps your body use glucose more efficiently. Aim for at least 150 minutes of moderate-intensity aerobic activity per week, such as brisk walking, swimming, or cycling. Incorporating two to three sessions of resistance training weekly can further improve blood sugar control. Physical activity can lower blood glucose for up to 24 hours after your workout.</p>
-<p><strong>Lifestyle Changes:</strong> Managing <a href="https://www.texashealth.org/areyouawellbeing/Diabetes/Tips-from-a-Diabetes-Educator-to-Lower-Your-A1C-Levels" target="_blank" rel="noopener"><span style="text-decoration: underline;">stress</span></a> through meditation, yoga, or deep breathing exercises can help lower blood sugar, as stress hormones cause glucose levels to rise. Prioritize quality sleep of seven to nine hours per night, as poor sleep negatively impacts blood sugar regulation. If you smoke, quitting can significantly improve your diabetes management and reduce the risk of complications.</p>
-<p><strong>Medication Adherence:</strong> If your healthcare provider has prescribed diabetes medications or insulin, take them exactly as directed. Missing doses can lead to blood sugar fluctuations that will raise your eAG over time. Discuss any concerns about side effects or costs with your doctor before making changes.</p>
-<h3>Where can I learn more?</h3>
-<ul>
-<li><span style="text-decoration: underline;"><a href="https://medlineplus.gov/ency/patientinstructions/000966.htm" target="_blank" rel="noopener">MedlinePlus &#8211; Estimated Average Glucose (eAG)</a></span></li>
-<li><span style="text-decoration: underline;"><a href="https://diabetes.org/a1c-eag-conversion-calculator" target="_blank" rel="noopener">American Diabetes Association &#8211; A1C and eAG Conversion Calculator</a></span></li>
-<li><span style="text-decoration: underline;"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2742903/" target="_blank" rel="noopener">Diabetes Care &#8211; Translating the A1C Assay Into Estimated Average Glucose Values (Nathan et al., 2008)</a></span></li>
-<li><span style="text-decoration: underline;"><a href="https://ngsp.org/A1ceAG.asp" target="_blank" rel="noopener">National Glycohemoglobin Standardization Program &#8211; HbA1c and eAG</a></span></li>
-</ul>
-<p><strong>DISCLAIMER:</strong> This information is for educational purposes only and is not a substitute for professional medical advice. Always consult your healthcare provider for interpretation of your eAG results and for personalized diabetes management recommendations.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>% Free Testosterone</title>
-		<link>/hub/biomarkers-2/biomarker-percent-free-testosterone/</link>
-		
-		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Tue, 09 Dec 2025 19:20:13 +0000</pubDate>
-				<category><![CDATA[Biomarkers]]></category>
-		<guid isPermaLink="false">/hub/?p=4100</guid>
-
-					<description><![CDATA[
-
-What is % free testosterone? Testosterone circulates in the blood in three forms: tightly bound to sex hormone-binding globulin (SHBG), weakly bound to albumin, and unbound (free). Percent free testosterone (% free testosterone) is a calculated value that represents the ratio of free testosterone to total testosterone in your blood. While free testosterone typically accounts&#8230; <a class="more-link" href="/hub/biomarkers-2/biomarker-percent-free-testosterone/">Continue reading <span class="screen-reader-text">% Free Testosterone</span></a>]]></description>
-			
-
-							<content:encoded><![CDATA[
-<h2>What is % free testosterone?</h2>
-<p><a href="https://medlineplus.gov/lab-tests/testosterone-levels-test/" target="_blank"><span style="text-decoration: underline;">Testosterone</span></a> circulates in the blood in three forms: tightly bound to sex hormone-binding globulin (SHBG), weakly bound to albumin, and unbound (free). Percent free testosterone (% free testosterone) is a calculated value that represents the ratio of free testosterone to total testosterone in your blood. While free testosterone typically accounts for only 1-3% of total testosterone in men and less than 1% in women, this small fraction is critically important because it represents the biologically active form of the hormone that can readily enter cells and exert its effects.</p>
-<h2>Why is % free testosterone important?</h2>
-<p>Tracking your % free testosterone provides valuable insight into how much testosterone is actually available for your body to use, beyond what a <a href="https://my.clevelandclinic.org/health/diagnostics/24215-testosterone-test" target="_blank"><span style="text-decoration: underline;">total testosterone test</span></a> alone can reveal. This measurement is particularly useful when total testosterone levels appear normal but symptoms of testosterone deficiency persist. Because of its clinical significance, % free testosterone may be included in comprehensive hormone panels offered by <span style="text-decoration: underline;"><a href="https://siphoxhealth.com/" target="_blank">SiPhox Health</a></span>.</p>
-<p>A low % free testosterone may indicate that too much testosterone is bound to <a href="https://medlineplus.gov/lab-tests/shbg-blood-test/" target="_blank"><span style="text-decoration: underline;">SHBG</span></a>, leaving insufficient active hormone available to tissues. This can occur even when total testosterone is within normal range. Conditions associated with elevated SHBG include hyperthyroidism, liver disease, and aging. Symptoms of low bioavailable testosterone may include decreased libido, erectile dysfunction, fatigue, depression, reduced muscle mass, and decreased bone density. A high % free testosterone may indicate low SHBG levels, which can be seen in obesity, insulin resistance, hypothyroidism, and <a href="https://www.mayoclinic.org/diseases-conditions/pcos/symptoms-causes/syc-20353439" target="_blank"><span style="text-decoration: underline;">polycystic ovary syndrome (PCOS)</span></a> in women. If you are concerned with your levels, it is important to consult with your physician.</p>
-<h2>How can I better understand my % free testosterone levels?</h2>
-<div data-dynamic-ranges="true" data-test="1"></div>
-<div data-ranges="true">
-<p><strong>Adult Males:</strong></p>
-<ul>
-<li>Low: &lt;1.0%</li>
-<li>Normal: 1.0-2.7%</li>
-<li>Optimal: 2.0-3.0%</li>
-<li>High: &gt;3.0%</li>
-</ul>
-<p><strong>Adult Females:</strong></p>
-<ul>
-<li>Low: &lt;0.3%</li>
-<li>Normal: 0.3-1.0%</li>
-<li>High: &gt;1.0%</li>
-</ul>
-</div>
-<p>Percent free testosterone is typically calculated using measurements of total testosterone, SHBG, and albumin through validated formulas such as the <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3146796/" target="_blank"><span style="text-decoration: underline;">Vermeulen equation</span></a>. This calculation provides a reliable estimate of free testosterone without requiring the more complex and expensive direct measurement methods like equilibrium dialysis.</p>
-<p>It is important to interpret % free testosterone in conjunction with total testosterone and SHBG levels for a complete picture of hormonal status. Testing should be performed in the morning (between 8-10 a.m.) when testosterone levels are highest. As SHBG tends to increase with age, the % free testosterone often becomes a more reliable indicator of testosterone availability than total testosterone in older individuals.</p>
-<h3>How can I maintain optimal % free testosterone levels?</h3>
-<p>If you need to maintain or adjust your % free testosterone levels, consider the following strategies:</p>
-<p><strong>Exercise:</strong> <span style="text-decoration: underline;"><a href="https://www.healthline.com/nutrition/8-ways-to-boost-testosterone" target="_blank">Resistance training</a></span> and high-intensity interval training (HIIT) have been shown to support healthy testosterone levels. Regular physical activity can also help optimize body composition, which influences SHBG levels.</p>
-<p><strong>Weight Management:</strong> Maintaining a healthy body weight is crucial, as obesity is associated with lower SHBG and altered testosterone metabolism. <span style="text-decoration: underline;"><a href="https://examine.com/faq/how-can-you-increase-testosterone-naturally/" target="_blank">Weight loss</a></span> in overweight individuals can help normalize hormone balance.</p>
-<p><strong>Nutrition:</strong> Ensure adequate intake of <span style="text-decoration: underline;"><a href="https://www.goodrx.com/health-topic/mens-health/supplements-that-increase-testosterone" target="_blank">zinc</a></span>, vitamin D, and magnesium, which support testosterone production. Protein intake influences SHBG levels, and a balanced diet with adequate healthy fats supports overall hormone health.</p>
-<p><strong>Lifestyle:</strong> Prioritize 7-9 hours of quality sleep per night, as sleep deprivation negatively impacts testosterone production. Manage stress levels, as chronic stress elevates cortisol which can affect testosterone. Limit alcohol consumption and avoid smoking.</p>
-<h3>Where can I learn more?</h3>
-<ul>
-<li><span style="text-decoration: underline;"><a href="https://medlineplus.gov/lab-tests/testosterone-levels-test/" target="_blank">MedlinePlus &#8211; Testosterone Levels Test</a></span></li>
-<li><span style="text-decoration: underline;"><a href="https://medlineplus.gov/lab-tests/shbg-blood-test/" target="_blank">MedlinePlus &#8211; SHBG Blood Test</a></span></li>
-<li><span style="text-decoration: underline;"><a href="https://my.clevelandclinic.org/health/diagnostics/24215-testosterone-test" target="_blank">Cleveland Clinic &#8211; Testosterone Test</a></span></li>
-<li><span style="text-decoration: underline;"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3146796/" target="_blank">NIH PMC &#8211; Reference Ranges for Testosterone in Men (Framingham Heart Study)</a></span></li>
-</ul>
-<p><strong>DISCLAIMER:</strong> This information is for educational purposes only and is not a substitute for professional medical advice. Always consult your healthcare provider for interpretation of your % free testosterone results and for personalized hormone health recommendations.</p>
 ]]></content:encoded>
 					
 		
