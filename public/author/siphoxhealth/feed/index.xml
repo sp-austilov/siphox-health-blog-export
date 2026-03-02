@@ -12,7 +12,7 @@
 	<atom:link href="/hub/author/siphoxhealth/feed/" rel="self" type="application/rss+xml" />
 	<link>/hub/</link>
 	<description></description>
-	<lastBuildDate>Wed, 11 Feb 2026 21:49:47 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 02 Mar 2026 22:04:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,102 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.1</generator>
 	<item>
+		<title>Understanding Partial Replacements</title>
+		<link>/hub/guides/understanding-partial-replacements/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Mon, 02 Mar 2026 22:03:59 +0000</pubDate>
+				<category><![CDATA[Guides]]></category>
+		<guid isPermaLink="false">/hub/?p=4170</guid>
+
+					<description><![CDATA[
+
+At SiPhox, our goal is to deliver complete, high-quality results for every biomarker in your panel. Occasionally, however, collection or shipping variables can affect whether all markers can be processed. When that happens, we use a partial replacement flow to make sure you receive the missing results without repeating tests unnecessarily. Why Some Markers May&#8230; <a class="more-link" href="/hub/guides/understanding-partial-replacements/">Continue reading <span class="screen-reader-text">Understanding Partial Replacements</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<div>
+<div>
+<div>
+<div id="message-list">
+<div id="message-list">
+<div>
+<div>
+<div>
+<div id="message-list_1772488124.982739" aria-labelledby="primary-D08UYG2NT8V-1772488124.982739-sender primary-D08UYG2NT8V-1772488124.982739-message_text primary-D08UYG2NT8V-1772488124.982739-alt_text primary-D08UYG2NT8V-1772488124.982739-date_time primary-D08UYG2NT8V-1772488124.982739-reaction_count primary-D08UYG2NT8V-1772488124.982739-reply_count primary-D08UYG2NT8V-1772488124.982739-link_count primary-D08UYG2NT8V-1772488124.982739-attachment_count primary-D08UYG2NT8V-1772488124.982739-has_draft_reply primary-D08UYG2NT8V-1772488124.982739-pinned_state primary-D08UYG2NT8V-1772488124.982739-edited_state primary-D08UYG2NT8V-1772488124.982739-later_state primary-D08UYG2NT8V-1772488124.982739-broadcast_state primary-D08UYG2NT8V-1772488124.982739-broadcast_thread_root_message primary-D08UYG2NT8V-1772488124.982739-translated_state" aria-setsize="-1">
+<div>
+<div aria-roledescription="message">
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>At SiPhox, our goal is to deliver complete, high-quality results for every biomarker in your panel. Occasionally, however, collection or shipping variables can affect whether all markers can be processed. When that happens, we use a <strong>partial replacement flow</strong> to make sure you receive the missing results without repeating tests unnecessarily.</div>
+<div></div>
+<div></div>
+<h3>Why Some Markers May Not Result</h3>
+<p>In certain cases, our laboratory may be unable to process one or more biomarkers due to insufficient sample volume. Importantly, sufficient blood volume cannot always be visually confirmed at the time of collection. The issue most often becomes apparent during laboratory processing.</p>
+<p>When your sample arrives at the lab, it is centrifuged to separate plasma from other blood components. Some biomarkers require a specific minimum amount of plasma to be accurately measured. If there is not enough plasma available, those markers cannot be reliably resulted.</p>
+<p>This can happen for several reasons:</p>
+<ol>
+<li><strong>Naturally Lower Plasma Volume</strong> &#8211; Some individuals naturally have lower plasma proportions, which can make it more difficult to extract enough plasma for all requested tests.</li>
+<li><strong>Coagulation Before Processing</strong> &#8211; If the blood begins to clot before it is fully processed, this can reduce the available plasma. Clotting times can vary between individuals and may be influenced by temperature, blood pressure, and device placement.</li>
+</ol>
+<p>When this occurs, we will clearly indicate which biomarkers could not be resulted.</p>
+<h3>What Happens Next: The Partial Replacement Flow</h3>
+<p>If certain biomarkers cannot be processed, we do not require you to repeat the entire panel.</p>
+<p>Instead, we replace only the missing markers. For example, if 3 biomarkers were not resulted, we send a kit configured to test those 3 markers.<br aria-hidden="true" />This approach ensures:</p>
+<ul>
+<li>You do not repeat tests that were already successfully resulted</li>
+<li>You do not pay for duplicate testing</li>
+<li>You receive a complete data set as efficiently as possible</li>
+</ul>
+</div>
+<h3>How to Improve Sample Volume for Re-Collection</h3>
+<div>
+<p>If a replacement is needed, we recommend the following steps immediately before collection to help maximize blood flow and plasma volume:</p>
+<ul>
+<li>Take a warm shower and make sure you are in warm surroundings</li>
+<li>Engage in light exercise to stimulate circulation</li>
+<li>Hydrate well in the hours leading up to collection</li>
+<li>We also offer complimentary live collection support calls, where a member of our team can guide you in real time to help ensure sufficient sample volume.</li>
+</ul>
+<h3>Our Commitment to Result Integrity</h3>
+<p>When a biomarker cannot be reliably measured, we do not report it. Accuracy and integrity come first. If sufficient sample volume is not available, the test is not forced or estimated.</p>
+<p>Our partial replacement process is designed to ensure that you ultimately receive a complete, high-confidence panel without unnecessary inconvenience.</p>
+<p>If you ever have questions about your results or a replacement shipment, our support team is here to help.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+</div>
+</div>
+<div>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Heart and Metabolic Age</title>
 		<link>/hub/guides/heart-metabolic-age/</link>
 		
@@ -1155,128 +1251,6 @@ What is the Cortisol:DHEA-S Ratio? Your adrenal glands sit atop your kidneys and
 <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12357812/">Biogerontology &#8211; Cortisol, DHEAS, and the cortisol/DHEAS ratio as predictors of epigenetic age acceleration</a></li>
 </ul>
 <p><!-- notionvc: e664be04-3fda-45e1-99b7-3a543bac4a0e --></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Your Personalized Roadmap: Expert Written Health Plans</title>
-		<link>/hub/guides/expert-written-health-plan/</link>
-		
-		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Thu, 11 Dec 2025 20:30:59 +0000</pubDate>
-				<category><![CDATA[Guides]]></category>
-		<guid isPermaLink="false">/hub/?p=4110</guid>
-
-					<description><![CDATA[
-Not everyone has time for a live call—but everyone deserves personalized health guidance. You&#8217;ve invested in understanding your body through comprehensive biomarker testing. Now you need clear, actionable guidance to improve your health. But between work, family, and life, finding time for appointments can be challenging. That&#8217;s why Siphox offers Expert Written Health Plans: personalized,&#8230; <a class="more-link" href="/hub/guides/expert-written-health-plan/">Continue reading <span class="screen-reader-text">Your Personalized Roadmap: Expert Written Health Plans</span></a>]]></description>
-			
-							<content:encoded><![CDATA[<p>Not everyone has time for a live call—but everyone deserves personalized health guidance.</p>
-<p>You&#8217;ve invested in understanding your body through comprehensive biomarker testing. Now you need clear, actionable guidance to improve your health. But between work, family, and life, finding time for appointments can be challenging.</p>
-<p>That&#8217;s why Siphox offers Expert Written Health Plans: personalized, written health coaching delivered on your schedule. For just $39, complete a detailed questionnaire and receive a comprehensive written action plan from a qualified health specialist, no appointment necessary.</p>
-<h2>How It Works: Simple, Flexible, Expert</h2>
-<p><strong>Step 1: Complete Your Health Questionnaire (2-5 minutes)</strong> Answer detailed questions about:</p>
-<ul>
-<li>Your current lifestyle (diet, exercise, sleep, stress)</li>
-<li>Health goals and priorities</li>
-<li>Medical history and current symptoms</li>
-<li>Supplements and medications</li>
-<li>Specific concerns about your biomarkers</li>
-</ul>
-<p><strong>Step 2: Expert Analysis (Behind the Scenes)</strong> A qualified health coach reviews your biomarkers alongside your questionnaire responses, analyzing patterns and identifying opportunities for optimization.</p>
-<p><strong>Step 3: Receive Your Personalized Action Plan (Within 3-5 business days)</strong> Get a comprehensive written plan including:</p>
-<ul>
-<li>Summary of your biomarker analysis</li>
-<li>Key findings and areas of focus</li>
-<li>Specific, prioritized action items</li>
-<li>Lifestyle recommendations tailored to your situation</li>
-<li>Supplement suggestions with dosing guidance</li>
-<li>Timeline for reassessment</li>
-</ul>
-<h2>Why Choose Expert Written Health Plans?</h2>
-<p><strong>Convenience and Flexibility</strong> Complete your questionnaire whenever it works for you; early morning, lunch break, or late at night. No scheduling conflicts, no appointment anxiety.</p>
-<p><strong>Thorough Analysis</strong> Your coach has time to deeply analyze your biomarkers and questionnaire responses without the constraints of a live call, often resulting in more comprehensive recommendations.</p>
-<p><strong>Written Documentation</strong> Everything is documented in writing from the start. You can reference your action plan anytime, share it with your doctor, and track your progress over time without relying on notes from a call.</p>
-<p><strong>Perfect for Introverts</strong> Not everyone wants to jump on a call. Some people process information better in writing and prefer the privacy of a written exchange.</p>
-<p><strong>International Friendly</strong> No matter where you are in the world, no matter your time zone, you can access expert health coaching without coordination challenges.</p>
-<p><strong>Time to Reflect</strong> Review your action plan carefully, research recommendations, and formulate follow-up questions without the pressure of a live conversation.</p>
-<h2>What&#8217;s Included in Your Action Plan</h2>
-<p>Your comprehensive written action plan covers:</p>
-<p><strong>Biomarker Summary</strong></p>
-<ul>
-<li>Overview of your key results</li>
-<li>Explanation of what each marker means</li>
-<li>Context for your specific situation</li>
-</ul>
-<p><strong>Lifestyle Analysis</strong></p>
-<ul>
-<li>Assessment of your current diet, exercise, sleep, and stress management</li>
-<li>Identification of gaps and opportunities</li>
-</ul>
-<p><strong>Prioritized Action Items</strong></p>
-<ul>
-<li>Specific, actionable recommendations ranked by impact</li>
-<li>Clear instructions for implementation</li>
-<li>Expected timeline for each intervention</li>
-</ul>
-<p><strong>Supplementation Guidance</strong></p>
-<ul>
-<li>Which supplements to consider and why</li>
-<li>Specific dosing recommendations</li>
-<li>Timing and combination guidance</li>
-</ul>
-<p><strong>Next Steps</strong></p>
-<ul>
-<li>When to retest biomarkers</li>
-<li>What to monitor for improvement</li>
-<li>How to track progress</li>
-</ul>
-<h2>The Science Behind Written Coaching</h2>
-<p>Research shows that written action plans increase adherence to health interventions by providing:</p>
-<p><strong>Clarity</strong>: Written recommendations eliminate misunderstanding or forgotten details from verbal conversations</p>
-<p><strong>Commitment</strong>: Writing down goals and actions increases the likelihood of follow-through</p>
-<p><strong>Reference</strong>: You can review your plan whenever you need motivation or clarity</p>
-<p><strong>Accountability</strong>: Having a documented plan makes it easier to track what you&#8217;ve implemented and what still needs attention</p>
-<h2>Common Areas Addressed in Action Plans</h2>
-<p>Based on your biomarkers and questionnaire, your action plan may include guidance on:</p>
-<ul>
-<li><strong>Metabolic Optimization</strong>: Blood sugar control, insulin sensitivity, lipid management</li>
-<li><strong>Hormonal Balance</strong>: Thyroid support, sex hormone optimization, cortisol regulation</li>
-<li><strong>Cardiovascular Health</strong>: Cholesterol improvement, blood pressure management, inflammation reduction</li>
-<li><strong>Dietary Strategy</strong>: Meal composition, macronutrient ratios, food timing, specific foods to emphasize or avoid</li>
-<li><strong>Exercise Prescription</strong>: Type, intensity, frequency, and timing of workouts</li>
-<li><strong>Sleep Enhancement</strong>: Duration, quality, sleep hygiene, circadian rhythm optimization</li>
-<li><strong>Stress Reduction</strong>: Practical techniques for managing chronic stress</li>
-<li><strong>Targeted Supplementation</strong>: Evidence-based supplement recommendations specific to your deficiencies</li>
-</ul>
-<h2>Is This Right for You?</h2>
-<p>Expert Written Health Plans are ideal if you:</p>
-<p>✓ Prefer written communication over live calls</p>
-<p>✓ Want to complete your health assessment on your own schedule</p>
-<p>✓ Value having detailed documentation to reference</p>
-<p>✓ Like to process information thoroughly before asking questions</p>
-<p>✓ Live in a different time zone or have an unpredictable schedule</p>
-<p>✓ Want comprehensive analysis without time pressure</p>
-<p>✓ Prefer privacy and written records</p>
-<p>✓ Need to share recommendations with your doctor</p>
-<h2>Get Your Personalized Action Plan: Just $39</h2>
-<p>For the price of a supplement bottle, you can receive expert guidance tailored specifically to your biomarkers and lifestyle.</p>
-<p><strong>What you get for $39:</strong></p>
-<ul>
-<li>Detailed health questionnaire to capture your complete picture</li>
-<li>Expert analysis from a qualified health coach</li>
-<li>Comprehensive written action plan with 5-10 prioritized recommendations</li>
-<li>Supplement guidance with specific dosing</li>
-<li>Timeline for reassessment</li>
-<li>Documentation you can reference anytime</li>
-</ul>
-<p><strong>No appointments. No scheduling. No pressure. Just expert guidance delivered to your inbox.</strong></p>
-<p>Start improving your health today—on your schedule, at your pace.</p>
-<p><a href="https://siphoxhealth.com/products/coaching-call-asynch">Get Your Action Plan Now</a></p>
-<hr />
-<p><em>Your biomarkers hold the key to better health. Let us help you unlock it—on your schedule.</em></p>
-<p><!-- notionvc: 75566fc2-4255-4f65-8cd9-ee69b61cc481 --></p>
 ]]></content:encoded>
 					
 		

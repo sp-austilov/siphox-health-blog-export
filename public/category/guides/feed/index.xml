@@ -12,7 +12,7 @@
 	<atom:link href="/hub/category/guides/feed/" rel="self" type="application/rss+xml" />
 	<link>/hub/</link>
 	<description></description>
-	<lastBuildDate>Wed, 11 Feb 2026 21:49:47 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 02 Mar 2026 22:04:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,102 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.1</generator>
 	<item>
+		<title>Understanding Partial Replacements</title>
+		<link>/hub/guides/understanding-partial-replacements/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Mon, 02 Mar 2026 22:03:59 +0000</pubDate>
+				<category><![CDATA[Guides]]></category>
+		<guid isPermaLink="false">/hub/?p=4170</guid>
+
+					<description><![CDATA[
+
+At SiPhox, our goal is to deliver complete, high-quality results for every biomarker in your panel. Occasionally, however, collection or shipping variables can affect whether all markers can be processed. When that happens, we use a partial replacement flow to make sure you receive the missing results without repeating tests unnecessarily. Why Some Markers May&#8230; <a class="more-link" href="/hub/guides/understanding-partial-replacements/">Continue reading <span class="screen-reader-text">Understanding Partial Replacements</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<div>
+<div>
+<div>
+<div id="message-list">
+<div id="message-list">
+<div>
+<div>
+<div>
+<div id="message-list_1772488124.982739" aria-labelledby="primary-D08UYG2NT8V-1772488124.982739-sender primary-D08UYG2NT8V-1772488124.982739-message_text primary-D08UYG2NT8V-1772488124.982739-alt_text primary-D08UYG2NT8V-1772488124.982739-date_time primary-D08UYG2NT8V-1772488124.982739-reaction_count primary-D08UYG2NT8V-1772488124.982739-reply_count primary-D08UYG2NT8V-1772488124.982739-link_count primary-D08UYG2NT8V-1772488124.982739-attachment_count primary-D08UYG2NT8V-1772488124.982739-has_draft_reply primary-D08UYG2NT8V-1772488124.982739-pinned_state primary-D08UYG2NT8V-1772488124.982739-edited_state primary-D08UYG2NT8V-1772488124.982739-later_state primary-D08UYG2NT8V-1772488124.982739-broadcast_state primary-D08UYG2NT8V-1772488124.982739-broadcast_thread_root_message primary-D08UYG2NT8V-1772488124.982739-translated_state" aria-setsize="-1">
+<div>
+<div aria-roledescription="message">
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>At SiPhox, our goal is to deliver complete, high-quality results for every biomarker in your panel. Occasionally, however, collection or shipping variables can affect whether all markers can be processed. When that happens, we use a <strong>partial replacement flow</strong> to make sure you receive the missing results without repeating tests unnecessarily.</div>
+<div></div>
+<div></div>
+<h3>Why Some Markers May Not Result</h3>
+<p>In certain cases, our laboratory may be unable to process one or more biomarkers due to insufficient sample volume. Importantly, sufficient blood volume cannot always be visually confirmed at the time of collection. The issue most often becomes apparent during laboratory processing.</p>
+<p>When your sample arrives at the lab, it is centrifuged to separate plasma from other blood components. Some biomarkers require a specific minimum amount of plasma to be accurately measured. If there is not enough plasma available, those markers cannot be reliably resulted.</p>
+<p>This can happen for several reasons:</p>
+<ol>
+<li><strong>Naturally Lower Plasma Volume</strong> &#8211; Some individuals naturally have lower plasma proportions, which can make it more difficult to extract enough plasma for all requested tests.</li>
+<li><strong>Coagulation Before Processing</strong> &#8211; If the blood begins to clot before it is fully processed, this can reduce the available plasma. Clotting times can vary between individuals and may be influenced by temperature, blood pressure, and device placement.</li>
+</ol>
+<p>When this occurs, we will clearly indicate which biomarkers could not be resulted.</p>
+<h3>What Happens Next: The Partial Replacement Flow</h3>
+<p>If certain biomarkers cannot be processed, we do not require you to repeat the entire panel.</p>
+<p>Instead, we replace only the missing markers. For example, if 3 biomarkers were not resulted, we send a kit configured to test those 3 markers.<br aria-hidden="true" />This approach ensures:</p>
+<ul>
+<li>You do not repeat tests that were already successfully resulted</li>
+<li>You do not pay for duplicate testing</li>
+<li>You receive a complete data set as efficiently as possible</li>
+</ul>
+</div>
+<h3>How to Improve Sample Volume for Re-Collection</h3>
+<div>
+<p>If a replacement is needed, we recommend the following steps immediately before collection to help maximize blood flow and plasma volume:</p>
+<ul>
+<li>Take a warm shower and make sure you are in warm surroundings</li>
+<li>Engage in light exercise to stimulate circulation</li>
+<li>Hydrate well in the hours leading up to collection</li>
+<li>We also offer complimentary live collection support calls, where a member of our team can guide you in real time to help ensure sufficient sample volume.</li>
+</ul>
+<h3>Our Commitment to Result Integrity</h3>
+<p>When a biomarker cannot be reliably measured, we do not report it. Accuracy and integrity come first. If sufficient sample volume is not available, the test is not forced or estimated.</p>
+<p>Our partial replacement process is designed to ensure that you ultimately receive a complete, high-confidence panel without unnecessary inconvenience.</p>
+<p>If you ever have questions about your results or a replacement shipment, our support team is here to help.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+</div>
+</div>
+<div>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Heart and Metabolic Age</title>
 		<link>/hub/guides/heart-metabolic-age/</link>
 		
@@ -1176,87 +1272,6 @@ Not everyone has time for a live call—but everyone deserves personalized healt
 <hr />
 <p><em>Your biomarkers hold the key to better health. Let us help you unlock it—on your schedule.</em></p>
 <p><!-- notionvc: 75566fc2-4255-4f65-8cd9-ee69b61cc481 --></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Transform Your Biomarkers Into Action: 30-Minute Health Coaching Calls</title>
-		<link>/hub/guides/coaching-calls/</link>
-		
-		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Sat, 22 Nov 2025 16:40:18 +0000</pubDate>
-				<category><![CDATA[Guides]]></category>
-		<guid isPermaLink="false">/hub/?p=4091</guid>
-
-					<description><![CDATA[
-You&#8217;ve received your blood work results. Now what? Those pages of numbers and medical terminology can feel overwhelming—but they&#8217;re actually a treasure map to better health. The question is: how do you turn raw data into meaningful change? That&#8217;s where Siphox&#8217;s personalized health coaching comes in. For just $39, you get a dedicated 30-minute consultation&#8230; <a class="more-link" href="/hub/guides/coaching-calls/">Continue reading <span class="screen-reader-text">Transform Your Biomarkers Into Action: 30-Minute Health Coaching Calls</span></a>]]></description>
-			
-							<content:encoded><![CDATA[<p>You&#8217;ve received your blood work results. Now what?</p>
-<p>Those pages of numbers and medical terminology can feel overwhelming—but they&#8217;re actually a treasure map to better health. The question is: how do you turn raw data into meaningful change?</p>
-<p>That&#8217;s where Siphox&#8217;s personalized health coaching comes in. For just $39, you get a dedicated 30-minute consultation with an expert health coach who will decode your biomarkers and create a customized action plan designed specifically for you.</p>
-<h2>What You Get: More Than Just a Conversation</h2>
-<p>Your health coaching session includes two powerful components:</p>
-<p><strong>1. A 30-Minute Live Consultation</strong> Talk directly with a qualified health coach who will review your biomarkers, understand your lifestyle and goals, and answer your questions in real-time.</p>
-<p><strong>2. A Written Action Plan</strong> After your call, you&#8217;ll receive a detailed written summary including:</p>
-<ul>
-<li>Overview of what was discussed</li>
-<li>Analysis of your key biomarkers and what they mean</li>
-<li>Specific, prioritized action items tailored to your results</li>
-<li>Clear next steps to implement immediately</li>
-</ul>
-<p>This isn&#8217;t generic advice—it&#8217;s a personalized roadmap created just for you.</p>
-<h2>What Happens During Your 30-Minute Call</h2>
-<p><strong>Before the Call</strong> Your coach reviews your biomarker results and prepares to discuss the most important findings for your specific situation.</p>
-<p><strong>During the Call (30 minutes)</strong></p>
-<ul>
-<li><strong>Introduction and Goals</strong> (5 min): Share your health objectives, current lifestyle, and any concerns</li>
-<li><strong>Biomarker Review</strong> (10-15 min): Your coach explains your key results in plain English, highlighting what&#8217;s optimal, what needs attention, and why</li>
-<li><strong>Lifestyle Discussion</strong> (5-10 min): Review your current diet, exercise, sleep, stress levels, and supplements</li>
-<li><strong>Q&amp;A and Recommendations</strong> (5-10 min): Ask questions and receive initial guidance on next steps</li>
-</ul>
-<p><strong>After the Call</strong> Following the call, you&#8217;ll receive your written action plan documenting everything discussed, with clear action items ranked by priority.</p>
-<h2>Why This Works: The Science of Personalized Coaching</h2>
-<p><strong>Context-Aware Analysis</strong> A slightly elevated marker might be insignificant for one person but concerning for another. Your coach considers your complete picture—age, lifestyle, goals, and health history—not just reference ranges.</p>
-<p><strong>Prioritized Interventions</strong> When multiple biomarkers need attention, where do you start? Your coach helps you focus on the changes that will have the biggest impact first, creating momentum rather than overwhelm.</p>
-<p><strong>Sustainable Action Steps</strong> Generic advice fails because it doesn&#8217;t fit your real life. Your action plan accounts for your schedule, preferences, and constraints—making it something you&#8217;ll actually follow.</p>
-<p><strong>Written Documentation</strong> Having your action plan in writing means you can refer back to it anytime, share it with your doctor, and track your progress over time.</p>
-<h2>Common Areas Your Coach Will Address</h2>
-<p>Depending on your biomarkers and goals, your coaching session may cover:</p>
-<ul>
-<li><strong>Metabolic Health</strong>: Blood sugar regulation, insulin sensitivity, lipid profiles</li>
-<li><strong>Hormonal Balance</strong>: Thyroid function, sex hormones, stress hormones</li>
-<li><strong>Cardiovascular Health</strong>: Cholesterol management, blood pressure, inflammatory markers</li>
-<li><strong>Nutrition Strategy</strong>: Dietary patterns, macronutrient balance, meal timing</li>
-<li><strong>Exercise Programming</strong>: Cardio vs. strength training, exercise intensity and frequency</li>
-<li><strong>Sleep Optimization</strong>: Sleep duration, quality, and circadian rhythm</li>
-<li><strong>Stress Management</strong>: Cortisol regulation, recovery strategies</li>
-<li><strong>Strategic Supplementation</strong>: Which supplements to take, dosing, and timing</li>
-</ul>
-<h2>Is Health Coaching Right for You?</h2>
-<p>This service is perfect if you:</p>
-<p>✓ Have bloodwork results but feel unsure how to improve them</p>
-<p>✓ Want expert guidance without committing to ongoing coaching</p>
-<p>✓ Have specific questions about your biomarkers</p>
-<p>✓ Need help prioritizing which health changes to make first</p>
-<p>✓ Want a personalized plan you can implement on your own</p>
-<p>✓ Value data-driven recommendations over generic advice</p>
-<p>✓ Are ready to take action but need clear direction</p>
-<h2>Get Started Today: Just $39</h2>
-<p>For less than the cost of a nice dinner, you can gain clarity on your health and receive a personalized action plan from an expert coach.</p>
-<p>Here&#8217;s what you get for $39:</p>
-<ul>
-<li>30-minute one-on-one consultation with a qualified health coach</li>
-<li>Review of your complete biomarker panel</li>
-<li>Personalized analysis of your results</li>
-<li>Written action plan with specific, prioritized recommendations</li>
-<li>Clear next steps you can implement immediately</li>
-</ul>
-<p><strong>Your biomarkers tell a story. Let us help you write the next chapter.</strong></p>
-<p><a href="https://siphoxhealth.com/products/coaching-call-one-time">Schedule Your Health Coaching Call Today</a></p>
-<p><em>Have questions about scheduling or what to expect? Check out our FAQ or contact our support team.</em></p>
-<p><!-- notionvc: 0f0b655a-6316-4880-bc9a-7f69d9dcbf3f --></p>
 ]]></content:encoded>
 					
 		
