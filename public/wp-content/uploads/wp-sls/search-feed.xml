@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/6.9.1" created="2026-03-02 22:03" -->
+    <!-- generator="WordPress/6.9.4" created="2026-03-23 17:07" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Mon, 02 Mar 2026 22:03:59 +0000</pubDate>
+            <pubDate>Mon, 23 Mar 2026 17:07:35 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -42,7 +42,7 @@
 	<wp:author><wp:author_id>27</wp:author_id><wp:author_login><![CDATA[rami.abrams@siphoxhealth.com]]></wp:author_login><wp:author_email><![CDATA[rami.abrams@siphoxhealth.com]]></wp:author_email><wp:author_display_name><![CDATA[rami.abrams@siphoxhealth.com]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
                                                 
-            <generator>https://wordpress.org/?v=6.9.1</generator>
+            <generator>https://wordpress.org/?v=6.9.4</generator>
 
                                     <item>
                             <title><![CDATA[What We Measure]]></title>
@@ -1923,8 +1923,8 @@ Variability in lab results is a known entity, yet it doesn’t detract from the 
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
-                                                        		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
-		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
+                                                        		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
+		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -3130,8 +3130,8 @@ If zinc levels are too low, it can lead to a variety of health issues, including
                                                         		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="post_tag" nicename="at-home"><![CDATA[at-home]]></category>
 		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
-		<category domain="post_tag" nicename="biomarkers"><![CDATA[biomarkers]]></category>
 		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
+		<category domain="post_tag" nicename="biomarkers"><![CDATA[biomarkers]]></category>
 		<category domain="post_tag" nicename="blood"><![CDATA[blood]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -23599,8 +23599,8 @@ If you need to prevent urinary tract infections and maintain normal WBC esterase
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
-                            <title><![CDATA[Longevity and Allergy Panels]]></title>
-                            <link>/hub/guides/longevity-allergy-panels/</link>
+                            <title><![CDATA[Allergy Panel]]></title>
+                            <link>/hub/guides/allergy-panel/</link>
                             <pubDate>Sat, 22 Nov 2025 16:37:48 +0000</pubDate>
                             <dc:creator><![CDATA[siphoxhealth]]></dc:creator>
                             <guid isPermaLink="false">/hub/?p=4081</guid>
@@ -23610,11 +23610,11 @@ If you need to prevent urinary tract infections and maintain normal WBC esterase
                             <wp:post_id>4081</wp:post_id>
                             <wp:post_date><![CDATA[2025-11-22 16:37:48]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2025-11-22 16:37:48]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2025-11-22 16:37:49]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2025-11-22 16:37:49]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-03-23 17:07:35]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-03-23 17:07:35]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
-                            <wp:post_name><![CDATA[longevity-allergy-panels]]></wp:post_name>
+                            <wp:post_name><![CDATA[allergy-panel]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
                             <wp:menu_order>15</wp:menu_order>
@@ -23636,56 +23636,42 @@ If you need to prevent urinary tract infections and maintain normal WBC esterase
                                 </wp:postmeta>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[content_1_copies]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[<h2>Longevity/Longevity+</h2>
-<h3>What These Panels Cover</h3>
-The SiPhox <strong>Longevity</strong> and <strong>Longevity+</strong> panels give you a comprehensive look into your long-term health. They measure biomarkers tied to:
+                                    <wp:meta_value><![CDATA[<h3>What the Panel Measures</h3>
+<div>The SiPhox Allergy Panel measures <b>IgE antibodies</b> to food and environmental allergens and reports <b>Total IgE</b> to help contextualize overall allergy load. Results for each allergen are grouped into clear categories such as <b>negative/uncertain, low, moderate, high, and very high</b> so you can see where sensitization may be <a href="http://aaaai.org/tools-for-the-public/conditions-library/allergies/allergy-testing">clinically meaningful</a>.</div>
+<div>Coverage can include up to <b>295 allergens across 165 sources</b>, spanning:</div>
 <ul>
- 	<li><strong>Heart health</strong> – lipids, inflammatory markers, and cardiovascular risk factors</li>
- 	<li><strong>Metabolic health</strong> – glucose regulation, insulin sensitivity, and key hormones</li>
- 	<li><strong>Nutritional status</strong> – vitamins and minerals that support energy and cellular repair</li>
- 	<li><strong>Inflammation and aging</strong> – markers that influence longevity and disease risk</li>
-</ul>
-<strong>How Longevity+ differs:</strong> The core <strong>Longevity</strong> panel covers foundational markers for cardiovascular, metabolic, nutritional, and inflammatory health. <strong>Longevity+</strong> builds on that by adding <strong>60+ extra biomarkers</strong> spanning <strong>advanced lipids and cardiovascular risk, broader metabolic and endocrine hormones, longevity and cellular-aging cues, and a dedicated toxicology suite (including heavy metals and other environmental exposures).</strong> In short, Longevity+ turns a strong baseline view into a deep, systems-level assessment that can uncover hidden drivers of risk and rate-limiters for performance and healthy aging.
-<h3>The Testing Process</h3>
-<ol>
- 	<li><strong>Purchase</strong> – Order your panel directly through SiPhox Health.</li>
- 	<li><strong>Lab Visit</strong> – Schedule a convenient blood draw at your nearest Labcorp location.</li>
- 	<li><strong>Processing Timeline</strong>
-<ul>
- 	<li>Most biomarkers return quickly. The <strong>first batch of results</strong> (covering standard panels) is usually ready in <strong>~5 business days</strong>.</li>
- 	<li>Specialized markers, such as <strong>heavy metals</strong>, require more complex analysis and typically arrive in <strong>~10 business days</strong>.</li>
-</ul>
-</li>
- 	<li><strong>Results Access</strong> – All results are delivered digitally through the SiPhox platform, with clear explanations and personalized insights.</li>
-</ol>
-<h3>Why It Matters</h3>
-These panels help identify risk factors early, giving you the opportunity to take targeted steps toward better cardiovascular, metabolic, and overall longevity outcomes. For those who want the fullest picture, Longevity+ goes a step further by addressing hidden toxic exposures.
-<h2>Allergy</h2>
-<h3>What the Panel Measures</h3>
-The SiPhox <strong>Allergy Panel</strong> measures <strong>IgE antibodies</strong> to <strong>food and environmental allergens</strong> and reports <strong>Total IgE</strong> to help contextualize overall allergy load. Results for each allergen are grouped into clear categories (negative/uncertain, low, moderate, high, very high) so you can see where sensitization may be clinically meaningful.
-
-Coverage can include <strong>up to 295 allergens across 165 sources</strong>, spanning:
-<ul>
- 	<li><strong>Foods:</strong> dairy, eggs, nuts, seafood, fruits, vegetables, grains, spices</li>
- 	<li><strong>Environmental triggers:</strong> pollen (trees, grasses, weeds), dust mites, molds, pets</li>
- 	<li><strong>Other exposures:</strong> insect venom, latex, and known cross-reactive proteins</li>
+ 	<li><b>Foods:</b> dairy, eggs, nuts, seafood, fruits, vegetables, grains, spices</li>
+ 	<li><b>Environmental triggers:</b> pollen (trees, grasses, weeds), dust mites, molds, pets</li>
+ 	<li><b>Other exposures:</b> insect venom, latex, and known cross-reactive proteins</li>
 </ul>
 <h3>The Testing Process</h3>
 <ol>
- 	<li><strong>Purchase</strong> – Order your Allergy Panel through SiPhox Health.</li>
- 	<li><strong>At-home sample</strong> using the <strong>EasyDraw arm collector</strong> for a simple, comfortable blood collection.</li>
- 	<li><strong>Processing</strong> – The lab analyzes your IgE antibody responses across the allergen panel.</li>
- 	<li><strong>Results Timeline</strong> – Reports are typically available within <strong>5–7 business days</strong>.</li>
+ 	<li><strong data-start="763" data-end="775">Purchase</strong> – Order your Allergy Panel through SiPhox Health.</li>
+ 	<li><strong data-start="828" data-end="846">At-home sample</strong> – Use the EasyDraw arm collector for a simple, comfortable blood collection.</li>
+ 	<li><strong data-start="926" data-end="940">Processing</strong> – The lab analyzes your IgE antibody responses across the allergen panel.</li>
+ 	<li><strong data-start="1017" data-end="1037">Results timeline</strong> – Reports are typically available within <strong data-start="1079" data-end="1100">5–7 business days</strong>.</li>
 </ol>
 <h3>What You Receive</h3>
 <ul>
- 	<li><strong>Per-allergen IgE values</strong> with category bands (negative/uncertain → very high)</li>
- 	<li><strong>Total IgE</strong> to gauge overall sensitization</li>
- 	<li><strong>Grouped summaries</strong> to spot patterns across allergen families</li>
- 	<li><strong>Notes on cross-reactivity</strong> to inform next steps and conversations with your clinician</li>
+ 	<li data-section-id="l51fvt" data-start="1123" data-end="1215"><strong data-start="1125" data-end="1152">Per-allergen IgE values</strong> with category bands from <strong data-start="1178" data-end="1213">negative/uncertain to very high</strong></li>
+ 	<li data-section-id="1sm4l3h" data-start="1216" data-end="1269"><strong data-start="1218" data-end="1231">Total IgE</strong> to help gauge overall sensitization</li>
+ 	<li data-section-id="1yd4em8" data-start="1270" data-end="1342"><strong data-start="1272" data-end="1293">Grouped summaries</strong> to help spot patterns across allergen families</li>
+ 	<li data-section-id="p5htil" data-start="1343" data-end="1435"><strong data-start="1345" data-end="1374">Notes on cross-reactivity</strong> to inform next steps and conversations with your clinician</li>
 </ul>
+<h3>Understanding Different Types of Allergy Testing</h3>
+<p data-start="1489" data-end="1805">Not all allergy-related tests measure the same thing, so results from different test types should not be compared as though they are equivalent. See the <a class="decorated-link" href="https://www.aaaai.org/tools-for-the-public/conditions-library/allergies/allergy-testing?utm_source=chatgpt.com" target="_new" rel="noopener" data-start="1642" data-end="1766">AAAAI overview of allergy testing</a>.</p>
+<p data-start="1807" data-end="2364"><strong data-start="1807" data-end="1822">IgE testing</strong><br data-start="1822" data-end="1825" />IgE blood testing looks for antibodies associated with allergic sensitization. These results can help identify substances that may trigger symptoms such as hives, itching, wheezing, nasal congestion, or other immediate-type allergic reactions. See <a class="decorated-link" href="https://www.niaid.nih.gov/diseases-conditions/diagnosing-food-allergy?utm_source=chatgpt.com" target="_new" rel="noopener" data-start="2073" data-end="2189">NIAID’s overview of diagnosing food allergy</a> and the <a class="decorated-link" href="https://www.aaaai.org/tools-for-the-public/conditions-library/allergies/allergy-testing?utm_source=chatgpt.com" target="_new" rel="noopener" data-start="2198" data-end="2325">AAAAI explanation of allergy testing</a>.</p>
+<p data-start="2366" data-end="2803"><strong data-start="2366" data-end="2383">Patch testing</strong><br data-start="2383" data-end="2386" />Patch testing is used to evaluate delayed contact reactions, such as contact dermatitis caused by substances like fragrances, metals, adhesives, or preservatives. It does not measure IgE antibodies and is designed for a different type of immune response. See the <a class="decorated-link" href="https://www.aad.org/public/diseases/eczema/types/contact-dermatitis/patch-testing-rash?utm_source=chatgpt.com" target="_new" rel="noopener" data-start="2649" data-end="2764">AAD page on patch testing</a>.</p>
+<p data-start="2805" data-end="3195"><strong data-start="2805" data-end="2820">IgG testing</strong><br data-start="2820" data-end="2823" />IgG food testing is different from IgE testing and is often interpreted as a marker of exposure rather than a true allergy. Because of this, IgG results are not interchangeable with IgE allergy testing. See the <a class="decorated-link" href="https://www.aaaai.org/tools-for-the-public/conditions-library/allergies/igg-food-test?utm_source=chatgpt.com" target="_new" rel="noopener" data-start="3034" data-end="3156">AAAAI article on IgG food testing</a>.</p>
+
+<h3 data-start="2805" data-end="3195">Why Results May Differ</h3>
+<p data-start="3223" data-end="3603">IgE results can vary across laboratories and over time. Different labs may assess different allergen components within the same category, such as specific proteins within nuts, grasses, or dust mites. Labs may also use different methodologies, allergen panels, and detection thresholds, which can lead to results that do not appear identical.</p>
+<p data-start="3605" data-end="4270">IgE levels also reflect current sensitization, which means they may change depending on exposure patterns and immune response. As a result, a prior allergy test from another lab may not match exactly, even when both tests are technically accurate. For that reason, allergy results are best interpreted in the context of your symptoms, history, and any prior testing rather than viewed as a <a href="https://www.niaid.nih.gov/diseases-conditions/diagnosing-food-allergy">perfect one-to-one comparison</a>.</p>
+
+<h3 data-start="3605" data-end="4270">About Our Testing</h3>
+Our testing is performed in a <strong data-start="4323" data-end="4362">CLIA- and CAP-accredited laboratory</strong>, and the IgE assays we use have been analytically validated, including comparison to standard venous blood draws. While no test is perfect, we are confident in the accuracy and reliability of the results based on these validations.
 <h3>Why It Matters</h3>
-Understanding your IgE profile helps identify likely triggers, supports personalized diet and lifestyle adjustments, and provides evidence to discuss with your allergist or healthcare provider. It is a powerful first step in managing allergic conditions and improving daily comfort.
+Understanding your IgE profile can help identify likely triggers, support more personalized diet and lifestyle decisions, and provide useful information to discuss with your allergist or healthcare provider. It can be a valuable step toward better understanding allergic symptoms and improving daily comfort.
 
 <!-- notionvc: c8a92c92-0e2c-4bc2-a4c1-b92d5d694ae2 -->]]></wp:meta_value>
                                 </wp:postmeta>
@@ -23724,6 +23710,14 @@ Understanding your IgE profile helps identify likely triggers, supports personal
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -26159,8 +26153,8 @@ Heart &amp; Metabolic Age distills these complex dynamics into a single, trackab
                             <wp:post_id>4170</wp:post_id>
                             <wp:post_date><![CDATA[2026-03-02 22:03:59]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2026-03-02 22:03:59]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-03-02 22:03:59]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-03-02 22:03:59]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-03-02 22:04:00]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-03-02 22:04:00]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[understanding-partial-replacements]]></wp:post_name>
@@ -26307,14 +26301,6 @@ If you ever have questions about your results or a replacement shipment, our sup
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
