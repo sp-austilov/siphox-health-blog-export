@@ -12,7 +12,7 @@
 	<atom:link href="/hub/author/siphoxhealth/feed/" rel="self" type="application/rss+xml" />
 	<link>/hub/</link>
 	<description></description>
-	<lastBuildDate>Mon, 02 Mar 2026 22:04:00 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 25 Mar 2026 19:10:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -236,6 +236,10 @@ What is Biological Age? You&#8217;re 45 years old, but is your body? That&#8217;
 <li><strong>Training data:</strong> We trained our model using a combination of large public health datasets and internal data.</li>
 <li><strong>How your score is generated:</strong> When you get results, the model compares your biomarker pattern to the patterns it learned and estimates the age your profile most closely resembles.</li>
 </ul>
+<p><em>Biological age is calculated using a subset of available biomarkers (at least ~50% required). These include: </em></p>
+<p><em><br />
+</em><strong>Males:</strong> Hemoglobin A1C, Vitamin D (25-OH Vitamin D), ALT (Alanine Aminotransferase), Albumin, Apolipoprotein A1 (ApoA1), Apolipoprotein B (ApoB), AST (Aspartate Aminotransferase), Blood Urea Nitrogen (BUN), Calcium, Total Cholesterol, Cortisol, Creatinine, DHEA-S (Dehydroepiandrosterone Sulfate), Ferritin (iron storage), Follicle-Stimulating Hormone (FSH), HDL Cholesterol, High-Sensitivity C-Reactive Protein, Homocysteine, Iron, LDL Cholesterol, Luteinizing Hormone (LH), Prostate-Specific Antigen (PSA), Thyroid-Stimulating Hormone (TSH), Total Bilirubin, Total Protein, Triglycerides</p>
+<p><strong>Females: </strong>Hemoglobin A1C, Vitamin D (25-OH Vitamin D), ALT (Alanine Aminotransferase), Albumin, Apolipoprotein A1 (ApoA1), Apolipoprotein B (ApoB), AST (Aspartate Aminotransferase), Blood Urea Nitrogen (BUN), Calcium, Total Cholesterol, Cortisol, Creatinine, Ferritin (iron storage), Follicle-Stimulating Hormone (FSH), HDL Cholesterol, High-Sensitivity C-Reactive Protein, Homocysteine, Iron, LDL Cholesterol, Luteinizing Hormone (LH), Thyroid-Stimulating Hormone (TSH), Total Bilirubin, Total Protein, Triglycerides, Estradiol (Sensitive)</p>
 <hr />
 <h3><strong>How Accurate Is It?</strong></h3>
 <p>Biological age is an <strong>estimate</strong>. It is designed to be directionally meaningful and consistent over time, especially when you retest under similar conditions.</p>
