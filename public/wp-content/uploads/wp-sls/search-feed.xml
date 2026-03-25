@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/6.9.4" created="2026-03-23 17:07" -->
+    <!-- generator="WordPress/6.9.4" created="2026-03-25 19:10" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Mon, 23 Mar 2026 17:07:35 +0000</pubDate>
+            <pubDate>Wed, 25 Mar 2026 19:10:38 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -23610,8 +23610,8 @@ If you need to prevent urinary tract infections and maintain normal WBC esterase
                             <wp:post_id>4081</wp:post_id>
                             <wp:post_date><![CDATA[2025-11-22 16:37:48]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2025-11-22 16:37:48]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-03-23 17:07:35]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-03-23 17:07:35]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-03-23 17:07:36]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-03-23 17:07:36]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[allergy-panel]]></wp:post_name>
@@ -23638,6 +23638,7 @@ If you need to prevent urinary tract infections and maintain normal WBC esterase
                                     <wp:meta_key><![CDATA[content_1_copies]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[<h3>What the Panel Measures</h3>
 <div>The SiPhox Allergy Panel measures <b>IgE antibodies</b> to food and environmental allergens and reports <b>Total IgE</b> to help contextualize overall allergy load. Results for each allergen are grouped into clear categories such as <b>negative/uncertain, low, moderate, high, and very high</b> so you can see where sensitization may be <a href="http://aaaai.org/tools-for-the-public/conditions-library/allergies/allergy-testing">clinically meaningful</a>.</div>
+<div></div>
 <div>Coverage can include up to <b>295 allergens across 165 sources</b>, spanning:</div>
 <ul>
  	<li><b>Foods:</b> dairy, eggs, nuts, seafood, fruits, vegetables, grains, spices</li>
@@ -23710,14 +23711,6 @@ Understanding your IgE profile can help identify likely triggers, support more p
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -25860,8 +25853,8 @@ Supporting optimal protein intake is one of the most impactful, and most science
                             <wp:post_id>4162</wp:post_id>
                             <wp:post_date><![CDATA[2026-02-11 21:48:09]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2026-02-11 21:48:09]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-02-11 21:48:10]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-02-11 21:48:10]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-03-25 19:10:38]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-03-25 19:10:38]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[biological-age]]></wp:post_name>
@@ -25992,6 +25985,14 @@ Both are useful. Heart &amp; Metabolic Age tells you how your cardiovascular sys
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -29533,8 +29534,8 @@ At SiPhox Health, we firmly believe in the power of understanding your body thro
 		<category domain="post_tag" nicename="diabetes"><![CDATA[diabetes]]></category>
 		<category domain="post_tag" nicename="glucose"><![CDATA[glucose]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
-		<category domain="post_tag" nicename="hba1c"><![CDATA[HbA1c]]></category>
 		<category domain="category" nicename="hba1c"><![CDATA[HbA1C]]></category>
+		<category domain="post_tag" nicename="hba1c"><![CDATA[HbA1c]]></category>
 		<category domain="post_tag" nicename="hemoglobin-a1c"><![CDATA[Hemoglobin A1C]]></category>
 		<category domain="post_tag" nicename="insulin"><![CDATA[insulin]]></category>
 		<category domain="post_tag" nicename="metabolism"><![CDATA[metabolism]]></category>
