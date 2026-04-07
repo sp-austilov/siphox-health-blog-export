@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/6.9.4" created="2026-03-25 19:10" -->
+    <!-- generator="WordPress/6.9.4" created="2026-04-07 16:14" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Wed, 25 Mar 2026 19:10:38 +0000</pubDate>
+            <pubDate>Tue, 07 Apr 2026 16:14:49 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -2130,8 +2130,8 @@ Cardiovascular health is no joke. Several studies mentioned earlier in this guid
                                                         		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
 		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
-		<category domain="category" nicename="cortisol"><![CDATA[Cortisol]]></category>
 		<category domain="post_tag" nicename="cortisol"><![CDATA[cortisol]]></category>
+		<category domain="category" nicename="cortisol"><![CDATA[Cortisol]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
 		<category domain="post_tag" nicename="health"><![CDATA[health]]></category>
 		<category domain="post_tag" nicename="hormones"><![CDATA[hormones]]></category>
@@ -3130,8 +3130,8 @@ If zinc levels are too low, it can lead to a variety of health issues, including
                                                         		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="post_tag" nicename="at-home"><![CDATA[at-home]]></category>
 		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
-		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="biomarkers"><![CDATA[biomarkers]]></category>
+		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood"><![CDATA[blood]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -6754,14 +6754,14 @@ If you have high ferritin, a few ways to lower levels include:
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[content_1_copies]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[<h3>What is cortisol?</h3>
-Cortisol is a hormone synthesized and secreted by the adrenal glands of the kidneys that plays a major role in regulating stress, metabolism, and immunity. It follows a diurnal rhythm that is affected by sleep - naturally rising in the early morning, peaking around 30 minutes after waking up, and subsequently falling in the evening.
+Cortisol is a hormone synthesized and secreted by the adrenal glands of the kidneys that plays a major role in regulating stress, metabolism, and immunity. It follows a diurnal rhythm that is affected by sleep, naturally rising in the early morning, peaking around 30 minutes after waking, and then falling throughout the day into the evening.
 
 <span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">
 <a href="https://www.zrtlab.com/landing-pages/diurnal-cortisol-curves/" data-sanitized-target="_blank"><img class="alignnone" style="display: block; margin-left: auto; margin-right: auto;" src="https://www.zrtlab.com/media/1476/adrenal_curve_normal.jpg?width=359&amp;height=299" alt="cortisol" width="293" height="244" data-sanitized-data-mce-style="display: block; margin-left: auto; margin-right: auto;" data-sanitized-data-mce-src="https://www.zrtlab.com/media/1476/adrenal_curve_normal.jpg?width=359&amp;height=299" data-sanitized-data-mce-fragment="1" /></a></span>
 <h3>Why is cortisol important?</h3>
-<span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">High cortisol levels are an indicator of acute (sudden), chronic (long-term), and/or traumatic (life-threatening) stress. Secondary factors associated with mental stress include alcohol drinking, smoking, a lack of exercise, inadequate sleep, and poor nutrition. Over time, prolonged high levels of cortisol (Cushing's disease or hypercortisolism) can lead to weight gain, fat redistribution, poor sleep, a lowered immune system, and increased inflammation. Low levels might indicate poor adrenal function or Addison's disease.</span>
-
-Cortisol also plays a large role in your metabolism and metabolic health (how your body uses food for energy) by controlling how your body uses carbohydrates, fats, and proteins. When you’re stressed, cortisol raises your blood sugar for a quick energy boost – it signals your liver to release glucose (sugar) into your bloodstream and temporarily blocks insulin (the hormone that normally lowers blood sugar) to keep that sugar available. This burst of energy is helpful in the short term, but if cortisol stays high (for example, from chronic stress), it can keep blood sugar elevated and cause extra sugar to be stored as fat.
+<p data-start="468" data-end="1041">High cortisol levels can be associated with acute (sudden), chronic (long-term), and/or traumatic (life-threatening) stress. Secondary factors associated with mental stress include alcohol use, smoking, lack of exercise, inadequate sleep, and poor nutrition. Over time, prolonged high cortisol levels, as seen in hypercortisolism or Cushing’s syndrome, may contribute to weight gain, fat redistribution, poor sleep, lowered immune function, and increased inflammation. Low cortisol levels may suggest poor adrenal function or Addison’s disease.</p>
+<p data-start="1043" data-end="1555">Cortisol also plays a major role in metabolism and metabolic health by influencing how your body uses carbohydrates, fats, and proteins. During stress, cortisol raises blood sugar to provide a quick source of energy. It signals the liver to release glucose into the bloodstream and temporarily reduces insulin’s effect so that glucose remains available. This response can be helpful in the short term, but when cortisol stays elevated over time, it may contribute to higher blood sugar and increased fat storage.</p>
+&nbsp;
 <h3>How can I better understand my blood cortisol levels?</h3>
 <div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true">
@@ -6772,15 +6772,15 @@ Cortisol also plays a large role in your metabolism and metabolic health (how y
  	<li><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">Falls in the evening around 4 pm: 4-10 ug/dL</span></li>
 </ul>
 </div>
-<span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">While levels in the lower range are better for inflammation, morning cortisol levels under <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/books/NBK441994/#:~:text=A%20single%20serum%20cortisol%20level,sufficient%20to%20diagnose%20adrenal%20insufficiency." rel="noopener noreferrer" data-sanitized-target="_blank">3 ug/dL</a></span> may indicate adrenal insufficiency. Cortisol levels consistently above the normal range may indicate Cushing's disease which could point towards the presence of tumors. Keep in mind that certain medications can alter cortisol production, so it is important to talk to your doctor if you are concerned with your levels.</span>
-<h3>How does a 3-Point Saliva test differ?</h3>
-<span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">The three-point cortisol test involves collecting saliva at three different times of the day (morning, afternoon, and night). Although it is expected to see natural variations, atypically high or low results at these specific times may indicate an adrenal gland disorder. </span>Because saliva is convenient to collect, the 3-point salivary cortisol test may be more beneficial for those who are looking to confirm the presence of abnormalities or underlying diseases through repeat testing throughout the day.
-
-Ultimately, the main difference between the saliva and blood tests is that the three-point test is more diagnostic in nature, especially for conditions that affect cortisol rhythm, while the fingerprick test is more suited for general monitoring.
+<span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">While levels in the lower range are better for inflammation, morning cortisol levels under <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/books/NBK441994/#:~:text=A%20single%20serum%20cortisol%20level,sufficient%20to%20diagnose%20adrenal%20insufficiency." rel="noopener noreferrer" data-sanitized-target="_blank">3 ug/dL</a></span> may indicate adrenal insufficiency. </span>Cortisol levels consistently above the normal range may indicate Cushing’s syndrome, which can sometimes be associated with tumors. Keep in mind that certain medications can alter cortisol production, so it is important to talk to your doctor if you are concerned about your levels.
+<h3>How does a 4-Point Saliva test differ?</h3>
+<p data-start="2169" data-end="2708">The four-point cortisol test involves collecting saliva at four different times of day, typically morning, noon, evening, and night. Although some variation is expected, unusually high or low results at these specific times may suggest an adrenal gland disorder or an abnormal cortisol rhythm. Because saliva is convenient to collect, the 4-point salivary cortisol test can be especially useful for repeat testing throughout the day when evaluating potential abnormalities or underlying conditions.</p>
+<p data-start="2710" data-end="2956">Ultimately, the main difference between the saliva and blood tests is that the four-point saliva test is more diagnostic in nature, especially for conditions that affect cortisol rhythm, while the blood test is more suited for general monitoring.</p>
+&nbsp;
 <h3>How can I maintain optimal cortisol levels?</h3>
 <span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">If your cortisol levels are on the higher side, studies suggest the following interventions may help with regulation:</span>
 
-<strong>Dietary Changes: </strong>Including h<span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">erbs and natural supplements such as <span style="text-decoration: underline;"><a href="https://pubmed.ncbi.nlm.nih.gov/23439798/" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://pubmed.ncbi.nlm.nih.gov/23439798/">ashwagandha</a></span>, <span style="text-decoration: underline;"><a href="https://www.tandfonline.com/doi/full/10.1080/13651501.2017.1417442" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.tandfonline.com/doi/full/10.1080/13651501.2017.1417442">rhodiola</a></span>, <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4245564/" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4245564/">lemon balm</a></span>, and <span style="text-decoration: underline;"><a href="https://pubmed.ncbi.nlm.nih.gov/29080520/" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://pubmed.ncbi.nlm.nih.gov/29080520/">chamomile</a></span> can help to reduce cortisol. Foods su</span>ch as dark chocolate, garlic, fermented foods (kimchi, yogurt), and plants high in vitamin C (oranges, broccoli) can help as well.
+<strong>Dietary Changes: </strong>Including h<span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">erbs and natural supplements such as <span style="text-decoration: underline;"><a href="https://www.tandfonline.com/doi/full/10.1080/13651501.2017.1417442" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.tandfonline.com/doi/full/10.1080/13651501.2017.1417442">rhodiola</a></span>, <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4245564/" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4245564/">lemon balm</a></span>, and <span style="text-decoration: underline;"><a href="https://pubmed.ncbi.nlm.nih.gov/29080520/" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://pubmed.ncbi.nlm.nih.gov/29080520/">chamomile</a></span> can help to reduce cortisol. Foods su</span>ch as dark chocolate, garlic, fermented foods (kimchi, yogurt), and plants high in vitamin C (oranges, broccoli) can help as well.
 
 <strong>Lifestyle Changes: </strong><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">Aim for 8 hours of restful <span style="text-decoration: underline;"><a href="https://pubmed.ncbi.nlm.nih.gov/9415946/" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://pubmed.ncbi.nlm.nih.gov/9415946/">sleep</a> </span>(</span>avoid <span style="text-decoration: underline;"><a href="https://pubmed.ncbi.nlm.nih.gov/36870101/#:~:text=Caffeine%20consumption%20reduced%20total%20sleep,sleep%20onset%20of%2012%20min." data-sanitized-target="_blank" data-sanitized-data-mce-href="https://pubmed.ncbi.nlm.nih.gov/36870101/#:~:text=Caffeine%20consumption%20reduced%20total%20sleep,sleep%20onset%20of%2012%20min.">caffeine</a> </span>after midday, wear blue-light blocking <span style="text-decoration: underline;"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2905913/" data-sanitized-target="_blank" data-sanitized-data-mce-href="/hub/blog/biohacking/unlocking-better-sleep-and-improving-biomarkers-with-blue-light-blocking-glasses-a-biohackers-guide/">glasses</a></span>, put the <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8906383/" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8906383/">screens</a> </span>away before bed), and s<span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">pend more time in <span style="text-decoration: underline;"><a href="https://link.springer.com/article/10.1007/s00484-019-01717-x" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://link.springer.com/article/10.1007/s00484-019-01717-x">nature</a></span> to lower your cortisol levels. P</span>racticing yoga, tai chi, qi gong, and other <span style="text-decoration: underline;"><a href="https://pubmed.ncbi.nlm.nih.gov/23724462/" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://pubmed.ncbi.nlm.nih.gov/23724462/">mindfulness meditation</a></span> exercises and surrounding<span style="font-family: var(--list--font-family); background-color: var(--global--color-background); color: var(--global--color-primary); font-size: var(--global--font-size-base);"> yourself with </span><span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7572803/" data-sanitized-data-mce-href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7572803/" data-sanitized-target="_blank">healthy relationships</a></span><span style="font-family: var(--list--font-family); background-color: var(--global--color-background); color: var(--global--color-primary); font-size: var(--global--font-size-base);"> (</span><span style="text-decoration: underline;"><a href="https://newsinhealth.nih.gov/sites/nihNIH/files/2018/February/NIHNiHFeb2018.pdf" data-sanitized-data-mce-href="https://newsinhealth.nih.gov/sites/nihNIH/files/2018/February/NIHNiHFeb2018.pdf" data-sanitized-target="_blank">pets</a></span><span style="font-family: var(--list--font-family); background-color: var(--global--color-background); color: var(--global--color-primary); font-size: var(--global--font-size-base);"> are a plus!) can help as well.</span>
 
@@ -23610,8 +23610,8 @@ If you need to prevent urinary tract infections and maintain normal WBC esterase
                             <wp:post_id>4081</wp:post_id>
                             <wp:post_date><![CDATA[2025-11-22 16:37:48]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2025-11-22 16:37:48]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-03-23 17:07:36]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-03-23 17:07:36]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-04-07 16:14:49]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-04-07 16:14:49]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[allergy-panel]]></wp:post_name>
@@ -23711,6 +23711,14 @@ Understanding your IgE profile can help identify likely triggers, support more p
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -25853,8 +25861,8 @@ Supporting optimal protein intake is one of the most impactful, and most science
                             <wp:post_id>4162</wp:post_id>
                             <wp:post_date><![CDATA[2026-02-11 21:48:09]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2026-02-11 21:48:09]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-03-25 19:10:38]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-03-25 19:10:38]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-03-25 19:10:39]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-03-25 19:10:39]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[biological-age]]></wp:post_name>
@@ -25917,6 +25925,12 @@ At a high level, our approach works like this:
  	<li><strong>Training data:</strong> We trained our model using a combination of large public health datasets and internal data.</li>
  	<li><strong>How your score is generated:</strong> When you get results, the model compares your biomarker pattern to the patterns it learned and estimates the age your profile most closely resembles.</li>
 </ul>
+<em>Biological age is calculated using a subset of available biomarkers (at least ~50% required). These include: </em>
+
+<em>
+</em><strong>Males:</strong> Hemoglobin A1C, Vitamin D (25-OH Vitamin D), ALT (Alanine Aminotransferase), Albumin, Apolipoprotein A1 (ApoA1), Apolipoprotein B (ApoB), AST (Aspartate Aminotransferase), Blood Urea Nitrogen (BUN), Calcium, Total Cholesterol, Cortisol, Creatinine, DHEA-S (Dehydroepiandrosterone Sulfate), Ferritin (iron storage), Follicle-Stimulating Hormone (FSH), HDL Cholesterol, High-Sensitivity C-Reactive Protein, Homocysteine, Iron, LDL Cholesterol, Luteinizing Hormone (LH), Prostate-Specific Antigen (PSA), Thyroid-Stimulating Hormone (TSH), Total Bilirubin, Total Protein, Triglycerides
+
+<strong>Females: </strong>Hemoglobin A1C, Vitamin D (25-OH Vitamin D), ALT (Alanine Aminotransferase), Albumin, Apolipoprotein A1 (ApoA1), Apolipoprotein B (ApoB), AST (Aspartate Aminotransferase), Blood Urea Nitrogen (BUN), Calcium, Total Cholesterol, Cortisol, Creatinine, Ferritin (iron storage), Follicle-Stimulating Hormone (FSH), HDL Cholesterol, High-Sensitivity C-Reactive Protein, Homocysteine, Iron, LDL Cholesterol, Luteinizing Hormone (LH), Thyroid-Stimulating Hormone (TSH), Total Bilirubin, Total Protein, Triglycerides, Estradiol (Sensitive)
 
 <hr />
 
@@ -25985,14 +25999,6 @@ Both are useful. Heart &amp; Metabolic Age tells you how your cardiovascular sys
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -29205,8 +29211,8 @@ To learn more about these biomarkers including why they are important, whether t
                                                         		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="female-fertility"><![CDATA[female fertility]]></category>
 		<category domain="post_tag" nicename="fertility"><![CDATA[fertility]]></category>
-		<category domain="post_tag" nicename="fsh"><![CDATA[FSH]]></category>
 		<category domain="category" nicename="fsh"><![CDATA[FSH]]></category>
+		<category domain="post_tag" nicename="fsh"><![CDATA[FSH]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
 		<category domain="post_tag" nicename="womens-health"><![CDATA[womens health]]></category>
                                                             <wp:postmeta>
@@ -29534,8 +29540,8 @@ At SiPhox Health, we firmly believe in the power of understanding your body thro
 		<category domain="post_tag" nicename="diabetes"><![CDATA[diabetes]]></category>
 		<category domain="post_tag" nicename="glucose"><![CDATA[glucose]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
-		<category domain="category" nicename="hba1c"><![CDATA[HbA1C]]></category>
 		<category domain="post_tag" nicename="hba1c"><![CDATA[HbA1c]]></category>
+		<category domain="category" nicename="hba1c"><![CDATA[HbA1C]]></category>
 		<category domain="post_tag" nicename="hemoglobin-a1c"><![CDATA[Hemoglobin A1C]]></category>
 		<category domain="post_tag" nicename="insulin"><![CDATA[insulin]]></category>
 		<category domain="post_tag" nicename="metabolism"><![CDATA[metabolism]]></category>
