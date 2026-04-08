@@ -12,7 +12,7 @@
 	<atom:link href="/hub/author/siphoxhealth/feed/" rel="self" type="application/rss+xml" />
 	<link>/hub/</link>
 	<description></description>
-	<lastBuildDate>Wed, 08 Apr 2026 14:23:31 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 08 Apr 2026 18:01:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -41,6 +41,9 @@ What is Capillary Hematocrit? A hematocrit test (Hct) measures how much of your 
 <p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><a href="https://www.sciencedirect.com/topics/neuroscience/hematocrit">Hematocrit</a> is often used as an indicator of the oxygen-carrying capacity of blood. It can also be used as an indicator of the health of the bone marrow where red blood cells are produced.</p>
 <p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Hematocrit levels that are too high or too low can indicate a blood disorder, dehydration, or other medical conditions. An abnormally low hematocrit may suggest <a href="https://www.mayoclinic.org/diseases-conditions/anemia/symptoms-causes/syc-20351360"><strong>anemia</strong></a>, a decrease in the total amount of red blood cells, while an abnormally high hematocrit is called <a href="https://www.mayoclinic.org/diseases-conditions/polycythemia-vera/symptoms-causes/syc-20355850"><strong>polycythemia</strong></a>.</p>
 <h3 class="font-claude-response-body break-words whitespace-normal leading-[1.7]">How can I better understand my hematocrit levels?</h3>
+<div data-dynamic-ranges="true" data-test="1"></div>
+<div data-ranges="true">
+</div>
 <p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><a href="https://www.emedicinehealth.com/hematocrit_blood_test/article_em.htm">Higher than normal hematocrit</a> may indicate <strong>polycythemia</strong> or <strong>erythrocytosis</strong>. Causes of a high hematocrit include dehydration, low availability of oxygen (such as from smoking, high altitude, or pulmonary fibrosis).</p>
 <p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><a href="https://my.clevelandclinic.org/health/diagnostics/17683-hematocrit">Lower than normal hematocrit</a> may indicate <strong>anemia</strong> or nutritional deficiencies. A low hematocrit with a low mean corpuscular volume (MCV) and a high red cell distribution width (RDW) suggests a chronic iron-deficient anemia resulting in abnormal hemoglobin synthesis. Decreased hematocrit levels could also indicate life-threatening diseases such as leukemia. Further evaluation, including a complete blood count (CBC) and medical history assessment, may be necessary to determine the underlying cause.</p>
 <h3 class="font-claude-response-body break-words whitespace-normal leading-[1.7]">How can I maintain optimal hematocrit levels?</h3>
