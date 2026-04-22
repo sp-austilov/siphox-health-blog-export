@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/6.9.4" created="2026-04-08 18:01" -->
+    <!-- generator="WordPress/6.9.4" created="2026-04-22 13:20" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Wed, 08 Apr 2026 18:01:12 +0000</pubDate>
+            <pubDate>Wed, 22 Apr 2026 13:20:07 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -2130,8 +2130,8 @@ Cardiovascular health is no joke. Several studies mentioned earlier in this guid
                                                         		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
 		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
-		<category domain="post_tag" nicename="cortisol"><![CDATA[cortisol]]></category>
 		<category domain="category" nicename="cortisol"><![CDATA[Cortisol]]></category>
+		<category domain="post_tag" nicename="cortisol"><![CDATA[cortisol]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
 		<category domain="post_tag" nicename="health"><![CDATA[health]]></category>
 		<category domain="post_tag" nicename="hormones"><![CDATA[hormones]]></category>
@@ -12789,8 +12789,8 @@ Maintaining balanced iron saturation involves managing both iron intake and abso
                             <wp:post_id>3781</wp:post_id>
                             <wp:post_date><![CDATA[2025-06-18 13:42:18]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2025-06-18 13:42:18]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2025-10-08 15:24:05]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2025-10-08 15:24:05]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-04-22 13:20:07]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-04-22 13:20:07]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[when-to-test-guide]]></wp:post_name>
@@ -12893,6 +12893,14 @@ You can test <strong>any day</strong> of your cycle, but some days may be more i
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_content_2_copies]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -30099,6 +30107,10 @@ In conclusion, DNA methylation analysis offers a powerful tool for predicting bi
 <p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Hematocrit levels that are too high or too low can indicate a blood disorder, dehydration, or other medical conditions. An abnormally low hematocrit may suggest <a href="https://www.mayoclinic.org/diseases-conditions/anemia/symptoms-causes/syc-20351360"><strong>anemia</strong></a>, a decrease in the total amount of red blood cells, while an abnormally high hematocrit is called <a href="https://www.mayoclinic.org/diseases-conditions/polycythemia-vera/symptoms-causes/syc-20355850"><strong>polycythemia</strong></a>.</p>
 
 <h3 class="font-claude-response-body break-words whitespace-normal leading-[1.7]">How can I better understand my hematocrit levels?</h3>
+<div data-dynamic-ranges="true" data-test="1"></div>
+<div data-ranges="true">
+
+</div>
 <p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><a href="https://www.emedicinehealth.com/hematocrit_blood_test/article_em.htm">Higher than normal hematocrit</a> may indicate <strong>polycythemia</strong> or <strong>erythrocytosis</strong>. Causes of a high hematocrit include dehydration, low availability of oxygen (such as from smoking, high altitude, or pulmonary fibrosis).</p>
 <p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><a href="https://my.clevelandclinic.org/health/diagnostics/17683-hematocrit">Lower than normal hematocrit</a> may indicate <strong>anemia</strong> or nutritional deficiencies. A low hematocrit with a low mean corpuscular volume (MCV) and a high red cell distribution width (RDW) suggests a chronic iron-deficient anemia resulting in abnormal hemoglobin synthesis. Decreased hematocrit levels could also indicate life-threatening diseases such as leukemia. Further evaluation, including a complete blood count (CBC) and medical history assessment, may be necessary to determine the underlying cause.</p>
 
@@ -30154,14 +30166,6 @@ In conclusion, DNA methylation analysis offers a powerful tool for predicting bi
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                 </channel>
