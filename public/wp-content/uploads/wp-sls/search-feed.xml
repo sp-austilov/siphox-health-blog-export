@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/6.9.4" created="2026-05-05 20:15" -->
+    <!-- generator="WordPress/6.9.4" created="2026-05-05 20:24" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Tue, 05 May 2026 20:15:19 +0000</pubDate>
+            <pubDate>Tue, 05 May 2026 20:24:38 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -1923,8 +1923,8 @@ Variability in lab results is a known entity, yet it doesn’t detract from the 
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
-                                                        		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
-		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
+                                                        		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
+		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -2130,8 +2130,8 @@ Cardiovascular health is no joke. Several studies mentioned earlier in this guid
                                                         		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
 		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
-		<category domain="post_tag" nicename="cortisol"><![CDATA[cortisol]]></category>
 		<category domain="category" nicename="cortisol"><![CDATA[Cortisol]]></category>
+		<category domain="post_tag" nicename="cortisol"><![CDATA[cortisol]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
 		<category domain="post_tag" nicename="health"><![CDATA[health]]></category>
 		<category domain="post_tag" nicename="hormones"><![CDATA[hormones]]></category>
@@ -3130,8 +3130,8 @@ If zinc levels are too low, it can lead to a variety of health issues, including
                                                         		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="post_tag" nicename="at-home"><![CDATA[at-home]]></category>
 		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
-		<category domain="post_tag" nicename="biomarkers"><![CDATA[biomarkers]]></category>
 		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
+		<category domain="post_tag" nicename="biomarkers"><![CDATA[biomarkers]]></category>
 		<category domain="post_tag" nicename="blood"><![CDATA[blood]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -30222,7 +30222,7 @@ In conclusion, DNA methylation analysis offers a powerful tool for predicting bi
                                                     </item>
                                                 <item>
                             <title><![CDATA[GLP-1 Therapy: The Hidden Side Effects and Why You Don’t Wait to Test]]></title>
-                            <link>/hub/uncategorized/glp1-therapy-hidden-side-effects/</link>
+                            <link>/hub/guides/glp1-therapy-hidden-side-effects/</link>
                             <pubDate>Tue, 05 May 2026 20:10:53 +0000</pubDate>
                             <dc:creator><![CDATA[siphoxhealth]]></dc:creator>
                             <guid isPermaLink="false">/hub/?p=4203</guid>
@@ -30232,8 +30232,8 @@ In conclusion, DNA methylation analysis offers a powerful tool for predicting bi
                             <wp:post_id>4203</wp:post_id>
                             <wp:post_date><![CDATA[2026-05-05 20:10:53]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2026-05-05 20:10:53]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-05-05 20:15:19]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-05-05 20:15:19]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-05-05 20:24:38]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-05-05 20:24:38]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[glp1-therapy-hidden-side-effects]]></wp:post_name>
@@ -30243,7 +30243,7 @@ In conclusion, DNA methylation analysis offers a powerful tool for predicting bi
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
-                                                        		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+                                                        		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[7]]></wp:meta_value>
@@ -30393,14 +30393,6 @@ In conclusion, DNA methylation analysis offers a powerful tool for predicting bi
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                 </channel>

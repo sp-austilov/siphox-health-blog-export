@@ -12,7 +12,7 @@
 	<atom:link href="/hub/category/guides/feed/" rel="self" type="application/rss+xml" />
 	<link>/hub/</link>
 	<description></description>
-	<lastBuildDate>Wed, 25 Mar 2026 19:10:39 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 05 May 2026 20:24:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,125 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
 	<item>
+		<title>GLP-1 Therapy: The Hidden Side Effects and Why You Don’t Wait to Test</title>
+		<link>/hub/guides/glp1-therapy-hidden-side-effects/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Tue, 05 May 2026 20:10:53 +0000</pubDate>
+				<category><![CDATA[Guides]]></category>
+		<guid isPermaLink="false">/hub/?p=4203</guid>
+
+					<description><![CDATA[
+
+GLP-1 therapy is often associated with side effects, but most of what people experience is not direct drug toxicity: it’s the downstream effect of reduced appetite and sustained calorie intake. This is why common issues like fatigue, brain fog, constipation, hair shedding, and muscle loss show up: the body is adapting to lower energy and&#8230; <a class="more-link" href="/hub/guides/glp1-therapy-hidden-side-effects/">Continue reading <span class="screen-reader-text">GLP-1 Therapy: The Hidden Side Effects and Why You Don’t Wait to Test</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<p>GLP-1 therapy is often associated with side effects, but most of what people experience is not direct drug toxicity: it’s the downstream effect of reduced appetite and sustained calorie intake. This is why common issues like fatigue, brain fog, constipation, hair shedding, and muscle loss show up: the body is adapting to lower energy and nutrient availability. Frequent monitoring with blood tests and body composition tracking helps catch early signs of nutrient depletion, excessive weight loss, or metabolic imbalance before they become clinically significant. The goal is not just to document side effects, but to identify these early adaptive changes so dosing, diet, or supplementation can be adjusted proactively rather than reactively.</p>
+<table style="height: 2627px;" width="953">
+<thead>
+<tr>
+<th>Side effect / domain</th>
+<th>Mechanism (why it happens on GLP-1)</th>
+<th>Biomarkers (SiPhox panel)</th>
+<th>How fast it can change</th>
+<th>Literature</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Reduced appetite / energy intake</strong></td>
+<td>GLP-1 reduces hypothalamic hunger signaling → lower calorie intake</td>
+<td>Body weight, body composition scanner</td>
+<td>Days–weeks</td>
+<td><a href="https://www.amjmed.com/article/S0002-9343%2825%2900059-2/fulltext">Mechanisms of GLP-1 Receptor Agonist-Induced Weight Loss: A Review of Central and Peripheral Pathways in Appetite and Energy Regulation &#8211; The American Journal of Medicine</a></td>
+</tr>
+<tr>
+<td><strong>Fatigue / low energy</strong></td>
+<td>Caloric deficit + reduced glycogen availability</td>
+<td>HbA1c (indirect), fasting glucose, body weight, albumin (late marker)</td>
+<td>Weeks</td>
+<td><a href="https://scienceinsights.org/does-glp-1-make-you-tired-causes-and-fixes/#google_vignette">Does GLP-1 Make You Tired? Causes and Fixes &#8211; ScienceInsights</a></td>
+</tr>
+<tr>
+<td><strong>Brain fog / reduced concentration</strong></td>
+<td>Low glucose variability + under-fueling brain glucose demand</td>
+<td>Fasting glucose, HbA1c</td>
+<td>Days–weeks</td>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/39520512/">A qualitative study of the mental health outcomes in people being treated for obesity and type 2 diabetes with glucagon-like peptide-1 receptor agonists &#8211; PubMed</a></td>
+</tr>
+<tr>
+<td><strong>Muscle loss (lean mass reduction)</strong></td>
+<td>Rapid weight loss + insufficient protein intake</td>
+<td>Body composition scanner (lean mass), total protein, albumin</td>
+<td>Weeks–months</td>
+<td><a href="https://harvardsciencereview.org/2026/02/23/the-glp-1-aftermath-what-the-science-says-about-muscle-loss-and-cellular-aging/">The GLP-1 Aftermath: What the Science Says About Muscle Loss and Cellular Aging &#8211; Harvard Science Review</a></td>
+</tr>
+<tr>
+<td><strong>Nutrient deficiency (iron/B12/folate)</strong></td>
+<td>Lower food intake + reduced gastric volume → reduced micronutrient intake</td>
+<td>Ferritin, iron/TIBC/transferrin sat, B12, folate</td>
+<td>Months</td>
+<td><a href="https://www.sciencedirect.com/science/article/pii/S2667368125000300">Nutritional deficiencies and muscle loss in adults with type 2 diabetes using GLP-1 receptor agonists: A retrospective observational study &#8211; ScienceDirect</a></td>
+</tr>
+<tr>
+<td><strong>Vitamin D decline (indirect)</strong></td>
+<td>Reduced dietary intake + fat redistribution</td>
+<td>25-OH Vitamin D</td>
+<td>Months</td>
+<td><a href="https://www.sciencedirect.com/science/article/pii/S2667368125000300">Nutritional deficiencies and muscle loss in adults with type 2 diabetes using GLP-1 receptor agonists: A retrospective observational study &#8211; ScienceDirect</a></td>
+</tr>
+<tr>
+<td><strong>Dehydration / hemoconcentration</strong></td>
+<td>Reduced fluid intake + nausea → lower plasma volume</td>
+<td>BUN, creatinine, BUN/Cr ratio</td>
+<td>Days–weeks</td>
+<td><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3233845/">Glucagon-like peptide-1 receptor agonists suppress water intake independent of effects on food intake &#8211; PMC</a></td>
+</tr>
+<tr>
+<td><strong>Kidney stress (usually functional)</strong></td>
+<td>Dehydration + lower intake → transient renal perfusion changes</td>
+<td>Creatinine, eGFR, BUN</td>
+<td>Days–weeks</td>
+<td><a href="https://www.thelancet.com/journals/landia/article/PIIS2213-8587(24)00271-7/abstract">Effects of GLP-1 receptor agonists on kidney and cardiovascular disease outcomes: a meta-analysis of randomised controlled trials &#8211; The Lancet Diabetes &amp; Endocrinology</a></td>
+</tr>
+<tr>
+<td><strong>Sex hormone changes</strong></td>
+<td>Body fat reduction → altered aromatase activity + SHBG changes</td>
+<td>Testosterone, estradiol, SHBG, free testosterone</td>
+<td>Months</td>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/41498523/">Effects of glucagon-like peptide-1 receptor agonists on male reproductive hormones, semen parameters, and metabolic outcomes: a systematic review &#8211; PubMed</a></td>
+</tr>
+<tr>
+<td><strong>Stress response (Cortisol changes)</strong></td>
+<td>Energy deficit + physiological stress response</td>
+<td>AM cortisol</td>
+<td>Weeks–months</td>
+<td><a href="https://www.researchgate.net/publication/42975728_GLP-17-36-amide_and_Exendin-4_Stimulate_the_HPA_Axis_in_Rodents_and_Humans">(PDF) GLP-1(7-36)-amide and Exendin-4 Stimulate the HPA Axis in Rodents and Humans</a></td>
+</tr>
+<tr>
+<td><strong>Gallbladder risk</strong></td>
+<td>Rapid fat loss → bile stasis → gallstones</td>
+<td>Indirect: ALT, AST, bilirubin (late signal only)</td>
+<td>Months</td>
+<td>[Association of Glucagon-Like Peptide-1 Receptor Agonist Use With Risk of Gallbladder and Biliary Diseases: A Systematic Review and Meta-analysis of Randomized Clinical Trials</td>
+</tr>
+<tr>
+<td><strong>Hair Loss</strong></td>
+<td>Rapid weight loss + reduced protein/iron intake + metabolic stress shifts hair follicles into resting phase</td>
+<td>Indirect: ferritin, iron studies (TSAT), vitamin D, B12, albumin, total protein</td>
+<td>2–4 months after weight loss onset</td>
+<td><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13036819/">Predictors and Characteristics of Hair Loss Among Users of GLP‐1 Receptor Agonists: A Cross‐Sectional Analysis &#8211; PMC</a></td>
+</tr>
+</tbody>
+</table>
+<p><!-- notionvc: b1c13eec-346a-486c-a69d-8edc0476e34c --></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Understanding Partial Replacements</title>
 		<link>/hub/guides/understanding-partial-replacements/</link>
 		
@@ -1154,128 +1273,6 @@ Blood tests don’t just measure single values: sometimes the ratio between two 
 <p>By understanding ratio biomarkers and calculated markers, you can better appreciate what your blood test report is conveying. These derived numbers are there to enhance understanding of your health, highlighting meaningful patterns or confirming that things are well-balanced. We hope this helps you make sense of why certain ratios show up on your report only under certain conditions.</p>
 <p><em>Note: This article is for educational purposes. Always discuss your individual test results and their interpretation with qualified healthcare providers who know your complete health history.</em></p>
 <p><!-- notionvc: 2399e960-5ed4-4e49-9ad2-0cdce9b6097b --></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Your Personalized Roadmap: Expert Written Health Plans</title>
-		<link>/hub/guides/expert-written-health-plan/</link>
-		
-		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Thu, 11 Dec 2025 20:30:59 +0000</pubDate>
-				<category><![CDATA[Guides]]></category>
-		<guid isPermaLink="false">/hub/?p=4110</guid>
-
-					<description><![CDATA[
-Not everyone has time for a live call—but everyone deserves personalized health guidance. You&#8217;ve invested in understanding your body through comprehensive biomarker testing. Now you need clear, actionable guidance to improve your health. But between work, family, and life, finding time for appointments can be challenging. That&#8217;s why Siphox offers Expert Written Health Plans: personalized,&#8230; <a class="more-link" href="/hub/guides/expert-written-health-plan/">Continue reading <span class="screen-reader-text">Your Personalized Roadmap: Expert Written Health Plans</span></a>]]></description>
-			
-							<content:encoded><![CDATA[<p>Not everyone has time for a live call—but everyone deserves personalized health guidance.</p>
-<p>You&#8217;ve invested in understanding your body through comprehensive biomarker testing. Now you need clear, actionable guidance to improve your health. But between work, family, and life, finding time for appointments can be challenging.</p>
-<p>That&#8217;s why Siphox offers Expert Written Health Plans: personalized, written health coaching delivered on your schedule. For just $39, complete a detailed questionnaire and receive a comprehensive written action plan from a qualified health specialist, no appointment necessary.</p>
-<h2>How It Works: Simple, Flexible, Expert</h2>
-<p><strong>Step 1: Complete Your Health Questionnaire (2-5 minutes)</strong> Answer detailed questions about:</p>
-<ul>
-<li>Your current lifestyle (diet, exercise, sleep, stress)</li>
-<li>Health goals and priorities</li>
-<li>Medical history and current symptoms</li>
-<li>Supplements and medications</li>
-<li>Specific concerns about your biomarkers</li>
-</ul>
-<p><strong>Step 2: Expert Analysis (Behind the Scenes)</strong> A qualified health coach reviews your biomarkers alongside your questionnaire responses, analyzing patterns and identifying opportunities for optimization.</p>
-<p><strong>Step 3: Receive Your Personalized Action Plan (Within 3-5 business days)</strong> Get a comprehensive written plan including:</p>
-<ul>
-<li>Summary of your biomarker analysis</li>
-<li>Key findings and areas of focus</li>
-<li>Specific, prioritized action items</li>
-<li>Lifestyle recommendations tailored to your situation</li>
-<li>Supplement suggestions with dosing guidance</li>
-<li>Timeline for reassessment</li>
-</ul>
-<h2>Why Choose Expert Written Health Plans?</h2>
-<p><strong>Convenience and Flexibility</strong> Complete your questionnaire whenever it works for you; early morning, lunch break, or late at night. No scheduling conflicts, no appointment anxiety.</p>
-<p><strong>Thorough Analysis</strong> Your coach has time to deeply analyze your biomarkers and questionnaire responses without the constraints of a live call, often resulting in more comprehensive recommendations.</p>
-<p><strong>Written Documentation</strong> Everything is documented in writing from the start. You can reference your action plan anytime, share it with your doctor, and track your progress over time without relying on notes from a call.</p>
-<p><strong>Perfect for Introverts</strong> Not everyone wants to jump on a call. Some people process information better in writing and prefer the privacy of a written exchange.</p>
-<p><strong>International Friendly</strong> No matter where you are in the world, no matter your time zone, you can access expert health coaching without coordination challenges.</p>
-<p><strong>Time to Reflect</strong> Review your action plan carefully, research recommendations, and formulate follow-up questions without the pressure of a live conversation.</p>
-<h2>What&#8217;s Included in Your Action Plan</h2>
-<p>Your comprehensive written action plan covers:</p>
-<p><strong>Biomarker Summary</strong></p>
-<ul>
-<li>Overview of your key results</li>
-<li>Explanation of what each marker means</li>
-<li>Context for your specific situation</li>
-</ul>
-<p><strong>Lifestyle Analysis</strong></p>
-<ul>
-<li>Assessment of your current diet, exercise, sleep, and stress management</li>
-<li>Identification of gaps and opportunities</li>
-</ul>
-<p><strong>Prioritized Action Items</strong></p>
-<ul>
-<li>Specific, actionable recommendations ranked by impact</li>
-<li>Clear instructions for implementation</li>
-<li>Expected timeline for each intervention</li>
-</ul>
-<p><strong>Supplementation Guidance</strong></p>
-<ul>
-<li>Which supplements to consider and why</li>
-<li>Specific dosing recommendations</li>
-<li>Timing and combination guidance</li>
-</ul>
-<p><strong>Next Steps</strong></p>
-<ul>
-<li>When to retest biomarkers</li>
-<li>What to monitor for improvement</li>
-<li>How to track progress</li>
-</ul>
-<h2>The Science Behind Written Coaching</h2>
-<p>Research shows that written action plans increase adherence to health interventions by providing:</p>
-<p><strong>Clarity</strong>: Written recommendations eliminate misunderstanding or forgotten details from verbal conversations</p>
-<p><strong>Commitment</strong>: Writing down goals and actions increases the likelihood of follow-through</p>
-<p><strong>Reference</strong>: You can review your plan whenever you need motivation or clarity</p>
-<p><strong>Accountability</strong>: Having a documented plan makes it easier to track what you&#8217;ve implemented and what still needs attention</p>
-<h2>Common Areas Addressed in Action Plans</h2>
-<p>Based on your biomarkers and questionnaire, your action plan may include guidance on:</p>
-<ul>
-<li><strong>Metabolic Optimization</strong>: Blood sugar control, insulin sensitivity, lipid management</li>
-<li><strong>Hormonal Balance</strong>: Thyroid support, sex hormone optimization, cortisol regulation</li>
-<li><strong>Cardiovascular Health</strong>: Cholesterol improvement, blood pressure management, inflammation reduction</li>
-<li><strong>Dietary Strategy</strong>: Meal composition, macronutrient ratios, food timing, specific foods to emphasize or avoid</li>
-<li><strong>Exercise Prescription</strong>: Type, intensity, frequency, and timing of workouts</li>
-<li><strong>Sleep Enhancement</strong>: Duration, quality, sleep hygiene, circadian rhythm optimization</li>
-<li><strong>Stress Reduction</strong>: Practical techniques for managing chronic stress</li>
-<li><strong>Targeted Supplementation</strong>: Evidence-based supplement recommendations specific to your deficiencies</li>
-</ul>
-<h2>Is This Right for You?</h2>
-<p>Expert Written Health Plans are ideal if you:</p>
-<p>✓ Prefer written communication over live calls</p>
-<p>✓ Want to complete your health assessment on your own schedule</p>
-<p>✓ Value having detailed documentation to reference</p>
-<p>✓ Like to process information thoroughly before asking questions</p>
-<p>✓ Live in a different time zone or have an unpredictable schedule</p>
-<p>✓ Want comprehensive analysis without time pressure</p>
-<p>✓ Prefer privacy and written records</p>
-<p>✓ Need to share recommendations with your doctor</p>
-<h2>Get Your Personalized Action Plan: Just $39</h2>
-<p>For the price of a supplement bottle, you can receive expert guidance tailored specifically to your biomarkers and lifestyle.</p>
-<p><strong>What you get for $39:</strong></p>
-<ul>
-<li>Detailed health questionnaire to capture your complete picture</li>
-<li>Expert analysis from a qualified health coach</li>
-<li>Comprehensive written action plan with 5-10 prioritized recommendations</li>
-<li>Supplement guidance with specific dosing</li>
-<li>Timeline for reassessment</li>
-<li>Documentation you can reference anytime</li>
-</ul>
-<p><strong>No appointments. No scheduling. No pressure. Just expert guidance delivered to your inbox.</strong></p>
-<p>Start improving your health today—on your schedule, at your pace.</p>
-<p><a href="https://siphoxhealth.com/products/coaching-call-asynch">Get Your Action Plan Now</a></p>
-<hr />
-<p><em>Your biomarkers hold the key to better health. Let us help you unlock it—on your schedule.</em></p>
-<p><!-- notionvc: 75566fc2-4255-4f65-8cd9-ee69b61cc481 --></p>
 ]]></content:encoded>
 					
 		
