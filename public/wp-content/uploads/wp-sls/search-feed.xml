@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/6.9.4" created="2026-05-04 21:13" -->
+    <!-- generator="WordPress/6.9.4" created="2026-05-05 20:15" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Mon, 04 May 2026 21:13:48 +0000</pubDate>
+            <pubDate>Tue, 05 May 2026 20:15:19 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -153,7 +153,7 @@ Metabolic fitness is the condition of a robust and healthy set of cellular mecha
                             <wp:post_name><![CDATA[what-we-measure]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>275</wp:menu_order>
+                            <wp:menu_order>276</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -495,7 +495,7 @@ https://youtu.be/u6oF_lyUsII
                             <wp:post_name><![CDATA[y-combinator-launch-2022]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>274</wp:menu_order>
+                            <wp:menu_order>275</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -860,7 +860,7 @@ In 2023 SiPhox Health will be launching (for investigational use) our 3-minute a
                             <wp:post_name><![CDATA[why-measure-your-inflammation-hs-crp-and-what-does-it-mean]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>195</wp:menu_order>
+                            <wp:menu_order>196</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -1227,7 +1227,7 @@ SiPhox Health is developing next-generation at-home testing hardware that will d
                             <wp:post_name><![CDATA[intel-podcast-scaling-clinical-diagnostic-testing-to-the-masses]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>191</wp:menu_order>
+                            <wp:menu_order>192</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -1333,7 +1333,7 @@ On this episode of Health &amp; Life Sciences at the Edge, host Michelle Dawn Mo
                             <wp:post_name><![CDATA[the-value-of-biosensing-for-preventive-medicine-michael-dubrovsky-josh-clemente]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>192</wp:menu_order>
+                            <wp:menu_order>193</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -1431,7 +1431,7 @@ On this episode of Health &amp; Life Sciences at the Edge, host Michelle Dawn Mo
                             <wp:post_name><![CDATA[better-sleep-blue-light-blocking-glasses]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>146</wp:menu_order>
+                            <wp:menu_order>147</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -1606,7 +1606,7 @@ Remember that by becoming an Unlimited member, you will receive a free pair of h
                             <wp:post_name><![CDATA[the-untold-story-of-vitamin-d]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>135</wp:menu_order>
+                            <wp:menu_order>136</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -1745,7 +1745,7 @@ Understanding your Vitamin D levels is crucial for maintaining good health, espe
                             <wp:post_name><![CDATA[why-blood-test-results-dont-always-align]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>132</wp:menu_order>
+                            <wp:menu_order>133</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -1919,12 +1919,12 @@ Variability in lab results is a known entity, yet it doesn’t detract from the 
                             <wp:post_name><![CDATA[decoding-apob-the-key-to-cardiovascular-health]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>130</wp:menu_order>
+                            <wp:menu_order>131</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
-                                                        		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
-		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
+                                                        		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
+		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -2123,15 +2123,15 @@ Cardiovascular health is no joke. Several studies mentioned earlier in this guid
                             <wp:post_name><![CDATA[cortisol-levels-unveiled-managing-stress-through-at-home-testing]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>141</wp:menu_order>
+                            <wp:menu_order>142</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
                                                         		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
 		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
-		<category domain="category" nicename="cortisol"><![CDATA[Cortisol]]></category>
 		<category domain="post_tag" nicename="cortisol"><![CDATA[cortisol]]></category>
+		<category domain="category" nicename="cortisol"><![CDATA[Cortisol]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
 		<category domain="post_tag" nicename="health"><![CDATA[health]]></category>
 		<category domain="post_tag" nicename="hormones"><![CDATA[hormones]]></category>
@@ -2336,7 +2336,7 @@ A stress response can result from any physical or psychological stimulus (stress
                             <wp:post_name><![CDATA[biomarker-magnesium]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>140</wp:menu_order>
+                            <wp:menu_order>141</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -2471,7 +2471,7 @@ If you need to maintain or increase your magnesium levels, consider the followin
                             <wp:post_name><![CDATA[biomarker-cadmium]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>139</wp:menu_order>
+                            <wp:menu_order>140</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -2595,7 +2595,7 @@ If you need to maintain or increase your magnesium levels, consider the followin
                             <wp:post_name><![CDATA[biomarker-mercury]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>127</wp:menu_order>
+                            <wp:menu_order>128</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -2726,7 +2726,7 @@ If you need to maintain or increase your magnesium levels, consider the followin
                             <wp:post_name><![CDATA[biomarker-selenium]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>138</wp:menu_order>
+                            <wp:menu_order>139</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -2852,7 +2852,7 @@ According to ZRT Laboratory, the normal range for selenium is 130-362 ug/L.
                             <wp:post_name><![CDATA[biomarker-copper]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>126</wp:menu_order>
+                            <wp:menu_order>127</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -2982,7 +2982,7 @@ According to ZRT Laboratory, the normal range for selenium is 130-362 ug/L.
                             <wp:post_name><![CDATA[biomarker-zinc]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>125</wp:menu_order>
+                            <wp:menu_order>126</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -3123,15 +3123,15 @@ If zinc levels are too low, it can lead to a variety of health issues, including
                             <wp:post_name><![CDATA[biomarker-apob]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>114</wp:menu_order>
+                            <wp:menu_order>115</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
                                                         		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="post_tag" nicename="at-home"><![CDATA[at-home]]></category>
 		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
-		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="biomarkers"><![CDATA[biomarkers]]></category>
+		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood"><![CDATA[blood]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -3275,7 +3275,7 @@ Ranges specific to the Cardiometabolic Program:
                             <wp:post_name><![CDATA[biomarker-fasting-glucose]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>113</wp:menu_order>
+                            <wp:menu_order>114</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -3413,7 +3413,7 @@ If you need to maintain or adjust your fasting glucose levels, <span style="text
                             <wp:post_name><![CDATA[biomarker-homocysteine]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>112</wp:menu_order>
+                            <wp:menu_order>113</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -3558,7 +3558,7 @@ High levels of homocysteine may be caused by low levels of B vitamins and/or fol
                             <wp:post_name><![CDATA[exploring-wearable-data-oura]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>169</wp:menu_order>
+                            <wp:menu_order>170</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -3725,7 +3725,7 @@ Correlation between APOB and REM sleep among females aged 40 and older.
                             <wp:post_name><![CDATA[biomarker-dhea-s-2]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>111</wp:menu_order>
+                            <wp:menu_order>112</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -3935,7 +3935,7 @@ If you have elevated DHEA-S levels, you can try:
                             <wp:post_name><![CDATA[biomarker-prolactin-prl]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>110</wp:menu_order>
+                            <wp:menu_order>111</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -4076,7 +4076,7 @@ If your PRL levels are abnormal, consider the following strategies:
                             <wp:post_name><![CDATA[biomarker-homa-ir]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>109</wp:menu_order>
+                            <wp:menu_order>110</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -4251,7 +4251,7 @@ Since HOMA-IR is a calculation of fasting glucose and fasting insulin levels, so
                             <wp:post_name><![CDATA[biomarker-testosterone]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>108</wp:menu_order>
+                            <wp:menu_order>109</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -4419,7 +4419,7 @@ If you need to maintain or adjust your testosterone levels, consider the followi
                             <wp:post_name><![CDATA[biomarker-progesterone]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>107</wp:menu_order>
+                            <wp:menu_order>108</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -4550,7 +4550,7 @@ If you need to maintain or adjust your progesterone levels consider the followin
                             <wp:post_name><![CDATA[biomarker-bilirubin]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>115</wp:menu_order>
+                            <wp:menu_order>116</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -4684,7 +4684,7 @@ If you need to maintain or adjust your bilirubin levels, <span style="text-decor
                             <wp:post_name><![CDATA[biomarker-albumin]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>116</wp:menu_order>
+                            <wp:menu_order>117</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -4829,7 +4829,7 @@ If your albumin levels are high, you can try:
                             <wp:post_name><![CDATA[biomarker-bun]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>124</wp:menu_order>
+                            <wp:menu_order>125</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -4961,7 +4961,7 @@ While specific interventions may vary depending on the underlying cause of abnor
                             <wp:post_name><![CDATA[biomarker-ldl-c]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>123</wp:menu_order>
+                            <wp:menu_order>124</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -5102,7 +5102,7 @@ If your LDL-C is elevated, here are some changes you can try:
                             <wp:post_name><![CDATA[biomarker-hdl-c]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>122</wp:menu_order>
+                            <wp:menu_order>123</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -5257,7 +5257,7 @@ If you need to maintain or adjust your HDL-C levels, consider the <span style="t
                             <wp:post_name><![CDATA[biomarker-apoa1]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>121</wp:menu_order>
+                            <wp:menu_order>122</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -5393,7 +5393,7 @@ If you need to maintain or adjust your ApoA1 levels, consider the <span style="t
                             <wp:post_name><![CDATA[biomarker-lpa]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>120</wp:menu_order>
+                            <wp:menu_order>121</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -5559,7 +5559,7 @@ Lp(a) is considered to be solely impacted by genetics, and research trying to e
                             <wp:post_name><![CDATA[biomarker-total-cholesterolhdl-ratio]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>119</wp:menu_order>
+                            <wp:menu_order>120</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -5690,7 +5690,7 @@ For more information on how to improve your TC:HDL ratio, please refer to the <
                             <wp:post_name><![CDATA[biomarker-alt]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>118</wp:menu_order>
+                            <wp:menu_order>119</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -5829,7 +5829,7 @@ Ranges specific to the Cardiometabolic Program:
                             <wp:post_name><![CDATA[biomarker-dna-methylation]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>117</wp:menu_order>
+                            <wp:menu_order>118</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -5959,7 +5959,7 @@ Ranges specific to the Cardiometabolic Program:
                             <wp:post_name><![CDATA[biomarker-egfr]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>105</wp:menu_order>
+                            <wp:menu_order>106</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -6118,7 +6118,7 @@ In addition to staying healthy and reducing blood pressure and blood sugar throu
                             <wp:post_name><![CDATA[biomarker-creatinine]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>182</wp:menu_order>
+                            <wp:menu_order>183</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -6253,7 +6253,7 @@ In addition to staying healthy and reducing blood pressure and blood sugar throu
                             <wp:post_name><![CDATA[biomarker-total-cholesterol]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>172</wp:menu_order>
+                            <wp:menu_order>173</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -6388,7 +6388,7 @@ In addition to staying healthy and reducing blood pressure and blood sugar throu
                             <wp:post_name><![CDATA[biomarker-ast]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>174</wp:menu_order>
+                            <wp:menu_order>175</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -6530,7 +6530,7 @@ In addition to staying healthy and reducing blood pressure and blood sugar throu
                             <wp:post_name><![CDATA[biomarker-ferritin]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>178</wp:menu_order>
+                            <wp:menu_order>179</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -6678,7 +6678,7 @@ If you have high ferritin, a few ways to lower levels include:
                             <wp:post_name><![CDATA[biomarker-cortisol]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>177</wp:menu_order>
+                            <wp:menu_order>178</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -6819,7 +6819,7 @@ If your cortisol levels are on the lower side, studies suggest the following i
                             <wp:post_name><![CDATA[biomarker-apobapoa1-ratio]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>176</wp:menu_order>
+                            <wp:menu_order>177</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -6962,7 +6962,7 @@ The ApoB:ApoA1 ratio is highly valuable for detecting atherogenic (plaque-filled
                             <wp:post_name><![CDATA[biomarker-daily-steps]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>175</wp:menu_order>
+                            <wp:menu_order>176</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -7087,7 +7087,7 @@ The ApoB:ApoA1 ratio is highly valuable for detecting atherogenic (plaque-filled
                             <wp:post_name><![CDATA[biomarker-sleep]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>173</wp:menu_order>
+                            <wp:menu_order>174</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -7208,7 +7208,7 @@ Wearable health trackers like Fitbit, Apple Watch, and Garmin devices provide va
                             <wp:post_name><![CDATA[biomarker-heart-rate]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>171</wp:menu_order>
+                            <wp:menu_order>172</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -7341,7 +7341,7 @@ Wearable health trackers like Fitbit, Apple Watch, and Garmin devices provide ad
                             <wp:post_name><![CDATA[biomarker-hemoglobin-a1c]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>170</wp:menu_order>
+                            <wp:menu_order>171</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -7486,7 +7486,7 @@ If your A1C is elevated, you can <span style="text-decoration: underline;"><a h
                             <wp:post_name><![CDATA[biomarker-thyroid-peroxidase-antibody-tpoab]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>168</wp:menu_order>
+                            <wp:menu_order>169</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -7613,7 +7613,7 @@ The TPOAb test is usually suggested for people who are experiencing hypothyroidi
                             <wp:post_name><![CDATA[biomarker-thyroid-stimulating-hormone-tsh]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>179</wp:menu_order>
+                            <wp:menu_order>180</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -7759,7 +7759,7 @@ If you need to maintain or adjust your TSH levels, consider the following strate
                             <wp:post_name><![CDATA[biomarker-free-t4]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>183</wp:menu_order>
+                            <wp:menu_order>184</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -7891,7 +7891,7 @@ If you need to maintain or adjust your free T4 levels, consider the following st
                             <wp:post_name><![CDATA[biomarker-estradiol-e2]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>180</wp:menu_order>
+                            <wp:menu_order>181</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -8038,7 +8038,7 @@ Estradiol levels provide insight into reproductive health and overall hormonal b
                             <wp:post_name><![CDATA[biomarker-testosteronecortisol-ratio]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>186</wp:menu_order>
+                            <wp:menu_order>187</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -8173,7 +8173,7 @@ If you need to maintain or adjust your testosterone:cortisol ratio, it is best t
                             <wp:post_name><![CDATA[biomarker-free-t3]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>185</wp:menu_order>
+                            <wp:menu_order>186</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -8309,7 +8309,7 @@ If you need to maintain or adjust your free T3 levels, consider the following st
                             <wp:post_name><![CDATA[biomarker-b12]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>184</wp:menu_order>
+                            <wp:menu_order>185</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -8462,7 +8462,7 @@ The quantity of B12 intake differs for pregnant and non-pregnant adult females:
                             <wp:post_name><![CDATA[biomarker-folate]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>181</wp:menu_order>
+                            <wp:menu_order>182</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -8588,7 +8588,7 @@ The quantity of B12 intake differs for pregnant and non-pregnant adult females:
                             <wp:post_name><![CDATA[biomarker-anti-mullerian-hormone-amh]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>167</wp:menu_order>
+                            <wp:menu_order>168</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -8768,7 +8768,7 @@ Lower levels of AMH can indicate a shortage of eggs in the ovaries. This could i
                             <wp:post_name><![CDATA[biomarker-follicle-stimulating-hormone-fsh]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>166</wp:menu_order>
+                            <wp:menu_order>167</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -8916,7 +8916,7 @@ If you need to maintain or adjust your FSH levels, consider the following strate
                             <wp:post_name><![CDATA[biomarker-luteinizing-hormone-lh]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>155</wp:menu_order>
+                            <wp:menu_order>156</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -9077,7 +9077,7 @@ If you need to maintain or adjust your LH levels, consider the following strateg
                             <wp:post_name><![CDATA[biomarker-prostate-specific-antigen-psa]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>154</wp:menu_order>
+                            <wp:menu_order>155</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -9251,7 +9251,7 @@ If your PSA levels are elevated, try incorporating some of these changes to lowe
                             <wp:post_name><![CDATA[biomarker-sex-hormone-binding-globulin-shbg]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>153</wp:menu_order>
+                            <wp:menu_order>154</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -9391,7 +9391,7 @@ If you need to maintain or adjust your SHBG levels, consider the following strat
                             <wp:post_name><![CDATA[biomarker-triglyceridehdl-ratio]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>152</wp:menu_order>
+                            <wp:menu_order>153</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -9528,7 +9528,7 @@ For more information on how to improve your TG:HDL-C ratio, please refer to the 
                             <wp:post_name><![CDATA[biomarker-triglycerides]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>151</wp:menu_order>
+                            <wp:menu_order>152</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -9659,7 +9659,7 @@ If you need to maintain or adjust your triglyceride levels, consider the followi
                             <wp:post_name><![CDATA[biomarker-fasting-insulin]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>149</wp:menu_order>
+                            <wp:menu_order>150</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -9807,7 +9807,7 @@ If you need to maintain or adjust your insulin levels, consider the <span style=
                             <wp:post_name><![CDATA[biomarker-high-sensitivity-c-reactive-protein-hs-crp]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>148</wp:menu_order>
+                            <wp:menu_order>149</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -9948,7 +9948,7 @@ Ranges specific to the Cardiometabolic Program:
                             <wp:post_name><![CDATA[biomarker-vitamin-d]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>150</wp:menu_order>
+                            <wp:menu_order>151</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -10081,7 +10081,7 @@ If your vitamin D levels are low, you can try:
                             <wp:post_name><![CDATA[blood-pressure]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>156</wp:menu_order>
+                            <wp:menu_order>157</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -10271,7 +10271,7 @@ If your blood pressure levels are higher than normal, you can try:
                             <wp:post_name><![CDATA[waist-height-ratio-w-ht-r]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>157</wp:menu_order>
+                            <wp:menu_order>158</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -10412,7 +10412,7 @@ If your W/Ht.R. indicates an increased risk, consider the following strategies t
                             <wp:post_name><![CDATA[smoking]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>165</wp:menu_order>
+                            <wp:menu_order>166</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -10546,7 +10546,7 @@ If you are a smoker and want to quit, consider the following strategies:
                             <wp:post_name><![CDATA[physical-activity]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>164</wp:menu_order>
+                            <wp:menu_order>165</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -10890,7 +10890,7 @@ In 2023 SiPhox Health will be launching (for investigational use) our 3-minute a
                             <wp:post_name><![CDATA[im-low-carb-which-blood-tests-should-i-get]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>196</wp:menu_order>
+                            <wp:menu_order>197</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -11184,7 +11184,7 @@ Regularly reviewing these key biomarkers, combined with the right testing servic
                             <wp:post_name><![CDATA[c-peptide]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>162</wp:menu_order>
+                            <wp:menu_order>163</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -11309,7 +11309,7 @@ UCSF Health – <a href="https://www.ucsfhealth.org/medical-tests/insulin-c-pept
                             <wp:post_name><![CDATA[vldl]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>161</wp:menu_order>
+                            <wp:menu_order>162</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -11428,7 +11428,7 @@ If you need to maintain or adjust your VLDL-C levels, consider the following str
                             <wp:post_name><![CDATA[free-androgen-index-fai]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>160</wp:menu_order>
+                            <wp:menu_order>161</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -11566,7 +11566,7 @@ If you need to maintain or adjust your FAI, consider the following strategies {{
                             <wp:post_name><![CDATA[cystatin-c]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>158</wp:menu_order>
+                            <wp:menu_order>159</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -11685,7 +11685,7 @@ Certain medications, such as NSAIDs, and conditions like high blood pressure or 
                             <wp:post_name><![CDATA[iron]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>159</wp:menu_order>
+                            <wp:menu_order>160</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -11793,7 +11793,7 @@ If you need to improve your iron levels, consider the following:
                             <wp:post_name><![CDATA[alp]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>163</wp:menu_order>
+                            <wp:menu_order>164</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -11897,7 +11897,7 @@ If your ALP levels are high or low, addressing the underlying cause is key.
                             <wp:post_name><![CDATA[protein]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>147</wp:menu_order>
+                            <wp:menu_order>148</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -12001,7 +12001,7 @@ Maintaining balanced protein levels involves addressing any underlying health is
                             <wp:post_name><![CDATA[calcium]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>104</wp:menu_order>
+                            <wp:menu_order>105</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -12109,7 +12109,7 @@ Maintaining balanced protein levels involves addressing any underlying health is
                             <wp:post_name><![CDATA[understanding-your-lab-results-beyond-standard-ranges]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>103</wp:menu_order>
+                            <wp:menu_order>104</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -12265,7 +12265,7 @@ Remember: Standard ranges tell you if you're similar to the general population. 
                             <wp:post_name><![CDATA[biomarker-tgab]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>106</wp:menu_order>
+                            <wp:menu_order>107</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -12379,7 +12379,7 @@ Elevated TgAb levels are commonly linked to <a href="https://my.clevelandclinic.
                             <wp:post_name><![CDATA[day-3-hormone-testing-understanding-the-baseline-for-fertility]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>102</wp:menu_order>
+                            <wp:menu_order>103</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -12479,7 +12479,7 @@ Elevated TgAb levels are commonly linked to <a href="https://my.clevelandclinic.
                             <wp:post_name><![CDATA[biomarker-cgm]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>101</wp:menu_order>
+                            <wp:menu_order>102</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -12660,7 +12660,7 @@ Values below this range suggest more stable glucose levels, which is generally f
                             <wp:post_name><![CDATA[biomarker-iron-saturation]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>100</wp:menu_order>
+                            <wp:menu_order>101</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -12796,7 +12796,7 @@ Maintaining balanced iron saturation involves managing both iron intake and abso
                             <wp:post_name><![CDATA[when-to-test-guide]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>99</wp:menu_order>
+                            <wp:menu_order>100</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -12914,7 +12914,7 @@ You can test <strong>any day</strong> of your cycle, but some days may be more i
                             <wp:post_name><![CDATA[biomarker-free-testosterone]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>98</wp:menu_order>
+                            <wp:menu_order>99</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -13098,7 +13098,7 @@ Free testosterone is typically tested alongside total testosterone to assess hor
                             <wp:post_name><![CDATA[biomarker-female-testosterone]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>97</wp:menu_order>
+                            <wp:menu_order>98</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -13218,7 +13218,7 @@ Maintaining balanced testosterone levels in women involves the following steps:
                             <wp:post_name><![CDATA[biomarker-male-testosterone]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>96</wp:menu_order>
+                            <wp:menu_order>97</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -13378,7 +13378,7 @@ If you need to maintain or adjust your testosterone levels, consider the followi
                             <wp:post_name><![CDATA[systolic-blood-pressure]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>94</wp:menu_order>
+                            <wp:menu_order>95</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -13495,7 +13495,7 @@ For individuals requiring medication, several drug classes effectively lower sys
                             <wp:post_name><![CDATA[diastolic-blood-pressure]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>95</wp:menu_order>
+                            <wp:menu_order>96</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -13623,7 +13623,7 @@ Your doctor may recommend different types of blood pressure medications based on
                             <wp:post_name><![CDATA[ldlapob-ratio]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>93</wp:menu_order>
+                            <wp:menu_order>94</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -13754,7 +13754,7 @@ Understanding your LDL:ApoB ratio provides valuable insights beyond standard cho
                             <wp:post_name><![CDATA[ldlhdl-ratio]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>92</wp:menu_order>
+                            <wp:menu_order>93</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -13876,7 +13876,7 @@ For comprehensive cardiovascular health monitoring, consider testing additional 
                             <wp:post_name><![CDATA[carbon-dioxide]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>91</wp:menu_order>
+                            <wp:menu_order>92</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -14015,7 +14015,7 @@ For comprehensive cardiovascular health monitoring, consider testing additional 
                             <wp:post_name><![CDATA[lhfsh-ratio]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>90</wp:menu_order>
+                            <wp:menu_order>91</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -14148,7 +14148,7 @@ Medical treatments vary depending on the underlying cause and reproductive goals
                             <wp:post_name><![CDATA[buncreatinine-ratio]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>89</wp:menu_order>
+                            <wp:menu_order>90</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -14307,7 +14307,7 @@ Remember that many factors can temporarily affect this ratio, and a single abnor
                             <wp:post_name><![CDATA[aslalt-ratio]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>88</wp:menu_order>
+                            <wp:menu_order>89</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -14437,7 +14437,7 @@ If you are concerned about your liver health or have risk factors for liver dise
                             <wp:post_name><![CDATA[tsht4-ratio]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>87</wp:menu_order>
+                            <wp:menu_order>88</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -14590,7 +14590,7 @@ Regular monitoring of your TSH:T4 ratio can help track intervention effectivenes
                             <wp:post_name><![CDATA[freet3freet4-ratio]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>86</wp:menu_order>
+                            <wp:menu_order>87</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -14711,7 +14711,7 @@ Understanding your Free T3:Free T4 ratio provides a more complete picture of thy
                             <wp:post_name><![CDATA[calcium-2]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>85</wp:menu_order>
+                            <wp:menu_order>86</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -14829,7 +14829,7 @@ Understanding your Free T3:Free T4 ratio provides a more complete picture of thy
                             <wp:post_name><![CDATA[sodium]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>84</wp:menu_order>
+                            <wp:menu_order>85</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -14978,7 +14978,7 @@ Understanding your Free T3:Free T4 ratio provides a more complete picture of thy
                             <wp:post_name><![CDATA[potassium]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>83</wp:menu_order>
+                            <wp:menu_order>84</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -15109,7 +15109,7 @@ Understanding your Free T3:Free T4 ratio provides a more complete picture of thy
                             <wp:post_name><![CDATA[chloride]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>82</wp:menu_order>
+                            <wp:menu_order>83</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -15265,7 +15265,7 @@ Understanding your Free T3:Free T4 ratio provides a more complete picture of thy
                             <wp:post_name><![CDATA[total-iron-binding-capacity]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>81</wp:menu_order>
+                            <wp:menu_order>82</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -15399,7 +15399,7 @@ Understanding your Free T3:Free T4 ratio provides a more complete picture of thy
                             <wp:post_name><![CDATA[white-blood-cell-count]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>80</wp:menu_order>
+                            <wp:menu_order>81</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -15546,7 +15546,7 @@ Regular health monitoring, including periodic blood tests, helps ensure your WBC
                             <wp:post_name><![CDATA[red-blood-cell-count]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>79</wp:menu_order>
+                            <wp:menu_order>80</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -15703,7 +15703,7 @@ If you have symptoms of anemia or polycythemia, consult your healthcare provider
                             <wp:post_name><![CDATA[hemoglobin]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>78</wp:menu_order>
+                            <wp:menu_order>79</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -15864,7 +15864,7 @@ DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH Y
                             <wp:post_name><![CDATA[hematocrit]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>77</wp:menu_order>
+                            <wp:menu_order>78</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -16026,7 +16026,7 @@ Regular aerobic exercise supports healthy red blood cell production when levels 
                             <wp:post_name><![CDATA[platelet-count]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>76</wp:menu_order>
+                            <wp:menu_order>77</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -16166,7 +16166,7 @@ Regular aerobic exercise supports healthy red blood cell production when levels 
                             <wp:post_name><![CDATA[body-mass-index]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>75</wp:menu_order>
+                            <wp:menu_order>76</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -16293,7 +16293,7 @@ Regular aerobic exercise supports healthy red blood cell production when levels 
                             <wp:post_name><![CDATA[body-fat-percentage]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>74</wp:menu_order>
+                            <wp:menu_order>75</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -16427,7 +16427,7 @@ Regular aerobic exercise supports healthy red blood cell production when levels 
                             <wp:post_name><![CDATA[fat-mass]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>73</wp:menu_order>
+                            <wp:menu_order>74</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -16561,7 +16561,7 @@ Regular aerobic exercise supports healthy red blood cell production when levels 
                             <wp:post_name><![CDATA[height]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>72</wp:menu_order>
+                            <wp:menu_order>73</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -16685,7 +16685,7 @@ Regular aerobic exercise supports healthy red blood cell production when levels 
                             <wp:post_name><![CDATA[hip-circumference]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>71</wp:menu_order>
+                            <wp:menu_order>72</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -16821,7 +16821,7 @@ Regular aerobic exercise supports healthy red blood cell production when levels 
                             <wp:post_name><![CDATA[lean-mass]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>70</wp:menu_order>
+                            <wp:menu_order>71</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -16951,7 +16951,7 @@ Regular aerobic exercise supports healthy red blood cell production when levels 
                             <wp:post_name><![CDATA[lean-mass-percentage]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>69</wp:menu_order>
+                            <wp:menu_order>70</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -17089,7 +17089,7 @@ Regular aerobic exercise supports healthy red blood cell production when levels 
                             <wp:post_name><![CDATA[waist-circumference]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>68</wp:menu_order>
+                            <wp:menu_order>69</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -17221,7 +17221,7 @@ Regular aerobic exercise supports healthy red blood cell production when levels 
                             <wp:post_name><![CDATA[waist-to-hip-ratio]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>67</wp:menu_order>
+                            <wp:menu_order>68</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -17358,7 +17358,7 @@ Regular aerobic exercise supports healthy red blood cell production when levels 
                             <wp:post_name><![CDATA[waist-to-height-ratio]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>66</wp:menu_order>
+                            <wp:menu_order>67</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -17492,7 +17492,7 @@ Regular aerobic exercise supports healthy red blood cell production when levels 
                             <wp:post_name><![CDATA[weight]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>65</wp:menu_order>
+                            <wp:menu_order>66</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -17627,7 +17627,7 @@ Regular aerobic exercise supports healthy red blood cell production when levels 
                             <wp:post_name><![CDATA[basal-metabolic-rate]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>64</wp:menu_order>
+                            <wp:menu_order>65</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -17795,7 +17795,7 @@ Regular aerobic exercise supports healthy red blood cell production when levels 
                             <wp:post_name><![CDATA[urine-color]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>63</wp:menu_order>
+                            <wp:menu_order>64</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -17923,7 +17923,7 @@ Regular aerobic exercise supports healthy red blood cell production when levels 
                             <wp:post_name><![CDATA[urine-clarity]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>62</wp:menu_order>
+                            <wp:menu_order>63</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -18055,7 +18055,7 @@ While visual checks of urine clarity can be useful, pairing observations with ur
                             <wp:post_name><![CDATA[urine-protein]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>61</wp:menu_order>
+                            <wp:menu_order>62</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -18214,7 +18214,7 @@ While visual checks of urine clarity can be useful, pairing observations with ur
                             <wp:post_name><![CDATA[urine-ketones]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>60</wp:menu_order>
+                            <wp:menu_order>61</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -18363,7 +18363,7 @@ While visual checks of urine clarity can be useful, pairing observations with ur
                             <wp:post_name><![CDATA[red-blood-cells-in-urine]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>59</wp:menu_order>
+                            <wp:menu_order>60</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -18517,7 +18517,7 @@ While visual checks of urine clarity can be useful, pairing observations with ur
                             <wp:post_name><![CDATA[white-blood-cells-in-urine]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>58</wp:menu_order>
+                            <wp:menu_order>59</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -18671,7 +18671,7 @@ While visual checks of urine clarity can be useful, pairing observations with ur
                             <wp:post_name><![CDATA[nitrites-in-urine]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>57</wp:menu_order>
+                            <wp:menu_order>58</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -18808,7 +18808,7 @@ While visual checks of urine clarity can be useful, pairing observations with ur
                             <wp:post_name><![CDATA[leukocytes-in-urine]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>55</wp:menu_order>
+                            <wp:menu_order>56</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -18949,7 +18949,7 @@ While visual checks of urine clarity can be useful, pairing observations with ur
                             <wp:post_name><![CDATA[urine-ph]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>56</wp:menu_order>
+                            <wp:menu_order>57</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -19094,7 +19094,7 @@ While visual checks of urine clarity can be useful, pairing observations with ur
                             <wp:post_name><![CDATA[urine-specific-gravity]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>54</wp:menu_order>
+                            <wp:menu_order>55</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -19235,7 +19235,7 @@ While visual checks of urine clarity can be useful, pairing observations with ur
                             <wp:post_name><![CDATA[urine-albumincreatinine-ratio]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>53</wp:menu_order>
+                            <wp:menu_order>54</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -19363,7 +19363,7 @@ While visual checks of urine clarity can be useful, pairing observations with ur
                             <wp:post_name><![CDATA[urine-creatinine]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>52</wp:menu_order>
+                            <wp:menu_order>53</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -19493,7 +19493,7 @@ While visual checks of urine clarity can be useful, pairing observations with ur
                             <wp:post_name><![CDATA[urine-albumin]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>51</wp:menu_order>
+                            <wp:menu_order>52</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -19650,7 +19650,7 @@ While visual checks of urine clarity can be useful, pairing observations with ur
                             <wp:post_name><![CDATA[rapid-plasma-reagin-quant]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>50</wp:menu_order>
+                            <wp:menu_order>51</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -19782,7 +19782,7 @@ While visual checks of urine clarity can be useful, pairing observations with ur
                             <wp:post_name><![CDATA[amylase]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>49</wp:menu_order>
+                            <wp:menu_order>50</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -19906,7 +19906,7 @@ If you need to maintain healthy amylase levels and support pancreatic function, 
                             <wp:post_name><![CDATA[abo-group-rh-factor]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>48</wp:menu_order>
+                            <wp:menu_order>49</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -20030,7 +20030,7 @@ Blood transfusion compatibility depends on matching donor and recipient blood ty
                             <wp:post_name><![CDATA[antinuclear-antibodies-direct]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>47</wp:menu_order>
+                            <wp:menu_order>48</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -20155,7 +20155,7 @@ A positive ANA result indicates that your immune system may be producing antibod
                             <wp:post_name><![CDATA[basophil-count-and-percentage]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>46</wp:menu_order>
+                            <wp:menu_order>47</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -20270,7 +20270,7 @@ Because basophils respond to immune challenges and inflammatory conditions, main
                             <wp:post_name><![CDATA[urine-bilirubin]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>45</wp:menu_order>
+                            <wp:menu_order>46</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -20382,7 +20382,7 @@ Since urine bilirubin should normally be absent or undetectable, maintaining liv
                             <wp:post_name><![CDATA[dheas-cortisol-ratio]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>44</wp:menu_order>
+                            <wp:menu_order>45</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -20500,7 +20500,7 @@ If you need to improve or maintain your DHEA-S:Cortisol ratio, consider the foll
                             <wp:post_name><![CDATA[eosinophil-count-and-percentage]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>43</wp:menu_order>
+                            <wp:menu_order>44</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -20613,7 +20613,7 @@ If you need to address abnormal eosinophil levels, consider the following strate
                             <wp:post_name><![CDATA[gamma-glutamyl-transferase]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>42</wp:menu_order>
+                            <wp:menu_order>43</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -20729,7 +20729,7 @@ Retry]]></wp:meta_value>
                             <wp:post_name><![CDATA[globulin]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>41</wp:menu_order>
+                            <wp:menu_order>42</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -20858,7 +20858,7 @@ If you need to maintain or adjust your globulin levels, consider the following s
                             <wp:post_name><![CDATA[hep-c-virus-ab]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>40</wp:menu_order>
+                            <wp:menu_order>41</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -20970,7 +20970,7 @@ If your antibody test is positive, follow these steps:
                             <wp:post_name><![CDATA[hepatitis-b-antigen-screen]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>39</wp:menu_order>
+                            <wp:menu_order>40</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -21078,7 +21078,7 @@ If you test negative for HBsAg and want to prevent hepatitis B infection, consid
                             <wp:post_name><![CDATA[immature-cells]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>38</wp:menu_order>
+                            <wp:menu_order>39</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -21206,7 +21206,7 @@ Maintaining healthy immature cell levels focuses on supporting overall immune fu
                             <wp:post_name><![CDATA[immature-granulocytes-count-and-percentage]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>37</wp:menu_order>
+                            <wp:menu_order>38</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -21326,7 +21326,7 @@ Immature granulocyte levels are primarily determined by your body's immune respo
                             <wp:post_name><![CDATA[lipase]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>36</wp:menu_order>
+                            <wp:menu_order>37</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -21432,7 +21432,7 @@ If you have elevated lipase levels or want to support pancreatic health, conside
                             <wp:post_name><![CDATA[lymphocyte-count-and-percentage]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>35</wp:menu_order>
+                            <wp:menu_order>36</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -21550,7 +21550,7 @@ If you need to support healthy lymphocyte levels, consider the following strateg
                             <wp:post_name><![CDATA[mch]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>34</wp:menu_order>
+                            <wp:menu_order>35</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -21663,14 +21663,14 @@ In some cases, underlying conditions causing abnormal MCH levels may require spe
                             <wp:post_id>4017</wp:post_id>
                             <wp:post_date><![CDATA[2025-10-13 19:27:33]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2025-10-13 19:27:33]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-05-04 21:13:48]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-05-04 21:13:48]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-05-04 21:13:49]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-05-04 21:13:49]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[mchc]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>33</wp:menu_order>
+                            <wp:menu_order>34</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -21689,42 +21689,48 @@ In some cases, underlying conditions causing abnormal MCH levels may require spe
                                 </wp:postmeta>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[content_1_copies]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[<h2>What is MCHC?</h2>
-<a href="https://www.webmd.com/a-to-z-guides/mchc-blood-test" target="_blank" rel="noopener">MCHC</a>, or mean corpuscular hemoglobin concentration, is a blood test measurement that calculates the average concentration of hemoglobin in your red blood cells. Hemoglobin is the protein in red blood cells that carries oxygen throughout your body. MCHC is measured during a <a href="https://my.clevelandclinic.org/health/diagnostics/4053-complete-blood-count" target="_blank" rel="noopener"><span style="text-decoration: underline;">complete blood count (CBC)</span></a>, which is one of the most common blood tests ordered by doctors. Unlike MCH (mean corpuscular hemoglobin), which measures the average amount of hemoglobin per red blood cell, MCHC specifically measures the concentration of hemoglobin relative to the volume of each red blood cell.
-<h2>Why is MCHC important?</h2>
-Tracking your MCHC levels helps evaluate the health of your red blood cells and their ability to carry oxygen. This measurement is particularly valuable for <a href="https://www.nhlbi.nih.gov/health/anemia" target="_blank" rel="noopener"><span style="text-decoration: underline;">diagnosing different types of anemia</span></a> and other blood disorders. MCHC results are analyzed alongside other red blood cell indices like MCV (mean corpuscular volume) and MCH to determine what type of anemia or blood condition may be present.
+                                    <wp:meta_value><![CDATA[<h3>What is MCHC?</h3>
+<a href="https://www.ncbi.nlm.nih.gov/books/NBK260/">MCHC</a>, or mean corpuscular hemoglobin concentration, is a blood test measurement that calculates the average concentration of hemoglobin in your red blood cells. Hemoglobin is the protein in red blood cells that carries oxygen throughout your body. MCHC is measured during a <a href="https://www.nhlbi.nih.gov/health/blood-tests/complete-blood-count">complete blood count (CBC)</a>, one of the most common blood tests ordered by doctors. Unlike MCH (mean corpuscular hemoglobin), which measures the average amount of hemoglobin per red blood cell, MCHC specifically measures the concentration of hemoglobin relative to the volume of each red blood cell.
+<h3>Why is MCHC Important?</h3>
+Tracking your MCHC levels helps evaluate the health of your red blood cells and their ability to carry oxygen. This measurement is particularly valuable for <a href="https://www.nhlbi.nih.gov/health/anemia">diagnosing different types of anemia</a> and other blood disorders. MCHC results are analyzed alongside other red blood cell indices like MCV (mean corpuscular volume) and MCH to determine what type of anemia or blood condition may be present.
 
-Low MCHC may indicate iron deficiency anemia, thalassemia, or chronic disease anemia. <a href="https://www.mayoclinic.org/diseases-conditions/iron-deficiency-anemia/symptoms-causes/syc-20355034" target="_blank" rel="noopener"><span style="text-decoration: underline;">Iron deficiency anemia</span></a> is the most common cause of low MCHC. Symptoms may include fatigue, weakness, pale skin, shortness of breath, cold hands and feet, brittle nails, and frequent headaches.
+Low MCHC may indicate iron deficiency anemia, thalassemia, or chronic disease anemia. <a href="https://www.nhlbi.nih.gov/health/iron-deficiency-anemia">Iron deficiency anemia</a> is the most common cause of low MCHC. Symptoms may include fatigue, weakness, pale skin, shortness of breath, cold hands and feet, brittle nails, and frequent headaches.
 
-High MCHC is less common but can signal conditions like <a href="https://www.ncbi.nlm.nih.gov/books/NBK539797/" target="_blank" rel="noopener"><span style="text-decoration: underline;">hereditary spherocytosis</span></a>, sickle cell disease, or autoimmune hemolytic anemia. With hereditary spherocytosis, red blood cells lose their membranes and become sphere-shaped rather than disc-shaped, leading to a higher concentration of hemoglobin in a smaller cell volume. If you are concerned about your levels, it is important to consult with your physician.
-<h2>How can I better understand my MCHC levels?</h2>
-<div data-dynamic-ranges="true" data-test="1"></div>
-<div data-ranges="true">
-
-<strong>MCHC levels:</strong>
+High MCHC is less common but can signal conditions like <a href="https://www.ncbi.nlm.nih.gov/books/NBK539797/">hereditary spherocytosis</a>, sickle cell disease, or autoimmune hemolytic anemia. With hereditary spherocytosis, red blood cells lose their normal disc shape and become sphere-shaped, leading to a higher concentration of hemoglobin packed into a smaller cell volume. If you are concerned about your levels, it is important to consult with your physician.
+<h3>How Can I Better Understand My MCHC Levels?</h3>
+According to the <a href="https://www.ncbi.nlm.nih.gov/books/NBK260/">NCBI Bookshelf</a>, MCHC results fall into three general categories:
 <ul>
+<div data-dynamic-ranges="true" data-test="1"></div>
+
+<div data-ranges="true">
  	<li>Low: Less than 32 g/dL</li>
- 	<li>Normal: 32-36 g/dL</li>
+ 	<li>Normal: 32 to 36 g/dL</li>
  	<li>High: Greater than 36 g/dL</li>
 </ul>
 </div>
-MCHC test results are analyzed in conjunction with other CBC measurements to determine whether your red blood cells are functioning properly and to identify the specific type of anemia if present. Your healthcare provider will consider your MCHC alongside MCV, MCH, RDW (red cell distribution width), and hemoglobin levels for a complete picture of your blood health.
-<h3>How can I maintain optimal MCHC levels?</h3>
-If you need to maintain or improve your MCHC levels, consider the following strategies:
+MCHC results are analyzed alongside other CBC measurements to determine whether your red blood cells are functioning properly and to identify the specific type of anemia if present. Your healthcare provider will consider your MCHC alongside <a href="https://www.ncbi.nlm.nih.gov/books/NBK545275/">MCV</a>, <a href="https://www.ncbi.nlm.nih.gov/books/NBK260027/">MCH</a>, RDW (red cell distribution width), and hemoglobin levels for a complete picture of your blood health.
+<h3>How Can I Maintain Optimal MCHC Levels?</h3>
+<strong>Dietary Changes</strong>
 
-<strong>Dietary Changes:</strong> For low MCHC related to <a href="https://patient.info/allergies-blood-immune/anaemia-leaflet/diets-suitable-for-people-with-anaemia" target="_blank" rel="noopener"><span style="text-decoration: underline;">iron deficiency</span></a>, increase intake of iron-rich foods like red meat, poultry, fish, shellfish, dark leafy greens, beans, lentils, and fortified cereals. Consuming <a href="https://www.nhs.uk/conditions/vitamin-b12-or-folate-deficiency-anaemia/" target="_blank" rel="noopener"><span style="text-decoration: underline;">vitamin C</span></a> with iron-rich foods helps improve iron absorption. If low MCHC is due to vitamin B12 or folate deficiency, eat more eggs, dairy products, meat, fish, broccoli, Brussels sprouts, asparagus, peas, and fortified grains.
+For low MCHC related to <a href="https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/">iron deficiency</a>, increase intake of iron-rich foods like red meat, poultry, fish, shellfish, dark leafy greens, beans, lentils, and fortified cereals. Consuming vitamin C alongside iron-rich foods helps improve iron absorption. If low MCHC is due to <a href="https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/">vitamin B12</a> or <a href="https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/">folate</a> deficiency, eat more eggs, dairy products, meat, fish, broccoli, Brussels sprouts, asparagus, peas, and fortified grains.
 
-<strong>Supplementation:</strong> Your healthcare provider may recommend iron supplements, vitamin B12 injections or tablets, or folic acid supplements depending on the underlying cause of abnormal MCHC levels. Iron supplements work best when taken between meals, while vitamin B12 deficiency may require regular injections for proper absorption.
+<strong>Supplementation</strong>
 
-<strong>Avoid Certain Substances:</strong> Avoid drinking tea or coffee with meals as these can reduce iron absorption. Limit alcohol consumption, which can interfere with vitamin B12 absorption and utilization.
-<h3>Where can I learn more?</h3>
+Your healthcare provider may recommend iron supplements, vitamin B12 injections or tablets, or folic acid supplements depending on the underlying cause of abnormal MCHC levels. Iron supplements work best when taken between meals, while vitamin B12 deficiency may require regular injections for adequate absorption. Always consult your provider before starting any supplementation regimen.
+
+<strong>Avoid Certain Substances</strong>
+
+Avoid drinking tea or coffee with meals, as tannins can reduce iron absorption. Limiting alcohol consumption is also important, as alcohol can interfere with vitamin B12 absorption and utilization.
+<h3>Where Can I Learn More?</h3>
 <ul>
- 	<li><span style="text-decoration: underline;"><a href="https://medlineplus.gov/lab-tests/red-blood-cell-rbc-indices/" target="_blank" rel="noopener">MedlinePlus - Red Blood Cell (RBC) Indices</a></span></li>
- 	<li><span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/books/NBK260/" target="_blank" rel="noopener">NCBI Bookshelf - Red Cell Indices (Clinical Methods)</a></span></li>
- 	<li><span style="text-decoration: underline;"><a href="https://www.nhlbi.nih.gov/health/blood-tests" target="_blank" rel="noopener">National Heart, Lung, and Blood Institute - Blood Tests</a></span></li>
- 	<li><span style="text-decoration: underline;"><a href="https://www.mayoclinic.org/diseases-conditions/vitamin-deficiency-anemia/symptoms-causes/syc-20355025" target="_blank" rel="noopener">Mayo Clinic - Vitamin Deficiency Anemia</a></span></li>
+ 	<li><a href="https://medlineplus.gov/lab-tests/red-blood-cell-rbc-indices/">MedlinePlus: Red Blood Cell (RBC) Indices</a></li>
+ 	<li><a href="https://www.ncbi.nlm.nih.gov/books/NBK260/">NCBI Bookshelf: Red Cell Indices (Clinical Methods)</a></li>
+ 	<li><a href="https://www.nhlbi.nih.gov/health/blood-tests">National Heart, Lung, and Blood Institute: Blood Tests</a></li>
+ 	<li><a href="https://www.mayoclinic.org/diseases-conditions/vitamin-deficiency-anemia/symptoms-causes/syc-20355025">Mayo Clinic: Vitamin Deficiency Anemia</a></li>
 </ul>
-<strong>DISCLAIMER:</strong> This information is for educational purposes only and is not a substitute for professional medical advice. Always consult your healthcare provider for interpretation of your MCHC results and for personalized health recommendations.]]></wp:meta_value>
+<strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong>
+
+<!-- notionvc: d5c0e49e-ecdf-481c-99e2-dfca77930c4b -->]]></wp:meta_value>
                                 </wp:postmeta>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_content_1_copies]]></wp:meta_key>
@@ -21762,14 +21768,6 @@ If you need to maintain or improve your MCHC levels, consider the following stra
                                     <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
                                 </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
                                                     </item>
                                                 <item>
                             <title><![CDATA[MCV]]></title>
@@ -21790,7 +21788,7 @@ If you need to maintain or improve your MCHC levels, consider the following stra
                             <wp:post_name><![CDATA[mcv]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>32</wp:menu_order>
+                            <wp:menu_order>33</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -21917,7 +21915,7 @@ If elevated MCV is related to alcohol consumption, reducing or eliminating alcoh
                             <wp:post_name><![CDATA[urine-microscopic-examination]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>31</wp:menu_order>
+                            <wp:menu_order>32</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -22059,7 +22057,7 @@ If you want to maintain healthy urine microscopic examination results, consider 
                             <wp:post_name><![CDATA[monocyte-count-and-percentage]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>30</wp:menu_order>
+                            <wp:menu_order>31</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -22181,7 +22179,7 @@ Maintaining healthy monocyte levels involves supporting your overall immune syst
                             <wp:post_name><![CDATA[neutrophil-count-and-percentage]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>29</wp:menu_order>
+                            <wp:menu_order>30</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -22298,7 +22296,7 @@ If you need to support healthy neutrophil production and function, consider the 
                             <wp:post_name><![CDATA[urine-occult-blood]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>28</wp:menu_order>
+                            <wp:menu_order>29</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -22410,7 +22408,7 @@ If you have been diagnosed with microscopic hematuria or want to maintain urinar
                             <wp:post_name><![CDATA[free-prostate-specific-antigen]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>27</wp:menu_order>
+                            <wp:menu_order>28</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -22523,7 +22521,7 @@ If you need to support healthy prostate function and PSA levels, consider the fo
                             <wp:post_name><![CDATA[rdw]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>26</wp:menu_order>
+                            <wp:menu_order>27</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -22646,7 +22644,7 @@ Managing chronic inflammation through regular exercise, adequate sleep, and stre
                             <wp:post_name><![CDATA[reticulocyte-count]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>25</wp:menu_order>
+                            <wp:menu_order>26</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -22762,7 +22760,7 @@ If your reticulocyte count is abnormal, the underlying cause must be identified 
                             <wp:post_name><![CDATA[rheumatoid-factor]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>24</wp:menu_order>
+                            <wp:menu_order>25</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -22886,7 +22884,7 @@ If your reticulocyte count is abnormal, the underlying cause must be identified 
                             <wp:post_name><![CDATA[sedimentation-rate-westergren]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>23</wp:menu_order>
+                            <wp:menu_order>24</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -23006,7 +23004,7 @@ If your ESR levels are elevated, the following strategies may help reduce inflam
                             <wp:post_name><![CDATA[total-t3]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>22</wp:menu_order>
+                            <wp:menu_order>23</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -23124,7 +23122,7 @@ If you need to maintain or support healthy Total T3 levels, consider the followi
                             <wp:post_name><![CDATA[total-t4]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>21</wp:menu_order>
+                            <wp:menu_order>22</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -23231,7 +23229,7 @@ If you need to maintain or adjust your Total T4 levels, consider the following s
                             <wp:post_name><![CDATA[uric-acid]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>20</wp:menu_order>
+                            <wp:menu_order>21</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -23338,7 +23336,7 @@ If you need to maintain or reduce your uric acid levels, consider the following 
                             <wp:post_name><![CDATA[urobilinogen]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>19</wp:menu_order>
+                            <wp:menu_order>20</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -23453,7 +23451,7 @@ If you need to maintain healthy urobilinogen levels, consider the following stra
                             <wp:post_name><![CDATA[vitamin-b6]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>18</wp:menu_order>
+                            <wp:menu_order>19</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -23558,7 +23556,7 @@ If you need to maintain or adjust your Vitamin B6 levels, consider the following
                             <wp:post_name><![CDATA[wbc-esterase]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>17</wp:menu_order>
+                            <wp:menu_order>18</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -23679,7 +23677,7 @@ If you need to prevent urinary tract infections and maintain normal WBC esterase
                             <wp:post_name><![CDATA[allergy-panel]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>16</wp:menu_order>
+                            <wp:menu_order>17</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -23822,7 +23820,7 @@ IgE levels also reflect current sensitization, which means they may change depen
                             <wp:post_name><![CDATA[coaching-calls]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>15</wp:menu_order>
+                            <wp:menu_order>16</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -23973,7 +23971,7 @@ Here's what you get for $39:
                             <wp:post_name><![CDATA[biomarker-percent-free-testosterone]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>14</wp:menu_order>
+                            <wp:menu_order>15</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -24099,7 +24097,7 @@ If you need to maintain or adjust your % free testosterone levels, consider the 
                             <wp:post_name><![CDATA[biomarkers-estimated-average-glucose]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>13</wp:menu_order>
+                            <wp:menu_order>14</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -24223,7 +24221,7 @@ If you need to maintain or improve your eAG levels, consider the following strat
                             <wp:post_name><![CDATA[expert-written-health-plan]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>12</wp:menu_order>
+                            <wp:menu_order>13</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -24423,7 +24421,7 @@ Start improving your health today—on your schedule, at your pace.
                             <wp:post_name><![CDATA[biomarkers-cortisol-dheas-ratio]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>11</wp:menu_order>
+                            <wp:menu_order>12</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -24581,7 +24579,7 @@ The cortisol:DHEA-S ratio is a powerful reflection of how your body is navigatin
                             <wp:post_name><![CDATA[ratio-biomarkers]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>10</wp:menu_order>
+                            <wp:menu_order>11</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -24723,7 +24721,7 @@ By understanding ratio biomarkers and calculated markers, you can better appreci
                             <wp:post_name><![CDATA[understanding-blood-test-variability]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>9</wp:menu_order>
+                            <wp:menu_order>10</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -24916,7 +24914,7 @@ When you notice a change, you can quickly assess whether it exceeds the expected
                             <wp:post_name><![CDATA[benefits-creatine-supplements]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>8</wp:menu_order>
+                            <wp:menu_order>9</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -25133,7 +25131,7 @@ Creatine monohydrate is one of the most well-researched and effective supplement
                             <wp:post_name><![CDATA[best-creatine-supplement]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>6</wp:menu_order>
+                            <wp:menu_order>7</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -25461,7 +25459,7 @@ Remember: the best creatine supplement is the one you'll take consistently. Choo
                             <wp:post_name><![CDATA[protein-supplements]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>7</wp:menu_order>
+                            <wp:menu_order>8</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -25664,7 +25662,7 @@ Not sure where to start? We can help. If you'd like to understand your personal 
                             <wp:post_name><![CDATA[best-protein-supplements]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>5</wp:menu_order>
+                            <wp:menu_order>6</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -25950,7 +25948,7 @@ Supporting optimal protein intake is one of the most impactful, and most science
                             <wp:post_name><![CDATA[biological-age]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>4</wp:menu_order>
+                            <wp:menu_order>5</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -26102,7 +26100,7 @@ Both are useful. Heart &amp; Metabolic Age tells you how your cardiovascular sys
                             <wp:post_name><![CDATA[heart-metabolic-age]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>3</wp:menu_order>
+                            <wp:menu_order>4</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -26249,7 +26247,7 @@ Heart &amp; Metabolic Age distills these complex dynamics into a single, trackab
                             <wp:post_name><![CDATA[understanding-partial-replacements]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>1</wp:menu_order>
+                            <wp:menu_order>3</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -26451,7 +26449,7 @@ Thanks to Roman Gelperin.]]></content:encoded>
                             <wp:post_name><![CDATA[siphox-2020-retrospective-2]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>280</wp:menu_order>
+                            <wp:menu_order>281</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -26664,7 +26662,7 @@ We’re hard at work commercializing <a href="http://siphox.com/onelab" target=
                             <wp:post_name><![CDATA[trapping-light-a-brief-overview-of-silicon-micro-ring-optical-biosensors]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>279</wp:menu_order>
+                            <wp:menu_order>280</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -26891,7 +26889,7 @@ We’re hard at work commercializing <a href="https://siphoxhealth.com/pages/abo
                             <wp:post_name><![CDATA[optimal-ferritin-levels-and-how-to-lower-ferritin-a-biohackers-guide]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>269</wp:menu_order>
+                            <wp:menu_order>270</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -27597,7 +27595,7 @@ Additionally, high ferritin levels may double the risk of metabolic syndrome, a 
                             <wp:post_name><![CDATA[why-measure-your-insulin-levels-and-what-the-results-mean]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>268</wp:menu_order>
+                            <wp:menu_order>269</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -27840,7 +27838,7 @@ Given what we know about the systematic secretion of insulin in response to gluc
                             <wp:post_name><![CDATA[huberman-on-biohacking-your-cortisol]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>267</wp:menu_order>
+                            <wp:menu_order>268</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -28156,7 +28154,7 @@ Many people do that reflexively, however, they reach for carbohydrate-rich foods
                             <wp:post_name><![CDATA[a-life-saving-ferritin-discovery]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>264</wp:menu_order>
+                            <wp:menu_order>265</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -28288,7 +28286,7 @@ The user left <a href="https://www.trustpilot.com/reviews/63df2e8c745e4800219b1f
                             <wp:post_name><![CDATA[canadian-blood-tests-siphox]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>199</wp:menu_order>
+                            <wp:menu_order>200</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -28402,7 +28400,7 @@ SiPhox Health stood up an extensive Canadian logistical network, enabling us to 
                             <wp:post_name><![CDATA[a-case-study-in-holistic-medicine]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>198</wp:menu_order>
+                            <wp:menu_order>199</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -28521,7 +28519,7 @@ SiPhox Health deploys kits to the customer which the customer uses in two workfl
                             <wp:post_name><![CDATA[how-to-optimize-your-cholesterol-a-biohackers-guide]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>237</wp:menu_order>
+                            <wp:menu_order>238</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -28777,7 +28775,7 @@ Dr. Peter Attia- Founder, <em>Early Medical</em>
                             <wp:post_name><![CDATA[how-to-optimize-your-vitamin-d-a-biohackers-guide-2]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>209</wp:menu_order>
+                            <wp:menu_order>210</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -29072,7 +29070,7 @@ Once Vitamin D3 or D2 is in the bloodstream, the liver converts Vitamin D3 or D2
                             <wp:post_name><![CDATA[what-we-dont-measure]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>197</wp:menu_order>
+                            <wp:menu_order>198</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -29286,7 +29284,7 @@ To learn more about these biomarkers including why they are important, whether t
                             <wp:post_name><![CDATA[optimizing-fsh-for-enhanced-fertility-a-guide]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>134</wp:menu_order>
+                            <wp:menu_order>135</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -29613,7 +29611,7 @@ At SiPhox Health, we firmly believe in the power of understanding your body thro
                             <wp:post_name><![CDATA[optimizing-lower-hba1c-better-metabolic-health]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>131</wp:menu_order>
+                            <wp:menu_order>132</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -29824,7 +29822,7 @@ Subscribe to SiPhox and start tracking your HbA1c + 16 other critical biomarkers
                             <wp:post_name><![CDATA[why-a-yearly-physical-blood-test-is-not-enough]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>133</wp:menu_order>
+                            <wp:menu_order>134</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -30006,7 +30004,7 @@ Check out the table below for an overview of our offerings, and for an in-depth 
                             <wp:post_name><![CDATA[predicting-biological-age-with-dna-methylation]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>142</wp:menu_order>
+                            <wp:menu_order>143</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -30133,7 +30131,7 @@ In conclusion, DNA methylation analysis offers a powerful tool for predicting bi
                             <wp:post_name><![CDATA[biomarkers-hematocrit-capillary]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>0</wp:menu_order>
+                            <wp:menu_order>1</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -30220,6 +30218,189 @@ In conclusion, DNA methylation analysis offers a powerful tool for predicting bi
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
+                                </wp:postmeta>
+                                                    </item>
+                                                <item>
+                            <title><![CDATA[GLP-1 Therapy: The Hidden Side Effects and Why You Don’t Wait to Test]]></title>
+                            <link>/hub/uncategorized/glp1-therapy-hidden-side-effects/</link>
+                            <pubDate>Tue, 05 May 2026 20:10:53 +0000</pubDate>
+                            <dc:creator><![CDATA[siphoxhealth]]></dc:creator>
+                            <guid isPermaLink="false">/hub/?p=4203</guid>
+                            <description></description>
+                            <content:encoded><![CDATA[]]></content:encoded>
+                            <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+                            <wp:post_id>4203</wp:post_id>
+                            <wp:post_date><![CDATA[2026-05-05 20:10:53]]></wp:post_date>
+                            <wp:post_date_gmt><![CDATA[2026-05-05 20:10:53]]></wp:post_date_gmt>
+                            <wp:post_modified><![CDATA[2026-05-05 20:15:19]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-05-05 20:15:19]]></wp:post_modified_gmt>
+                            <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+                            <wp:ping_status><![CDATA[open]]></wp:ping_status>
+                            <wp:post_name><![CDATA[glp1-therapy-hidden-side-effects]]></wp:post_name>
+                            <wp:status><![CDATA[publish]]></wp:status>
+                            <wp:post_parent>0</wp:post_parent>
+                            <wp:menu_order>0</wp:menu_order>
+                            <wp:post_type><![CDATA[post]]></wp:post_type>
+                            <wp:post_password><![CDATA[]]></wp:post_password>
+                            <wp:is_sticky>0</wp:is_sticky>
+                                                        		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[7]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_0_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[[lwptoc min="2"]]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_0_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_1_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[GLP-1 therapy is often associated with side effects, but most of what people experience is not direct drug toxicity: it’s the downstream effect of reduced appetite and sustained calorie intake. This is why common issues like fatigue, brain fog, constipation, hair shedding, and muscle loss show up: the body is adapting to lower energy and nutrient availability. Frequent monitoring with blood tests and body composition tracking helps catch early signs of nutrient depletion, excessive weight loss, or metabolic imbalance before they become clinically significant. The goal is not just to document side effects, but to identify these early adaptive changes so dosing, diet, or supplementation can be adjusted proactively rather than reactively.
+<table style="height: 2627px;" width="953">
+<thead>
+<tr>
+<th>Side effect / domain</th>
+<th>Mechanism (why it happens on GLP-1)</th>
+<th>Biomarkers (SiPhox panel)</th>
+<th>How fast it can change</th>
+<th>Literature</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Reduced appetite / energy intake</strong></td>
+<td>GLP-1 reduces hypothalamic hunger signaling → lower calorie intake</td>
+<td>Body weight, body composition scanner</td>
+<td>Days–weeks</td>
+<td><a href="https://www.amjmed.com/article/S0002-9343%2825%2900059-2/fulltext">Mechanisms of GLP-1 Receptor Agonist-Induced Weight Loss: A Review of Central and Peripheral Pathways in Appetite and Energy Regulation - The American Journal of Medicine</a></td>
+</tr>
+<tr>
+<td><strong>Fatigue / low energy</strong></td>
+<td>Caloric deficit + reduced glycogen availability</td>
+<td>HbA1c (indirect), fasting glucose, body weight, albumin (late marker)</td>
+<td>Weeks</td>
+<td><a href="https://scienceinsights.org/does-glp-1-make-you-tired-causes-and-fixes/#google_vignette">Does GLP-1 Make You Tired? Causes and Fixes - ScienceInsights</a></td>
+</tr>
+<tr>
+<td><strong>Brain fog / reduced concentration</strong></td>
+<td>Low glucose variability + under-fueling brain glucose demand</td>
+<td>Fasting glucose, HbA1c</td>
+<td>Days–weeks</td>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/39520512/">A qualitative study of the mental health outcomes in people being treated for obesity and type 2 diabetes with glucagon-like peptide-1 receptor agonists - PubMed</a></td>
+</tr>
+<tr>
+<td><strong>Muscle loss (lean mass reduction)</strong></td>
+<td>Rapid weight loss + insufficient protein intake</td>
+<td>Body composition scanner (lean mass), total protein, albumin</td>
+<td>Weeks–months</td>
+<td><a href="https://harvardsciencereview.org/2026/02/23/the-glp-1-aftermath-what-the-science-says-about-muscle-loss-and-cellular-aging/">The GLP-1 Aftermath: What the Science Says About Muscle Loss and Cellular Aging - Harvard Science Review</a></td>
+</tr>
+<tr>
+<td><strong>Nutrient deficiency (iron/B12/folate)</strong></td>
+<td>Lower food intake + reduced gastric volume → reduced micronutrient intake</td>
+<td>Ferritin, iron/TIBC/transferrin sat, B12, folate</td>
+<td>Months</td>
+<td><a href="https://www.sciencedirect.com/science/article/pii/S2667368125000300">Nutritional deficiencies and muscle loss in adults with type 2 diabetes using GLP-1 receptor agonists: A retrospective observational study - ScienceDirect</a></td>
+</tr>
+<tr>
+<td><strong>Vitamin D decline (indirect)</strong></td>
+<td>Reduced dietary intake + fat redistribution</td>
+<td>25-OH Vitamin D</td>
+<td>Months</td>
+<td><a href="https://www.sciencedirect.com/science/article/pii/S2667368125000300">Nutritional deficiencies and muscle loss in adults with type 2 diabetes using GLP-1 receptor agonists: A retrospective observational study - ScienceDirect</a></td>
+</tr>
+<tr>
+<td><strong>Dehydration / hemoconcentration</strong></td>
+<td>Reduced fluid intake + nausea → lower plasma volume</td>
+<td>BUN, creatinine, BUN/Cr ratio</td>
+<td>Days–weeks</td>
+<td><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3233845/">Glucagon-like peptide-1 receptor agonists suppress water intake independent of effects on food intake - PMC</a></td>
+</tr>
+<tr>
+<td><strong>Kidney stress (usually functional)</strong></td>
+<td>Dehydration + lower intake → transient renal perfusion changes</td>
+<td>Creatinine, eGFR, BUN</td>
+<td>Days–weeks</td>
+<td><a href="https://www.thelancet.com/journals/landia/article/PIIS2213-8587(24)00271-7/abstract">Effects of GLP-1 receptor agonists on kidney and cardiovascular disease outcomes: a meta-analysis of randomised controlled trials - The Lancet Diabetes &amp; Endocrinology</a></td>
+</tr>
+<tr>
+<td><strong>Sex hormone changes</strong></td>
+<td>Body fat reduction → altered aromatase activity + SHBG changes</td>
+<td>Testosterone, estradiol, SHBG, free testosterone</td>
+<td>Months</td>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/41498523/">Effects of glucagon-like peptide-1 receptor agonists on male reproductive hormones, semen parameters, and metabolic outcomes: a systematic review - PubMed</a></td>
+</tr>
+<tr>
+<td><strong>Stress response (Cortisol changes)</strong></td>
+<td>Energy deficit + physiological stress response</td>
+<td>AM cortisol</td>
+<td>Weeks–months</td>
+<td><a href="https://www.researchgate.net/publication/42975728_GLP-17-36-amide_and_Exendin-4_Stimulate_the_HPA_Axis_in_Rodents_and_Humans">(PDF) GLP-1(7-36)-amide and Exendin-4 Stimulate the HPA Axis in Rodents and Humans</a></td>
+</tr>
+<tr>
+<td><strong>Gallbladder risk</strong></td>
+<td>Rapid fat loss → bile stasis → gallstones</td>
+<td>Indirect: ALT, AST, bilirubin (late signal only)</td>
+<td>Months</td>
+<td>[Association of Glucagon-Like Peptide-1 Receptor Agonist Use With Risk of Gallbladder and Biliary Diseases: A Systematic Review and Meta-analysis of Randomized Clinical Trials</td>
+</tr>
+<tr>
+<td><strong>Hair Loss</strong></td>
+<td>Rapid weight loss + reduced protein/iron intake + metabolic stress shifts hair follicles into resting phase</td>
+<td>Indirect: ferritin, iron studies (TSAT), vitamin D, B12, albumin, total protein</td>
+<td>2–4 months after weight loss onset</td>
+<td><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13036819/">Predictors and Characteristics of Hair Loss Among Users of GLP‐1 Receptor Agonists: A Cross‐Sectional Analysis - PMC</a></td>
+</tr>
+</tbody>
+</table>
+<!-- notionvc: b1c13eec-346a-486c-a69d-8edc0476e34c -->]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_1_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:2:{i:0;s:11:"text_editor";i:1;s:11:"text_editor";}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_6414004cd50ab]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[written_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_written_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_641a6cfe4d592]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[reviewed_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_reviewed_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_641bbb3ce67e4]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[select_related_posts]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                 </channel>
