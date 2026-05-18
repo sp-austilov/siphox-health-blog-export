@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/6.9.4" created="2026-05-15 18:13" -->
+    <!-- generator="WordPress/6.9.4" created="2026-05-18 18:07" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Fri, 15 May 2026 18:13:52 +0000</pubDate>
+            <pubDate>Mon, 18 May 2026 18:07:20 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -2130,8 +2130,8 @@ Cardiovascular health is no joke. Several studies mentioned earlier in this guid
                                                         		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
 		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
-		<category domain="category" nicename="cortisol"><![CDATA[Cortisol]]></category>
 		<category domain="post_tag" nicename="cortisol"><![CDATA[cortisol]]></category>
+		<category domain="category" nicename="cortisol"><![CDATA[Cortisol]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
 		<category domain="post_tag" nicename="health"><![CDATA[health]]></category>
 		<category domain="post_tag" nicename="hormones"><![CDATA[hormones]]></category>
@@ -29928,8 +29928,8 @@ A biomarker-driven approach allows for early detection of metabolic drift and su
                             <wp:post_id>4232</wp:post_id>
                             <wp:post_date><![CDATA[2026-05-14 15:19:35]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2026-05-14 15:19:35]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-05-14 15:27:47]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-05-14 15:27:47]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-05-18 18:07:20]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-05-18 18:07:20]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[maintaining-muscle-with-age]]></wp:post_name>
@@ -30212,9 +30212,9 @@ Strength helps with capacity. Power helps with quick reactions and real-world mo
 
 <span style="font-weight: 400;">Avoiding long periods of inactivity is also important. Even 14 days of reduced activity can lead to significant muscle loss and a reduced ability to process protein.</span>
 
-<b>Creatine:</b><span style="font-weight: 400;"> When combined with resistance training, creatine is a helpful tool for healthy aging. Beyond its role in muscle performance, research has shown promising benefits for lean mass support, recovery, and bone health as well as cognitive function.</span>
+<a href="https://siphoxhealth.com/hub/guides/benefits-creatine-supplements?srsltid=AfmBOor8CTRnfyb1LIF2pDiE5NIudcz3F5mkHdkiRr-YI5SEaTH0zt0A"><span style="font-weight: 400;">Creatine</span></a><span style="font-weight: 400;">: When combined with resistance training, creatine is a helpful tool for healthy aging. Beyond its role in muscle performance, research has shown promising benefits for lean mass support, recovery, and bone health as well as cognitive function.</span>
 
-<span style="font-weight: 400;">Strength training is the signal. Protein, recovery, and regular movement help the body keep responding.</span>
+<span style="font-weight: 400;">Strength training is the signal. </span><a href="https://siphoxhealth.com/hub/guides/best-protein-supplements"><span style="font-weight: 400;">Protein</span></a><span style="font-weight: 400;">, recovery, and regular movement help the body keep responding.</span>
 <h2><b>Quick Workout Comparison</b></h2>
 <table style="height: 340px;" width="1020">
 <tbody>
@@ -30287,6 +30287,8 @@ The plan does not need to be complicated:
  	<li>Avoid long periods of inactivity</li>
 </ul>
 Consistency over time is the greatest ally in maintaining muscle with age. The goal is not perfection. The goal is to keep giving the body a reason to stay strong.
+
+&nbsp;
 <h2>References</h2>
 1. Di Lorito C, Long A, Byrne A, Harwood RH, Gladman JRF, Schneider S, Logan P, Bosco A, van der Wardt V. Exercise interventions for older adults: a systematic review of meta-analyses. J Sport Health Sci. 2021 Jan;10(1):29-47. doi: [10.1016/j.jshs.2020.06.003](https://doi.org/10.1016/j.jshs.2020.06.003). PMID: [32525097](https://pubmed.ncbi.nlm.nih.gov/32525097/); PMCID: [PMC7858023](https://pmc.ncbi.nlm.nih.gov/articles/PMC7858023/).
 
@@ -30335,6 +30337,14 @@ Consistency over time is the greatest ally in maintaining muscle with age. The g
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -30738,8 +30748,8 @@ This article is intended for general educational purposes only and does not cons
                             <wp:post_id>4245</wp:post_id>
                             <wp:post_date><![CDATA[2026-05-15 18:11:12]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2026-05-15 18:11:12]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-05-15 18:13:52]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-05-15 18:13:52]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-05-15 18:13:53]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-05-15 18:13:53]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[standard-home-body-measurement-protocol]]></wp:post_name>
@@ -30841,6 +30851,7 @@ Chest measurement reflects upper torso size and helps assess muscle and fat dist
  	<li>Do not puff out your chest</li>
  	<li>Keep the tape level all the way around</li>
 </ul>
+<a href="/hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.04-PM.png"><img class="alignleft  wp-image-4247" src="/hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.04-PM.png" alt="" width="329" height="246" /></a>
 <h1>5. Waist Circumference</h1>
 <h3>Why it matters:</h3>
 Waist circumference is one of the strongest indicators of central fat distribution and metabolic risk.
@@ -30943,14 +30954,6 @@ References:
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
