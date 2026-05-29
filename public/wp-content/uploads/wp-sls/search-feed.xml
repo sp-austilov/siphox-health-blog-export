@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/6.9.4" created="2026-05-18 18:07" -->
+    <!-- generator="WordPress/7.0" created="2026-05-29 14:48" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Mon, 18 May 2026 18:07:20 +0000</pubDate>
+            <pubDate>Fri, 29 May 2026 14:48:24 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -42,7 +42,7 @@
 	<wp:author><wp:author_id>27</wp:author_id><wp:author_login><![CDATA[rami.abrams@siphoxhealth.com]]></wp:author_login><wp:author_email><![CDATA[rami.abrams@siphoxhealth.com]]></wp:author_email><wp:author_display_name><![CDATA[rami.abrams@siphoxhealth.com]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
                                                 
-            <generator>https://wordpress.org/?v=6.9.4</generator>
+            <generator>https://wordpress.org/?v=7.0</generator>
 
                                     <item>
                             <title><![CDATA[What We Measure]]></title>
@@ -3130,8 +3130,8 @@ If zinc levels are too low, it can lead to a variety of health issues, including
                                                         		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="post_tag" nicename="at-home"><![CDATA[at-home]]></category>
 		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
-		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="biomarkers"><![CDATA[biomarkers]]></category>
+		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood"><![CDATA[blood]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -30288,7 +30288,7 @@ The plan does not need to be complicated:
 </ul>
 Consistency over time is the greatest ally in maintaining muscle with age. The goal is not perfection. The goal is to keep giving the body a reason to stay strong.
 
-&nbsp;
+<span style="font-weight: 400;">Having trouble determining the best workout routine for you? </span><a href="https://siphoxhealth.com/products/coaching-call-one-time"><span style="font-weight: 400;">Get in touch with one of our expert health coaches.</span></a>
 <h2>References</h2>
 1. Di Lorito C, Long A, Byrne A, Harwood RH, Gladman JRF, Schneider S, Logan P, Bosco A, van der Wardt V. Exercise interventions for older adults: a systematic review of meta-analyses. J Sport Health Sci. 2021 Jan;10(1):29-47. doi: [10.1016/j.jshs.2020.06.003](https://doi.org/10.1016/j.jshs.2020.06.003). PMID: [32525097](https://pubmed.ncbi.nlm.nih.gov/32525097/); PMCID: [PMC7858023](https://pmc.ncbi.nlm.nih.gov/articles/PMC7858023/).
 
@@ -30337,14 +30337,6 @@ Consistency over time is the greatest ally in maintaining muscle with age. The g
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -30748,8 +30740,8 @@ This article is intended for general educational purposes only and does not cons
                             <wp:post_id>4245</wp:post_id>
                             <wp:post_date><![CDATA[2026-05-15 18:11:12]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2026-05-15 18:11:12]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-05-15 18:13:53]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-05-15 18:13:53]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-05-29 14:48:24]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-05-29 14:48:24]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[standard-home-body-measurement-protocol]]></wp:post_name>
@@ -30954,6 +30946,14 @@ References:
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>

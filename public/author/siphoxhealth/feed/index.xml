@@ -12,13 +12,13 @@
 	<atom:link href="/hub/author/siphoxhealth/feed/" rel="self" type="application/rss+xml" />
 	<link>/hub/</link>
 	<description></description>
-	<lastBuildDate>Mon, 18 May 2026 18:07:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 29 May 2026 14:48:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.9.4</generator>
+	<generator>https://wordpress.org/?v=7.0</generator>
 	<item>
 		<title>Standard At-Home Body Measurement Protocol (Neck, Waist, Hip, Chest + Height &#038; Weight)</title>
 		<link>/hub/guides/standard-home-body-measurement-protocol/</link>
@@ -30,12 +30,13 @@
 
 					<description><![CDATA[
 
-To ensure consistent and reliable data across participants who are not using a 3D body scan, we ask users to complete a simple at-home measurement process using a soft measuring tape. This protocol captures key body dimensions that help approximate body composition, fat distribution, and changes over time. Accurate and standardized measurements are essential. Even&#8230; <a class="more-link" href="/hub/guides/standard-home-body-measurement-protocol/">Continue reading <span class="screen-reader-text">Standard At-Home Body Measurement Protocol (Neck, Waist, Hip, Chest + Height &#038; Weight)</span></a>]]></description>
+This option is intended for users who are unable to complete the body composition scan through the SiPhox Health app. Before proceeding, please note that if you have completed a DEXA scan or another body composition assessment within the last 8 weeks, you may prefer to submit those results instead. You can share this information&#8230; <a class="more-link" href="/hub/guides/standard-home-body-measurement-protocol/">Continue reading <span class="screen-reader-text">Standard At-Home Body Measurement Protocol (Neck, Waist, Hip, Chest + Height &#038; Weight)</span></a>]]></description>
 			
 
 							<content:encoded><![CDATA[
-<p>To ensure consistent and reliable data across participants who are not using a 3D body scan, we ask users to complete a simple at-home measurement process using a soft measuring tape. This protocol captures key body dimensions that help approximate body composition, fat distribution, and changes over time.</p>
-<p>Accurate and standardized measurements are essential. Even small differences in technique can lead to large variations in results, so please follow the instructions carefully.</p>
+<p>This option is intended for users who are unable to complete the body composition scan through the SiPhox Health app. Before proceeding, please note that if you have completed a DEXA scan or another body composition assessment within the last 8 weeks, you may prefer to submit those results instead. You can share this information directly in the questionnaire, where you will have the opportunity to indicate that you have recent body composition results available.</p>
+<p>If you do not have a recent DEXA or other body composition scan, or if you are unable to access those results, you may continue with this alternative option.</p>
+<p>Accurate and standardized measurements are essential. Even small differences in technique can lead to large variations in results, so please follow the instructions carefully.<!-- notionvc: 669a4b2a-96e2-4c10-a45a-7fef13a6c8e7 --></p>
 <h2>What You Need</h2>
 <ul>
 <li>A soft, flexible measuring tape (tailor’s tape)</li>
@@ -110,7 +111,7 @@ To ensure consistent and reliable data across participants who are not using a 3
 <li>Do not puff out your chest</li>
 <li>Keep the tape level all the way around</li>
 </ul>
-<p><a href="/hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.04-PM.png"><img fetchpriority="high" decoding="async" class="alignleft  wp-image-4247" src="/hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.04-PM.png" alt="" width="329" height="246" srcset="/hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.04-PM.png 822w, /hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.04-PM-300x224.png 300w, /hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.04-PM-768x574.png 768w" sizes="(max-width: 329px) 100vw, 329px" /></a></p>
+<p><a href="/hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.04-PM.png"><img fetchpriority="high" decoding="async" class="alignleft wp-image-4247" src="/hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.04-PM.png" alt="" width="329" height="246" srcset="/hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.04-PM.png 822w, /hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.04-PM-300x224.png 300w, /hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.04-PM-768x574.png 768w" sizes="(max-width: 329px) 100vw, 329px" /></a></p>
 <h1>5. Waist Circumference</h1>
 <h3>Why it matters:</h3>
 <p>Waist circumference is one of the strongest indicators of central fat distribution and metabolic risk.</p>
