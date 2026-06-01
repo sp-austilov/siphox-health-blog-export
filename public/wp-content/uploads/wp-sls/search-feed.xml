@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/7.0" created="2026-05-29 14:48" -->
+    <!-- generator="WordPress/7.0" created="2026-06-01 14:26" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Fri, 29 May 2026 14:48:24 +0000</pubDate>
+            <pubDate>Mon, 01 Jun 2026 14:26:39 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -20596,7 +20596,7 @@ If you need to address abnormal eosinophil levels, consider the following strate
                                                     </item>
                                                 <item>
                             <title><![CDATA[Gamma-Glutamyl Transferase (GGT)]]></title>
-                            <link>/hub/biomarkers-2/gamma-glutamyl-transferase/</link>
+                            <link>/hub/biomarkers-2/biomarkers-gamma-glutamyl-transferase/</link>
                             <pubDate>Mon, 13 Oct 2025 19:02:36 +0000</pubDate>
                             <dc:creator><![CDATA[siphoxhealth]]></dc:creator>
                             <guid isPermaLink="false">/hub/?p=3984</guid>
@@ -20606,11 +20606,11 @@ If you need to address abnormal eosinophil levels, consider the following strate
                             <wp:post_id>3984</wp:post_id>
                             <wp:post_date><![CDATA[2025-10-13 19:02:36]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2025-10-13 19:02:36]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2025-10-13 19:02:37]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2025-10-13 19:02:37]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-06-01 14:26:39]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-06-01 14:26:39]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
-                            <wp:post_name><![CDATA[gamma-glutamyl-transferase]]></wp:post_name>
+                            <wp:post_name><![CDATA[biomarkers-gamma-glutamyl-transferase]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
                             <wp:menu_order>51</wp:menu_order>
@@ -20633,28 +20633,28 @@ If you need to address abnormal eosinophil levels, consider the following strate
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[content_1_copies]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[<h2><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">What is GGT?</span></h2>
-<a href="https://www.ncbi.nlm.nih.gov/books/NBK545172/" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.ncbi.nlm.nih.gov/books/NBK545172/">Gamma-glutamyl transferase (GGT)</a> is an enzyme found throughout the body, with particularly high concentrations in the liver, bile ducts, pancreas, and kidneys. This enzyme plays a crucial role in the metabolism of glutathione, an important antioxidant, and helps transport amino acids across cell membranes. In clinical practice, GGT is primarily measured as a biomarker of liver and bile duct health. When cells in these organs are damaged or diseased, GGT is released into the bloodstream, making it a sensitive indicator of hepatobiliary dysfunction.
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><a href="https://my.clevelandclinic.org/health/diagnostics/22055-gamma-glutamyl-transferase-ggt-test">Gamma-glutamyl transferase (GGT)</a> is an enzyme found mainly in the liver that helps protect your cells from damage. GGT is a microsomal enzyme found in cell membranes of many tissues, primarily the liver, kidney, and pancreas, and is also found in the intestine, spleen, heart, and brain. Although GGT activity in the kidney exceeds that in the liver, serum GGT predominantly originates from biliary canaliculi and serves as a biomarker for hepatobiliary function.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">GGT functions in the body as a transport molecule, helping to move other molecules around the body, and plays a significant role in helping the liver metabolize drugs and other toxins. GGT is a key enzyme in the metabolism of <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9616098/">glutathione</a>, a major antioxidant that protects cells against oxidants and is essential for mitochondrial metabolism</p>
+
 <h2><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Why is GGT important?</span></h2>
-Tracking your GGT levels provides valuable insight into your liver health and can help detect various conditions affecting the hepatobiliary system. <a href="https://www.mayoclinic.org/tests-procedures/ggt/about/pac-20384589" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.mayoclinic.org/tests-procedures/ggt/about/pac-20384589"><span style="text-decoration: underline;">GGT testing</span></a> is particularly useful for identifying bile duct obstruction, liver disease, and excessive alcohol consumption. Unlike other liver enzymes, GGT is especially sensitive to alcohol and certain medications, making it a valuable tool for monitoring alcohol-related liver damage.
-Elevated GGT levels may indicate conditions such as <a href="https://www.niddk.nih.gov/health-information/liver-disease/cirrhosis" data-sanitized-data-mce-href="https://www.niddk.nih.gov/health-information/liver-disease/cirrhosis" data-sanitized-target="_blank" data-sanitized-data-mce-fragment="1"><span style="text-decoration: underline;">cirrhosis</span></a>, hepatitis, fatty liver disease, bile duct obstruction, pancreatitis, or liver tumors. GGT can also be elevated due to alcohol use, certain medications (such as anticonvulsants and some antibiotics), heart failure, diabetes, and obesity. Importantly, GGT is often used alongside other liver enzymes like <span style="text-decoration: underline;"><a href="https://www.testing.com/tests/alkaline-phosphatase-alp/" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.testing.com/tests/alkaline-phosphatase-alp/">alkaline phosphatase (ALP)</a></span> to determine whether elevated ALP is due to liver or bone disease. If you have concerns about your GGT levels, consult with your healthcare provider for proper evaluation.
+<a href="https://dev.mycc.clevelandclinic.org/health/diagnostics/22055-gamma-glutamyl-transferase-ggt-test">GGT</a> is one of the most clinically sensitive markers for liver and metabolic health. GGT is typically the first liver enzyme to increase in your blood when any of your liver bile ducts become blocked or constricted, making it the most sensitive liver enzyme test for finding bile duct issues.
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Beyond liver health, elevated GGT has been associated with broader systemic risks. Higher serum GGT levels are associated with increased all-cause mortality, as well as elevated risk of death from cardiovascular disease, cancer, respiratory disease, and liver disease, regardless of smoking, alcohol consumption, and history of previous cardiovascular disease or cancer. High levels of GGT are also associated with increased risk of metabolic syndrome and type 2 diabetes in both men and women</p>
+
 <h2><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">How can I better understand my GGT levels?</span></h2>
-<div data-dynamic-ranges="true" data-test="1"></div>
+<div data-dynamic-ranges="true" data-test="1">
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">A GGT blood test is a tool healthcare providers use to help diagnose liver disease and bile duct issues, and it is often ordered alongside other liver function tests to help reach a diagnosis, as GGT levels alone cannot diagnose a specific disease.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><a href="https://www.urmc.rochester.edu/encyclopedia/content?contenttypeid=167&amp;contentid=gamma_glutamyl_transpeptidase">Higher than normal GGT levels</a> may indicate several conditions. Test results that are higher than normal could be a sign of liver damage from diseases such as hepatitis, cirrhosis, tumors, or pancreatic cancer. GGT may also be higher with diabetes, heart failure, hyperthyroidism, or pancreatitis, and higher GGT levels may mean liver damage from heavy, chronic alcohol abuse. It is also worth noting that levels of GGT increase with age in women, but not in men.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><a href="https://www.ahealthacademy.com/biomarkers/ggt/">Lower than normal GGT levels</a> are generally not a cause for concern. Low GGT levels generally indicate good mental and physical health, reflecting adequate glutathione levels, balanced vitamin and mineral intake, and a plant-forward diet. However, in rare contexts, low GGT levels have been linked to conditions like gastric and cervical cancer, preeclampsia, and anemia, often due to oxidative stress.</p>
+
+</div>
 <div data-ranges="true">
 
 <strong>Normal reference ranges (may vary slightly by laboratory):</strong>
 <ul>
- 	<li>Men: 8-61 U/L</li>
- 	<li>Women: 5-36 U/L</li>
- 	<li>Optimal: Lower end of normal range</li>
-</ul>
-<strong>Interpretation:</strong>
-<ul>
- 	<li>Mildly elevated (up to 2-3 times normal): May indicate fatty liver disease, medication effects, or mild liver inflammation</li>
- 	<li>Moderately elevated (3-10 times normal): May suggest hepatitis, cirrhosis, or bile duct obstruction</li>
- 	<li>Severely elevated (&gt;10 times normal): Often indicates significant bile duct obstruction, severe liver disease, or hepatotoxicity</li>
+ 	<li>Men: 0-50 U/L</li>
+ 	<li>Women: 0-30 U/L</li>
 </ul>
 </div>
-<span class="notion-enable-hover" data-sanitized-mce-data-marked="1" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">GGT results should always be interpreted in conjunction with other liver function tests, clinical symptoms, and medical history. A single elevated reading does not necessarily indicate disease, and your healthcare provider will consider the full clinical picture when evaluating your results.</span>
 <h3>How can I maintain optimal GGT levels?</h3>
 If you need to lower or maintain healthy GGT levels, consider the following evidence-based strategies:
 <strong>Limit Alcohol Consumption:</strong> Alcohol is one of the primary causes of elevated GGT. <span style="text-decoration: underline;"><a href="https://www.cdc.gov/alcohol/fact-sheets/moderate-drinking.htm" data-sanitized-data-mce-href="https://www.cdc.gov/alcohol/fact-sheets/moderate-drinking.htm" data-sanitized-target="_blank">Reducing or eliminating alcohol intake</a></span> can significantly lower GGT levels and improve liver health.
@@ -20669,9 +20669,7 @@ If you need to lower or maintain healthy GGT levels, consider the following evid
  	<li><span style="text-decoration: underline;"><a href="https://www.mayoclinic.org/tests-procedures/ggt/about/pac-20384589" data-sanitized-target="_blank">Mayo Clinic - GGT Test</a></span></li>
  	<li><span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4375565/" data-sanitized-target="_blank">National Institutes of Health - Gamma-Glutamyltransferase and Metabolic Syndrome</a></span></li>
 </ul>
-<strong>DISCLAIMER:</strong> This information is for educational purposes only and is not a substitute for professional medical advice. Always consult your healthcare provider for interpretation of your urine albumin results and for personalized kidney health recommendations.
-
-Retry]]></wp:meta_value>
+<strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong>]]></wp:meta_value>
                                 </wp:postmeta>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_content_1_copies]]></wp:meta_key>
@@ -20708,6 +20706,14 @@ Retry]]></wp:meta_value>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -30740,8 +30746,8 @@ This article is intended for general educational purposes only and does not cons
                             <wp:post_id>4245</wp:post_id>
                             <wp:post_date><![CDATA[2026-05-15 18:11:12]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2026-05-15 18:11:12]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-05-29 14:48:24]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-05-29 14:48:24]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-05-29 14:48:25]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-05-29 14:48:25]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[standard-home-body-measurement-protocol]]></wp:post_name>
@@ -30766,9 +30772,11 @@ This article is intended for general educational purposes only and does not cons
                                 </wp:postmeta>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[content_1_copies]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[To ensure consistent and reliable data across participants who are not using a 3D body scan, we ask users to complete a simple at-home measurement process using a soft measuring tape. This protocol captures key body dimensions that help approximate body composition, fat distribution, and changes over time.
+                                    <wp:meta_value><![CDATA[This option is intended for users who are unable to complete the body composition scan through the SiPhox Health app. Before proceeding, please note that if you have completed a DEXA scan or another body composition assessment within the last 8 weeks, you may prefer to submit those results instead. You can share this information directly in the questionnaire, where you will have the opportunity to indicate that you have recent body composition results available.
 
-Accurate and standardized measurements are essential. Even small differences in technique can lead to large variations in results, so please follow the instructions carefully.
+If you do not have a recent DEXA or other body composition scan, or if you are unable to access those results, you may continue with this alternative option.
+
+Accurate and standardized measurements are essential. Even small differences in technique can lead to large variations in results, so please follow the instructions carefully.<!-- notionvc: 669a4b2a-96e2-4c10-a45a-7fef13a6c8e7 -->
 <h2>What You Need</h2>
 <ul>
  	<li>A soft, flexible measuring tape (tailor’s tape)</li>
@@ -30843,7 +30851,7 @@ Chest measurement reflects upper torso size and helps assess muscle and fat dist
  	<li>Do not puff out your chest</li>
  	<li>Keep the tape level all the way around</li>
 </ul>
-<a href="/hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.04-PM.png"><img class="alignleft  wp-image-4247" src="/hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.04-PM.png" alt="" width="329" height="246" /></a>
+<a href="/hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.04-PM.png"><img class="alignleft wp-image-4247" src="/hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.04-PM.png" alt="" width="329" height="246" /></a>
 <h1>5. Waist Circumference</h1>
 <h3>Why it matters:</h3>
 Waist circumference is one of the strongest indicators of central fat distribution and metabolic risk.
@@ -30946,14 +30954,6 @@ References:
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
