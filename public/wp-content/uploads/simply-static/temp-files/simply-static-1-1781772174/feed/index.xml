@@ -12,7 +12,7 @@
 	<atom:link href="/hub/feed/" rel="self" type="application/rss+xml" />
 	<link>/hub/</link>
 	<description></description>
-	<lastBuildDate>Wed, 17 Jun 2026 14:24:26 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 18 Jun 2026 14:40:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,152 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=7.0</generator>
 	<item>
+		<title>Testosterone Replacement Therapy Testing: Everything You Need to Know About Our Hormone Testing</title>
+		<link>/hub/guides/testosterone-replacement-therapy-testing/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Thu, 18 Jun 2026 14:40:28 +0000</pubDate>
+				<category><![CDATA[Guides]]></category>
+		<guid isPermaLink="false">/hub/?p=4273</guid>
+
+					<description><![CDATA[
+
+Monitoring testosterone replacement therapy (TRT) requires more than simply checking your testosterone level. Understanding how tests are performed, what the results mean, and how to collect samples consistently can help you get the most value from your testing. This guide explains our testing methods, reporting practices, and recommendations for obtaining reliable results. Laboratory Standards &#38;&#8230; <a class="more-link" href="/hub/guides/testosterone-replacement-therapy-testing/">Continue reading <span class="screen-reader-text">Testosterone Replacement Therapy Testing: Everything You Need to Know About Our Hormone Testing</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<p>Monitoring testosterone replacement therapy (TRT) requires more than simply checking your testosterone level. Understanding how tests are performed, what the results mean, and how to collect samples consistently can help you get the most value from your testing.</p>
+<p>This guide explains our testing methods, reporting practices, and recommendations for obtaining reliable results.</p>
+<h2>Laboratory Standards &amp; Accreditation</h2>
+<h4>CLIA/CAP-Certified Testing</h4>
+<p>All laboratory testing is performed according to rigorous quality standards required for CLIA and CAP-certified laboratories.</p>
+<p>These standards ensure that:</p>
+<ul>
+<li>Testing methods are validated before use</li>
+<li>Quality control procedures are continuously monitored</li>
+<li>Results are reported only within validated analytical ranges</li>
+<li>Laboratory processes meet established regulatory requirements</li>
+</ul>
+<p>Because of these standards, certain calculated values may not be reported if underlying measurements fall outside validated ranges.</p>
+<h4>Method Validation</h4>
+<p>Our assays undergo validation to ensure accuracy, precision, and reliability. Capillary collection methods are also validated against traditional venous blood collection where applicable.</p>
+<p>For estradiol testing, the EasyDraw capillary collection method has been validated against venous serum testing using the same analytical methodology.</p>
+<h2>Hormone Testing Methods</h2>
+<h3>Estradiol (Sensitive E2)</h3>
+<h4>Testing Method</h4>
+<p>Sensitive estradiol testing is performed using <strong>LC-MS/MS (Liquid Chromatography-Tandem Mass Spectrometry)</strong>.</p>
+<p>LC-MS/MS is considered the gold standard for low-level estradiol measurement because it provides excellent specificity and minimizes interference that can occur with some immunoassays.</p>
+<h4>Detection Range</h4>
+<p>The lower limit of detection (LLOD) for estradiol is: <strong>48 pg/mL</strong></p>
+<p>Values below this threshold may not be accurately quantified.</p>
+<h4>Validation Data</h4>
+<p>Detailed internal validation studies, assay correlation analyses, and proprietary performance metrics are not publicly available.</p>
+<h3>Total Testosterone</h3>
+<h4>Testing Method</h4>
+<p>For EasyDraw collections, total testosterone is measured using an <strong>immunoassay-based method</strong>.</p>
+<h4>Upper Reporting Limit</h4>
+<p>The assay reports testosterone concentrations up to: <strong>2,000 ng/dL</strong></p>
+<p>Results above this range are reported as: <strong>&gt; 2,000 ng/dL</strong></p>
+<p>Samples exceeding this limit are not automatically diluted and re-analyzed to provide a higher numerical result.</p>
+<h3>Free Testosterone</h3>
+<h4>Direct Measurement vs Calculation</h4>
+<p>Free testosterone is <strong>calculated</strong>, not directly measured through equilibrium dialysis.</p>
+<p>The calculation incorporates:</p>
+<ul>
+<li>Total Testosterone</li>
+<li>SHBG (Sex Hormone-Binding Globulin)</li>
+<li>Albumin</li>
+</ul>
+<p>This approach is commonly used in clinical practice and provides an estimate of biologically active testosterone.</p>
+<h3>Free Androgen Index (FAI)</h3>
+<p>The Free Androgen Index (FAI) is also calculated using total testosterone and SHBG values.</p>
+<p>Formula: <strong>FAI = ((Total Testosterone × 0.0347) ÷ SHBG) × 100</strong></p>
+<h2>Understanding Your Results</h2>
+<h3>Why Are Some Calculated Values Missing?</h3>
+<p>In some cases, Free Testosterone or FAI may not appear on your report.</p>
+<p>This occurs when SHBG or Total Testosterone falls outside the laboratory&#8217;s validated reporting range.</p>
+<p>To maintain compliance with laboratory quality standards and ensure accurate reporting, calculated values cannot be displayed when underlying measurements fall outside validated parameters.</p>
+<h2>Why Do Results Sometimes Differ Between Laboratories?</h2>
+<p>Differences between laboratories are common and do not necessarily indicate an error.</p>
+<p>Potential causes include:</p>
+<h4>Different Testing Methods</h4>
+<ul>
+<li>LC-MS/MS vs immunoassay</li>
+<li>Different instrument platforms</li>
+<li>Different calibration standards</li>
+</ul>
+<h4>Sample Type</h4>
+<ul>
+<li>Capillary blood</li>
+<li>Venous blood</li>
+</ul>
+<h4>Biological Variation</h4>
+<p>Hormone levels naturally fluctuate throughout the day and can be influenced by:</p>
+<ul>
+<li>Sleep quality</li>
+<li>Stress</li>
+<li>Exercise</li>
+<li>Illness</li>
+<li>Nutrition</li>
+<li>Hydration</li>
+<li>Alcohol intake</li>
+<li>Medications and supplements</li>
+</ul>
+<p>For this reason, trends over time are often more informative than a single isolated result.</p>
+<h2>Best Practices for TRT Testing</h2>
+<h4>Standardized Blood Collection Conditions</h4>
+<p>For reliable and comparable results, blood samples should be collected under consistent conditions:</p>
+<ul>
+<li>Morning collection (ideally before 10:00 AM)</li>
+<li>Fasting state (8–12 hours, no calories)</li>
+<li>Before applying testosterone gel/cream (if applicable)</li>
+<li>Same relative timing within the injection cycle each time</li>
+<li>After a normal night’s sleep</li>
+<li>No intense exercise immediately before testing</li>
+</ul>
+<h4>Injectable Testosterone</h4>
+<p>Testosterone levels fluctuate across the injection cycle, with higher levels shortly after dosing and lower levels just before the next injection.</p>
+<ul>
+<li>Testing around <strong>7 days post-injection</strong> generally reflects a near-trough level in many weekly dosing protocols</li>
+<li>Testing <strong>10–14 days post-injection</strong> may underestimate typical on-treatment exposure depending on dose and frequency</li>
+<li>Choose one consistent timepoint in your cycle and use it for all follow-up testing (commonly trough, just before the next dose)</li>
+</ul>
+<h4>Testosterone Gels and Creams</h4>
+<p>For transdermal therapy:</p>
+<ul>
+<li>Collect the blood sample <strong>before applying the daily dose</strong></li>
+<li>Keep application timing consistent between tests where possible</li>
+</ul>
+<h2>Factors That Can Affect Results</h2>
+<p>Results may vary due to short-term physiological and external influences, including:</p>
+<ul>
+<li>Acute illness</li>
+<li>Sleep disruption</li>
+<li>Alcohol intake</li>
+<li>Recent intense exercise</li>
+<li>Hydration status</li>
+</ul>
+<p>These factors can shift hormone levels temporarily and should be avoided when possible for baseline monitoring.</p>
+<h2>TRT Monitoring Principles</h2>
+<ul>
+<li>Use <strong>consistent sampling conditions and timing</strong> to ensure comparability</li>
+<li>Focus on <strong>trends over time rather than single measurements</strong></li>
+<li>Interpret results alongside symptoms and lifestyle context</li>
+<li>Differences between assays (e.g., LC-MS/MS vs immunoassay) and sample types (capillary vs venous) can affect absolute values</li>
+<li>Minor variability between tests is expected and does not necessarily indicate a clinically meaningful change</li>
+</ul>
+<h2>Where can I learn more?</h2>
+<ul>
+<li><a href="https://www.aafp.org/afp/2017/1001/p441">https://www.aafp.org/afp/2017/1001/p441</a></li>
+<li><a href="https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/testosterone-testing">https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/testosterone-testing</a></li>
+</ul>
+<p><!-- notionvc: eceb8235-8e81-4a49-a845-6dbcd0f989c4 --></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Staying Active on GLP Therapy: Preserving Muscle, Metabolism, and Long-Term Results</title>
 		<link>/hub/guides/staying-active-glp-therapy/</link>
 		
@@ -1512,92 +1658,6 @@ What is Pre-GLP baseline testing? Pre-GLP baseline testing is a structured healt
 <p><a href="https://www.healthline.com/health/drugs/ozempic-blood-test">https://www.healthline.com/health/drugs/ozempic-blood-test</a></p>
 <p><a href="https://www.mayoclinic.org/drugs-supplements/teriparatide-subcutaneous-route/description/drg-20066280">https://www.mayoclinic.org/drugs-supplements/teriparatide-subcutaneous-route/description/drg-20066280</a></p>
 <p><!-- notionvc: bc4161b2-c8b2-484c-9966-44882a5e4029 --></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Pancreatitis Risk in Patients on GLP Therapy: The Role of Symptoms Versus Blood Markers</title>
-		<link>/hub/guides/pancreatitis-risk-glp-therapy/</link>
-		
-		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Wed, 06 May 2026 21:14:26 +0000</pubDate>
-				<category><![CDATA[Guides]]></category>
-		<guid isPermaLink="false">/hub/?p=4212</guid>
-
-					<description><![CDATA[
-
-What are amylase and lipase? Amylase and lipase are digestive enzymes produced by the pancreas. Amylase helps break down carbohydrates Lipase helps break down fats In clinical settings, these enzymes are often measured when acute pancreatitis is suspected, as they can rise during active pancreatic inflammation. However, their role is primarily diagnostic during an acute&#8230; <a class="more-link" href="/hub/guides/pancreatitis-risk-glp-therapy/">Continue reading <span class="screen-reader-text">Pancreatitis Risk in Patients on GLP Therapy: The Role of Symptoms Versus Blood Markers</span></a>]]></description>
-			
-
-							<content:encoded><![CDATA[
-<h2>What are amylase and lipase?</h2>
-<p>Amylase and lipase are digestive enzymes produced by the pancreas.</p>
-<ul>
-<li><strong>Amylase</strong> helps break down carbohydrates</li>
-<li><strong>Lipase</strong> helps break down fats</li>
-</ul>
-<p>In clinical settings, these enzymes are often measured when <strong>acute pancreatitis is suspected</strong>, as they can rise during active pancreatic inflammation.</p>
-<p>However, their role is primarily <strong>diagnostic during an acute event</strong>, rather than predictive of future risk.</p>
-<h2>Why we do not rely on amylase and lipase for GLP pancreatitis risk screening?</h2>
-<p>GLP receptor agonists (such as semaglutide and similar medications) have been associated with pancreatitis. Because of this, monitoring pancreatic safety is important, but <strong>enzyme testing alone is not an effective screening tool for risk prediction</strong>.</p>
-<p>There are several reasons for this:</p>
-<ul>
-<li><strong>They rise acutely after inflammation begins</strong>Amylase and lipase typically increase once pancreatic injury is already underway, not before symptoms develop.</li>
-<li><strong>They are not specific for GLP–related risk</strong>Elevated levels may occur due to gallstones, gastrointestinal conditions, kidney dysfunction, or other non-pancreatic causes.</li>
-<li><strong>They may remain normal in some clinically significant cases</strong>Particularly in early, mild, or atypical presentations, enzyme levels can be misleadingly normal.</li>
-</ul>
-<p>Because of this, relying solely on these biomarkers may miss early warning signs or overestimate risk in unrelated conditions.</p>
-<h2>How pancreatitis risk is assessed in GLP users</h2>
-<p>Instead of routine enzyme testing, pancreatitis risk is better evaluated using a <strong>symptom- and risk-factor–based approach</strong>, especially in individuals using GLP therapy.</p>
-<p>This is why our program includes:</p>
-<ul>
-<li>Structured symptom questionnaires</li>
-<li>Medical and medication history review</li>
-<li>Metabolic risk profiling</li>
-<li>Identification of known pancreatitis risk factors</li>
-</ul>
-<p>Key risk factors may include:</p>
-<ul>
-<li>History of gallstones</li>
-<li>High triglycerides</li>
-<li>Excess alcohol intake</li>
-<li>Prior episodes of unexplained abdominal pain</li>
-<li>Rapid metabolic changes or weight loss</li>
-<li>Concurrent medications affecting pancreatic or biliary function</li>
-</ul>
-<p>This approach focuses on <strong>early identification of clinical risk patterns rather than late biochemical changes</strong>.</p>
-<h2>What symptoms are important to monitor?</h2>
-<p>Important symptoms to monitor include:</p>
-<ul>
-<li>Persistent upper abdominal pain (especially central)</li>
-<li>Pain that radiates to the back</li>
-<li>Nausea or vomiting that does not resolve</li>
-<li>Pain that worsens after eating</li>
-<li>Abdominal tenderness or bloating</li>
-<li>Sudden loss of appetite with gastrointestinal discomfort</li>
-</ul>
-<p>If these symptoms are severe, persistent, or worsening, medical evaluation is necessary.</p>
-<h2>How to reduce pancreatitis risk while on GLP therapy</h2>
-<p>For individuals using GLP medications, risk reduction focuses on supporting overall pancreatic and metabolic health:</p>
-<ul>
-<li><strong>Avoid or limit alcohol intake</strong></li>
-<li><strong>Maintain healthy triglyceride levels</strong> through diet, exercise and regular monitoring</li>
-<li><strong>Follow appropriate dose escalation protocols for GLP therapy</strong></li>
-<li><strong>Manage gallstone risk where relevant</strong> (especially during rapid weight loss)</li>
-<li><strong>Maintain hydration and balanced nutrition during appetite suppression</strong></li>
-<li><strong>Report persistent gastrointestinal symptoms early rather than waiting for lab changes</strong></li>
-</ul>
-<p>These strategies help reduce the likelihood of pancreatic stress during treatment.</p>
-<h2>Where can I learn more?</h2>
-<p>If you want to better understand pancreatitis risk in the context of GLP medications, it is useful to explore our referenced literature:</p>
-<ul>
-<li><a href="https://www.ccjm.org/content/ccjom/92/8/483.full.pdf">https://www.ccjm.org/content/ccjom/92/8/483.full.pdf</a></li>
-<li><a href="https://www.endocrinepractice.org/article/S1530-891X(25)00749-9/fulltext">https://www.endocrinepractice.org/article/S1530-891X(25)00749-9/fulltext</a></li>
-<li><a href="https://www.diabetesresearchclinicalpractice.com/article/S0168-8227(24)00716-2/fulltext">https://www.diabetesresearchclinicalpractice.com/article/S0168-8227(24)00716-2/fulltext</a></li>
-</ul>
-<p><!-- notionvc: 93b52d7e-0999-478f-b283-446f23706a34 --></p>
 ]]></content:encoded>
 					
 		
