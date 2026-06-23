@@ -12,7 +12,7 @@
 	<atom:link href="/hub/author/siphoxhealth/feed/" rel="self" type="application/rss+xml" />
 	<link>/hub/</link>
 	<description></description>
-	<lastBuildDate>Thu, 18 Jun 2026 16:58:52 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 23 Jun 2026 20:19:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,123 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=7.0</generator>
 	<item>
+		<title>Mean Platelet Volume (MPV)</title>
+		<link>/hub/biomarkers-2/mpv/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Tue, 23 Jun 2026 20:19:42 +0000</pubDate>
+				<category><![CDATA[Biomarkers]]></category>
+		<guid isPermaLink="false">/hub/?p=4281</guid>
+
+					<description><![CDATA[
+
+What is Mean Platelet Volume (MPV)? Mean Platelet Volume (MPV) is a measurement of the average size of platelets in your blood, with normal levels typically ranging from 7.5–12.5 fL (femtoliters). Testing MPV helps assess platelet production activity, identify clotting disorders, and flag early signs of cardiovascular or inflammatory disease. Understanding MPV and Its Role&#8230; <a class="more-link" href="/hub/biomarkers-2/mpv/">Continue reading <span class="screen-reader-text">Mean Platelet Volume (MPV)</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<div>
+<div data-test-render-count="1">
+<div class="group">
+<div class="contents">
+<div class="group relative relative pb-3" data-is-streaming="false">
+<div class="font-claude-response relative leading-[1.65rem] [&amp;_pre&gt;div]:bg-bg-000/50 [&amp;_pre&gt;div]:border-0.5 [&amp;_pre&gt;div]:border-border-400 [&amp;_.ignore-pre-bg&gt;div]:bg-transparent [&amp;_.standard-markdown_:is(p,blockquote,h1,h2,h3,h4,h5,h6)]:pl-2 [&amp;_.standard-markdown_:is(p,blockquote,ul,ol,h1,h2,h3,h4,h5,h6)]:pr-8 [&amp;_.progressive-markdown_:is(p,blockquote,h1,h2,h3,h4,h5,h6)]:pl-2 [&amp;_.progressive-markdown_:is(p,blockquote,ul,ol,h1,h2,h3,h4,h5,h6)]:pr-8">
+<div>
+<div class="grid grid-rows-[auto_auto] min-w-0">
+<div class="row-start-2 col-start-1 relative grid isolate min-w-0">
+<div class="row-start-1 col-start-1 relative z-[2] min-w-0">
+<div>
+<div class="standard-markdown grid-cols-1 grid [&amp;_&gt;_*]:min-w-0 gap-3 standard-markdown">
+<h3 class="font-claude-response-body break-words whitespace-normal"><strong>What is Mean Platelet Volume (MPV)?</strong></h3>
+<p class="font-claude-response-body break-words whitespace-normal">Mean Platelet Volume (MPV) is a measurement of the average size of platelets in your blood, with normal levels typically ranging from 7.5–12.5 fL (femtoliters). <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://medlineplus.gov/lab-tests/mpv-blood-test/">Testing MPV</a> helps assess platelet production activity, identify clotting disorders, and flag early signs of cardiovascular or inflammatory disease.</p>
+<h3 class="font-claude-response-body break-words whitespace-normal"><strong>Understanding MPV and Its Role in Your Body</strong></h3>
+<p class="font-claude-response-body break-words whitespace-normal">Mean Platelet Volume is reported as part of a standard <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://www.nhlbi.nih.gov/health/blood-tests">complete blood count (CBC)</a> and reflects the size distribution of platelets, the small cell fragments responsible for clotting and wound repair. Platelets are produced in the bone marrow by large cells called megakaryocytes. Newly released platelets are larger and more metabolically active; as they age in circulation, they shrink. MPV therefore serves as an indirect measure of platelet turnover and bone marrow activity.</p>
+<p class="font-claude-response-body break-words whitespace-normal">Because platelet size correlates with function, MPV carries clinical significance beyond platelet count alone. Larger platelets contain more clotting factors, release more thromboxane A2, and aggregate more readily. This makes MPV a useful marker for assessing bleeding risk, cardiovascular health, and inflammatory states. Clinicians typically interpret MPV alongside <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://medlineplus.gov/lab-tests/platelet-tests/">platelet count</a> for the most complete picture.</p>
+<h3 class="font-claude-response-body break-words whitespace-normal"><strong>Normal MPV Ranges and What They Mean</strong></h3>
+<p class="font-claude-response-body break-words whitespace-normal">Normal MPV ranges are consistent across sexes and most age groups in adults. Reference values may vary slightly between laboratories depending on instrument calibration and methodology.</p>
+<div data-dynamic-ranges="true" data-test="1"></div>
+<div data-ranges="true">
+<p class="font-claude-response-body break-words whitespace-normal">Normal range: 7.5–12.5 fL</p>
+</div>
+<p class="font-claude-response-body break-words whitespace-normal"><a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://medlineplus.gov/lab-tests/mpv-blood-test/">MPV is most informative when read in context with platelet count</a>:</p>
+<ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3">
+<li class="font-claude-response-body whitespace-normal break-words pl-2">High MPV with low platelet count: suggests increased platelet destruction, as seen in immune thrombocytopenic purpura (ITP)</li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2">Low MPV with low platelet count: points toward decreased production, as seen in bone marrow failure or aplastic anemia</li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2">High MPV with high platelet count: may indicate a myeloproliferative disorder</li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2">Normal MPV with normal platelet count: generally reflects healthy platelet turnover</li>
+</ul>
+<p class="font-claude-response-body break-words whitespace-normal">A single out-of-range MPV result warrants clinical context before drawing conclusions. Hydration status, sample handling time, and anticoagulant type can all affect measured values.</p>
+<h3 class="font-claude-response-body break-words whitespace-normal"><strong>Low MPV: Causes and Health Implications</strong></h3>
+<p class="font-claude-response-body break-words whitespace-normal">A lower-than-normal MPV suggests platelets are smaller than average, which often reflects reduced production activity or suppressed bone marrow output. Symptoms are not always present, but depending on the underlying cause, patients may experience unusual bruising, prolonged bleeding, or fatigue.</p>
+<p class="font-claude-response-body break-words whitespace-normal">Common causes include:</p>
+<ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3">
+<li class="font-claude-response-body whitespace-normal break-words pl-2">Aplastic anemia or bone marrow suppression</li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2">Chemotherapy or radiation effects on bone marrow</li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2">Inflammatory bowel disease, particularly Crohn&#8217;s disease and ulcerative colitis</li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2">Sepsis or systemic infection</li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2">Iron deficiency anemia in some presentations</li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2">Autoimmune conditions affecting marrow function</li>
+</ul>
+<p class="font-claude-response-body break-words whitespace-normal"><a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://medlineplus.gov/lab-tests/platelet-tests/">Low MPV paired with low platelet count</a> is a pattern that warrants further evaluation, as it can indicate impaired platelet production and elevated bleeding risk.</p>
+<h3 class="font-claude-response-body break-words whitespace-normal"><strong>High MPV: When Your Levels Are Elevated</strong></h3>
+<p class="font-claude-response-body break-words whitespace-normal">Elevated MPV indicates that circulating platelets are larger than average, which often reflects increased bone marrow output in response to higher demand. Larger platelets are more reactive, so <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://pubmed.ncbi.nlm.nih.gov/19691485/">persistently elevated MPV has been associated with a higher risk of arterial clotting events</a>.</p>
+<p class="font-claude-response-body break-words whitespace-normal">Potential causes include:</p>
+<ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3">
+<li class="font-claude-response-body whitespace-normal break-words pl-2">Cardiovascular disease and atherosclerosis</li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2">Type 2 diabetes and insulin resistance</li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2">Hypertension</li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2">Hypothyroidism</li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2">Immune thrombocytopenic purpura (ITP), where platelet destruction drives accelerated production</li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2">Vitamin B12 or folate deficiency</li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2">Smoking</li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2">Pre-eclampsia in pregnancy</li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2">Chronic inflammatory states</li>
+</ul>
+<p class="font-claude-response-body break-words whitespace-normal"><a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://pubmed.ncbi.nlm.nih.gov/19691485/">Research has linked high MPV with increased risk of myocardial infarction and stroke</a>, independent of platelet count. If you have persistently elevated MPV alongside cardiovascular risk factors, discuss it with your physician.</p>
+<h3 class="font-claude-response-body break-words whitespace-normal"><strong>Optimizing Your MPV Naturally</strong></h3>
+<p class="font-claude-response-body break-words whitespace-normal">MPV is not a standalone modifiable target in the way that cholesterol or blood pressure is, but the conditions that drive abnormal MPV are often addressable through lifestyle.</p>
+<p class="font-claude-response-body break-words whitespace-normal">For elevated MPV, focus on reducing inflammatory and cardiovascular burden:</p>
+<ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3">
+<li class="font-claude-response-body whitespace-normal break-words pl-2">Anti-inflammatory diet: emphasize fatty fish, olive oil, leafy greens, and berries rich in omega-3 fatty acids and polyphenols</li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2">Blood sugar management: minimize refined carbohydrates and added sugar, particularly if you have or are at risk for type 2 diabetes</li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2">Smoking cessation: <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6501263/">smoking is directly associated with larger platelet size and higher platelet reactivity</a></li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2">Blood pressure control: regular aerobic exercise, reduced sodium intake, and weight management all support healthy vascular function</li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2">Thyroid monitoring: if hypothyroidism is a contributing factor, appropriate treatment can normalize platelet dynamics</li>
+</ul>
+<p class="font-claude-response-body break-words whitespace-normal">For low MPV related to nutritional causes:</p>
+<ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3">
+<li class="font-claude-response-body whitespace-normal break-words pl-2">Ensure adequate intake of folate (leafy greens, legumes, fortified grains) and vitamin B12 (animal products, fortified plant milks)</li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2">Address iron deficiency if present through diet or supplementation as directed by your physician</li>
+</ul>
+<h3 class="font-claude-response-body break-words whitespace-normal"><strong>Maintaining Healthy MPV</strong></h3>
+<p class="font-claude-response-body break-words whitespace-normal">Consistent sleep, regular moderate exercise, managing chronic conditions like diabetes or thyroid disease, and avoiding smoking all support balanced platelet production and function over time. Because <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://www.nhlbi.nih.gov/health/blood-tests">MPV is part of a routine CBC panel</a>, it can be tracked longitudinally to detect trends before symptoms develop.</p>
+<p class="font-claude-response-body break-words whitespace-normal"><strong>Where can I learn more?</strong></p>
+<ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3">
+<li class="font-claude-response-body whitespace-normal break-words pl-2"><a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://www.nhlbi.nih.gov/health/blood-tests">National Heart, Lung, and Blood Institute. Blood Tests.</a></li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2"><a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6501263/">Korniluk A, et al. Mean Platelet Volume (MPV): New Perspectives for an Old Marker in the Course and Prognosis of Inflammatory Conditions. <em>Mediators of Inflammation</em>, 2019.</a></li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2"><a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://pubmed.ncbi.nlm.nih.gov/19691485/">Chu SG, et al. Mean Platelet Volume as a Predictor of Cardiovascular Risk: A Systematic Review and Meta-Analysis. <em>Journal of Thrombosis and Haemostasis</em>, 2010.</a></li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2"><a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://medlineplus.gov/lab-tests/mpv-blood-test/">MedlinePlus, National Library of Medicine. MPV Blood Test.</a></li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2"><a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://medlineplus.gov/lab-tests/platelet-tests/">MedlinePlus, National Library of Medicine. Platelet Tests.</a></li>
+</ul>
+<p class="font-claude-response-body break-words whitespace-normal"><strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>How to Eat Well on a GLP</title>
 		<link>/hub/guides/eat-well-glp/</link>
 		
@@ -1469,121 +1586,6 @@ What is the long-term phase of GLP therapy? The long-term phase begins after 16 
 <p><a href="https://www.healthline.com/health/drugs/ozempic-blood-test">https://www.healthline.com/health/drugs/ozempic-blood-test</a></p>
 <p><a href="https://www.mayoclinic.org/drugs-supplements/teriparatide-subcutaneous-route/description/drg-20066280">https://www.mayoclinic.org/drugs-supplements/teriparatide-subcutaneous-route/description/drg-20066280</a></p>
 <p><!-- notionvc: 47ce1435-853c-4a1f-9419-b01dbdedb07d --></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>GLP Titration Phase: Tracking Biomarkers for Safety, Tolerance, and Early Response</title>
-		<link>/hub/guides/glp-titration-phase/</link>
-		
-		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Wed, 06 May 2026 21:35:14 +0000</pubDate>
-				<category><![CDATA[Guides]]></category>
-		<guid isPermaLink="false">/hub/?p=4220</guid>
-
-					<description><![CDATA[
-
-What is the early phase of GLP therapy? The early phase (commonly the first ~16 weeks) refers to the period of dose escalation and physiological adaptation to GLP receptor agonists (such as semaglutide, liraglutide, or tirzepatide). During this phase, the body is adjusting to: Slower gastric emptying Reduced appetite and caloric intake Changes in hydration&#8230; <a class="more-link" href="/hub/guides/glp-titration-phase/">Continue reading <span class="screen-reader-text">GLP Titration Phase: Tracking Biomarkers for Safety, Tolerance, and Early Response</span></a>]]></description>
-			
-
-							<content:encoded><![CDATA[
-<h2>What is the early phase of GLP therapy?</h2>
-<p>The early phase (commonly the first ~16 weeks) refers to the period of <strong>dose escalation and physiological adaptation</strong> to GLP receptor agonists (such as semaglutide, liraglutide, or tirzepatide).</p>
-<p>During this phase, the body is adjusting to:</p>
-<ul>
-<li>Slower gastric emptying</li>
-<li>Reduced appetite and caloric intake</li>
-<li>Changes in hydration and electrolyte balance</li>
-<li>Rapid metabolic shifts</li>
-</ul>
-<p>This makes it the <strong>most dynamic phase of treatment</strong>, where both <strong>tolerance and early metabolic response</strong> need to be monitored closely.</p>
-<h2>Why monitoring is different in this phase</h2>
-<p>While both early and later phases rely on biomarkers, the <strong>type and purpose of monitoring differ</strong>.</p>
-<p>In the early phase:</p>
-<ul>
-<li>Biomarkers are used to detect <strong>acute physiological stress and tolerance issues</strong></li>
-<li>Changes can occur <strong>rapidly and non-linearly</strong></li>
-<li>Symptom context is still important for interpretation</li>
-</ul>
-<h2>Which biomarkers matter most early on</h2>
-<h3>1. Electrolytes and hydration markers</h3>
-<p>Reduced food and fluid intake can quickly affect:</p>
-<ul>
-<li>Total Protein</li>
-<li>Kidney function markers (e.g., creatinine trends)</li>
-</ul>
-<p>These help detect early dehydration or imbalance.</p>
-<h3>2. Liver enzymes and metabolic stress</h3>
-<p>Rapid weight loss and metabolic shifts may transiently affect:</p>
-<ul>
-<li>ALT / AST</li>
-<li>Markers associated with liver fat mobilization</li>
-</ul>
-<h3>3. Lipid profile (especially triglycerides)</h3>
-<p>Triglycerides are particularly important early on:</p>
-<ul>
-<li>Elevated levels increase pancreatitis risk</li>
-<li>Rapid metabolic changes may initially destabilize lipid levels</li>
-</ul>
-<h3>4. Glycemic markers</h3>
-<p>GLP therapy rapidly affects glucose regulation:</p>
-<ul>
-<li>% HbA1c</li>
-<li>C-Peptide</li>
-</ul>
-<p>These help assess early metabolic response and detect excessive drops in intake or imbalance.</p>
-<h3>5. Nutritional status indicators (early trends)</h3>
-<p>Even early in treatment, reduced intake may begin to impact:</p>
-<ul>
-<li>Ferritin</li>
-<li>Vitamin D</li>
-</ul>
-<h2>What symptoms still play a role</h2>
-<p>Although this is a biomarker-driven phase, symptoms provide <strong>essential context</strong> for interpreting early changes.</p>
-<p>Important symptoms include:</p>
-<ul>
-<li>Persistent nausea or vomiting</li>
-<li>Inability to maintain hydration</li>
-<li>Abdominal pain (especially severe or radiating)</li>
-<li>Dizziness or weakness</li>
-<li>Right upper abdominal discomfort (gallbladder-related)</li>
-</ul>
-<p>Symptoms help determine whether biomarker changes reflect:</p>
-<ul>
-<li>Normal adaptationor</li>
-<li>Emerging intolerance or risk</li>
-</ul>
-<h2>Key risks in the early phase</h2>
-<ul>
-<li>Gastrointestinal intolerance: driven by delayed gastric emptying and central appetite effects.</li>
-<li>Dehydration and electrolyte imbalance: often due to reduced intake rather than direct drug effect.</li>
-<li>Under-eating and rapid caloric deficit: can begin affecting metabolic stability and lean mass early.</li>
-<li>Gallbladder stress: triggered by rapid weight loss and fat mobilization, rather than routine enzyme screening alone</li>
-</ul>
-<h2>How to support your body during this phase</h2>
-<ul>
-<li>Maintain hydration: fluid intake should be intentional, not appetite-driven.</li>
-<li>Prioritize protein and nutrient density: even small meals should be nutritionally meaningful.</li>
-<li>Monitor both labs and symptoms together: neither should be interpreted in isolation.</li>
-<li>Avoid aggressive dose escalation: tolerance should guide progression.</li>
-</ul>
-<h2>How often should you monitor</h2>
-<p>Because this phase is dynamic:</p>
-<ul>
-<li><strong>Monthly biomarker monitoring during the first 16 weeks</strong></li>
-<li>Ongoing symptom tracking for context</li>
-<li>Additional testing if abnormalities or symptoms arise</li>
-</ul>
-<h2>Key takeaway</h2>
-<p>The early phase of GLP therapy is about <strong>safe adaptation</strong>.</p>
-<p>It remains biomarker-driven, but focuses on <strong>short-term physiological stability, tolerance, and early metabolic shifts</strong>, rather than long-term optimization.</p>
-<h2>Where can I read more?</h2>
-<p><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12376157/#s8">GLP-1 analog therapy and hemoglobin levels: Insights from a retrospective study &#8211; PMC</a></p>
-<p><a href="https://www.healthline.com/health/drugs/ozempic-blood-test">https://www.healthline.com/health/drugs/ozempic-blood-test</a></p>
-<p><a href="https://www.mayoclinic.org/drugs-supplements/teriparatide-subcutaneous-route/description/drg-20066280">https://www.mayoclinic.org/drugs-supplements/teriparatide-subcutaneous-route/description/drg-20066280</a></p>
-<p><!-- notionvc: 76f12f49-52ea-4b64-bc3b-061652d3b09d --></p>
 ]]></content:encoded>
 					
 		
