@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/7.0.2" created="2026-07-23 13:55" -->
+    <!-- generator="WordPress/7.0.2" created="2026-08-04 19:53" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Thu, 23 Jul 2026 13:55:48 +0000</pubDate>
+            <pubDate>Tue, 04 Aug 2026 19:53:31 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -1923,8 +1923,8 @@ Variability in lab results is a known entity, yet it doesn’t detract from the 
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
-                                                        		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
-		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
+                                                        		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
+		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -2130,8 +2130,8 @@ Cardiovascular health is no joke. Several studies mentioned earlier in this guid
                                                         		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
 		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
-		<category domain="category" nicename="cortisol"><![CDATA[Cortisol]]></category>
 		<category domain="post_tag" nicename="cortisol"><![CDATA[cortisol]]></category>
+		<category domain="category" nicename="cortisol"><![CDATA[Cortisol]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
 		<category domain="post_tag" nicename="health"><![CDATA[health]]></category>
 		<category domain="post_tag" nicename="hormones"><![CDATA[hormones]]></category>
@@ -3130,8 +3130,8 @@ If zinc levels are too low, it can lead to a variety of health issues, including
                                                         		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="post_tag" nicename="at-home"><![CDATA[at-home]]></category>
 		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
-		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="biomarkers"><![CDATA[biomarkers]]></category>
+		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood"><![CDATA[blood]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -5480,44 +5480,33 @@ According to the <span style="text-decoration: underline;"><a href="https://www
  	<li>increased inflammation which can cause plaques to rupture.</li>
 </ul>
 <h3>How can I better understand my Lp(a) levels?</h3>
-Lp(a) is often <a href="https://www.acc.org/latest-in-cardiology/articles/2023/09/19/10/54/an-update-on-lipoprotein-a#:~:text=Lp(a)%20is%20currently%20measured,Organization%20(WHO)%20laboratory%20measuring." data-sanitized-target="_blank"><span style="text-decoration: underline;">measured</span></a> in either nanomoles per liter (nmol/L) which is based on the number of particles or milligrams per deciliter (mg/dL) which is based on the mass concentration. Although the latter is often used to measure Lp(a), research suggests that the methodology used to measure the mass concentration may be inaccurate and that the former unit (nmol/L) is most appropriate. According to the <a href="https://www.acc.org/latest-in-cardiology/articles/2023/09/19/10/54/an-update-on-lipoprotein-a#:~:text=Lp(a)%20is%20currently%20measured,Organization%20(WHO)%20laboratory%20measuring." data-sanitized-target="_blank"><span style="text-decoration: underline;">American College of Cardiology</span></a>, there is no reliable conversion factor between the two measurements.
+<p class="font-claude-response-body break-words whitespace-normal" dir="ltr">In terms of interpreting results, the <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://www.acc.org/latest-in-cardiology/articles/2023/09/19/10/54/an-update-on-lipoprotein-a#:~:text=Lp(a)%20is%20currently%20measured,Organization%20(WHO)%20laboratory%20measuring.">American College of Cardiology</a> covers the lack of a generalized consensus across America, Canada, and Europe, with more conservative ranges in Europe as compared to America. To err on the side of caution, since high Lp(a) has been associated with atherosclerosis and cardiovascular disease, the following ranges from the <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://www.ncbi.nlm.nih.gov/books/NBK570621/#:~:text=The%20desirable%20and%20optimal%20test,contribute%20to%20serum%20LDL%20levels.">National Library of Medicine</a> are a bit more conservative:</p>
 
-In terms of interpreting results, the <span style="text-decoration: underline;"><a href="https://www.acc.org/latest-in-cardiology/articles/2023/09/19/10/54/an-update-on-lipoprotein-a#:~:text=Lp(a)%20is%20currently%20measured,Organization%20(WHO)%20laboratory%20measuring." data-sanitized-target="_blank">American College of Cardiology</a></span> covers the lack of a generalized consensus across America, Canada, and Europe, with more conservative ranges in Europe as compared to America. To err on the side of caution, since high Lp(a) has been associated with atherosclerosis and cardiovascular disease, the following ranges from the <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/books/NBK570621/#:~:text=The%20desirable%20and%20optimal%20test,contribute%20to%20serum%20LDL%20levels." data-sanitized-target="_blank">National Library of Medicine</a></span> are a bit more conservative:
-<div data-dynamic-ranges="true" data-test="1"></div>
-<div data-ranges="true">
-<ul>
- 	<li>Optimal: &lt; 14 mg/dL</li>
- 	<li>Borderline risk: 14-30 mg/dL (<span style="text-decoration: underline;"><a href="https://www.acc.org/latest-in-cardiology/articles/2023/09/19/10/54/an-update-on-lipoprotein-a#:~:text=Lp(a)%20is%20currently%20measured,Organization%20(WHO)%20laboratory%20measuring." data-sanitized-target="_blank">30 mg/dL </a></span><span data-sanitized-data-mce-fragment="1"><span style="text-decoration: underline;"><a href="https://www.acc.org/latest-in-cardiology/articles/2023/09/19/10/54/an-update-on-lipoprotein-a#:~:text=Lp(a)%20is%20currently%20measured,Organization%20(WHO)%20laboratory%20measuring." data-sanitized-target="_blank">≈ 75 nmol/L</a></span>)</span>
-<ul>
- 	<li><span data-sanitized-data-mce-fragment="1"><a href="https://www.acc.org/latest-in-cardiology/articles/2023/09/19/10/54/an-update-on-lipoprotein-a#:~:text=Lp(a)%20is%20currently%20measured,Organization%20(WHO)%20laboratory%20measuring." data-sanitized-target="_blank"><span style="text-decoration: underline;">European Atherosclerotic Society</span></a> considers &lt; 30 mg/dL (&lt; 75 nmol/L) to be normal</span></li>
+<ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3 print:block print:space-y-1" dir="ltr">
+ 	<li class="font-claude-response-body whitespace-normal break-words pl-2">Optimal: &lt; 14 mg/dL</li>
+ 	<li class="font-claude-response-body whitespace-normal break-words pl-2">Borderline risk: 14-30 mg/dL
+<ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3 print:block print:space-y-1" dir="ltr">
+ 	<li class="font-claude-response-body whitespace-normal break-words pl-2"><a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://www.acc.org/latest-in-cardiology/articles/2023/09/19/10/54/an-update-on-lipoprotein-a#:~:text=Lp(a)%20is%20currently%20measured,Organization%20(WHO)%20laboratory%20measuring.">European Atherosclerotic Society</a> considers &lt; 30 mg/dL to be normal</li>
 </ul>
 </li>
- 	<li>High risk: 31-50 mg/dL (<span style="text-decoration: underline;"><a href="https://www.acc.org/latest-in-cardiology/articles/2023/09/19/10/54/an-update-on-lipoprotein-a#:~:text=Lp(a)%20is%20currently%20measured,Organization%20(WHO)%20laboratory%20measuring." data-sanitized-target="_blank">50 mg/dL </a></span><span data-sanitized-data-mce-fragment="1"><span style="text-decoration: underline;"><a href="https://www.acc.org/latest-in-cardiology/articles/2023/09/19/10/54/an-update-on-lipoprotein-a#:~:text=Lp(a)%20is%20currently%20measured,Organization%20(WHO)%20laboratory%20measuring." data-sanitized-target="_blank">≈ 125 nmol/L</a></span>)</span>
-<ul>
- 	<li><span data-sanitized-data-mce-fragment="1"><a href="https://www.acc.org/latest-in-cardiology/articles/2023/09/19/10/54/an-update-on-lipoprotein-a#:~:text=Lp(a)%20is%20currently%20measured,Organization%20(WHO)%20laboratory%20measuring." data-sanitized-target="_blank"><span style="text-decoration: underline;">European Atherosclerotic Society</span></a> considers this range to be intermediate risk</span></li>
+ 	<li class="font-claude-response-body whitespace-normal break-words pl-2">High risk: 31-50 mg/dL
+<ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3 print:block print:space-y-1" dir="ltr">
+ 	<li class="font-claude-response-body whitespace-normal break-words pl-2"><a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://www.acc.org/latest-in-cardiology/articles/2023/09/19/10/54/an-update-on-lipoprotein-a#:~:text=Lp(a)%20is%20currently%20measured,Organization%20(WHO)%20laboratory%20measuring.">European Atherosclerotic Society</a> considers this range to be intermediate risk</li>
 </ul>
 </li>
- 	<li>Highest risk: &gt; 50 mg/dL <span data-sanitized-data-mce-fragment="1">(</span><span style="text-decoration: underline;"><a href="https://www.acc.org/latest-in-cardiology/articles/2023/09/19/10/54/an-update-on-lipoprotein-a#:~:text=Lp(a)%20is%20currently%20measured,Organization%20(WHO)%20laboratory%20measuring." data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.acc.org/latest-in-cardiology/articles/2023/09/19/10/54/an-update-on-lipoprotein-a#:~:text=Lp(a)%20is%20currently%20measured,Organization%20(WHO)%20laboratory%20measuring." data-sanitized-data-mce-fragment="1">50 mg/dL </a></span><span data-sanitized-data-mce-fragment="1"><span style="text-decoration: underline;"><a href="https://www.acc.org/latest-in-cardiology/articles/2023/09/19/10/54/an-update-on-lipoprotein-a#:~:text=Lp(a)%20is%20currently%20measured,Organization%20(WHO)%20laboratory%20measuring." data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.acc.org/latest-in-cardiology/articles/2023/09/19/10/54/an-update-on-lipoprotein-a#:~:text=Lp(a)%20is%20currently%20measured,Organization%20(WHO)%20laboratory%20measuring." data-sanitized-data-mce-fragment="1">≈ 125 nmol/L</a></span>)</span>
-<ul>
- 	<li><span style="text-decoration: underline;"><a href="https://www.acc.org/latest-in-cardiology/articles/2023/09/19/10/54/an-update-on-lipoprotein-a#:~:text=Lp(a)%20is%20currently%20measured,Organization%20(WHO)%20laboratory%20measuring." data-sanitized-data-mce-href="https://www.acc.org/latest-in-cardiology/articles/2023/09/19/10/54/an-update-on-lipoprotein-a#:~:text=Lp(a)%20is%20currently%20measured,Organization%20(WHO)%20laboratory%20measuring." data-sanitized-target="_blank">European Atherosclerotic Society</a></span> considers this range to be abnormal</li>
+ 	<li class="font-claude-response-body whitespace-normal break-words pl-2">Highest risk: &gt; 50 mg/dL
+<ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3 print:block print:space-y-1" dir="ltr">
+ 	<li class="font-claude-response-body whitespace-normal break-words pl-2"><a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://www.acc.org/latest-in-cardiology/articles/2023/09/19/10/54/an-update-on-lipoprotein-a#:~:text=Lp(a)%20is%20currently%20measured,Organization%20(WHO)%20laboratory%20measuring.">European Atherosclerotic Society</a> considers this range to be abnormal</li>
 </ul>
 </li>
 </ul>
-Ranges specific to the Cardiometabolic Program:
-<ul>
- 	<li>Optimal: &lt;50 nmol/L</li>
- 	<li>Good: 50-74 nmol/L</li>
- 	<li>Fair: 75-124 nmol/L</li>
- 	<li>Pay attention: ≥125 nmol/L</li>
-</ul>
-</div>
 <h3>How can I maintain optimal Lp(a) levels?</h3>
 Lp(a) is considered to be solely impacted by genetics, and research trying to elucidate the effects of lifestyle changes remains inconclusive. However, <span style="text-decoration: underline;"><a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://www.heart.org/en/health-topics/cholesterol/genetic-conditions/lipoprotein-a" data-sanitized-data-mce-tabindex="0" data-sanitized-data-mce-href="https://www.heart.org/en/health-topics/cholesterol/genetic-conditions/lipoprotein-a" data-sanitized-data-token-index="1" data-token-index="1" data-sanitized-data-mce-fragment="1"><span class="link-annotation-unknown-block-id-962464832" data-sanitized-data-mce-fragment="1">lifestyle may be important</span></a></span> to reduce other risk factors associated with atherosclerosis. Best practices for people who are concerned about their heart health, predisposed to heart disease, or who have high Lp(a) are to<span class="discussion-id-920afc21-e2e9-42a0-a30c-10637d6cb4a9 notion-enable-hover" data-sanitized-data-token-index="3" data-token-index="3" data-sanitized-data-mce-fragment="1">:</span>
 
 <strong>Dietary Changes: </strong>Eating a heart-healthy diet can help to reduce atherosclerosis risk. The <span style="text-decoration: underline;"><a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/in-depth/heart-healthy-diet/art-20047702" data-sanitized-data-mce-href="https://www.mayoclinic.org/diseases-conditions/heart-disease/in-depth/heart-healthy-diet/art-20047702" data-sanitized-target="_blank">Mayo Clinic</a></span> suggests controlling your portion size by eating more low-calorie, nutrient-dense foods (fruits and veggies) and eating less high-calorie, high-sodium, highly processed foods. Additionally, choosing low-fat protein sources (fish, poultry, lean ground meats, and legumes/soy) and limiting unhealthy saturated and trans fats by choosing monounsaturated fats (olive oil, canola oil) or polyunsaturated fats (fish, avocados, nuts, seeds) over animal fats, hydrogenated fats, and tropical oils (coconut, palm kernel, palm, cottonseed) can help.
 
 <strong>Lifestyle Changes</strong>: According to <span style="text-decoration: underline;"><a href="https://www.hopkinsmedicine.org/health/wellness-and-prevention/3-kinds-of-exercise-that-boost-heart-health" data-sanitized-target="_blank">Johns Hopkins Medicine</a></span>, aerobic (≥<b data-sanitized-data-mce-fragment="1"> </b>30 mins/day, 5 days/week), resistance/strength (≥ 2 nonconsecutive days/week), and stretching/flexibility/balance exercises (daily and before/after other exercises) can improve heart health. Additionally, maintaining a healthy weight, getting enough sleep, and stopping tobacco use can improve heart health as well.
-<h3>Where can I learn more?</span></h3>
+<h3>Where can I learn more?</h3>
 <ul>
  	<li><span style="text-decoration: underline;"><a href="https://www.cdc.gov/heart-disease-family-history/about/about-lipoprotein-a.html" data-sanitized-target="_blank">CDC - Lp(a)</a></span></li>
  	<li><span style="text-decoration: underline;"><a href="https://www.youtube.com/watch?app=desktop&amp;v=XU93gv944VQ" data-sanitized-target="_blank">The Heart Doctor (video) - Cardiologist Explains Lp(a)</a></span></li>
@@ -6798,6 +6787,14 @@ If your cortisol levels are on the lower side, studies suggest the following i
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_content_1_copies]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -30123,8 +30120,8 @@ Your panel of TSH, Free T4, Free T3, and thyroid antibodies already covers what 
                             <wp:post_id>4295</wp:post_id>
                             <wp:post_date><![CDATA[2026-07-23 13:42:16]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2026-07-23 13:42:16]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-07-23 13:55:48]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-07-23 13:55:48]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-07-23 13:55:49]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-07-23 13:55:49]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[improve-sleep]]></wp:post_name>
@@ -30353,7 +30350,7 @@ Bottom line: Better sleep is built through consistency. Start with one or two ma
                                 </wp:postmeta>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[written_by]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[]]></wp:meta_value>
+                                    <wp:meta_value><![CDATA[a:1:{i:0;s:1:"7";}]]></wp:meta_value>
                                 </wp:postmeta>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_written_by]]></wp:meta_key>
@@ -30374,14 +30371,6 @@ Bottom line: Better sleep is built through consistency. Start with one or two ma
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
