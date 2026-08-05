@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/7.0.2" created="2026-08-04 19:53" -->
+    <!-- generator="WordPress/7.0.2" created="2026-08-05 21:15" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Tue, 04 Aug 2026 19:53:31 +0000</pubDate>
+            <pubDate>Wed, 05 Aug 2026 21:15:18 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -1923,8 +1923,8 @@ Variability in lab results is a known entity, yet it doesn’t detract from the 
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
-                                                        		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
-		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
+                                                        		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
+		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -3236,6 +3236,7 @@ Ranges specific to the Cardiometabolic Program:
 </ul>
 </div>
 <p style="text-align: left;" data-sanitized-data-mce-style="text-align: left;"><span style="text-decoration: underline;"><a href="https://my.clevelandclinic.org/health/diagnostics/24992-apolipoprotein-b-test" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://my.clevelandclinic.org/health/diagnostics/24992-apolipoprotein-b-test">High ApoB</a></span> results may be indicative of pregnancy, high cholesterol, or kidney issues. <span style="text-decoration: underline;"><a href="https://my.clevelandclinic.org/health/diagnostics/24992-apolipoprotein-b-test" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://my.clevelandclinic.org/health/diagnostics/24992-apolipoprotein-b-test">Low ApoB</a></span> on the other hand may be indicative of sepsis, liver disease, malabsorption, or high estrogen levels.</p>
+<p data-sanitized-data-mce-style="text-align: left;">SiPhox's ApoB ranges are calibrated to the <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://www.lipidjournal.com/article/S1933-2874(24)00240-X/fulltext" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id--195240468">National Lipid Association's Expert Clinical Consensus</span></a>, which sets ApoB thresholds of 60, 70, and 90 mg/dL for very high, high, and borderline/intermediate ASCVD risk, respectively. Our "optimal" cutoff of &lt;70 mg/dL reflects the high-risk threshold, while "good" captures the borderline/intermediate-risk range still considered acceptable by this guidance.<!-- notionvc: c20c8dd1-0de2-4da9-8524-a854cb7f39cb --></p>
 
 <h3>How can I maintain optimal ApoB levels?</h3>
 <p style="text-align: left;" data-sanitized-data-mce-style="text-align: left;">If your ApoB levels are higher than normal, you can try:</p>
@@ -3254,6 +3255,14 @@ Ranges specific to the Cardiometabolic Program:
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_content_1_copies]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -6744,9 +6753,6 @@ If you have high ferritin, a few ways to lower levels include:
                                     <wp:meta_key><![CDATA[content_1_copies]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[<h3>What is cortisol?</h3>
 Cortisol is a hormone synthesized and secreted by the adrenal glands of the kidneys that plays a major role in regulating stress, metabolism, and immunity. It follows a diurnal rhythm that is affected by sleep, naturally rising in the early morning, peaking around 30 minutes after waking, and then falling throughout the day into the evening.
-
-<span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">
-<a href="https://www.zrtlab.com/landing-pages/diurnal-cortisol-curves/" data-sanitized-target="_blank"><img class="alignnone" style="display: block; margin-left: auto; margin-right: auto;" src="https://www.zrtlab.com/media/1476/adrenal_curve_normal.jpg?width=359&amp;height=299" alt="cortisol" width="293" height="244" data-sanitized-data-mce-style="display: block; margin-left: auto; margin-right: auto;" data-sanitized-data-mce-src="https://www.zrtlab.com/media/1476/adrenal_curve_normal.jpg?width=359&amp;height=299" data-sanitized-data-mce-fragment="1" /></a></span>
 <h3>Why is cortisol important?</h3>
 <p data-start="468" data-end="1041">High cortisol levels can be associated with acute (sudden), chronic (long-term), and/or traumatic (life-threatening) stress. Secondary factors associated with mental stress include alcohol use, smoking, lack of exercise, inadequate sleep, and poor nutrition. Over time, prolonged high cortisol levels, as seen in hypercortisolism or Cushing’s syndrome, may contribute to weight gain, fat redistribution, poor sleep, lowered immune function, and increased inflammation. Low cortisol levels may suggest poor adrenal function or Addison’s disease.</p>
 <p data-start="1043" data-end="1555">Cortisol also plays a major role in metabolism and metabolic health by influencing how your body uses carbohydrates, fats, and proteins. During stress, cortisol raises blood sugar to provide a quick source of energy. It signals the liver to release glucose into the bloodstream and temporarily reduces insulin’s effect so that glucose remains available. This response can be helpful in the short term, but when cortisol stays elevated over time, it may contribute to higher blood sugar and increased fat storage.</p>
@@ -6787,14 +6793,6 @@ If your cortisol levels are on the lower side, studies suggest the following i
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_content_1_copies]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
