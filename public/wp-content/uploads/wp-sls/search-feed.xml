@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/7.0.3" created="2026-08-07 17:23" -->
+    <!-- generator="WordPress/7.0.3" created="2026-08-07 20:56" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Fri, 07 Aug 2026 17:23:54 +0000</pubDate>
+            <pubDate>Fri, 07 Aug 2026 20:56:17 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -2130,8 +2130,8 @@ Cardiovascular health is no joke. Several studies mentioned earlier in this guid
                                                         		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
 		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
-		<category domain="post_tag" nicename="cortisol"><![CDATA[cortisol]]></category>
 		<category domain="category" nicename="cortisol"><![CDATA[Cortisol]]></category>
+		<category domain="post_tag" nicename="cortisol"><![CDATA[cortisol]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
 		<category domain="post_tag" nicename="health"><![CDATA[health]]></category>
 		<category domain="post_tag" nicename="hormones"><![CDATA[hormones]]></category>
@@ -3130,8 +3130,8 @@ If zinc levels are too low, it can lead to a variety of health issues, including
                                                         		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="post_tag" nicename="at-home"><![CDATA[at-home]]></category>
 		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
-		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="biomarkers"><![CDATA[biomarkers]]></category>
+		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood"><![CDATA[blood]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -3364,7 +3364,6 @@ Ranges specific to the Cardiometabolic Program:
 <h3 data-sanitized-data-mce-fragment="1">How can I better understand my fasting glucose levels?</h3>
 <p data-sanitized-data-mce-fragment="1">Fasting glucose is typically measured after an overnight fast of at least 8 hours. Here are the <span style="text-decoration: underline;"><a href="https://diabetes.org/about-diabetes/diagnosis" rel="noopener noreferrer" data-sanitized-target="_blank">g</a><a href="https://diabetes.org/about-diabetes/diagnosis" rel="noopener noreferrer" data-sanitized-target="_blank">eneral ranges</a></span> for fasting glucose levels:</p>
 
-<div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true">
 <ul data-sanitized-data-mce-fragment="1">
  	<li data-sanitized-data-mce-fragment="1"><span style="text-decoration: underline;">Normal</span>: &lt;100 mg/dL</li>
@@ -3373,6 +3372,7 @@ Ranges specific to the Cardiometabolic Program:
 </ul>
 </div>
 <p data-sanitized-data-mce-fragment="1">Values above this range may indicate hyperglycemia (high blood sugar), while values below the range may suggest hypoglycemia (low blood sugar). <span style="text-decoration: underline;"><a href="https://my.clevelandclinic.org/health/diseases/7104-diabetes">Symptoms of high fasting glucose levels</a></span> include increased thirst and frequent urination, fatigue, blurred vision, slow healing of cuts and wounds, and frequent infections. <span style="text-decoration: underline;"><a href="https://www.mayoclinic.org/diseases-conditions/hypoglycemia/symptoms-causes/syc-20373685">Symptoms of low fasting glucose</a></span> include hunger, weakness, blurred vision, difficulty concentrating, confusion/disorientation, dizziness/lightheadedness, and nausea.</p>
+<p data-sanitized-data-mce-fragment="1">SiPhox's Fasting Glucose ranges are based on the <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://diabetes.org/about-diabetes/diagnosis" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id-53546892">American Diabetes Association's diagnostic criteria</span></a>, which define normal fasting glucose as below 100 mg/dL and prediabetes as 100–125 mg/dL. Our "optimal" range targets the low-normal zone associated with minimal metabolic risk, while "good" extends to just under the ADA's 100 mg/dL prediabetes threshold.<!-- notionvc: 11ce9241-4622-4732-993e-69398195b6b2 --></p>
 
 <h3 data-sanitized-data-mce-fragment="1">How can I maintain optimal fasting glucose levels?</h3>
 If you need to maintain or adjust your fasting glucose levels, <span style="text-decoration: underline;"><a href="https://www.mayoclinic.org/diseases-conditions/diabetes/diagnosis-treatment/drc-20371451">consider the following strategies</a></span>:
@@ -4774,7 +4774,6 @@ Albumin testing can provide the following information:
 </ol>
 <h3>How can I better understand my albumin results?</h3>
 Here is the general range for interpreting albumin results:
-<div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true">
 <ul>
  	<li><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0"><a href="https://www.abim.org/Media/bfijryql/laboratory-reference-ranges.pdf" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.abim.org/Media/bfijryql/laboratory-reference-ranges.pdf"><span style="text-decoration: underline;">Normal range</span></a>: 3.5 - 5.5 g/dL</span>
@@ -4784,6 +4783,8 @@ Here is the general range for interpreting albumin results:
 </li>
 </ul>
 </div>
+SiPhox's Albumin ranges are supported by a cohort study of over 77,000 community-dwelling older adults, which found that albumin levels ≥4.4 g/dL were associated with the best survival, while mortality risk rose progressively as albumin declined, with even mildly low levels (4.2–4.3 g/dL) showing increased risk. This supports SiPhox's "optimal" threshold, since mortality risk climbs measurably even within what labs consider the "normal" 3.5–5.2 g/dL range.
+
 <span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">Low levels can be a sign of malnutrition, due to a lack of protein and calories. Lack of albumin may also be caused by burns or infections. In some cases, it is the cause of pre-existing health conditions, but it could also be a sign of a more serious health issue. For information about these, talk to your doctor about your albumin levels. </span>
 
 <span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">High levels are fairly uncommon and may mean that your body is dehydrated. Just as low levels could be a sign of little protein, high levels might indicate an abundance of it. It can also be caused by the use of anabolic steroids and other supplements.</span>
@@ -5051,8 +5052,7 @@ While specific interventions may vary depending on the underlying cause of abnor
 <h3>Why is LDL-C important?</h3>
 Despite advancements in understanding atherosclerosis risks, LDL-C continues to hold value in <span style="text-decoration: underline;"><a href="https://www.cdc.gov/cholesterol/about/ldl-and-hdl-cholesterol-and-triglycerides.html" data-sanitized-data-mce-href="https://www.cdc.gov/cholesterol/ldl_hdl.htm#:~:text=LDL%20(low-density lipoprotein),for heart disease and stroke." data-sanitized-target="_blank">cardiovascular risk</a></span> assessment and is included as a biomarker in the <a href="https://home.siphoxhealth.com/pricing/unlimited?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=&amp;utm_term=siphox%20health&amp;utm_content=&amp;tw_source=google&amp;tw_adid=687640324952&amp;tw_campaign=19925277251&amp;gad_source=1&amp;gclid=Cj0KCQjwvb-zBhCmARIsAAfUI2uY8He_1BAaSvECNZqCwMQtT6Y41yJBFoDVgu-iAMehWiJa-uL2CFIaAjjgEALw_wcB"><span style="text-decoration: underline;">SiPhox Health</span></a> Foundation panel. This persistence is due in part to the extensive body of guidelines and recommendations that still prioritize LDL-C levels. Measuring LDL-P poses challenges due to difficulties in achieving precise measurements. To bridge this gap, SiPhox also includes ApoB in its assessments, offering a broader view of atherogenic particles, encompassing LDL-P. This dual measurement strategy ensures that both healthcare providers and patients have a comprehensive understanding of atherosclerotic cardiovascular disease risk, facilitating more informed health decisions (Cole, 2023).
 <h3>How can I better understand my LDL-C levels?</h3>
-To better interpret your results, <span style="text-decoration: underline;"><a href="https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/lipid-panel#:~:text=These%20are%20the%20adult%20ranges,130%20to%20159%20mg%2FdL" data-sanitized-data-mce-href="https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/lipid-panel#:~:text=These%20are%20the%20adult%20ranges,130%20to%20159%20mg%2FdL">Johns Hopkins Medicine</a></span> has released ranges for LDL-C:
-<div data-dynamic-ranges="true" data-test="1"></div>
+LDL-C levels can be understood by comparing your result with the ranges below.
 <div data-ranges="true">
 <ul>
  	<li>Optimal: 40-100 mg/dL</li>
@@ -5061,7 +5061,10 @@ To better interpret your results, <span style="text-decoration: underline;"><a 
  	<li>High: 160-190 mg/dL</li>
  	<li>Very High: &gt; 190 mg/dL</li>
 </ul>
+<!-- notionvc: fcb3eaf4-669c-4a20-b190-6ca522a1071a -->
+
 </div>
+SiPhox's LDL Cholesterol ranges are based on the <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://www.ahajournals.org/doi/10.1161/CIR.0000000000000625" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id--97859862">2018 ACC/AHA Guideline on the Management of Blood Cholesterol</span></a>, which classifies LDL-C below 100 mg/dL as optimal for the general population, with even lower targets (&lt;70 mg/dL) recommended for those at high cardiovascular risk. Our "optimal" range targets well below the 100 mg/dL benchmark, while "good" and “fair” track the guideline's progression toward the 130 mg/dL borderline-high threshold.
 <h3>How can I maintain optimal LDL-C levels?</h3>
 If your LDL-C is elevated, here are some changes you can try:
 
@@ -5185,7 +5188,6 @@ HDL-C stands for <span style="text-decoration: underline;"><a href="https://www
 <h3>Why is HDL-C important?</h3>
 HDL-C levels provide another measurement of an individual’s risk of a cardiovascular event. While not as strong an indicator as apolipoprotein B (apoB) or LDL-C, HDL-C provides valuable context to your cardiovascular health. The ratio of <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10001260/#:~:text=A%20TG%2FHDL%2DC%20ratio,an%20increased%20risk%20of%20MACE.&amp;text=A%20TG%2FHDL%2DC%20ratio,%25%20and%2068%25%2C%20respectively." data-sanitized-data-mce-href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10001260/#:~:text=A%20TG%2FHDL%2DC%20ratio,an%20increased%20risk%20of%20MACE.&amp;text=A%20TG%2FHDL%2DC%20ratio,%25%20and%2068%25%2C%20respectively.">triglycerides to HDL-C</a></span> is one particularly valuable marker with high levels indicating risk of metabolic syndrome, cardiovascular disease, and all-cause mortality. For these reasons, HDL-C is included in <span style="text-decoration: underline;"><a href="https://siphoxhealth.com/" data-sanitized-target="_blank">SiPhox Health</a></span>'s foundation panel.
 <h3>How can I better understand my HDL-C levels?</h3>
-<div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true">
 <ul>
  	<li>Abnormally low: <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3462950/#:~:text=Low%20HDL%2DC%20is%20currently,%3E500%20mg%2Fdl)." data-sanitized-target="_blank">&lt; 23 mg/dL</a></span>
@@ -5219,6 +5221,7 @@ Ranges specific to the Cardiometabolic Program:
  	<li>Pay attention: &lt;40 mg/dL</li>
 </ul>
 </div>
+SiPhox's HDL Cholesterol ranges are based on the <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://www.nhlbi.nih.gov/files/docs/guidelines/atp3xsum.pdf" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id-930418842">NCEP ATP III guidelines</span></a>, which classify HDL below 40 mg/dL as a major cardiovascular risk factor and HDL ≥60 mg/dL as a "negative" (protective) risk factor. Our "optimal" and "good" ranges both sit above this protective threshold, while "fair" reflects HDL that is normal but not yet in the protective zone.<!-- notionvc: 7bf08b4b-49bb-4273-a0fb-b234496d2920 -->
 <h3>How can I maintain optimal HDL-C levels?</h3>
 If you need to maintain or adjust your HDL-C levels, consider the <span style="text-decoration: underline;"><a href="https://www.umassmed.edu/nutrition/Cardiovascular/handouts/raising-hdl/">following strategies</a></span>:
 
@@ -5340,8 +5343,9 @@ If you need to maintain or adjust your HDL-C levels, consider the <span style="t
 <h3>Why is ApoA1 important?</h3>
 <span class="notion-enable-hover" data-token-index="0" data-sanitized-data-token-index="0" data-reactroot="" data-sanitized-data-reactroot="">Both HDL cholesterol and ApoA1 are, in most clinical conditions, anti-atherogenic, so the higher the values, the lower the cardiovascular risk. Your ApoA1 measurement can be an important predictor of cardiovascular health and is thus included in <a href="https://siphoxhealth.com/" data-sanitized-target="_blank"><span style="text-decoration: underline;">SiPhox Health</span></a>'s foundation panel.</span>
 <h3>How can I better understand my ApoA1 results?</h3>
-<div data-dynamic-ranges="true" data-test="1"></div>
-<div data-ranges="true"><span class="notion-enable-hover" data-token-index="0" data-sanitized-data-token-index="0" data-reactroot="" data-sanitized-data-reactroot="">Males:</span>
+<div data-ranges="true">
+
+<span class="notion-enable-hover" data-token-index="0" data-sanitized-data-token-index="0" data-reactroot="" data-sanitized-data-reactroot="">Males:</span>
 <ul>
  	<li><a href="https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=167&amp;contentid=apolipoprotein_a" data-sanitized-data-mce-href="https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=167&amp;contentid=apolipoprotein_a" data-sanitized-target="_blank"><span style="text-decoration: underline;">Normal</span></a>: 110-180 mg/dL</li>
  	<li><span style="text-decoration: underline;"><a href="https://testdirectory.questdiagnostics.com/test/test-detail/7018/apolipoprotein-evaluation?cc=MASTER" data-sanitized-target="_blank">Optimal</a></span>: &gt;= 115 mg/dL</li>
@@ -5354,6 +5358,8 @@ If you need to maintain or adjust your HDL-C levels, consider the <span style="t
  	<li><span style="text-decoration: underline;"><a href="https://testdirectory.questdiagnostics.com/test/test-detail/7018/apolipoprotein-evaluation?cc=MASTER" data-sanitized-target="_blank">At risk</a></span>: &lt; 125 mg/dL</li>
 </ul>
 </div>
+<span class="notion-enable-hover" data-token-index="0" data-sanitized-data-token-index="0" data-reactroot="" data-sanitized-data-reactroot="">SiPhox's ApoA1 "optimal" threshold aligns with the <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://academic.oup.com/eurjpc/article-abstract/30/4/293/6815667" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id--125412723">U-shaped mortality risk relationship found in a UK Biobank cohort study of over 400,000 adults</span></a>, which showed both low and very high ApoA1 levels carry elevated cardiovascular and all-cause mortality risk.<span class="discussion-id-3a592984-f9b8-80bf-aa20-001c50b8d39e notion-enable-hover" data-token-index="3"> Our ranges reward mid-to-upper normal ApoA1 as "optimal" while still flagging both the low end and the extreme high end as "fair."</span><!-- notionvc: 04728117-7149-4bea-8d66-55b06a1f86f7 --></span>
+
 <span class="notion-enable-hover" data-token-index="0" data-sanitized-data-token-index="0" data-reactroot="" data-sanitized-data-reactroot="">High ApoA1 may be caused by genetic disorders, certain medications, or recent weight loss. Low ApoA1 may be caused by diabetes, coronary artery disease, Tangier disease (<a href="https://healthmatters.io/understand-blood-test-results/apolipoprotein-1" data-sanitized-target="_blank"><span style="text-decoration: underline;">&lt; 25 mg/dL</span></a>), liver disorders, and certain lifestyle choices such as smoking cigarettes. Because ApoA1 levels can be an indicator of many deleterious diseases, it is important to consult with your physician if you are concerned with your levels. Aim for levels to fall higher in the normal range.</span>
 <h3>How can I maintain optimal ApoA1 levels?</h3>
 If you need to maintain or adjust your ApoA1 levels, consider the <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5372874/">following strategies</a></span>:
@@ -5483,6 +5489,7 @@ According to the <span style="text-decoration: underline;"><a href="https://www
 <h3>How can I better understand my Lp(a) levels?</h3>
 <p class="font-claude-response-body break-words whitespace-normal" dir="ltr">In terms of interpreting results, the <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://www.acc.org/latest-in-cardiology/articles/2023/09/19/10/54/an-update-on-lipoprotein-a#:~:text=Lp(a)%20is%20currently%20measured,Organization%20(WHO)%20laboratory%20measuring.">American College of Cardiology</a> covers the lack of a generalized consensus across America, Canada, and Europe, with more conservative ranges in Europe as compared to America. To err on the side of caution, since high Lp(a) has been associated with atherosclerosis and cardiovascular disease, the following ranges from the <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://www.ncbi.nlm.nih.gov/books/NBK570621/#:~:text=The%20desirable%20and%20optimal%20test,contribute%20to%20serum%20LDL%20levels.">National Library of Medicine</a> are a bit more conservative:</p>
 
+<div data-ranges="true">
 <ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3 print:block print:space-y-1" dir="ltr">
  	<li class="font-claude-response-body whitespace-normal break-words pl-2">Optimal: &lt; 14 mg/dL</li>
  	<li class="font-claude-response-body whitespace-normal break-words pl-2">Borderline risk: 14-30 mg/dL
@@ -5501,6 +5508,8 @@ According to the <span style="text-decoration: underline;"><a href="https://www
 </ul>
 </li>
 </ul>
+</div>
+SiPhox's Lp(a) ranges reflect the <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://www.lipidjournal.com/article/S1933-2874(24)00033-3/fulltext" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id-177593039">National Lipid Association's 2024 focused update</span></a>, which classifies Lp(a) &lt;30 mg/dL as low risk, 30–50 mg/dL as intermediate risk, and ≥50 mg/dL as high risk. <!-- notionvc: 4c134374-51b6-4541-bfae-0c80d53497e4 -->
 <h3>How can I maintain optimal Lp(a) levels?</h3>
 Lp(a) is considered to be solely impacted by genetics, and research trying to elucidate the effects of lifestyle changes remains inconclusive. However, <span style="text-decoration: underline;"><a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://www.heart.org/en/health-topics/cholesterol/genetic-conditions/lipoprotein-a" data-sanitized-data-mce-tabindex="0" data-sanitized-data-mce-href="https://www.heart.org/en/health-topics/cholesterol/genetic-conditions/lipoprotein-a" data-sanitized-data-token-index="1" data-token-index="1" data-sanitized-data-mce-fragment="1"><span class="link-annotation-unknown-block-id-962464832" data-sanitized-data-mce-fragment="1">lifestyle may be important</span></a></span> to reduce other risk factors associated with atherosclerosis. Best practices for people who are concerned about their heart health, predisposed to heart disease, or who have high Lp(a) are to<span class="discussion-id-920afc21-e2e9-42a0-a30c-10637d6cb4a9 notion-enable-hover" data-sanitized-data-token-index="3" data-token-index="3" data-sanitized-data-mce-fragment="1">:</span>
 
@@ -5630,7 +5639,6 @@ Lp(a) is considered to be solely impacted by genetics, and research trying to e
 <span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">The higher the <span data-sanitized-data-mce-fragment="1">TC:HDL</span> ratio, the greater the risk of cardiovascular events. <span style="text-decoration: underline;"><a href="https://siphoxhealth.com/hub/biomarkers-2/biomarker-total-cholesterol" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://siphoxhealth.com/pages/total-cholesterol" data-sanitized-data-mce-fragment="1">Total cholesterol</a></span><span data-sanitized-data-mce-fragment="1"> </span><span data-sanitized-data-mce-fragment="1">is calculated by adding</span><span data-sanitized-data-mce-fragment="1"> </span><span style="text-decoration: underline;"><a href="https://siphoxhealth.com/hub/biomarkers-2/biomarker-ldl-c" data-sanitized-data-mce-href="https://siphoxhealth.com/pages/ldl" data-sanitized-target="_blank" data-sanitized-data-mce-fragment="1">LDL</a></span>-C<span data-sanitized-data-mce-fragment="1"> </span><span data-sanitized-data-mce-fragment="1">("bad" cholesterol),</span><span data-sanitized-data-mce-fragment="1"> </span><span style="text-decoration: underline;"><a href="https://siphoxhealth.com/hub/biomarkers-2/biomarker-hdl-c" data-sanitized-data-mce-href="https://siphoxhealth.com/pages/hdl" data-sanitized-target="_blank" data-sanitized-data-mce-fragment="1">HDL</a></span>-C<span data-sanitized-data-mce-fragment="1"> </span><span data-sanitized-data-mce-fragment="1">("good" cholesterol), and 20% of</span><span data-sanitized-data-mce-fragment="1"> </span><span style="text-decoration: underline;"><a href="https://siphoxhealth.com/hub/biomarkers-2/biomarker-triglycerides" data-sanitized-data-mce-href="https://siphoxhealth.com/pages/triglycerides" data-sanitized-target="_blank" data-sanitized-data-mce-fragment="1">triglycerides</a></span><span data-sanitized-data-mce-fragment="1">. Even if HDL-C is high individually, you could still be at risk for cardiovascular events if LDL-C is even higher. Thus, the ratio can assess your risk much more accurately.</span> Recent studies have shown that the <span data-sanitized-data-mce-fragment="1">TC:HDL</span> ratio is an important clinical predictor of <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6821014/" data-sanitized-target="_blank">acute myocardial infarction</a></span>, <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1405722/" data-sanitized-target="_blank">coronary heart disease</a></span>, and <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9797665/#:~:text=The%20TC%2FHDL%2DC%20ratio%20remains%20to%20be%20related%20to,2.23%20(8%2C%209)." data-sanitized-target="_blank">cardiovascular morbidity and mortality</a></span>. </span>
 <h3>How can I better understand my Total Cholesterol:HDL ratio?</h3>
 <span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">To better interpret your results, here are some values to refer to:</span>
-<div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true">
 <ul>
  	<li><span style="text-decoration: underline;"><a href="https://www.scivisionpub.com/pdfs/association-of-bmi-and-waist-to-hip-ratio-with-the-ratio-of-ldl-to-hdl-and-total-cholesterol-to-hdl-in-urban-adolescents-without-c-264.pdf" data-sanitized-target="_blank">High risk</a></span>: &gt; 6</li>
@@ -5638,7 +5646,10 @@ Lp(a) is considered to be solely impacted by genetics, and research trying to e
  	<li><a href="https://www.scivisionpub.com/pdfs/association-of-bmi-and-waist-to-hip-ratio-with-the-ratio-of-ldl-to-hdl-and-total-cholesterol-to-hdl-in-urban-adolescents-without-c-264.pdf" data-sanitized-target="_blank"><span style="text-decoration: underline;">Low risk</span></a>: &lt; 4.5</li>
  	<li><a href="https://www.urmc.rochester.edu/encyclopedia/content.aspx?ContentTypeID=167&amp;ContentID=lipid_panel_hdl_ratio#:~:text=In%20general%3A,1%20is%20considered%20very%20good." data-sanitized-target="_blank"><span style="text-decoration: underline;">Very good</span></a>: &lt; 3.5</li>
 </ul>
+<!-- notionvc: 5a74e098-7fd3-49cc-8053-6a1ae0e86df7 -->
+
 </div>
+SiPhox's Total Cholesterol:HDL Ratio ranges are grounded in the <a href="https://www.ajconline.org/article/S0002-9149(05)01825-4/fulltext">Framingham Offspring Study</a>, which found that coronary heart disease risk increased two- to threefold across tertiles of the TC:HDL ratio, independent of total or LDL cholesterol levels.
 <h3>How can I maintain an optimal TC:HDL ratio?</h3>
 For more information on how to improve your TC:HDL ratio, please refer to the <a href="/hub/biomarkers-2/biomarker-total-cholesterol/" data-sanitized-target="_blank"><span style="text-decoration: underline;">Total Cholesterol</span></a> and/or <span style="text-decoration: underline;"><a href="/hub/biomarkers-2/biomarker-hdl-c/">HDL-C</a></span> biomarker pages. Additionally, you may also find the <span style="text-decoration: underline;"><a href="/hub/biomarkers-2/biomarker-ldl-c/">LDL-C</a></span> and <span style="text-decoration: underline;"><a href="/hub/biomarkers-2/biomarker-triglycerides/">Triglycerides</a></span> pages helpful.
 <h3>Where can I learn more?</h3>
@@ -6324,7 +6335,6 @@ In addition to staying healthy and reducing blood pressure and blood sugar throu
 <span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0"><span style="text-decoration: underline;"><a href="https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/cholesterol" data-sanitized-target="_blank">Cholesterol</a> </span>is processed in the liver, but too much (hyperlipidemia) can cause atherosclerosis (plaque buildup within arteries) and eventually lead to cardiovascular events such as heart disease or stroke. On the other hand, the less common but still prevalent <span style="text-decoration: underline;"><a href="https://www.merckmanuals.com/home/hormonal-and-metabolic-disorders/cholesterol-disorders/hypolipidemia#:~:text=Hypolipidemia%20is%20abnormally%20low%20levels,genetic%20abnormalities%20or%20other%20disorders." data-sanitized-target="_blank">hypolipidemia</a> </span>(abnormally low levels of lipids) may indicate the presence of other underlying disorders.</span>
 <h3>How can I better understand my cholesterol levels?</h3>
 <span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">To better understand your test results, here are some values to reference:</span>
-<div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true">
 <ul>
  	<li><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0"><span style="text-decoration: underline;"><a href="https://www.merckmanuals.com/home/hormonal-and-metabolic-disorders/cholesterol-disorders/hypolipidemia" data-sanitized-target="_blank">Very low</a></span>: &lt; 125 mg/dL</span></li>
@@ -6334,6 +6344,8 @@ In addition to staying healthy and reducing blood pressure and blood sugar throu
  	<li><a href="https://my.clevelandclinic.org/health/articles/11920-cholesterol-numbers-what-do-they-mean" data-sanitized-target="_blank"><span style="text-decoration: underline;">Dangerous</span></a>: &gt; 240 mg/dL</li>
 </ul>
 </div>
+<span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">SiPhox's total cholesterol ranges are anchored to the <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://www.nhlbi.nih.gov/files/docs/guidelines/atp3xsum.pdf" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id-930418842">NCEP Adult Treatment Panel III (ATP III) guidelines</span></a>, which classify total cholesterol below 200 mg/dL as desirable. Our "optimal" range narrows in on the upper end of this desirable zone (160–200 mg/dL), <span class="discussion-id-3a592984-f9b8-807f-8a20-001c789b8e0b notion-enable-hover" data-token-index="3">while flagging levels below ~125 mg/dL as only "fair" since unusually low total cholesterol can also signal underlying issues.</span><!-- notionvc: f308aa47-7f74-4efc-a502-5fb1b8d97ad8 --></span>
+
 <span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">If you are concerned with any of your results, it is important to consult with your physician.</span>
 <h3>How can I maintain optimal cholesterol levels?</h3>
 <strong>Dietary Changes: </strong>The <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6776290/#:~:text=Findings%20From%20Randomized%20Clinical%20Trials&amp;text=These%20studies%20showed%20a%2025,reduction%20in%20blood%20cholesterol%20levels." data-sanitized-target="_blank">Mediterranean diet</a></span>, as well as heart-healthy <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7551487/" data-sanitized-target="_blank">plant-based diets</a></span>, have been shown to lower cholesterol and cardiovascular risk. Increasing fruit and vegetable intake as well as consuming more soluble fiber (oats, legumes) can improve cholesterol levels. Additionally, reducing dietary cholesterol and saturated fat can reduce high cholesterol levels.
@@ -6912,6 +6924,7 @@ The ApoB:ApoA1 ratio is highly valuable for detecting atherogenic (plaque-filled
 </tbody>
 </table>
 </div>
+SiPhox's ApoB:ApoA1 Ratio ranges are grounded in the <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://pubmed.ncbi.nlm.nih.gov/18640459/" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id-2013123679">INTERHEART study</span></a>, a 52-country case-control study of over 27,000 people, which found the ApoB:ApoA1 ratio was the single strongest predictor of myocardial infarction risk among nine conventional risk factors, outperforming all cholesterol-based ratios. Our "fair" ceiling of 0.9 reflects the widely cited upper limit of normal, while "optimal" (&lt;0.7) targets a ratio closer to that seen in healthy, low-risk individuals.<!-- notionvc: 2f98ed36-57b5-45b5-bb46-40b0a3a7e164 -->
 <h3>How can I maintain an optimal ApoB:ApoA1 ratio?</h3>
 <span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">If your ApoB:ApoA1 levels are high, you can <span style="text-decoration: underline;"><a href="https://academic.oup.com/nutritionreviews/advance-article-abstract/doi/10.1093/nutrit/nuad102/7249295?redirectedFrom=fulltext" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://academic.oup.com/nutritionreviews/advance-article-abstract/doi/10.1093/nutrit/nuad102/7249295?redirectedFrom=fulltext">try</a></span>:</span>
 
@@ -7409,7 +7422,6 @@ Wearable health trackers like Fitbit, Apple Watch, and Garmin devices provide ad
 <span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Hemoglobin A1C is an important screen for diabetic risk, providing a long-term snapshot of blood glucose concentration in comparison to other tests. Levels that are consistently <span style="text-decoration: underline;"><a href="https://www.abim.org/Media/bfijryql/laboratory-reference-ranges.pdf" data-sanitized-target="_blank">above 5.6%</a></span> may warrant a visit to a physician. Because of its role in diagnosing diabetes, HbA1C is included in <span style="text-decoration: underline;"><a href="https://siphoxhealth.com/" data-sanitized-target="_blank">SiPhox Health</a></span>'s foundation panel.</span>
 <h3>How can I better understand my % HbA1C results?</h3>
 <span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Your A1C results can be interpreted using the following reference ranges, but it is important to consult with your physician if you are concerned with any of your biomarker levels.</span>
-<div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true">
 <ul>
  	<li><span style="text-decoration: underline;"><a href="https://www.nursingcenter.com/ncblog/september-2021/hemoglobin-a1c" rel="noopener noreferrer" data-sanitized-target="_blank">Optimal</a></span>: 4-5%</li>
@@ -7427,6 +7439,8 @@ Ranges specific to the Cardiometabolic Program:
  	<li>Alert: ≥6.5%</li>
 </ul>
 </div>
+SiPhox's % Hemoglobin A1C ranges are grounded in the <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://www.diabetes.org/a1c/diagnosis" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id--42934139">American Diabetes Association's diagnostic criteria</span></a>, which classify A1C below 5.7% as normal and 5.7–6.4% as pre-diabetes. Our "optimal" and "good" ranges target the lower end of this normal zone, supported by <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2890379/" rel="noopener noreferrer" data-token-index="3"><span class="link-annotation-unknown-block-id--2004041017">population studies showing diabetes risk rises even within the "normal" range as A1C approaches 5.7%</span></a>, which is why we flag 5.4–5.7% as only "fair."<!-- notionvc: 472c895c-2076-42ad-b089-357da983620e -->
+
 According to the <span style="text-decoration: underline;"><a href="https://www.niddk.nih.gov/health-information/diagnostic-tests/a1c-test-race-ethnicity" data-sanitized-target="_blank">CDC</a></span>, several factors can provide a false report of your A1C results, including:
 <ul>
  	<li>Kidney failure, liver disease, anemia</li>
@@ -9596,7 +9610,6 @@ For more information on how to improve your TG:HDL-C ratio, please refer to the 
 <span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Abnormally high triglyceride levels increase the risk of atherosclerosis (plaque buildup in arteries), which can lead to <a href="https://my.clevelandclinic.org/health/articles/11117-triglycerides" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://my.clevelandclinic.org/health/articles/11117-triglycerides"><span style="text-decoration: underline;">cardiovascular events</span></a> such as carotid artery disease, heart attack, metabolic syndrome, and stroke. <a href="https://my.clevelandclinic.org/health/articles/11117-triglycerides" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://my.clevelandclinic.org/health/articles/11117-triglycerides"><span style="text-decoration: underline;">High triglycerides</span></a> can be linked to underlying causes such as diabetes, thyroid disease, and certain medications, to name a few. <a href="https://my.clevelandclinic.org/health/articles/11117-triglycerides" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://my.clevelandclinic.org/health/articles/11117-triglycerides"><span style="text-decoration: underline;">Risk factors</span></a> for high triglycerides include family history, menopause, pregnancy, HIV, metabolic disorders, and being of South Asian ancestry. Because of its significance to our health, triglycerides are included in <a href="https://siphoxhealth.com/" rel="noopener noreferrer" data-sanitized-target="_blank"><span style="text-decoration: underline;">SiPhox Health</span></a>'s base panel.</span>
 <h3>How can I better understand my triglyceride levels?</h3>
 <span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">The <a href="https://www.abim.org/Media/bfijryql/laboratory-reference-ranges.pdf" data-sanitized-target="_blank"><span style="text-decoration: underline;">American Board of Internal Medicine</span></a> released reference ranges for fasting triglyceride to assist in interpretation:</span>
-<div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true">
 <ul>
  	<li>Low: 0-100 <span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">mg/dL</span></li>
@@ -9608,6 +9621,8 @@ For more information on how to improve your TG:HDL-C ratio, please refer to the 
 </ul>
 </div>
 <span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">While an optimal level is considered under 100 mg/dL, under 50 mg/dL may indicate <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/medgen/488913" data-sanitized-target="_blank">hypotriglyceridemia</a></span>. If you are concerned with any of your results, please consult with your physician.</span>
+
+SiPhox's triglyceride targets are supported by a <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11050947/" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id--487722508">2024 cohort study of over 19,000 US adults</span></a>, which found that even fasting triglycerides in the "upper normal" range (≥95 mg/dL, still below the standard 150 mg/dL cutoff) were independently associated with increased diabetes mortality risk. This is why our "optimal" and "good" ranges sit well below the traditional 150 mg/dL threshold, with "fair" already flagging levels within the conventionally "normal" range as suboptimal.<!-- notionvc: 66aa9772-020f-43c6-9efd-563353c1f4fb -->
 <h3>How can I maintain optimal triglyceride levels?</h3>
 If you need to maintain or adjust your triglyceride levels, consider the following strategies:
 
@@ -9877,7 +9892,6 @@ If you need to maintain or adjust your insulin levels, consider the <span style=
 <span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">The <a href="https://www.ahajournals.org/doi/10.1161/JAHA.119.012638" data-sanitized-data-mce-href="https://www.ahajournals.org/doi/10.1161/JAHA.119.012638" data-sanitized-target="_blank"><span style="text-decoration: underline;">American Heart Association</span></a> identified that males, older adults, and certain ethnicities among other lifestyle factors are at risk of having higher hs-CRP levels. </span>
 
 <span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">To better interpret your results, the following values can be used to gauge the risk of cardiovascular disease. It is important to note that since hs-CRP is a general marker of inflammation, even a simple illness such as the common cold can increase your levels above 10 mg/L, so it is important to consult with your physician if you are concerned with your levels.</span>
-<div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true">
 <ul>
  	<li><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0"><a href="https://www.ncbi.nlm.nih.gov/books/NBK441843/#:~:text=Interpretation%20of%20CRP%20levels%3A,smoking%2C%20and%20genetic%20polymorphisms)." data-sanitized-target="_blank"><span style="text-decoration: underline;">Healthy</span></a>: </span><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">&lt; 1.0 mg/L</span></li>
@@ -9895,6 +9909,8 @@ Ranges specific to the Cardiometabolic Program:
 </ul>
 </div>
 <span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">Levels up to 1.0 mg/L are considered normal but may indicate minor elevation caused by obesity, pregnancy, depression, sedentary lifestyle, and common illnesses. Moderate elevation can indicate the presence of autoimmune disease or cardiovascular events such as a myocardial infarction. High risk is indicative of an infection or trauma and it is advisable to see a doctor.</span>
+
+SiPhox's High Sensivity CRP ranges are based on the <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://www.ahajournals.org/doi/10.1161/01.cir.0000052939.59093.45" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id-106983957">AHA/CDC joint scientific statement on inflammatory markers and cardiovascular disease</span></a>, which classifies hs-CRP below 1.0 mg/L as low cardiovascular risk, 1.0–3.0 mg/L as average risk, and above 3.0 mg/L as high risk. Our "optimal" range reflects the low-risk category, while "fair" sits within the average-risk band but stops short of the 3.0 mg/L high-risk threshold to flag emerging inflammation even earlier.<!-- notionvc: ea2d92e7-4f9e-41c9-b48d-f5c1ddbd8af5 -->
 <h3>How can I maintain optimal hsCRP levels?</h3>
 <span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">Luckily, some lifestyle interventions can lower hs-CRP levels.</span>
 
@@ -11164,8 +11180,8 @@ Regularly reviewing these key biomarkers, combined with the right testing servic
                             <wp:post_id>3681</wp:post_id>
                             <wp:post_date><![CDATA[2024-12-10 16:28:54]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2024-12-10 16:28:54]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-01-12 21:14:41]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-01-12 21:14:41]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-08-07 20:56:17]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-08-07 20:56:17]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[c-peptide]]></wp:post_name>
@@ -11276,6 +11292,14 @@ UCSF Health – <a href="https://www.ucsfhealth.org/medical-tests/insulin-c-pept
                                     <wp:meta_key><![CDATA[rank_math_analytic_object_id]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[424]]></wp:meta_value>
                                 </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
                                                     </item>
                                                 <item>
                             <title><![CDATA[VLDL-C]]></title>
@@ -11289,8 +11313,8 @@ UCSF Health – <a href="https://www.ucsfhealth.org/medical-tests/insulin-c-pept
                             <wp:post_id>3685</wp:post_id>
                             <wp:post_date><![CDATA[2024-12-10 16:32:27]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2024-12-10 16:32:27]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-01-12 20:44:21]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-01-12 20:44:21]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-08-07 20:03:43]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-08-07 20:03:43]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[vldl]]></wp:post_name>
@@ -11354,7 +11378,6 @@ UCSF Health – <a href="https://www.ucsfhealth.org/medical-tests/insulin-c-pept
 Elevated levels of VLDL cholesterol are linked to an increased risk of cardiovascular diseases. VLDL can contribute to the development of <a href="https://www.nhlbi.nih.gov/health/atherosclerosis">atherosclerosis</a>, a condition characterized by the buildup of fatty deposits in the arteries that can lead to heart attacks and strokes. Measuring VLDL cholesterol levels can be a useful indicator of cardiovascular health.
 <h3>How can I better understand my VLDL-C results?</h3>
 The reference ranges for VLDL-C are generally considered to be as follows:
-<div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true">
 <ul>
  	<li>In range: 0-30 mg/dL</li>
@@ -11362,6 +11385,8 @@ The reference ranges for VLDL-C are generally considered to be as follows:
 </ul>
 </div>
 High VLDL cholesterol can be caused by diet, obesity, and insulin resistance associated with conditions such as metabolic syndrome and diabetes.
+
+SiPhox's VLDL Cholesterol ranges are derived from the <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3941209/" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id--1511374495">Friedewald equation</span></a> (VLDL = Triglycerides ÷ 5), the standard formula labs use to estimate VLDL from a fasting triglyceride level. Since VLDL is directly tied to triglycerides, our "optimal" and “fair” tiers mirror our aggressive triglyceride targets, treating VLDL near the upper end of normal as suboptimal rather than acceptable.<!-- notionvc: b3e46b60-404b-44a7-a668-a2025588295d -->
 <h3>How can I maintain optimal VLDL-C levels?</h3>
 If you need to maintain or adjust your VLDL-C levels, consider the following strategies:
 
@@ -11829,8 +11854,10 @@ If you need to improve your iron levels, consider the following:
 ALP is a useful biomarker for detecting liver disease, bone conditions, and certain metabolic disorders. Elevated ALP levels can indicate liver damage, bile duct obstruction, or increased bone turnover, while low levels may suggest nutritional deficiencies or certain medical conditions. ALP testing is often included in routine liver function tests (LFTs) and can help diagnose various health issues early.
 <h3>How Can I Maintain Optimal ALP Levels?</h3>
 If your ALP levels are high or low, addressing the underlying cause is key.
-<div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true"></div>
+SiPhox's Alkaline Phosphatase (ALP) ranges are supported by a <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585255/" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id--270175456">NHANES study of 34,147 US adults</span></a>, which found higher ALP levels were independently associated with increased all-cause and cardiovascular mortality across the general population. This is why SiPhox's "optimal" range targets the lower-to-mid normal zone rather than treating the entire standard lab range as equally safe.
+
+<!-- notionvc: 4639b4c5-aa25-4c11-bdf4-1bcc0dff5bba -->
 <strong>For Elevated ALP:</strong>
 <ul>
  	<li><strong>Liver-related:</strong> Avoid alcohol, maintain a healthy diet, and monitor liver enzyme levels.</li>
@@ -11862,14 +11889,6 @@ If your ALP levels are high or low, addressing the underlying cause is key.
                                 </wp:postmeta>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[limit_modified_date]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
@@ -13611,8 +13630,8 @@ Your doctor may recommend different types of blood pressure medications based on
                             <wp:post_id>3835</wp:post_id>
                             <wp:post_date><![CDATA[2025-08-11 19:03:14]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2025-08-11 19:03:14]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-01-12 20:47:21]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-01-12 20:47:21]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-08-07 20:17:46]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-08-07 20:17:46]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[ldlapob-ratio]]></wp:post_name>
@@ -13688,6 +13707,8 @@ Understanding your LDL:ApoB ratio helps you and your healthcare provider make mo
 </ul>
 </div>
 It’s important to note that this ratio should be interpreted alongside other cardiovascular risk factors. Even with a favorable ratio, elevated ApoB levels (above 90 mg/dL) still indicate increased cardiovascular risk due to the high number of atherogenic particles present.
+
+<span class="discussion-id-3a692984-f9b8-804e-a344-001c6cdf2efe notion-enable-hover" data-token-index="0">SiPhox's LDL-C:ApoB Ratio ranges are based on a </span><a class="discussion-id-3a692984-f9b8-804e-a344-001c6cdf2efe notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11460969/" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id--1204043945">type 2 diabetes cohort study</span></a><span class="discussion-id-3a692984-f9b8-804e-a344-001c6cdf2efe notion-enable-hover" data-token-index="2"> establishing that a ratio below 1.2 corresponds to an LDL particle diameter of 25.5 nm or smaller, identifying the small, dense LDL phenotype linked to higher cardiovascular risk. Our ranges reward ratios above this cutoff, since a higher LDL-C:ApoB Ratio indicates fewer, larger particles that are less atherogenic per particle.</span><!-- notionvc: bcf0ec23-e6fd-458e-8f65-654172590c01 -->
 <h2>Factors That Influence Your LDL Particle Size</h2>
 <ul>
  	<li><strong>Insulin resistance and metabolic syndrome:</strong> Strongly promote small dense LDL formation.</li>
@@ -13742,8 +13763,8 @@ Understanding your LDL:ApoB ratio provides valuable insights beyond standard cho
                             <wp:post_id>3838</wp:post_id>
                             <wp:post_date><![CDATA[2025-08-11 19:08:58]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2025-08-11 19:08:58]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-01-08 19:39:09]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-01-08 19:39:09]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-08-07 20:01:41]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-08-07 20:01:41]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[ldlhdl-ratio]]></wp:post_name>
@@ -13804,7 +13825,6 @@ Research has consistently shown that the LDL:HDL ratio is a <a href="https://pub
 A <a href="https://www.cdc.gov/cholesterol/about/ldl-and-hdl-cholesterol-and-triglycerides.html">higher ratio</a> indicates that you have more artery-clogging LDL relative to protective HDL, increasing your risk for atherosclerosis, heart attacks, and strokes. Studies have found that individuals with higher LDL:HDL ratios have significantly increased risks of coronary artery disease, with some research showing that each unit increase in the ratio corresponds to approximately a 50% increase in cardiovascular event risk.
 <h2>Optimal Ranges and Risk Categories</h2>
 Understanding where your LDL:HDL ratio falls can help you assess your cardiovascular risk:
-<div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true">
 <ul>
  	<li><strong>Optimal:</strong> Less than 2.0</li>
@@ -13815,6 +13835,8 @@ Understanding where your LDL:HDL ratio falls can help you assess your cardiovasc
 </ul>
 </div>
 These ranges apply to both men and women, though women typically have slightly lower ratios due to naturally higher HDL levels, especially before menopause. Your target ratio may vary based on other risk factors such as diabetes, family history of heart disease, smoking status, and blood pressure levels.
+
+<span class="discussion-id-3a592984-f9b8-8025-a8a3-001c3563fb64 notion-enable-hover" data-token-index="0">SiPhox's LDL:HDL Ratio ranges are supported by a </span><a class="discussion-id-3a592984-f9b8-8025-a8a3-001c3563fb64 notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4772255/" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id--1456755867">1,351-patient coronary angiography study published in BMC Cardiovascular Disorders</span></a><span class="discussion-id-3a592984-f9b8-8025-a8a3-001c3563fb64 notion-enable-hover" data-token-index="2">, which identified an optimal cutoff around 2.5 for predicting coronary atherosclerotic heart disease, with ratios above this threshold associated with significantly greater disease severity.</span><!-- notionvc: a3859bd6-7dc9-4e97-852c-882278a23469 -->
 <h2>How to Improve Your LDL:HDL Ratio</h2>
 Improving your LDL:HDL ratio involves both lowering LDL cholesterol and raising HDL cholesterol. Here are evidence-based strategies to optimize your ratio:
 <ul>
@@ -15253,8 +15275,8 @@ Understanding your Free T3:Free T4 ratio provides a more complete picture of thy
                             <wp:post_id>3871</wp:post_id>
                             <wp:post_date><![CDATA[2025-08-11 19:33:33]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2025-08-11 19:33:33]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2025-08-11 19:33:33]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2025-08-11 19:33:33]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-08-07 17:39:47]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-08-07 17:39:47]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[total-iron-binding-capacity]]></wp:post_name>
@@ -15280,63 +15302,60 @@ Understanding your Free T3:Free T4 ratio provides a more complete picture of thy
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[content_1_copies]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[<h2>What is TIBC?</h2>
-<p>TIBC (Total Iron-Binding Capacity) measures how much iron your blood can carry by testing transferrin levels. It helps diagnose iron deficiency anemia and iron overload conditions.</p>
-
+TIBC (Total Iron-Binding Capacity) measures how much iron your blood can carry by testing transferrin levels. It helps diagnose iron deficiency anemia and iron overload conditions.
 <h2>What is TIBC?</h2>
-<p>TIBC (Total Iron-Binding Capacity) is a blood test that measures the maximum amount of iron your blood can transport. This test specifically evaluates transferrin, the main protein in your blood responsible for binding to iron and carrying it throughout your body. Think of transferrin as a fleet of delivery trucks, and TIBC tells you the total cargo capacity of all those trucks combined.</p>
-<p>When your body needs more iron, it produces more transferrin to increase its iron-carrying capacity. Conversely, when iron levels are sufficient or excessive, transferrin production decreases. This makes TIBC an invaluable tool for understanding your body's iron status and diagnosing various conditions related to iron metabolism.</p>
+TIBC (Total Iron-Binding Capacity) is a blood test that measures the maximum amount of iron your blood can transport. This test specifically evaluates transferrin, the main protein in your blood responsible for binding to iron and carrying it throughout your body. Think of transferrin as a fleet of delivery trucks, and TIBC tells you the total cargo capacity of all those trucks combined.
 
+When your body needs more iron, it produces more transferrin to increase its iron-carrying capacity. Conversely, when iron levels are sufficient or excessive, transferrin production decreases. This makes TIBC an invaluable tool for understanding your body's iron status and diagnosing various conditions related to iron metabolism.
 <h2>Why is TIBC Important?</h2>
-<p>TIBC plays a crucial role in diagnosing and monitoring iron-related disorders. Healthcare providers typically order this test alongside other iron studies, including serum iron, ferritin, and transferrin saturation, to get a complete picture of your iron status. This comprehensive approach helps distinguish between different types of anemia and iron disorders.</p>
-<p>The test is particularly valuable for:</p>
+TIBC plays a crucial role in diagnosing and monitoring iron-related disorders. Healthcare providers typically order this test alongside other iron studies, including serum iron, ferritin, and transferrin saturation, to get a complete picture of your iron status. This comprehensive approach helps distinguish between different types of anemia and iron disorders.
+
+The test is particularly valuable for:
 <ul>
-  <li>Diagnosing iron deficiency anemia before symptoms become severe</li>
-  <li>Detecting iron overload conditions like hemochromatosis</li>
-  <li>Monitoring treatment effectiveness for iron disorders</li>
-  <li>Evaluating unexplained fatigue, weakness, or pale skin</li>
-  <li>Assessing nutritional status in at-risk populations</li>
+ 	<li>Diagnosing iron deficiency anemia before symptoms become severe</li>
+ 	<li>Detecting iron overload conditions like hemochromatosis</li>
+ 	<li>Monitoring treatment effectiveness for iron disorders</li>
+ 	<li>Evaluating unexplained fatigue, weakness, or pale skin</li>
+ 	<li>Assessing nutritional status in at-risk populations</li>
 </ul>
-
 <h2>Understanding Your TIBC Results</h2>
-<p>TIBC values are measured in micrograms per deciliter (mcg/dL). Normal ranges can vary slightly between laboratories, but typical reference ranges are:</p>
-
+TIBC values are measured in micrograms per deciliter (mcg/dL). Normal ranges can vary slightly between laboratories, but typical reference ranges are:
 <div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true">
-  <ul>
-    <li>Normal: 250–450 mcg/dL</li>
-    <li>High: Above 450 mcg/dL</li>
-    <li>Low: Below 250 mcg/dL</li>
-  </ul>
+<ul>
+ 	<li>Normal: 250–450 mcg/dL</li>
+ 	<li>High: Above 450 mcg/dL</li>
+ 	<li>Low: Below 250 mcg/dL</li>
+</ul>
 </div>
+SiPhox's TIBC ranges are supported by a <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://pubmed.ncbi.nlm.nih.gov/19136818/" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id--704557127">hemodialysis cohort study of 807 patients</span></a>, which found mortality risk rose incrementally as TIBC dropped below 200–250 mg/dL. This supports SiPhox's mid-range "optimal”, treating both low and near-upper-limit values as less favorable. <!-- --> <!-- notionvc: feb32e4d-c7a3-4b19-a3f7-e123e2cdb1a6 -->
 
-<p><strong>High TIBC</strong> levels typically indicate iron deficiency anemia. When iron stores are low, your body compensates by producing more transferrin to maximize iron absorption and transport. This increased production results in elevated TIBC values. Other causes include pregnancy, oral contraceptive use, and chronic blood loss.</p>
-<p><strong>Low TIBC</strong> levels often suggest iron overload conditions, such as hemochromatosis, multiple blood transfusions, or excessive iron supplementation. Low TIBC can also indicate liver disease, malnutrition, chronic inflammation, or certain cancers, as these conditions impair transferrin production.</p>
+<strong>High TIBC</strong> levels typically indicate iron deficiency anemia. When iron stores are low, your body compensates by producing more transferrin to maximize iron absorption and transport. This increased production results in elevated TIBC values. Other causes include pregnancy, oral contraceptive use, and chronic blood loss.
 
+<strong>Low TIBC</strong> levels often suggest iron overload conditions, such as hemochromatosis, multiple blood transfusions, or excessive iron supplementation. Low TIBC can also indicate liver disease, malnutrition, chronic inflammation, or certain cancers, as these conditions impair transferrin production.
 <h2>How to Optimize Your Iron Status</h2>
-<p><strong>If your TIBC indicates iron deficiency:</strong></p>
+<strong>If your TIBC indicates iron deficiency:</strong>
 <ul>
-  <li>Increase iron-rich foods: Lean red meat, poultry, fish, beans, lentils, fortified cereals</li>
-  <li>Enhance absorption: Pair with vitamin C-rich foods (citrus fruits, tomatoes, bell peppers)</li>
-  <li>Avoid blockers: Limit tea, coffee, and calcium supplements near meals</li>
-  <li>Consider supplementation: Only under healthcare supervision</li>
-  <li>Address underlying causes: Such as blood loss or absorption issues</li>
+ 	<li>Increase iron-rich foods: Lean red meat, poultry, fish, beans, lentils, fortified cereals</li>
+ 	<li>Enhance absorption: Pair with vitamin C-rich foods (citrus fruits, tomatoes, bell peppers)</li>
+ 	<li>Avoid blockers: Limit tea, coffee, and calcium supplements near meals</li>
+ 	<li>Consider supplementation: Only under healthcare supervision</li>
+ 	<li>Address underlying causes: Such as blood loss or absorption issues</li>
 </ul>
-
-<p><strong>If your TIBC indicates iron overload:</strong></p>
+<strong>If your TIBC indicates iron overload:</strong>
 <ul>
-  <li>Therapeutic phlebotomy: Regular blood removal to reduce iron stores</li>
-  <li>Dietary modifications: Limit iron-rich foods and avoid supplements</li>
-  <li>Avoid vitamin C supplements: They can increase absorption</li>
-  <li>Limit alcohol: Prevents worsening liver damage</li>
-  <li>Regular monitoring: Track levels to prevent complications</li>
+ 	<li>Therapeutic phlebotomy: Regular blood removal to reduce iron stores</li>
+ 	<li>Dietary modifications: Limit iron-rich foods and avoid supplements</li>
+ 	<li>Avoid vitamin C supplements: They can increase absorption</li>
+ 	<li>Limit alcohol: Prevents worsening liver damage</li>
+ 	<li>Regular monitoring: Track levels to prevent complications</li>
 </ul>
-
 <h2>When to Test Your TIBC</h2>
-<p>Your healthcare provider may recommend TIBC testing if you experience symptoms of iron imbalance, such as persistent fatigue, weakness, pale skin, shortness of breath, or frequent infections. Certain populations benefit from regular monitoring, including pregnant women, vegetarians and vegans, frequent blood donors, athletes, and those with chronic absorption issues.</p>
-<p>TIBC is most informative when part of a complete iron panel, which includes serum iron, ferritin, and transferrin saturation. This comprehensive approach gives a full picture of iron metabolism and helps guide treatment for optimal health.</p>
+Your healthcare provider may recommend TIBC testing if you experience symptoms of iron imbalance, such as persistent fatigue, weakness, pale skin, shortness of breath, or frequent infections. Certain populations benefit from regular monitoring, including pregnant women, vegetarians and vegans, frequent blood donors, athletes, and those with chronic absorption issues.
 
-<p><strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong></p>
-]]></wp:meta_value>
+TIBC is most informative when part of a complete iron panel, which includes serum iron, ferritin, and transferrin saturation. This comprehensive approach gives a full picture of iron metabolism and helps guide treatment for optimal health.
+
+<strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong>]]></wp:meta_value>
                                 </wp:postmeta>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_content_1_copies]]></wp:meta_key>
@@ -24077,8 +24096,8 @@ If you need to maintain or adjust your % free testosterone levels, consider the 
                             <wp:post_id>4105</wp:post_id>
                             <wp:post_date><![CDATA[2025-12-09 19:27:07]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2025-12-09 19:27:07]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-01-19 16:29:40]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-01-19 16:29:40]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-08-07 20:43:07]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-08-07 20:43:07]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[biomarkers-estimated-average-glucose]]></wp:post_name>
@@ -24110,10 +24129,9 @@ Tracking your eAG helps you understand your average blood sugar levels over the 
 
 High eAG values indicate chronically elevated blood sugar, which increases the risk of <a href="https://my.clevelandclinic.org/health/diseases/9815-hyperglycemia-high-blood-sugar" target="_blank" rel="noopener"><span style="text-decoration: underline;">diabetes complications</span></a> such as cardiovascular disease, kidney damage (nephropathy), nerve damage (neuropathy), and eye problems (retinopathy). Symptoms of consistently high blood sugar may include increased thirst, frequent urination, fatigue, blurred vision, and slow-healing wounds. Low eAG values in people with diabetes may indicate well-controlled blood sugar, but excessively low values could suggest frequent hypoglycemic episodes, which can be dangerous and may cause confusion, shakiness, sweating, and in severe cases, loss of consciousness. If you are concerned about your eAG levels, it is important to consult with your physician.
 <h2>How can I better understand my Estimated Average Glucose (eAG) levels?</h2>
-<div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true">
 
-According to the <a href="https://diabetes.org/a1c-eag-conversion-calculator" target="_blank" rel="noopener"><span style="text-decoration: underline;">American Diabetes Association</span></a> and <a href="https://medlineplus.gov/ency/patientinstructions/000966.htm" target="_blank" rel="noopener"><span style="text-decoration: underline;">MedlinePlus</span></a>:
+Estimated Average Glucose (eAG) levels can be better understood by comparing your result with the ranges below.
 <ul>
  	<li>Normal (non-diabetic): 70-126 mg/dL (corresponds to A1C of 4-6%)</li>
  	<li>Prediabetes range: 117-137 mg/dL (corresponds to A1C of 5.7-6.4%)</li>
@@ -24130,6 +24148,9 @@ According to the <a href="https://diabetes.org/a1c-eag-conversion-calculator" ta
  	<li>A1C 10%: eAG 240 mg/dL</li>
 </ul>
 </div>
+SiPhox's Estimated Average Glucose (eAG) ranges are derived from the <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://diabetesjournals.org/care/article/31/8/1473/28615/Translating-the-A1C-Assay-Into-Estimated-Average" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id-796382778">ADAG study (Nathan et al., Diabetes Care, 2008)</span></a>, which established the formula converting A1C into eAG and validated it against continuous glucose monitoring data across 507 subjects. Since the ADA defines prediabetes as an A1C of 5.7–6.4%, our "optimal" and "good" ranges correspond to A1C levels comfortably below that threshold, while "fair" approaches it.<!-- notionvc: 81cc0809-366e-4fd5-9352-3723e3ff6905 -->
+<!-- notionvc: 11ce9241-4622-4732-993e-69398195b6b2 -->
+
 It is important to note that your eAG may not match the average of your home glucose meter readings. This is because most people tend to check their blood sugar before meals or when they feel low, which does not capture post-meal spikes or overnight glucose levels. eAG provides a more complete picture of your 24-hour glucose exposure.
 
 Certain conditions and medications can affect the accuracy of eAG calculations, including anemia, kidney disease, sickle cell disease, thalassemia, and recent blood transfusions. If you have any of these conditions, discuss with your healthcare provider how to best interpret your results.
@@ -32956,8 +32977,8 @@ To learn more about these biomarkers including why they are important, whether t
                                                         		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="female-fertility"><![CDATA[female fertility]]></category>
 		<category domain="post_tag" nicename="fertility"><![CDATA[fertility]]></category>
-		<category domain="post_tag" nicename="fsh"><![CDATA[FSH]]></category>
 		<category domain="category" nicename="fsh"><![CDATA[FSH]]></category>
+		<category domain="post_tag" nicename="fsh"><![CDATA[FSH]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
 		<category domain="post_tag" nicename="womens-health"><![CDATA[womens health]]></category>
                                                             <wp:postmeta>
@@ -33285,8 +33306,8 @@ At SiPhox Health, we firmly believe in the power of understanding your body thro
 		<category domain="post_tag" nicename="diabetes"><![CDATA[diabetes]]></category>
 		<category domain="post_tag" nicename="glucose"><![CDATA[glucose]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
-		<category domain="category" nicename="hba1c"><![CDATA[HbA1C]]></category>
 		<category domain="post_tag" nicename="hba1c"><![CDATA[HbA1c]]></category>
+		<category domain="category" nicename="hba1c"><![CDATA[HbA1C]]></category>
 		<category domain="post_tag" nicename="hemoglobin-a1c"><![CDATA[Hemoglobin A1C]]></category>
 		<category domain="post_tag" nicename="insulin"><![CDATA[insulin]]></category>
 		<category domain="post_tag" nicename="metabolism"><![CDATA[metabolism]]></category>
