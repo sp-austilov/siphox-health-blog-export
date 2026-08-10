@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/7.0.3" created="2026-08-10 15:09" -->
+    <!-- generator="WordPress/7.0.3" created="2026-08-10 15:46" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Mon, 10 Aug 2026 15:09:06 +0000</pubDate>
+            <pubDate>Mon, 10 Aug 2026 15:46:50 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -3130,8 +3130,8 @@ If zinc levels are too low, it can lead to a variety of health issues, including
                                                         		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="post_tag" nicename="at-home"><![CDATA[at-home]]></category>
 		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
-		<category domain="post_tag" nicename="biomarkers"><![CDATA[biomarkers]]></category>
 		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
+		<category domain="post_tag" nicename="biomarkers"><![CDATA[biomarkers]]></category>
 		<category domain="post_tag" nicename="blood"><![CDATA[blood]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -3364,6 +3364,7 @@ Ranges specific to the Cardiometabolic Program:
 <h3 data-sanitized-data-mce-fragment="1">How can I better understand my fasting glucose levels?</h3>
 <p data-sanitized-data-mce-fragment="1">Fasting glucose is typically measured after an overnight fast of at least 8 hours. Here are the <span style="text-decoration: underline;"><a href="https://diabetes.org/about-diabetes/diagnosis" rel="noopener noreferrer" data-sanitized-target="_blank">g</a><a href="https://diabetes.org/about-diabetes/diagnosis" rel="noopener noreferrer" data-sanitized-target="_blank">eneral ranges</a></span> for fasting glucose levels:</p>
 
+<div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true">
 <ul data-sanitized-data-mce-fragment="1">
  	<li data-sanitized-data-mce-fragment="1"><span style="text-decoration: underline;">Normal</span>: &lt;100 mg/dL</li>
@@ -4774,6 +4775,7 @@ Albumin testing can provide the following information:
 </ol>
 <h3>How can I better understand my albumin results?</h3>
 Here is the general range for interpreting albumin results:
+<div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true">
 <ul>
  	<li><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0"><a href="https://www.abim.org/Media/bfijryql/laboratory-reference-ranges.pdf" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.abim.org/Media/bfijryql/laboratory-reference-ranges.pdf"><span style="text-decoration: underline;">Normal range</span></a>: 3.5 - 5.5 g/dL</span>
@@ -4783,7 +4785,7 @@ Here is the general range for interpreting albumin results:
 </li>
 </ul>
 </div>
-SiPhox's Albumin ranges are supported by a cohort study of over 77,000 community-dwelling older adults, which found that albumin levels ≥4.4 g/dL were associated with the best survival, while mortality risk rose progressively as albumin declined, with even mildly low levels (4.2–4.3 g/dL) showing increased risk. This supports SiPhox's "optimal" threshold, since mortality risk climbs measurably even within what labs consider the "normal" 3.5–5.2 g/dL range.
+SiPhox's Albumin ranges are supported by <a href="https://www.sciencedirect.com/science/article/abs/pii/S0091743518301269">a cohort study of over 77,000 community-dwelling older adults</a>, which found that albumin levels ≥4.4 g/dL were associated with the best survival, while mortality risk rose progressively as albumin declined, with even mildly low levels (4.2–4.3 g/dL) showing increased risk. This supports SiPhox's "optimal" threshold, since mortality risk climbs measurably even within what labs consider the "normal" 3.5–5.2 g/dL range.
 
 <span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">Low levels can be a sign of malnutrition, due to a lack of protein and calories. Lack of albumin may also be caused by burns or infections. In some cases, it is the cause of pre-existing health conditions, but it could also be a sign of a more serious health issue. For information about these, talk to your doctor about your albumin levels. </span>
 
@@ -5381,14 +5383,6 @@ If you need to maintain or adjust your ApoA1 levels, consider the <span style="t
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_content_1_copies]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -6789,6 +6783,8 @@ Cortisol is a hormone synthesized and secreted by the adrenal glands of the kidn
 </ul>
 </div>
 <span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">While levels in the lower range are better for inflammation, morning cortisol levels under <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/books/NBK441994/#:~:text=A%20single%20serum%20cortisol%20level,sufficient%20to%20diagnose%20adrenal%20insufficiency." rel="noopener noreferrer" data-sanitized-target="_blank">3 ug/dL</a></span> may indicate adrenal insufficiency. </span>Cortisol levels consistently above the normal range may indicate Cushing’s syndrome, which can sometimes be associated with tumors. Keep in mind that certain medications can alter cortisol production, so it is important to talk to your doctor if you are concerned about your levels.
+
+SiPhox's Morning Cortisol ranges align with the <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://academic.oup.com/jcem/article/93/5/1526/2598096" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id--752947018">Endocrine Society's Clinical Practice Guideline on Cushing's Syndrome</span></a>, which describes normal morning cortisol peaking around 7-9am before declining through the day, with sustained elevations or blunted peaks signaling adrenal dysfunction. Our "optimal" range targets a robust mid-normal peak, while "fair" flags both low and high readings<span class="discussion-id-3a692984-f9b8-80d8-b080-001c922eb22d notion-enable-hover" data-token-index="3">.</span> <!-- notionvc: 407516a9-fc12-402b-a261-d431518ec909 -->
 <h3>How does a 4-Point Saliva test differ?</h3>
 <p data-start="2169" data-end="2708">The four-point cortisol test involves collecting saliva at four different times of day, typically morning, noon, evening, and night. Although some variation is expected, unusually high or low results at these specific times may suggest an adrenal gland disorder or an abnormal cortisol rhythm. Because saliva is convenient to collect, the 4-point salivary cortisol test can be especially useful for repeat testing throughout the day when evaluating potential abnormalities or underlying conditions.</p>
 <p data-start="2710" data-end="2956">Ultimately, the main difference between the saliva and blood tests is that the four-point saliva test is more diagnostic in nature, especially for conditions that affect cortisol rhythm, while the blood test is more suited for general monitoring.</p>
@@ -7439,6 +7435,7 @@ Wearable health trackers like Fitbit, Apple Watch, and Garmin devices provide ad
 <span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Hemoglobin A1C is an important screen for diabetic risk, providing a long-term snapshot of blood glucose concentration in comparison to other tests. Levels that are consistently <span style="text-decoration: underline;"><a href="https://www.abim.org/Media/bfijryql/laboratory-reference-ranges.pdf" data-sanitized-target="_blank">above 5.6%</a></span> may warrant a visit to a physician. Because of its role in diagnosing diabetes, HbA1C is included in <span style="text-decoration: underline;"><a href="https://siphoxhealth.com/" data-sanitized-target="_blank">SiPhox Health</a></span>'s foundation panel.</span>
 <h3>How can I better understand my % HbA1C results?</h3>
 <span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Your A1C results can be interpreted using the following reference ranges, but it is important to consult with your physician if you are concerned with any of your biomarker levels.</span>
+<div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true">
 <ul>
  	<li><span style="text-decoration: underline;"><a href="https://www.nursingcenter.com/ncblog/september-2021/hemoglobin-a1c" rel="noopener noreferrer" data-sanitized-target="_blank">Optimal</a></span>: 4-5%</li>
@@ -9504,7 +9501,9 @@ Ranges specific to the Cardiometabolic Program:
  	<li>Pay attention: &gt;2.50</li>
  	<li>Alert: &gt;5</li>
 </ul>
+
 </div>
+SiPhox's Triglycerides:HDL Ratio ranges build on <a href="https://www.jlr.org/article/S0022-2275(20)35305-0/fulltext">McLaughlin et al.'s foundational 2003 study</a>, which established the TG:HDL-C ratio as a simple surrogate marker for insulin resistance, with ratios exceeding roughly 3.5 (male) or 2.5 (female) linked to significantly worse cardiometabolic risk profiles. Our "optimal" cutoff targets well below this risk threshold, reflecting the low ratios typically seen in metabolically healthy individuals, while "fair" already flags early insulin resistance risk.
 <h3>How can I maintain an optimal TG:HDL-C ratio?</h3>
 For more information on how to improve your TG:HDL-C ratio, please refer to the <a href="/hub/biomarkers-2/biomarker-triglycerides/" data-sanitized-data-mce-href="https://siphoxhealth.com/pages/triglycerides" data-sanitized-target="_blank"><span style="text-decoration: underline;">triglyceride</span></a> and/or <span style="text-decoration: underline;"><a href="/hub/biomarkers-2/biomarker-hdl-c/" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://siphoxhealth.com/pages/hdl">HDL-C</a></span> biomarker pages.
 <h3><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Where can I learn more?</span></h3>
@@ -9525,6 +9524,14 @@ For more information on how to improve your TG:HDL-C ratio, please refer to the 
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_content_1_copies]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -9911,6 +9918,8 @@ If you need to maintain or adjust your insulin levels, consider the <span style=
 <span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">The <a href="https://www.ahajournals.org/doi/10.1161/JAHA.119.012638" data-sanitized-data-mce-href="https://www.ahajournals.org/doi/10.1161/JAHA.119.012638" data-sanitized-target="_blank"><span style="text-decoration: underline;">American Heart Association</span></a> identified that males, older adults, and certain ethnicities among other lifestyle factors are at risk of having higher hs-CRP levels. </span>
 
 <span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">To better interpret your results, the following values can be used to gauge the risk of cardiovascular disease. It is important to note that since hs-CRP is a general marker of inflammation, even a simple illness such as the common cold can increase your levels above 10 mg/L, so it is important to consult with your physician if you are concerned with your levels.</span>
+<div data-dynamic-ranges="true" data-test="1"></div>
+
 <div data-ranges="true">
 <ul>
  	<li><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0"><a href="https://www.ncbi.nlm.nih.gov/books/NBK441843/#:~:text=Interpretation%20of%20CRP%20levels%3A,smoking%2C%20and%20genetic%20polymorphisms)." data-sanitized-target="_blank"><span style="text-decoration: underline;">Healthy</span></a>: </span><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">&lt; 1.0 mg/L</span></li>
@@ -11199,8 +11208,8 @@ Regularly reviewing these key biomarkers, combined with the right testing servic
                             <wp:post_id>3681</wp:post_id>
                             <wp:post_date><![CDATA[2024-12-10 16:28:54]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2024-12-10 16:28:54]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-08-07 20:56:18]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-08-07 20:56:18]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-08-10 15:40:54]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-08-10 15:40:54]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[c-peptide]]></wp:post_name>
@@ -11263,6 +11272,8 @@ Regularly reviewing these key biomarkers, combined with the right testing servic
 C-peptide levels help doctors understand how well your pancreas is working, especially in terms of making insulin. For people with <a href="https://diabetes.org/about-diabetes/type-1">type 1 diabetes</a>, low or no C-peptide usually means the body isn’t making much, if any, insulin. In <a href="https://diabetes.org/about-diabetes/type-2">type 2 diabetes</a>, higher C-peptide levels can show that the body is making insulin, but it might not be using it effectively (a condition called insulin resistance). Measuring C-peptide can help identify the type of diabetes, check remaining insulin-producing cells, and guide insulin treatment decisions.
 <h3>How can I better understand my C-Peptide levels?</h3>
 According to the NIH, the <a href="https://pubmed.ncbi.nlm.nih.gov/36168365/">normal reference interval for fasting patients</a> are as follows:
+<div data-dynamic-ranges="true" data-test="1"></div>
+
 <div data-ranges="true">
 <ul>
  	<li>Out of range: 0-1.1 ng/mL</li>
@@ -24114,8 +24125,8 @@ If you need to maintain or adjust your % free testosterone levels, consider the 
                             <wp:post_id>4105</wp:post_id>
                             <wp:post_date><![CDATA[2025-12-09 19:27:07]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2025-12-09 19:27:07]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-08-07 20:43:07]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-08-07 20:43:07]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-08-10 15:32:24]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-08-10 15:32:24]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[biomarkers-estimated-average-glucose]]></wp:post_name>
@@ -24151,6 +24162,9 @@ High eAG values indicate chronically elevated blood sugar, which increases the r
 
 Estimated Average Glucose (eAG) levels can be better understood by comparing your result with the ranges below.
 <ul>
+<div data-dynamic-ranges="true" data-test="1"></div>
+
+<div data-ranges="true">
  	<li>Normal (non-diabetic): 70-126 mg/dL (corresponds to A1C of 4-6%)</li>
  	<li>Prediabetes range: 117-137 mg/dL (corresponds to A1C of 5.7-6.4%)</li>
  	<li>Diabetes target for most adults: &lt;154 mg/dL (corresponds to A1C &lt;7%)</li>
@@ -32995,8 +33009,8 @@ To learn more about these biomarkers including why they are important, whether t
                                                         		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="female-fertility"><![CDATA[female fertility]]></category>
 		<category domain="post_tag" nicename="fertility"><![CDATA[fertility]]></category>
-		<category domain="post_tag" nicename="fsh"><![CDATA[FSH]]></category>
 		<category domain="category" nicename="fsh"><![CDATA[FSH]]></category>
+		<category domain="post_tag" nicename="fsh"><![CDATA[FSH]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
 		<category domain="post_tag" nicename="womens-health"><![CDATA[womens health]]></category>
                                                             <wp:postmeta>
