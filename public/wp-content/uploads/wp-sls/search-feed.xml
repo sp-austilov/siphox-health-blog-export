@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/7.0.3" created="2026-08-10 15:46" -->
+    <!-- generator="WordPress/7.0.3" created="2026-08-10 16:46" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Mon, 10 Aug 2026 15:46:50 +0000</pubDate>
+            <pubDate>Mon, 10 Aug 2026 16:46:45 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -1923,8 +1923,8 @@ Variability in lab results is a known entity, yet it doesn’t detract from the 
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
-                                                        		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
-		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
+                                                        		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
+		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -2130,8 +2130,8 @@ Cardiovascular health is no joke. Several studies mentioned earlier in this guid
                                                         		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
 		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
-		<category domain="category" nicename="cortisol"><![CDATA[Cortisol]]></category>
 		<category domain="post_tag" nicename="cortisol"><![CDATA[cortisol]]></category>
+		<category domain="category" nicename="cortisol"><![CDATA[Cortisol]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
 		<category domain="post_tag" nicename="health"><![CDATA[health]]></category>
 		<category domain="post_tag" nicename="hormones"><![CDATA[hormones]]></category>
@@ -3130,8 +3130,8 @@ If zinc levels are too low, it can lead to a variety of health issues, including
                                                         		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="post_tag" nicename="at-home"><![CDATA[at-home]]></category>
 		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
-		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="biomarkers"><![CDATA[biomarkers]]></category>
+		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood"><![CDATA[blood]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -3521,6 +3521,8 @@ Ranges specific to the Cardiometabolic Program:
  	<li>Alert: &gt;15 umol/L</li>
 </ul>
 </div>
+SiPhox's homocysteine ranges reflect the <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7447408/" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id-1027949117">Homocysteine Studies Collaboration meta-analysis of over 30 prospective studies</span></a> and related cohort data showing cardiovascular and mortality risk rises continuously well below the conventional 15 µmol/L "elevated" threshold, with levels ≥10 <span class="discussion-id-3a692984-f9b8-80c0-8955-001cfa3318d1 notion-enable-hover" data-token-index="3">µmol/L already linked to significantly higher stroke and all-cause mortality risk.</span><!-- notionvc: 7bf8d3f8-2e1f-4e45-9e1c-16561fd06045 -->
+
 High levels of homocysteine may be caused by low levels of B vitamins and/or folate, aging, excessive alcohol use, smoking, thyroid or kidney diseases, medications, or genetic diseases. <span data-sanitized-data-mce-fragment="1">It is important to consult with your physician if you are concerned about any of your results.</span>
 <h3>How can I maintain optimal homocysteine levels?</h3>
 <span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">If you have elevated homocysteine levels, you can try:</span>
@@ -4646,6 +4648,8 @@ If you need to maintain or adjust your progesterone levels consider the followin
  	<li data-sanitized-data-mce-fragment="1"><span style="text-decoration: underline;"><a href="https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=167&amp;contentid=total_bilirubin_blood#:~:text=Bilirubin%20results%20depend%20on%20your,mg%2FdL%20may%20cause%20problems.">Critically high serum</a></span> total bilirubin: &gt;2.5 mg/dL</li>
 </ul>
 </div>
+<p data-sanitized-data-mce-fragment="1"><span class="discussion-id-3ab92984-f9b8-8042-ae0a-001cc738262c discussion-level-1 discussion-id-3ab92984-f9b8-8042-ae0a-001cc738262c discussion-id-3b492984-f9b8-808b-9769-001c396f4498 notion-enable-hover" data-token-index="0">SiPhox's Direct Bilirubin range reflects </span><a class="discussion-id-3ab92984-f9b8-8042-ae0a-001cc738262c discussion-level-1 discussion-id-3ab92984-f9b8-8042-ae0a-001cc738262c discussion-id-3b492984-f9b8-808b-9769-001c396f4498 notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://www.ncbi.nlm.nih.gov/books/NBK562172/" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id-432217807">StatPearls' clinical review of conjugated hyperbilirubinemia</span></a><span class="discussion-id-3ab92984-f9b8-8042-ae0a-001cc738262c discussion-level-1 discussion-id-3ab92984-f9b8-8042-ae0a-001cc738262c discussion-id-3b492984-f9b8-808b-9769-001c396f4498 notion-enable-hover" data-token-index="2">. Since direct bilirubin elevation signals bile flow problems rather than any protective effect, SiPhox's "optimal" targets the lowest end of the standard reference range rather than a mid-range target.</span><!-- notionvc: bded33f8-d9e8-4805-8b5f-934543b64b82 --></p>
+<p data-sanitized-data-mce-fragment="1"><span class="discussion-id-3ab92984-f9b8-8016-9d6c-001c0de1972a discussion-level-1 discussion-id-3ab92984-f9b8-8016-9d6c-001c0de1972a discussion-id-3b492984-f9b8-808b-9769-001c396f4498 notion-enable-hover" data-token-index="0">SiPhox's Total bilirubin range is supported by </span><a class="discussion-id-3ab92984-f9b8-8016-9d6c-001c0de1972a discussion-level-1 discussion-id-3ab92984-f9b8-8016-9d6c-001c0de1972a discussion-id-3b492984-f9b8-808b-9769-001c396f4498 notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://pubmed.ncbi.nlm.nih.gov/25573853/" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id--1526521180">Kunutsor et al.'s prospective cohort study in Arteriosclerosis, Thrombosis, and Vascular Biology</span></a><span class="discussion-id-3ab92984-f9b8-8016-9d6c-001c0de1972a discussion-level-1 discussion-id-3ab92984-f9b8-8016-9d6c-001c0de1972a discussion-id-3b492984-f9b8-808b-9769-001c396f4498 notion-enable-hover" data-token-index="2">. SiPhox's "optimal" range sits in the mid-to-upper normal zone rather than favoring the lowest bilirubin levels, which population studies link to worse cardiometabolic outcomes.</span><!-- notionvc: 134546f0-2799-44dd-89be-4c2042442536 --></p>
 <p data-sanitized-data-mce-fragment="1"><span style="text-decoration: underline;"><a href="https://my.clevelandclinic.org/health/diagnostics/17845-bilirubin">When interpreting bilirubin results</a></span>, higher than normal levels may indicate liver dysfunction, bile duct obstruction, hemolytic anemia, or other underlying health conditions. Elevated bilirubin levels, however, may be benign (harmless). According to a <span style="text-decoration: underline;"><a href="https://www.youtube.com/watch?v=RDHRklG7kdM" rel="noopener noreferrer" data-sanitized-target="_blank">YouTube video by Dr. S. Miles</a></span>, about 10% of the population may have <a href="https://www.mayoclinic.org/diseases-conditions/gilberts-syndrome/symptoms-causes/syc-20372811" rel="noopener noreferrer" data-sanitized-target="_blank"><span style="text-decoration: underline;">Gilbert's syndrome</span></a> which is a benign elevation in bilirubin. Some studies even indicate that elevated bilirubin may have <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8751875/#:~:text=Bilirubin%20is%20an%20endogenous%20antioxidant,11%20in%20the%20general%20population." rel="noopener noreferrer" data-sanitized-target="_blank">cardioprotective effects</a></span> which could be due to its anti-oxidative properties.</p>
 Lower than normal bilirubin levels are less common but may suggest certain medications, genetic disorders, or conditions affecting red blood cell production. Additional testing may be required to confirm the diagnosis. <a href="https://my.clevelandclinic.org/health/diagnostics/17845-bilirubin" rel="noopener noreferrer" data-sanitized-target="_blank"><span style="text-decoration: underline;">Cleveland Clinic</span></a> states that low levels of bilirubin generally aren't a cause for concern.
 <h3>How can I maintain optimal bilirubin levels?</h3>
@@ -4926,6 +4930,7 @@ BUN levels are typically reported in milligrams per deciliter (mg/dL) of blood. 
  	<li>Adult females: 6-21 mg/dL</li>
 </ul>
 </div>
+SiPhox's Blood Urea Nitrogen (BUN) ranges are supported by a <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9865447/" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id--470935008">NHANES prospective cohort study of 17,719 US adults</span></a> followed for over 11 years, which found that participants with higher BUN levels had significantly greater cardiovascular and all-cause mortality risk compared to those in the lowest quartile. This is why SiPhox's "optimal" range targets the lower-to-mid normal zone, while "fair" flags levels approaching where risk has been shown to climb.<!-- notionvc: 140a0206-2471-4d60-8092-5e0c74a68fa5 -->
 <h3>How can I maintain optimal BUN levels?</h3>
 While specific interventions may vary depending on the underlying cause of abnormal BUN levels, general strategies for maintaining kidney health include:
 
@@ -5804,6 +5809,7 @@ Ranges specific to the Cardiometabolic Program:
  	<li>Alert: &gt;80 U/L</li>
 </ul>
 </div>
+<p data-sanitized-data-mce-fragment="1">SiPhox's Alanine Aminotransferase (ALT) ranges reflect <a href="https://pubmed.ncbi.nlm.nih.gov/12093239/">Prati et al.'s study of 6,835 blood donors</a>, which found the true healthy ALT upper limit, after excluding undiagnosed liver risk factors like obesity, was 30 U/L in men and 19 U/L in women, well below standard lab cutoffs of 40-55 U/L. This is why SiPhox's "optimal" sits below conventional limits, flagging 35-45 U/L as only "fair" despite being "normal" by standard labs.</p>
 <p data-sanitized-data-mce-fragment="1">It's important to understand that these "normal" ranges are based on average values from a specific population, and it is hard to know the general health of this population that was used to come up with the “normal” range. Factors such as age, gender, race, and even muscle mass can influence ALT levels. Therefore, the population used to develop these ranges might not align with your specific health profile or goals. In general, lower is typically better.</p>
 <p data-sanitized-data-mce-fragment="1">For instance, slightly elevated ALT levels could be considered normal for some individuals, depending on various health and lifestyle factors. Conversely, a result within the "normal" range doesn't always guarantee a perfectly healthy liver. It's also important to consider other liver enzyme tests, like AST, and the overall clinical context.</p>
 
@@ -6087,6 +6093,8 @@ Ranges specific to the Cardiometabolic Program:
  	<li>Alert: &lt;60 mL/min/1.73 m²</li>
 </ul>
 </div>
+SiPhox's eGFR ranges are grounded in the <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://pubmed.ncbi.nlm.nih.gov/20483451/" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id-1785335277">Lancet meta-analysis by the CKD Prognosis Consortium</span></a>, which pooled general population cohorts and found mortality risk was flat between roughly 75–105 mL/min/1.73m² but climbed steadily below that range. This is why SiPhox's "optimal" sits at the top of this risk-neutral zone, while "fair" marks the point where mortality risk begins to rise.<!-- notionvc: 9ea9933a-d8aa-4afd-aca1-e6f4693c5b2c -->
+
 It's important to note that eGFR is an estimate of kidney function and must be interpreted within the context of other clinical findings and patient factors. For example, a mildly decreased eGFR in an elderly individual without any other signs of kidney disease may be considered normal aging. Conversely, even a slight decrease in eGFR in a young adult may warrant further investigation. <a href="https://www.kidneyfund.org/all-about-kidneys/tests/blood-test-egfr#what-does-my-egfr-mean" data-sanitized-data-mce-href="https://www.kidneyfund.org/all-about-kidneys/tests/blood-test-egfr#what-does-my-egfr-mean"><span style="text-decoration: underline;">American Kidney Fund</span></a> recommends discussing your eGFR results with your doctor, and doing so immediately if your levels are 60 or less is very important.
 <h3>How can I maintain optimal eGFR levels?</h3>
 While improving renal function is not easy, it is possible. A <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3862566/" data-sanitized-target="_blank"><span style="text-decoration: underline;">study from 2013</span></a> found that it is possible to improve renal function at any stage of CKD!
@@ -6216,7 +6224,7 @@ In addition to staying healthy and reducing blood pressure and blood sugar throu
  	<li data-sanitized-data-mce-fragment="1"><strong data-sanitized-data-mce-fragment="1">Guiding Treatment</strong>: In certain medical conditions, such as chronic kidney disease (CKD), accurate measurement of creatinine levels is essential for making informed decisions about treatment and management, including the need for dialysis.</li>
 </ul>
 <h3 data-sanitized-data-mce-fragment="1">How can I better understand my creatinine levels?</h3>
-<p data-sanitized-data-mce-fragment="1">Creatinine is measured in milligrams per deciliter (mg/dL) in blood and milligrams per 24 hours (mg/24 h) in urine. The normal range for blood creatinine levels varies depending on age, gender, and muscle mass, and different labs have different reference ranges. According to the <span style="text-decoration: underline;"><a href="https://www.abim.org/Media/bfijryql/laboratory-reference-ranges.pdf" rel="noopener noreferrer" data-sanitized-target="_blank">American Board of Internal Medicine</a></span>, serum creatinine levels are:</p>
+<p data-sanitized-data-mce-fragment="1">Creatinine is measured in milligrams per deciliter (mg/dL) in blood and milligrams per 24 hours (mg/24 h) in urine. The normal range for blood creatinine levels varies depending on age, gender, and muscle mass, and different labs have different reference ranges. Creatinine levels can be better understood by comparing your result with the ranges below.</p>
 
 <div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true">
@@ -6225,6 +6233,7 @@ In addition to staying healthy and reducing blood pressure and blood sugar throu
  	<li data-sanitized-data-mce-fragment="1"><strong data-sanitized-data-mce-fragment="1">Adult females</strong>: Approximately 0.50 to 1.10 mg/dL</li>
 </ul>
 </div>
+<p data-sanitized-data-mce-fragment="1">SiPhox's creatinine ranges align with the <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://www.kidney-international.org/article/S0085-2538(23)00766-4/fulltext" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id--1623211167">2024 KDIGO Clinical Practice Guideline for CKD</span></a>, a global consensus meta-analysis of over 720,000 people, which found kidney-related complication risk rises incrementally as creatinine-based eGFR declines outside normal bounds. Since creatinine can vary with muscle mass, SiPhox's "optimal" range targets the stable mid-normal zone, while "fair" approaches levels where eGFR-based risk stratification becomes more relevant.<!-- notionvc: ee4e72cf-73b4-4be1-b885-2c1d8f7099ae --></p>
 <p data-sanitized-data-mce-fragment="1">Higher muscle mass might result in higher creatinine levels; thus, levels can vary widely among individuals. It's crucial to interpret these levels within the context of <a href="https://www.kidney.org/kidney-topics/estimated-glomerular-filtration-rate-egfr" rel="noopener noreferrer" data-sanitized-target="_blank">eGFR</a> estimated glomerular filtration rate) and other kidney function tests for a comprehensive assessment of renal health.</p>
 
 <h3 data-sanitized-data-mce-fragment="1">How can I maintain optimal creatinine levels?</h3>
@@ -6486,6 +6495,7 @@ In addition to staying healthy and reducing blood pressure and blood sugar throu
 
 <h3 data-sanitized-data-mce-fragment="1">How can I better understand my AST results?</h3>
 <p data-sanitized-data-mce-fragment="1">AST test results are typically expressed in units per liter (U/L), similar to ALT. The "normal reference" ranges can vary by laboratory but are generally in the range of:</p>
+
 <div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true">
 <ul data-sanitized-data-mce-fragment="1">
@@ -6496,6 +6506,7 @@ In addition to staying healthy and reducing blood pressure and blood sugar throu
 </li>
 </ul>
 </div>
+<p data-sanitized-data-mce-fragment="1"><span class="discussion-id-3b492984-f9b8-8039-9247-001c943e1a33 notion-enable-hover" data-token-index="0">SiPhox's Aspartate Aminotransferase (AST) ranges are</span><span class="discussion-id-3ab92984-f9b8-8012-9ed7-001ce3bf30ee discussion-id-3b492984-f9b8-8039-9247-001c943e1a33 notion-enable-hover" data-token-index="1"> supported by a </span><a class="discussion-id-3ab92984-f9b8-8012-9ed7-001ce3bf30ee discussion-id-3b492984-f9b8-8039-9247-001c943e1a33 notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://journals.lww.com/hep/abstract/10.1002/hep.22090" rel="noopener noreferrer" data-token-index="2"><span class="link-annotation-unknown-block-id-1948968015">community-based mortality study of 18,401 residents</span></a><span class="discussion-id-3ab92984-f9b8-8012-9ed7-001ce3bf30ee discussion-id-3b492984-f9b8-8039-9247-001c943e1a33 notion-enable-hover" data-token-index="3">, which fou</span><span class="discussion-id-3b492984-f9b8-8039-9247-001c943e1a33 notion-enable-hover" data-token-index="4">nd that elevated AST predicted higher future mortality risk, while AST within the lower-normal range was associated with lower-than-expected death rates. This is why SiPhox's "optimal" range targets the lower-to-mid portion of the standard lab range, rather than treating the full 5-34 U/L span as equally healthy.</span><!-- notionvc: 3f53bc7a-ed05-4e2a-9b8a-f89251f51bb3 --></p>
 <p data-sanitized-data-mce-fragment="1">It's important to understand that these "normal" ranges are based on average values from a specific population, and it is hard to know the general health of this population that was used to come up with the “normal” range. Factors such as age, gender, race, and even muscle mass can influence AST levels. Therefore, the population used to develop these ranges might not align with your specific health profile or goals. In general, lower is typically better.</p>
 <p data-sanitized-data-mce-fragment="1">For instance, slightly elevated AST levels could be considered normal for some individuals, depending on various health and lifestyle factors. Conversely, a result within the "normal" range doesn't always guarantee a perfectly healthy liver. It's also important to consider other liver enzyme tests, like ALT (Aspartate Aminotransferase), and the overall clinical context.</p>
 
@@ -9501,7 +9512,6 @@ Ranges specific to the Cardiometabolic Program:
  	<li>Pay attention: &gt;2.50</li>
  	<li>Alert: &gt;5</li>
 </ul>
-
 </div>
 SiPhox's Triglycerides:HDL Ratio ranges build on <a href="https://www.jlr.org/article/S0022-2275(20)35305-0/fulltext">McLaughlin et al.'s foundational 2003 study</a>, which established the TG:HDL-C ratio as a simple surrogate marker for insulin resistance, with ratios exceeding roughly 3.5 (male) or 2.5 (female) linked to significantly worse cardiometabolic risk profiles. Our "optimal" cutoff targets well below this risk threshold, reflecting the low ratios typically seen in metabolically healthy individuals, while "fair" already flags early insulin resistance risk.
 <h3>How can I maintain an optimal TG:HDL-C ratio?</h3>
@@ -9524,14 +9534,6 @@ For more information on how to improve your TG:HDL-C ratio, please refer to the 
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_content_1_copies]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -11655,6 +11657,9 @@ Measuring cystatin C can help detect kidney dysfunction earlier than traditional
 Cystatin C levels are measured through a simple blood test and can be used to estimate eGFR. Unlike creatinine, which can fluctuate based on muscle breakdown, cystatin C remains relatively stable. Elevated levels may indicate decreased kidney function, which could be caused by factors such as high blood pressure, diabetes, or other chronic conditions affecting the kidneys.
 <div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true"></div>
+SiPhox's Cystatin C range is grounded in <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://www.nejm.org/doi/full/10.1056/NEJMoa1114248" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id-203085969">Inker et al.'s NEJM study</span></a>, which validated cystatin C-based GFR equations across over 5,000 participants and found cystatin C outperforms creatinine at detecting mild kidney function decline, since it's less affected by muscle mass. SiPhox's "good" range mirrors the standard clinical reference interval established in this research.
+
+<!-- notionvc: 2ff98a71-354b-45ac-981e-25666523b36e -->
 If your cystatin C levels are higher than normal, consult with your physician to determine the cause and possible next steps.
 <h3>How can I maintain optimal Cystatin C levels?</h3>
 If you need to support your kidney health, consider the following strategies:
@@ -14187,8 +14192,8 @@ Medical treatments vary depending on the underlying cause and reproductive goals
                             <wp:post_id>3845</wp:post_id>
                             <wp:post_date><![CDATA[2025-08-11 19:15:49]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2025-08-11 19:15:49]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-01-19 18:40:57]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-01-19 18:40:57]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-08-10 16:16:44]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-08-10 16:16:44]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[buncreatinine-ratio]]></wp:post_name>
@@ -14259,6 +14264,8 @@ The normal BUN:Creatinine ratio typically falls within these ranges:
 </ul>
 </div>
 Individual BUN and creatinine values also have their own normal ranges. BUN typically ranges from 7 to 20 mg/dL, while creatinine usually falls between 0.6 to 1.2 mg/dL for men and 0.5 to 1.1 mg/dL for women. These values can vary slightly based on age, muscle mass, and laboratory standards.
+
+SiPhox's BUN:Creatinine Ratio ranges align with a <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763218/" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id--675118622">clinical study of cholera patients with pre-renal failure</span></a>, which confirmed the classic threshold where the ratio rises from a normal ~10:1 to above 20:1 during volume depletion, rapidly normalizing with fluid resuscitation. This is why SiPhox's "optimal" and "good" stay within the standard normal band, while "fair" begins flagging this clinically established threshold for prerenal causes.<!-- notionvc: eb7a6a67-f3e2-4a01-b2c6-55a3f0072fd5 -->
 <h2>High BUN:Creatinine Ratio</h2>
 A ratio above 20:1 often indicates that BUN is <a href="https://pubmed.ncbi.nlm.nih.gov/3792996/">disproportionately elevated</a> compared to creatinine. Common causes include:
 <ul>
@@ -14346,8 +14353,8 @@ Remember that many factors can temporarily affect this ratio, and a single abnor
                             <wp:post_id>3848</wp:post_id>
                             <wp:post_date><![CDATA[2025-08-11 19:17:58]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2025-08-11 19:17:58]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-01-20 15:39:55]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-01-20 15:39:55]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-08-10 16:46:45]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-08-10 16:46:45]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[aslalt-ratio]]></wp:post_name>
@@ -14462,6 +14469,14 @@ If you are concerned about your liver health or have risk factors for liver dise
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_content]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_6414004cd50ab]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -33338,8 +33353,8 @@ At SiPhox Health, we firmly believe in the power of understanding your body thro
 		<category domain="post_tag" nicename="diabetes"><![CDATA[diabetes]]></category>
 		<category domain="post_tag" nicename="glucose"><![CDATA[glucose]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
-		<category domain="category" nicename="hba1c"><![CDATA[HbA1C]]></category>
 		<category domain="post_tag" nicename="hba1c"><![CDATA[HbA1c]]></category>
+		<category domain="category" nicename="hba1c"><![CDATA[HbA1C]]></category>
 		<category domain="post_tag" nicename="hemoglobin-a1c"><![CDATA[Hemoglobin A1C]]></category>
 		<category domain="post_tag" nicename="insulin"><![CDATA[insulin]]></category>
 		<category domain="post_tag" nicename="metabolism"><![CDATA[metabolism]]></category>
