@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/7.0.3" created="2026-08-10 14:54" -->
+    <!-- generator="WordPress/7.0.3" created="2026-08-10 15:09" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Mon, 10 Aug 2026 14:54:33 +0000</pubDate>
+            <pubDate>Mon, 10 Aug 2026 15:09:06 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -3130,8 +3130,8 @@ If zinc levels are too low, it can lead to a variety of health issues, including
                                                         		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="post_tag" nicename="at-home"><![CDATA[at-home]]></category>
 		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
-		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="biomarkers"><![CDATA[biomarkers]]></category>
+		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood"><![CDATA[blood]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -5053,6 +5053,7 @@ While specific interventions may vary depending on the underlying cause of abnor
 Despite advancements in understanding atherosclerosis risks, LDL-C continues to hold value in <span style="text-decoration: underline;"><a href="https://www.cdc.gov/cholesterol/about/ldl-and-hdl-cholesterol-and-triglycerides.html" data-sanitized-data-mce-href="https://www.cdc.gov/cholesterol/ldl_hdl.htm#:~:text=LDL%20(low-density lipoprotein),for heart disease and stroke." data-sanitized-target="_blank">cardiovascular risk</a></span> assessment and is included as a biomarker in the <a href="https://home.siphoxhealth.com/pricing/unlimited?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=&amp;utm_term=siphox%20health&amp;utm_content=&amp;tw_source=google&amp;tw_adid=687640324952&amp;tw_campaign=19925277251&amp;gad_source=1&amp;gclid=Cj0KCQjwvb-zBhCmARIsAAfUI2uY8He_1BAaSvECNZqCwMQtT6Y41yJBFoDVgu-iAMehWiJa-uL2CFIaAjjgEALw_wcB"><span style="text-decoration: underline;">SiPhox Health</span></a> Foundation panel. This persistence is due in part to the extensive body of guidelines and recommendations that still prioritize LDL-C levels. Measuring LDL-P poses challenges due to difficulties in achieving precise measurements. To bridge this gap, SiPhox also includes ApoB in its assessments, offering a broader view of atherogenic particles, encompassing LDL-P. This dual measurement strategy ensures that both healthcare providers and patients have a comprehensive understanding of atherosclerotic cardiovascular disease risk, facilitating more informed health decisions (Cole, 2023).
 <h3>How can I better understand my LDL-C levels?</h3>
 LDL-C levels can be understood by comparing your result with the ranges below.
+<div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true">
 <ul>
  	<li>Optimal: 40-100 mg/dL</li>
@@ -5344,6 +5345,8 @@ If you need to maintain or adjust your HDL-C levels, consider the <span style="t
 <h3>Why is ApoA1 important?</h3>
 <span class="notion-enable-hover" data-token-index="0" data-sanitized-data-token-index="0" data-reactroot="" data-sanitized-data-reactroot="">Both HDL cholesterol and ApoA1 are, in most clinical conditions, anti-atherogenic, so the higher the values, the lower the cardiovascular risk. Your ApoA1 measurement can be an important predictor of cardiovascular health and is thus included in <a href="https://siphoxhealth.com/" data-sanitized-target="_blank"><span style="text-decoration: underline;">SiPhox Health</span></a>'s foundation panel.</span>
 <h3>How can I better understand my ApoA1 results?</h3>
+<div data-dynamic-ranges="true" data-test="1"></div>
+
 <div data-ranges="true">
 
 <span class="notion-enable-hover" data-token-index="0" data-sanitized-data-token-index="0" data-reactroot="" data-sanitized-data-reactroot="">Males:</span>
@@ -5498,6 +5501,7 @@ According to the <span style="text-decoration: underline;"><a href="https://www
 <h3>How can I better understand my Lp(a) levels?</h3>
 <p class="font-claude-response-body break-words whitespace-normal" dir="ltr">In terms of interpreting results, the <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://www.acc.org/latest-in-cardiology/articles/2023/09/19/10/54/an-update-on-lipoprotein-a#:~:text=Lp(a)%20is%20currently%20measured,Organization%20(WHO)%20laboratory%20measuring.">American College of Cardiology</a> covers the lack of a generalized consensus across America, Canada, and Europe, with more conservative ranges in Europe as compared to America. To err on the side of caution, since high Lp(a) has been associated with atherosclerosis and cardiovascular disease, the following ranges from the <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://www.ncbi.nlm.nih.gov/books/NBK570621/#:~:text=The%20desirable%20and%20optimal%20test,contribute%20to%20serum%20LDL%20levels.">National Library of Medicine</a> are a bit more conservative:</p>
 
+<div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true">
 <ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3 print:block print:space-y-1" dir="ltr">
  	<li class="font-claude-response-body whitespace-normal break-words pl-2">Optimal: &lt; 14 mg/dL</li>
@@ -5648,6 +5652,8 @@ Lp(a) is considered to be solely impacted by genetics, and research trying to e
 <span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">The higher the <span data-sanitized-data-mce-fragment="1">TC:HDL</span> ratio, the greater the risk of cardiovascular events. <span style="text-decoration: underline;"><a href="https://siphoxhealth.com/hub/biomarkers-2/biomarker-total-cholesterol" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://siphoxhealth.com/pages/total-cholesterol" data-sanitized-data-mce-fragment="1">Total cholesterol</a></span><span data-sanitized-data-mce-fragment="1"> </span><span data-sanitized-data-mce-fragment="1">is calculated by adding</span><span data-sanitized-data-mce-fragment="1"> </span><span style="text-decoration: underline;"><a href="https://siphoxhealth.com/hub/biomarkers-2/biomarker-ldl-c" data-sanitized-data-mce-href="https://siphoxhealth.com/pages/ldl" data-sanitized-target="_blank" data-sanitized-data-mce-fragment="1">LDL</a></span>-C<span data-sanitized-data-mce-fragment="1"> </span><span data-sanitized-data-mce-fragment="1">("bad" cholesterol),</span><span data-sanitized-data-mce-fragment="1"> </span><span style="text-decoration: underline;"><a href="https://siphoxhealth.com/hub/biomarkers-2/biomarker-hdl-c" data-sanitized-data-mce-href="https://siphoxhealth.com/pages/hdl" data-sanitized-target="_blank" data-sanitized-data-mce-fragment="1">HDL</a></span>-C<span data-sanitized-data-mce-fragment="1"> </span><span data-sanitized-data-mce-fragment="1">("good" cholesterol), and 20% of</span><span data-sanitized-data-mce-fragment="1"> </span><span style="text-decoration: underline;"><a href="https://siphoxhealth.com/hub/biomarkers-2/biomarker-triglycerides" data-sanitized-data-mce-href="https://siphoxhealth.com/pages/triglycerides" data-sanitized-target="_blank" data-sanitized-data-mce-fragment="1">triglycerides</a></span><span data-sanitized-data-mce-fragment="1">. Even if HDL-C is high individually, you could still be at risk for cardiovascular events if LDL-C is even higher. Thus, the ratio can assess your risk much more accurately.</span> Recent studies have shown that the <span data-sanitized-data-mce-fragment="1">TC:HDL</span> ratio is an important clinical predictor of <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6821014/" data-sanitized-target="_blank">acute myocardial infarction</a></span>, <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1405722/" data-sanitized-target="_blank">coronary heart disease</a></span>, and <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9797665/#:~:text=The%20TC%2FHDL%2DC%20ratio%20remains%20to%20be%20related%20to,2.23%20(8%2C%209)." data-sanitized-target="_blank">cardiovascular morbidity and mortality</a></span>. </span>
 <h3>How can I better understand my Total Cholesterol:HDL ratio?</h3>
 <span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">To better interpret your results, here are some values to refer to:</span>
+<div data-dynamic-ranges="true" data-test="1"></div>
+
 <div data-ranges="true">
 <ul>
  	<li><span style="text-decoration: underline;"><a href="https://www.scivisionpub.com/pdfs/association-of-bmi-and-waist-to-hip-ratio-with-the-ratio-of-ldl-to-hdl-and-total-cholesterol-to-hdl-in-urban-adolescents-without-c-264.pdf" data-sanitized-target="_blank">High risk</a></span>: &gt; 6</li>
@@ -6344,6 +6350,8 @@ In addition to staying healthy and reducing blood pressure and blood sugar throu
 <span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0"><span style="text-decoration: underline;"><a href="https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/cholesterol" data-sanitized-target="_blank">Cholesterol</a> </span>is processed in the liver, but too much (hyperlipidemia) can cause atherosclerosis (plaque buildup within arteries) and eventually lead to cardiovascular events such as heart disease or stroke. On the other hand, the less common but still prevalent <span style="text-decoration: underline;"><a href="https://www.merckmanuals.com/home/hormonal-and-metabolic-disorders/cholesterol-disorders/hypolipidemia#:~:text=Hypolipidemia%20is%20abnormally%20low%20levels,genetic%20abnormalities%20or%20other%20disorders." data-sanitized-target="_blank">hypolipidemia</a> </span>(abnormally low levels of lipids) may indicate the presence of other underlying disorders.</span>
 <h3>How can I better understand my cholesterol levels?</h3>
 <span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">To better understand your test results, here are some values to reference:</span>
+<div data-dynamic-ranges="true" data-test="1"></div>
+
 <div data-ranges="true">
 <ul>
  	<li><span class="notion-enable-hover" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0"><span style="text-decoration: underline;"><a href="https://www.merckmanuals.com/home/hormonal-and-metabolic-disorders/cholesterol-disorders/hypolipidemia" data-sanitized-target="_blank">Very low</a></span>: &lt; 125 mg/dL</span></li>
@@ -9619,6 +9627,8 @@ For more information on how to improve your TG:HDL-C ratio, please refer to the 
 <span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Abnormally high triglyceride levels increase the risk of atherosclerosis (plaque buildup in arteries), which can lead to <a href="https://my.clevelandclinic.org/health/articles/11117-triglycerides" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://my.clevelandclinic.org/health/articles/11117-triglycerides"><span style="text-decoration: underline;">cardiovascular events</span></a> such as carotid artery disease, heart attack, metabolic syndrome, and stroke. <a href="https://my.clevelandclinic.org/health/articles/11117-triglycerides" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://my.clevelandclinic.org/health/articles/11117-triglycerides"><span style="text-decoration: underline;">High triglycerides</span></a> can be linked to underlying causes such as diabetes, thyroid disease, and certain medications, to name a few. <a href="https://my.clevelandclinic.org/health/articles/11117-triglycerides" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://my.clevelandclinic.org/health/articles/11117-triglycerides"><span style="text-decoration: underline;">Risk factors</span></a> for high triglycerides include family history, menopause, pregnancy, HIV, metabolic disorders, and being of South Asian ancestry. Because of its significance to our health, triglycerides are included in <a href="https://siphoxhealth.com/" rel="noopener noreferrer" data-sanitized-target="_blank"><span style="text-decoration: underline;">SiPhox Health</span></a>'s base panel.</span>
 <h3>How can I better understand my triglyceride levels?</h3>
 <span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">The <a href="https://www.abim.org/Media/bfijryql/laboratory-reference-ranges.pdf" data-sanitized-target="_blank"><span style="text-decoration: underline;">American Board of Internal Medicine</span></a> released reference ranges for fasting triglyceride to assist in interpretation:</span>
+<div data-dynamic-ranges="true" data-test="1"></div>
+
 <div data-ranges="true">
 <ul>
  	<li>Low: 0-100 <span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">mg/dL</span></li>
@@ -11315,8 +11325,8 @@ UCSF Health – <a href="https://www.ucsfhealth.org/medical-tests/insulin-c-pept
                             <wp:post_id>3685</wp:post_id>
                             <wp:post_date><![CDATA[2024-12-10 16:32:27]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2024-12-10 16:32:27]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-08-07 20:03:43]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-08-07 20:03:43]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-08-10 15:02:51]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-08-10 15:02:51]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[vldl]]></wp:post_name>
@@ -11380,6 +11390,8 @@ UCSF Health – <a href="https://www.ucsfhealth.org/medical-tests/insulin-c-pept
 Elevated levels of VLDL cholesterol are linked to an increased risk of cardiovascular diseases. VLDL can contribute to the development of <a href="https://www.nhlbi.nih.gov/health/atherosclerosis">atherosclerosis</a>, a condition characterized by the buildup of fatty deposits in the arteries that can lead to heart attacks and strokes. Measuring VLDL cholesterol levels can be a useful indicator of cardiovascular health.
 <h3>How can I better understand my VLDL-C results?</h3>
 The reference ranges for VLDL-C are generally considered to be as follows:
+<div data-dynamic-ranges="true" data-test="1"></div>
+
 <div data-ranges="true">
 <ul>
  	<li>In range: 0-30 mg/dL</li>
@@ -13632,8 +13644,8 @@ Your doctor may recommend different types of blood pressure medications based on
                             <wp:post_id>3835</wp:post_id>
                             <wp:post_date><![CDATA[2025-08-11 19:03:14]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2025-08-11 19:03:14]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-08-07 20:17:46]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-08-07 20:17:46]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-08-10 15:08:14]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-08-10 15:08:14]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[ldlapob-ratio]]></wp:post_name>
@@ -13701,6 +13713,8 @@ A <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10362700/">lower LDL:ApoB ra
 </ul>
 <h2>Interpreting Your LDL:ApoB Ratio Results</h2>
 Understanding your LDL:ApoB ratio helps you and your healthcare provider make more informed decisions about cardiovascular risk management. Here are the general interpretation guidelines:
+<div data-dynamic-ranges="true" data-test="1"></div>
+
 <div data-ranges="true">
 <ul>
  	<li>Ratio &gt; 1.3: Predominantly large, buoyant LDL particles (Pattern A) – lower cardiovascular risk</li>
@@ -13765,8 +13779,8 @@ Understanding your LDL:ApoB ratio provides valuable insights beyond standard cho
                             <wp:post_id>3838</wp:post_id>
                             <wp:post_date><![CDATA[2025-08-11 19:08:58]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2025-08-11 19:08:58]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-08-07 20:01:41]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-08-07 20:01:41]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-08-10 15:02:09]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-08-10 15:02:09]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[ldlhdl-ratio]]></wp:post_name>
@@ -13827,6 +13841,8 @@ Research has consistently shown that the LDL:HDL ratio is a <a href="https://pub
 A <a href="https://www.cdc.gov/cholesterol/about/ldl-and-hdl-cholesterol-and-triglycerides.html">higher ratio</a> indicates that you have more artery-clogging LDL relative to protective HDL, increasing your risk for atherosclerosis, heart attacks, and strokes. Studies have found that individuals with higher LDL:HDL ratios have significantly increased risks of coronary artery disease, with some research showing that each unit increase in the ratio corresponds to approximately a 50% increase in cardiovascular event risk.
 <h2>Optimal Ranges and Risk Categories</h2>
 Understanding where your LDL:HDL ratio falls can help you assess your cardiovascular risk:
+<div data-dynamic-ranges="true" data-test="1"></div>
+
 <div data-ranges="true">
 <ul>
  	<li><strong>Optimal:</strong> Less than 2.0</li>
@@ -32979,8 +32995,8 @@ To learn more about these biomarkers including why they are important, whether t
                                                         		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="female-fertility"><![CDATA[female fertility]]></category>
 		<category domain="post_tag" nicename="fertility"><![CDATA[fertility]]></category>
-		<category domain="category" nicename="fsh"><![CDATA[FSH]]></category>
 		<category domain="post_tag" nicename="fsh"><![CDATA[FSH]]></category>
+		<category domain="category" nicename="fsh"><![CDATA[FSH]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
 		<category domain="post_tag" nicename="womens-health"><![CDATA[womens health]]></category>
                                                             <wp:postmeta>
