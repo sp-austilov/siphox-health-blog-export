@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/7.0.3" created="2026-08-10 16:46" -->
+    <!-- generator="WordPress/7.0.3" created="2026-08-10 20:47" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Mon, 10 Aug 2026 16:46:45 +0000</pubDate>
+            <pubDate>Mon, 10 Aug 2026 20:47:49 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -1923,8 +1923,8 @@ Variability in lab results is a known entity, yet it doesn’t detract from the 
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
-                                                        		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
-		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
+                                                        		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
+		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -2130,8 +2130,8 @@ Cardiovascular health is no joke. Several studies mentioned earlier in this guid
                                                         		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
 		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
-		<category domain="post_tag" nicename="cortisol"><![CDATA[cortisol]]></category>
 		<category domain="category" nicename="cortisol"><![CDATA[Cortisol]]></category>
+		<category domain="post_tag" nicename="cortisol"><![CDATA[cortisol]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
 		<category domain="post_tag" nicename="health"><![CDATA[health]]></category>
 		<category domain="post_tag" nicename="hormones"><![CDATA[hormones]]></category>
@@ -6649,6 +6649,8 @@ In addition to staying healthy and reducing blood pressure and blood sugar throu
 
 <span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Abnormally low levels of ferritin may indicate <span style="text-decoration: underline;"><a href="https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/#h16" data-sanitized-target="_blank">iron deficiency</a></span> at &lt; 30 ng/mL and <span style="text-decoration: underline;"><a href="https://www.nhlbi.nih.gov/health/anemia/iron-deficiency-anemia" data-sanitized-target="_blank">iron deficiency anemia</a></span> at &lt; 10 ng/mL.</span>
 
+<span class="discussion-id-3b492984-f9b8-80ac-821f-001cb948d8ba notion-enable-hover" data-token-index="0">SiPhox's Ferritin ranges are supported by </span><a class="discussion-id-3b492984-f9b8-80ac-821f-001cb948d8ba notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://academic.oup.com/metallomics/article/13/6/mfab030/6287580" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id-249024172">DePalma et al.'s review in Metallomics</span></a><span class="discussion-id-3b492984-f9b8-80ac-821f-001cb948d8ba notion-enable-hover" data-token-index="2">, which found ferritin above 100 ng/mL was linked to increased inflammation and cardiovascular risk in both men and women. This supports SiPhox's conservative "optimal" ceiling , well below the standard lab's much higher upper limit.</span><!-- notionvc: eaca3dd9-3c6a-43e5-a295-76e6efa82509 -->
+
 It is important to <span style="text-decoration: underline;"><a href="https://www.southtees.nhs.uk/services/pathology/tests/ferritin/" data-sanitized-target="_blank">note</a></span> that serum ferritin levels may be elevated in the presence of the following conditions:
 <ul>
  	<li>inflammation</li>
@@ -7603,7 +7605,10 @@ The TPOAb test is usually suggested for people who are experiencing hypothyroidi
  	<li>High: &gt;9 <span class="notion-enable-hover" data-sanitized-mce-data-marked="1" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">IU/mL</span></li>
 </ul>
 </div>
-<span class="notion-enable-hover" data-sanitized-mce-data-marked="1" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">If your TPOAb results are raised, please consult with your physician as this may be indicative of an autoimmune disease such as Hashimoto's disease or Graves' disease, and although less common, could be a marker for cancer. According to <a href="https://www.btf-thyroid.org/thyroid-antibodies-explained#:~:text=TPO%20antibodies%20are%20found%20in,autoimmune%20disease%20in%20the%20future." data-sanitized-data-mce-href="https://www.btf-thyroid.org/thyroid-antibodies-explained#:~:text=TPO%20antibodies%20are%20found%20in,autoimmune%20disease%20in%20the%20future." data-sanitized-target="_blank"><span style="text-decoration: underline;">British Thyroid Foundation</span></a>, while ~90% of people with elevated TPOAb have an autoimmune disease, ~10% do not have thyroid disease at all. Therefore, interpretation of your results is best left to a physician.</span>
+<span class="notion-enable-hover" data-sanitized-mce-data-marked="1" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">SiPhox's Thyroperoxidase Antibody (TPOAb) ranges reflect findings from the <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://pubmed.ncbi.nlm.nih.gov/15826919/" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id--1491872029">Whickham Survey</span></a>, a landmark UK cohort showing that even at TSH levels within the normal range, TPO-positive individuals faced a meaningfully elevated annual risk of progressing to hypothyroidism, rising further as antibody titers increased. This is why SiPhox sets "optimal" below 4 IU/mL rather than the full standard cutoff of 9 IU/mL, since even sub-threshold TPOAb elevation signals early autoimmune thyroid risk in both sexes.</span>
+
+<span class="notion-enable-hover" data-sanitized-mce-data-marked="1" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0"><!-- notionvc: 26ac5743-9171-418e-9bc4-6b85f3c64b34 -->
+If your TPOAb results are raised, please consult with your physician as this may be indicative of an autoimmune disease such as Hashimoto's disease or Graves' disease, and although less common, could be a marker for cancer. According to <a href="https://www.btf-thyroid.org/thyroid-antibodies-explained#:~:text=TPO%20antibodies%20are%20found%20in,autoimmune%20disease%20in%20the%20future." data-sanitized-data-mce-href="https://www.btf-thyroid.org/thyroid-antibodies-explained#:~:text=TPO%20antibodies%20are%20found%20in,autoimmune%20disease%20in%20the%20future." data-sanitized-target="_blank"><span style="text-decoration: underline;">British Thyroid Foundation</span></a>, while ~90% of people with elevated TPOAb have an autoimmune disease, ~10% do not have thyroid disease at all. Therefore, interpretation of your results is best left to a physician.</span>
 <h3>How can I maintain optimal TPOAb levels?</h3>
 <span class="notion-enable-hover" data-sanitized-mce-data-marked="1" data-sanitized-data-reactroot="" data-reactroot="" data-sanitized-data-token-index="0" data-token-index="0">If your TPOAb levels are high, you can try:</span>
 
@@ -7745,6 +7750,8 @@ Ranges specific to the Cardiometabolic Program:
 <span class="notion-enable-hover" data-sanitized-mce-data-marked="1" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">High TSH may point to hypothyroidism (underactive thyroid gland) whereas low TSH may point to hyperthyroidism (overactive thyroid gland). <span data-sanitized-data-mce-fragment="1">Symptoms of </span><span style="text-decoration: underline;"><a href="https://www.mayoclinic.org/diseases-conditions/hypothyroidism/symptoms-causes/syc-20350284" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.mayoclinic.org/diseases-conditions/hypothyroidism/symptoms-causes/syc-20350284" data-sanitized-data-mce-fragment="1">hypothyroidism</a></span><span data-sanitized-data-mce-fragment="1"> include lethargy, weight gain, sensitivity to cold, thinning hair, constipation, and other physical and mental issues. Symptoms of <a href="https://www.mayoclinic.org/diseases-conditions/hyperthyroidism/symptoms-causes/syc-20373659" data-sanitized-target="_blank"><span style="text-decoration: underline;">hyperthyroidism</span></a> on the other hand include weight loss, rapid or irregular heartbeat, increased hunger, and anxiousness among other issues. </span>There are a variety of other conditions that abnormal TSH levels may indicate, including Graves' disease or Hashimoto's disease to name a few.</span>
 
 <span class="notion-enable-hover" data-sanitized-mce-data-marked="1" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Like many hormones, TSH follows a <a href="https://www.emeraldcityclinic.com/blog-2/time-of-day-makes-a-difference-in-thyroid-testing" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.emeraldcityclinic.com/blog-2/time-of-day-makes-a-difference-in-thyroid-testing"><span style="text-decoration: underline;">circadian rhythm</span></a> with maximal concentrations overnight and minimal in the evening. As such, testing TSH in the morning compared to in the afternoon may help detect hypothyroidism in individuals who would otherwise appear normal due to rhythmic fluctuation.</span>
+
+<span class="discussion-id-3b492984-f9b8-80c3-b464-001cb73e61bc notion-enable-hover" data-token-index="0">SiPhox's Thyroid-Stimulating Hormone (TSH) ranges are grounded in </span><a class="discussion-id-3b492984-f9b8-80c3-b464-001cb73e61bc notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://academic.oup.com/jcem/article/87/2/489/2846568" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id-41236485">Hollowell et al.'s NHANES III study</span></a><span class="discussion-id-3b492984-f9b8-80c3-b464-001cb73e61bc notion-enable-hover" data-token-index="2">, which analyzed over 17,000 Americans and found the disease-free reference population had a median TSH around 1.5 mIU/L. This is why SiPhox's "optimal" range centers tightly around this population median rather than treating the full standard range as equally healthy.</span><!-- notionvc: 93b81594-6917-4ff8-98af-5b71982d7d4d -->
 <h3>How can I maintain optimal TSH levels?</h3>
 If you need to maintain or adjust your TSH levels, consider the following strategies:
 
@@ -8283,9 +8290,7 @@ High free T3 may point to hyperthyroidism (overactive thyroid gland), which can 
 <h3>How can I better understand my free T3 levels?</h3>
 <span class="notion-enable-hover" data-sanitized-mce-data-marked="1" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">According to the <a href="https://www.abim.org/Media/bfijryql/laboratory-reference-ranges.pdf" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.abim.org/Media/bfijryql/laboratory-reference-ranges.pdf"><span style="text-decoration: underline;">American Board of Internal Medicine</span></a><span style="text-decoration: underline;">:</span></span>
 <div data-dynamic-ranges="true" data-test="1"></div>
-
 <div data-ranges="true">
-
 <ul>
  	<li>Low: &lt;1.9 pg/mL</li>
  	<li>Optimal: 3.2-3.9 pg/mL</li>
@@ -8293,8 +8298,9 @@ High free T3 may point to hyperthyroidism (overactive thyroid gland), which can 
  	<li>High: &gt;4.4 pg/mL</li>
 </ul>
 </div>
-
 <span class="notion-enable-hover" data-sanitized-mce-data-marked="1" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Free T3 test results are analyzed in conjunction with other thyroid tests to determine whether the thyroid gland is functioning properly.</span>Like many hormones, T3 follows a <span style="text-decoration: underline;"><a href="https://academic.oup.com/jcem/article/93/6/2300/2598837" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://academic.oup.com/jcem/article/93/6/2300/2598837">circadian rhythm</a></span> related to the cycles of TSH and T4. Free T3 is generally at its highest concentration at around 4am and at its lowest concentration at around 4pm. As such, testing in the morning compared to in the afternoon may help detect hypothyroidism in individuals who would otherwise appear normal due to rhythmic fluctuation.
+
+SiPhox's Free Triiodothyronine (Free T3) ranges are supported by a <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7984427/" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id-1282248158">prospective cohort study of adult myocarditis patients</span></a>, which found that patients with free T3 below 3.54 pg/mL had significantly worse cardiac outcomes and lower long-term survival compared to those with higher-normal fT3. This is why SiPhox's "optimal" range targets the upper half of the standard lab range, rather than treating the full 1.58–3.91 pg/mL span as equally healthy.<!-- notionvc: dbb2dd3d-2a05-4646-8876-c2c13e0c7146 -->
 <h3>How can I maintain optimal free T3 levels?</h3>
 If you need to maintain or adjust your free T3 levels, consider the following strategies:
 
@@ -8306,10 +8312,7 @@ If you need to maintain or adjust your free T3 levels, consider the following st
  	<li><span style="text-decoration: underline;"><a href="https://medlineplus.gov/ency/article/003687.htm" data-sanitized-data-mce-href="https://medlineplus.gov/ency/article/003687.htm" data-sanitized-target="_blank">MedlinePlus - T3 test</a></span></li>
  	<li><span style="text-decoration: underline;"><a href="https://www.youtube.com/watch?v=RKS-91CLzJU" data-sanitized-target="_blank">Level Up RN (video) - TSH and T3/T4 - What's the difference?</a></span></li>
 </ul>
-<strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong>
-
-</div>
-</div>]]></wp:meta_value>
+<strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong>]]></wp:meta_value>
                                 </wp:postmeta>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_content_1_copies]]></wp:meta_key>
@@ -8447,7 +8450,9 @@ The reference ranges for vitamin B12 are:
  	<li><span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">Normal: <span style="text-decoration: underline;"><a href="https://www.abim.org/Media/bfijryql/laboratory-reference-ranges.pdf" data-sanitized-data-mce-href="https://www.abim.org/Media/bfijryql/laboratory-reference-ranges.pdf">200 - 800 pg/mL</a></span></span></li>
  	<li>Suboptimal: <span style="text-decoration: underline;"><a href="https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/" data-sanitized-data-mce-href="https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/">&lt; 200 pg/mL</a></span></li>
 </ul>
+
 </div>
+SiPhox's Vitamin B12 ranges align with recommendations in the <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://psychiatryonline.org/doi/10.1176/appi.neuropsych.11020052" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id-607185192">Journal of Neuropsychiatry and Clinical Neurosciences</span></a>, which advises maintaining plasma B12 in the 400–500 pg/mL range or higher to reduce the risk of B12-related neuropsychiatric disorders, since a "normal" serum level doesn't rule out functional tissue deficiency. This is why SiPhox's "optimal" sits well above the standard lab's lower cutoff, treating levels near 350 pg/mL as only "fair."<!-- notionvc: 960b33c9-9b02-458e-8360-57de103e86bb -->
 <h3>How can I maintain optimal vitamin B12 levels?</h3>
 <strong>Dietary Changes/Supplementation</strong>: If your B12 is low, you can easily acquire more as it naturally occurs in many <span style="text-decoration: underline;"><a href="https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/" rel="noopener noreferrer" data-sanitized-data-mce-href="https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/" data-sanitized-target="_blank">foods</a></span> (clams, beef liver, nutritional yeast, etc.) or through supplementation.
 
@@ -8568,7 +8573,7 @@ The quantity of B12 intake differs for pregnant and non-pregnant adult females:
 <h3>Why is folate important?</h3>
 <span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot=""><a href="https://siphoxhealth.com/" data-sanitized-data-mce-href="https://siphoxhealth.com/" data-sanitized-target="_blank" data-sanitized-data-mce-fragment="1"><span style="text-decoration: underline;">SiPhox Health</span></a><span data-sanitized-data-mce-fragment="1"> includes folate in the female Hormone+ panel because of its significance as a nutrient that reduces the risk of birth defects by forming the neural tube. This is particularly useful for individuals who are pregnant or trying to get pregnant and is commonly included in prenatal supplements. Regardless of whether or not you are looking to have children, folate is beneficial for brain function, and low folate has been linked to <a href="https://www.sciencedirect.com/science/article/abs/pii/B9780702040870000619#:~:text=Low%20folate%20and%20raised%20homocysteine,including%20Alzheimer's%20disease%2C%20and%20depression." data-sanitized-target="_blank"><span style="text-decoration: underline;">Alzheimer's and depression</span></a>.</span></span>
 <h3>How can I better understand my folate levels?</h3>
-<span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">The reference range is:</span>
+Folate levels can be understood by comparing your result with the ranges below.
 <div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true">
 <ul>
@@ -8579,6 +8584,7 @@ The quantity of B12 intake differs for pregnant and non-pregnant adult females:
 </li>
 </ul>
 </div>
+SiPhox's Folate ranges align with a <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://www.sciencedirect.com/science/article/pii/S2352551715000086" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id--1848353183">clinical study arguing for revising the serum folate reference range</span></a>, which found that preventing elevated homocysteine may require serum folate around 7 ng/mL, well above the traditional 3.0 ng/mL deficiency cutoff. This is why SiPhox's "optimal" begins higher compared to the standard lab's lower bound, treating levels near the old deficiency threshold as only "fair."<!-- notionvc: c36537e3-e38f-416f-915a-e3de6c9b04d6 -->
 <h3>How can I maintain optimal folate levels?</h3>
 <span class="notion-enable-hover" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">The quantity of folate intake differs for pregnant and non-pregnant adult females. </span>The recommended intake for adults is <span style="text-decoration: underline;"><a href="https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/" data-sanitized-target="_blank">400 micrograms</a></span> daily, which increases to at least <a href="https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/" data-sanitized-target="_blank"><span style="text-decoration: underline;">600 micrograms</span> </a>per day for pregnant adults (but no more than 1000 micrograms per day).
 
@@ -10075,6 +10081,8 @@ SiPhox's High Sensivity CRP ranges are based on the <a class="notion-link-token 
 Lower levels have several health implications. It may lead to decreased bone health, muscular atrophy, and even more serious health problems depending on the levels such as rickets or osteomalacia. People at risk of deficiency are those who follow a vegan diet, do not get enough ultraviolet sun exposure, are obese, have undergone gastric bypass surgery, or have a disease such as IBD, ulcerative colitis, or Crohn's that disrupts the normal digestion of fat.
 
 Higher levels can also be harmful, as it could lead to nausea, dehydration, kidney issues, and in severe cases anorexia, irregular heartbeat, or hardening of blood vessels and tissues.
+
+SiPhox's 25-(OH) Vitamin D ranges reflect the <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://academic.oup.com/jcem/article/96/7/1911/2833671" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id--1169483344">2011 Endocrine Society Clinical Practice Guideline</span></a>, which recommends a "preferred range" of 40–60 ng/mL to reliably ensure sufficiency beyond the minimum 30 ng/mL threshold, accounting for variability between lab assays. SiPhox's "optimal" range builds on this preferred zone, while "fair" reflects levels that meet the minimum sufficiency threshold but fall short of the guideline's preferred target.<!-- notionvc: 44859807-05a5-41aa-82c6-a6c23214da7b -->
 <h3>How can I maintain optimal vitamin D levels?</h3>
 If your vitamin D levels are low, you can try:
 
@@ -11815,6 +11823,14 @@ If you need to improve your iron levels, consider the following:
                                     <wp:meta_key><![CDATA[limit_modified_date]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
                                                     </item>
                                                 <item>
                             <title><![CDATA[Alkaline Phosphatase (ALP)]]></title>
@@ -12697,8 +12713,8 @@ Values below this range suggest more stable glucose levels, which is generally f
                             <wp:post_id>3778</wp:post_id>
                             <wp:post_date><![CDATA[2025-06-16 20:27:22]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2025-06-16 20:27:22]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-01-22 21:02:48]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-01-22 21:02:48]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-08-10 17:23:09]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-08-10 17:23:09]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[biomarker-iron-saturation]]></wp:post_name>
@@ -12762,7 +12778,6 @@ Abnormal levels can indicate potential health issues:
 <h2><strong>How can I better understand my iron saturation levels?</strong></h2>
 Iron saturation is calculated using serum iron and total iron-binding capacity (TIBC). This marker helps assess how efficiently iron is being distributed throughout the body. Here are the general ranges for iron saturation:
 <div data-dynamic-ranges="true" data-test="1"></div>
-
 <div data-ranges="true">
 <h3><strong>Lab Range:</strong></h3>
 <ul>
@@ -12780,6 +12795,8 @@ Iron saturation is calculated using serum iron and total iron-binding capacity (
 Iron saturation is typically interpreted alongside other iron-related markers such as <a href="https://siphoxhealth.com/hub/biomarkers-2/iron">serum iron</a>, <a href="https://siphoxhealth.com/hub/biomarkers-2/biomarker-ferritin">ferritin</a>, and UIBC. While serum iron can fluctuate daily, iron saturation gives a more balanced view of iron availability and transport.
 
 Understanding your iron saturation in context can help determine whether you are experiencing iron deficiency or iron overload, both of which may require lifestyle changes or medical treatment.
+
+SiPhox's iron saturation ranges are supported by a <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://academic.oup.com/jes/article/8/6/bvae063/7637764" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id-1039070062">nationwide cohort study of over 9,300 deaths across an 18.83-year follow-up</span></a>, which found a J-shaped relationship between transferrin saturation and all-cause and cardiovascular mortality, meaning both low and high extremes carried elevated risk. <!-- notionvc: 5d28eec7-a22d-45b7-9c29-becb2b96e66c -->
 <h2><strong>How can I maintain optimal iron saturation levels?</strong></h2>
 Maintaining balanced iron saturation involves managing both iron intake and absorption based on your current levels.
 
@@ -14353,8 +14370,8 @@ Remember that many factors can temporarily affect this ratio, and a single abnor
                             <wp:post_id>3848</wp:post_id>
                             <wp:post_date><![CDATA[2025-08-11 19:17:58]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2025-08-11 19:17:58]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-08-10 16:46:45]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-08-10 16:46:45]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-08-10 16:46:46]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-08-10 16:46:46]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[aslalt-ratio]]></wp:post_name>
@@ -14422,6 +14439,8 @@ In healthy individuals, both AST and ALT levels are typically low, with normal r
 </ul>
 </div>
 The ratio becomes particularly meaningful when one or both enzymes are elevated, as the pattern of elevation can point to specific liver conditions.
+
+SiPhox's AST:ALT Ratio ranges align with <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://pubmed.ncbi.nlm.nih.gov/10201476/" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id-1586904205">Sorbi et al.'s foundational study in the American Journal of Gastroenterology</span></a>, which found a De Ritis ratio above 2.0 predicted<span class="discussion-id-3ab92984-f9b8-80b7-928f-001c06e8c3ea notion-enable-hover" data-token-index="3"> alcoholic liver disease </span>with 70% sensitivity and 92% specificity. This is why SiPhox's "fair" ceiling begins right at this clinically validated threshold, while "optimal" reflects the typical ratio range in healthy individuals without liver stress.<!-- notionvc: 247c5d28-816f-40d0-974b-ec16e9b96247 -->
 <h2>Clinical Significance of Different Ratios</h2>
 <a href="https://pubmed.ncbi.nlm.nih.gov/3135226/">Different AST:ALT ratio values</a> suggest different underlying conditions:
 <ul>
@@ -14470,14 +14489,6 @@ If you are concerned about your liver health or have risk factors for liver dise
                                     <wp:meta_key><![CDATA[_content]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_6414004cd50ab]]></wp:meta_value>
                                 </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
                                                     </item>
                                                 <item>
                             <title><![CDATA[TSH:T4 Ratio]]></title>
@@ -14491,8 +14502,8 @@ If you are concerned about your liver health or have risk factors for liver dise
                             <wp:post_id>3851</wp:post_id>
                             <wp:post_date><![CDATA[2025-08-11 19:21:58]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2025-08-11 19:21:58]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-01-22 20:48:25]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-01-22 20:48:25]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-08-10 17:19:55]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-08-10 17:19:55]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[tsht4-ratio]]></wp:post_name>
@@ -14562,6 +14573,7 @@ For example, if your TSH is 2.5 mIU/L and your Free T4 is 1.2 ng/dL, your ratio 
  	<li>May indicate hyperthyroidism: &lt; 1.3</li>
 </ul>
 </div>
+SiPhox's TSH:T4 Ratio ranges are supported by a <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11533903/" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id--399663106">study establishing a two-dimensional composite reference interval for TSH and FT4</span></a>, which found that evaluating TSH relative to FT4 together, rather than TSH alone, reduced overdiagnosis of subclinical hypothyroidism by 14%. This supports SiPhox's use of a calculated ratio, with "optimal" reflecting balanced pituitary-thyroid signaling and "fair" approaching the pattern seen in early thyroid underactivity.<!-- notionvc: 19c33043-8f0f-4f76-947b-1ef12ddc8d10 -->
 <h2>Clinical Significance of the TSH:T4 Ratio</h2>
 The TSH:T4 ratio serves several important clinical purposes that individual hormone measurements might miss:
 <ul>
@@ -14644,8 +14656,8 @@ Regular monitoring of your TSH:T4 ratio can help track intervention effectivenes
                             <wp:post_id>3854</wp:post_id>
                             <wp:post_date><![CDATA[2025-08-11 19:23:37]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2025-08-11 19:23:37]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-01-22 20:37:05]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-01-22 20:37:05]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-08-10 17:17:34]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-08-10 17:17:34]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[freet3freet4-ratio]]></wp:post_name>
@@ -14724,6 +14736,8 @@ The Free T3:Free T4 ratio is calculated by dividing your Free T3 level by your F
 </ul>
 </div>
 A <a href="https://www.mdpi.com/2072-6643/13/12/4537">low ratio</a> often indicates that your body isn’t efficiently converting T4 to T3, which can result in symptoms like fatigue, weight gain, brain fog, and cold intolerance despite normal TSH levels (“low T3 syndrome” or “euthyroid sick syndrome” in chronic illness). A <a href="https://www.sciencedirect.com/science/article/pii/S2049080116301029">high ratio</a> might suggest hyperthyroidism, excessive T3 medication, or in some cases early-stage Hashimoto’s thyroiditis. This ratio should always be interpreted alongside other thyroid markers and symptoms.
+
+SiPhox's Free T3:Free T4 Ratio ranges align with a <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://www.optimaldx.com/blog/free-t3-free-t4-ratio" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id-2035524465">cross-sectional study of 132,346 euthyroid adults</span></a>, which found the ratio's highest quintile (≥2.98 in men, ≥2.89 in women) was positively associated with insulin resistance, waist circumference, triglycerides, and other metabolic syndrome markers. This is why SiPhox's "fair" ceiling approaches this elevated-risk threshold, while "optimal" sits in the mid-normal zone associated with healthy T4-to-T3 conversion.<!-- notionvc: 26f62a42-5b53-4a6b-81f2-93be819e7100 -->
 <h2>Optimizing Your Free T3:Free T4 Ratio</h2>
 <ul>
  	<li><strong>Nutritional Support:</strong> Ensure adequate selenium (Brazil nuts, seafood), zinc (oysters, beef, pumpkin seeds), and iron (red meat, leafy greens). Support with tyrosine-rich foods and appropriate iodine intake.</li>
@@ -22454,8 +22468,8 @@ If you have been diagnosed with microscopic hematuria or want to maintain urinar
                             <wp:post_id>4037</wp:post_id>
                             <wp:post_date><![CDATA[2025-10-13 19:42:23]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2025-10-13 19:42:23]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2025-10-13 19:42:24]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2025-10-13 19:42:24]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-08-10 17:21:25]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-08-10 17:21:25]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[free-prostate-specific-antigen]]></wp:post_name>
@@ -22503,7 +22517,10 @@ The % free PSA test provides additional diagnostic value. Men with prostate canc
  	<li>Lower probability of cancer: &gt; 25%</li>
 </ul>
 </div>
-<span class="notion-enable-hover" data-sanitized-mce-data-marked="1" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">PSA test results should be interpreted in conjunction with other clinical findings, including digital rectal examination (DRE), patient age, family history, and symptoms. A single elevated PSA test does not necessarily indicate cancer.</span>
+<span class="notion-enable-hover" data-sanitized-mce-data-marked="1" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">SiPhox's PSA ranges reflect thresholds established by major screening trials: the <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://icurology.org/DOIx.php?id=10.4111%2Ficu.20210429" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id--262655862">ERSPC trial</span></a>, which used a ≥3 ng/mL cutoff to flag abnormal results (and reported a survival benefit), versus the PLCO trial's ≥4 ng/mL threshold. SiPhox's "optimal" aligns with the more conservative ERSPC cutoff, while "good" still falls within the traditionally accepted normal range.<!-- notionvc: 3fb5fd54-1a41-4111-a92e-ae42f46a1017 --></span>
+
+<span class="notion-enable-hover" data-sanitized-mce-data-marked="1" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">
+PSA test results should be interpreted in conjunction with other clinical findings, including digital rectal examination (DRE), patient age, family history, and symptoms. A single elevated PSA test does not necessarily indicate cancer.</span>
 It is important to note that <span style="text-decoration: underline;"><a href="https://www.urologyhealth.org/urology-a-z/p/prostate-specific-antigen-(psa)-test" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.urologyhealth.org/urology-a-z/p/prostate-specific-antigen-(psa)-test">PSA levels can be temporarily elevated</a></span> by various factors including recent ejaculation, vigorous exercise, bicycle riding, prostate manipulation, or urinary tract infections. Your healthcare provider may recommend repeating the test after avoiding these activities to get a more accurate baseline reading.
 <h3>How can I maintain optimal PSA levels?</h3>
 If you need to support healthy prostate function and PSA levels, consider the following strategies:
@@ -33353,8 +33370,8 @@ At SiPhox Health, we firmly believe in the power of understanding your body thro
 		<category domain="post_tag" nicename="diabetes"><![CDATA[diabetes]]></category>
 		<category domain="post_tag" nicename="glucose"><![CDATA[glucose]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
-		<category domain="post_tag" nicename="hba1c"><![CDATA[HbA1c]]></category>
 		<category domain="category" nicename="hba1c"><![CDATA[HbA1C]]></category>
+		<category domain="post_tag" nicename="hba1c"><![CDATA[HbA1c]]></category>
 		<category domain="post_tag" nicename="hemoglobin-a1c"><![CDATA[Hemoglobin A1C]]></category>
 		<category domain="post_tag" nicename="insulin"><![CDATA[insulin]]></category>
 		<category domain="post_tag" nicename="metabolism"><![CDATA[metabolism]]></category>
