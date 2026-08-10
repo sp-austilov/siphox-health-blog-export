@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/7.0.3" created="2026-08-07 20:56" -->
+    <!-- generator="WordPress/7.0.3" created="2026-08-10 14:54" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Fri, 07 Aug 2026 20:56:17 +0000</pubDate>
+            <pubDate>Mon, 10 Aug 2026 14:54:33 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -3130,8 +3130,8 @@ If zinc levels are too low, it can lead to a variety of health issues, including
                                                         		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="post_tag" nicename="at-home"><![CDATA[at-home]]></category>
 		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
-		<category domain="post_tag" nicename="biomarkers"><![CDATA[biomarkers]]></category>
 		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
+		<category domain="post_tag" nicename="biomarkers"><![CDATA[biomarkers]]></category>
 		<category domain="post_tag" nicename="blood"><![CDATA[blood]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -5188,6 +5188,7 @@ HDL-C stands for <span style="text-decoration: underline;"><a href="https://www
 <h3>Why is HDL-C important?</h3>
 HDL-C levels provide another measurement of an individual’s risk of a cardiovascular event. While not as strong an indicator as apolipoprotein B (apoB) or LDL-C, HDL-C provides valuable context to your cardiovascular health. The ratio of <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10001260/#:~:text=A%20TG%2FHDL%2DC%20ratio,an%20increased%20risk%20of%20MACE.&amp;text=A%20TG%2FHDL%2DC%20ratio,%25%20and%2068%25%2C%20respectively." data-sanitized-data-mce-href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10001260/#:~:text=A%20TG%2FHDL%2DC%20ratio,an%20increased%20risk%20of%20MACE.&amp;text=A%20TG%2FHDL%2DC%20ratio,%25%20and%2068%25%2C%20respectively.">triglycerides to HDL-C</a></span> is one particularly valuable marker with high levels indicating risk of metabolic syndrome, cardiovascular disease, and all-cause mortality. For these reasons, HDL-C is included in <span style="text-decoration: underline;"><a href="https://siphoxhealth.com/" data-sanitized-target="_blank">SiPhox Health</a></span>'s foundation panel.
 <h3>How can I better understand my HDL-C levels?</h3>
+<div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true">
 <ul>
  	<li>Abnormally low: <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3462950/#:~:text=Low%20HDL%2DC%20is%20currently,%3E500%20mg%2Fdl)." data-sanitized-target="_blank">&lt; 23 mg/dL</a></span>
@@ -5377,6 +5378,14 @@ If you need to maintain or adjust your ApoA1 levels, consider the <span style="t
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_content_1_copies]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -11180,8 +11189,8 @@ Regularly reviewing these key biomarkers, combined with the right testing servic
                             <wp:post_id>3681</wp:post_id>
                             <wp:post_date><![CDATA[2024-12-10 16:28:54]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2024-12-10 16:28:54]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-08-07 20:56:17]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-08-07 20:56:17]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-08-07 20:56:18]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-08-07 20:56:18]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[c-peptide]]></wp:post_name>
@@ -11244,7 +11253,6 @@ Regularly reviewing these key biomarkers, combined with the right testing servic
 C-peptide levels help doctors understand how well your pancreas is working, especially in terms of making insulin. For people with <a href="https://diabetes.org/about-diabetes/type-1">type 1 diabetes</a>, low or no C-peptide usually means the body isn’t making much, if any, insulin. In <a href="https://diabetes.org/about-diabetes/type-2">type 2 diabetes</a>, higher C-peptide levels can show that the body is making insulin, but it might not be using it effectively (a condition called insulin resistance). Measuring C-peptide can help identify the type of diabetes, check remaining insulin-producing cells, and guide insulin treatment decisions.
 <h3>How can I better understand my C-Peptide levels?</h3>
 According to the NIH, the <a href="https://pubmed.ncbi.nlm.nih.gov/36168365/">normal reference interval for fasting patients</a> are as follows:
-<div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true">
 <ul>
  	<li>Out of range: 0-1.1 ng/mL</li>
@@ -11252,6 +11260,8 @@ According to the NIH, the <a href="https://pubmed.ncbi.nlm.nih.gov/36168365/">no
  	<li>Out of range: 4.4+ ng/mL</li>
 </ul>
 </div>
+SiPhox's C-Peptide ranges are supported by a <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3540682/" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id--767218809">prospective cohort study of nondiabetic adults</span></a>, which found that fasting C-peptide predicted cardiovascular and overall mortality better than fasting glucose, insulin, or HOMA-IR, with risk rising across ascending C-peptide quartiles. This is why SiPhox targets the lower-to-mid normal range as "optimal," treating upper-normal values as only "good" or "fair" rather than assuming higher-normal is benign.<!-- notionvc: 900c5088-5e8a-46b8-a5c7-ec06fad96801 -->
+
 Low C-peptide: Indicates low insulin production, often associated with type 1 diabetes, late-stage type 2 diabetes, or pancreatic disorders.
 Normal C-peptide: Typically found in healthy individuals, indicating normal insulin production.
 High C-peptide: May indicate insulin resistance, often seen in early type 2 diabetes, polycystic ovary syndrome (PCOS), or insulinoma (a rare pancreatic tumor).
@@ -11291,14 +11301,6 @@ UCSF Health – <a href="https://www.ucsfhealth.org/medical-tests/insulin-c-pept
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[rank_math_analytic_object_id]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[424]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -33306,8 +33308,8 @@ At SiPhox Health, we firmly believe in the power of understanding your body thro
 		<category domain="post_tag" nicename="diabetes"><![CDATA[diabetes]]></category>
 		<category domain="post_tag" nicename="glucose"><![CDATA[glucose]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
-		<category domain="post_tag" nicename="hba1c"><![CDATA[HbA1c]]></category>
 		<category domain="category" nicename="hba1c"><![CDATA[HbA1C]]></category>
+		<category domain="post_tag" nicename="hba1c"><![CDATA[HbA1c]]></category>
 		<category domain="post_tag" nicename="hemoglobin-a1c"><![CDATA[Hemoglobin A1C]]></category>
 		<category domain="post_tag" nicename="insulin"><![CDATA[insulin]]></category>
 		<category domain="post_tag" nicename="metabolism"><![CDATA[metabolism]]></category>
