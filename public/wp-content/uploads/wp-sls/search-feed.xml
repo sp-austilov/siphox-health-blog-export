@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/7.0.3" created="2026-08-10 20:47" -->
+    <!-- generator="WordPress/7.0.4" created="2026-08-12 20:13" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Mon, 10 Aug 2026 20:47:49 +0000</pubDate>
+            <pubDate>Wed, 12 Aug 2026 20:13:36 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -42,7 +42,7 @@
 	<wp:author><wp:author_id>27</wp:author_id><wp:author_login><![CDATA[rami.abrams@siphoxhealth.com]]></wp:author_login><wp:author_email><![CDATA[rami.abrams@siphoxhealth.com]]></wp:author_email><wp:author_display_name><![CDATA[rami.abrams@siphoxhealth.com]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
                                                 
-            <generator>https://wordpress.org/?v=7.0.3</generator>
+            <generator>https://wordpress.org/?v=7.0.4</generator>
 
                                     <item>
                             <title><![CDATA[What We Measure]]></title>
@@ -3130,8 +3130,8 @@ If zinc levels are too low, it can lead to a variety of health issues, including
                                                         		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="post_tag" nicename="at-home"><![CDATA[at-home]]></category>
 		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
-		<category domain="post_tag" nicename="biomarkers"><![CDATA[biomarkers]]></category>
 		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
+		<category domain="post_tag" nicename="biomarkers"><![CDATA[biomarkers]]></category>
 		<category domain="post_tag" nicename="blood"><![CDATA[blood]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -11784,12 +11784,23 @@ Certain medications, such as NSAIDs, and conditions like high blood pressure or 
 Iron deficiency is one of the most common nutrient deficiencies worldwide, affecting millions of people. Low iron levels can lead to <a href="https://www.mayoclinic.org/diseases-conditions/iron-deficiency-anemia/symptoms-causes/syc-20355034">iron deficiency anemia</a>, which may cause fatigue, pale skin, dizziness, headaches, and shortness of breath. Maintaining adequate iron levels is essential for overall health, especially for children, pregnant women, and individuals with high physical activity levels.
 <h3>How can I better understand my iron levels?</h3>
 Iron levels are typically measured through blood tests that assess different iron markers, including:
-<ul>
- 	<li><strong>Serum Iron:</strong> Measures the amount of circulating iron in the blood.</li>
- 	<li><strong><a href="https://my.clevelandclinic.org/health/diagnostics/17820-ferritin-test">Ferritin</a>:</strong> Reflects stored iron levels in the body.</li>
- 	<li><strong><a href="https://www.enfermedical.ie/service/unsaturated-iron-binding-capacity-uibc/">Unsaturated Iron-Binding Capacity (UIBC)</a>: </strong>Measures the amount of transferrin in the blood that is available to bind to iron, indicating how much additional iron the body can transport.</li>
-</ul>
-Low ferritin and serum iron levels suggest iron deficiency, while high levels may indicate iron overload, which can be harmful.
+
+•<strong> Serum Iron:</strong> Measures the amount of circulating iron currently in the blood.
+• <strong>Ferritin:</strong> Reflects the body's stored iron levels.
+• <strong>Unsaturated Iron-Binding Capacity (UIBC):</strong> Measures the portion of transferrin available to bind additional iron, indicating how much more iron the body can transport.
+
+Here are general reference ranges for these markers (values can vary slightly by lab):
+<div data-dynamic-ranges="true" data-test="1"></div>
+
+<div data-ranges="true">
+
+• Serum Iron: 60–170 mcg/dL.
+• Ferritin: 20–250 ng/mL (men), 15–150 ng/mL (women).
+• UIBC: 110–370 mcg/dL.
+</div>
+Low ferritin and serum iron levels suggest iron deficiency, while high levels may indicate iron overload, which can be harmful. Symptoms of low iron include fatigue, weakness, pale skin, shortness of breath, dizziness, or brittle nails. Symptoms of iron overload include joint pain, fatigue, or abdominal pain. If you are concerned about any of your results or symptoms above, please speak with your primary care physician.
+
+SiPhox's sex-specific iron ranges align with established reference intervals of 55–160 µg/dL (men) and 40–155 µg/dL (women), and are supported by <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11666567/">an NHANES cohort study of cardiovascular disease patients</a>, which found an inverted L-shaped relationship between serum iron and all-cause mortality — risk rose sharply as iron dropped toward the low end of normal. This is why SiPhox's "optimal" ranges sit in the mid-normal zone, with "pay attention" flags at the low end reflecting this mortality signal.
 <h3>How can I maintain optimal iron levels?</h3>
 If you need to improve your iron levels, consider the following:
 
@@ -29353,8 +29364,8 @@ They are what determine whether the outcome of treatment is merely weight reduct
                             <wp:post_id>4273</wp:post_id>
                             <wp:post_date><![CDATA[2026-06-18 14:40:28]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2026-06-18 14:40:28]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-06-18 14:40:29]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-06-18 14:40:29]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-08-12 20:13:36]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-08-12 20:13:36]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[testosterone-replacement-therapy-testing]]></wp:post_name>
@@ -29553,6 +29564,14 @@ These factors can shift hormone levels temporarily and should be avoided when po
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -33041,8 +33060,8 @@ To learn more about these biomarkers including why they are important, whether t
                                                         		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="female-fertility"><![CDATA[female fertility]]></category>
 		<category domain="post_tag" nicename="fertility"><![CDATA[fertility]]></category>
-		<category domain="category" nicename="fsh"><![CDATA[FSH]]></category>
 		<category domain="post_tag" nicename="fsh"><![CDATA[FSH]]></category>
+		<category domain="category" nicename="fsh"><![CDATA[FSH]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
 		<category domain="post_tag" nicename="womens-health"><![CDATA[womens health]]></category>
                                                             <wp:postmeta>
@@ -33370,8 +33389,8 @@ At SiPhox Health, we firmly believe in the power of understanding your body thro
 		<category domain="post_tag" nicename="diabetes"><![CDATA[diabetes]]></category>
 		<category domain="post_tag" nicename="glucose"><![CDATA[glucose]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
-		<category domain="category" nicename="hba1c"><![CDATA[HbA1C]]></category>
 		<category domain="post_tag" nicename="hba1c"><![CDATA[HbA1c]]></category>
+		<category domain="category" nicename="hba1c"><![CDATA[HbA1C]]></category>
 		<category domain="post_tag" nicename="hemoglobin-a1c"><![CDATA[Hemoglobin A1C]]></category>
 		<category domain="post_tag" nicename="insulin"><![CDATA[insulin]]></category>
 		<category domain="post_tag" nicename="metabolism"><![CDATA[metabolism]]></category>
