@@ -12,13 +12,13 @@
 	<atom:link href="/hub/author/siphoxhealth/feed/" rel="self" type="application/rss+xml" />
 	<link>/hub/</link>
 	<description></description>
-	<lastBuildDate>Thu, 23 Jul 2026 13:55:49 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Aug 2026 20:13:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.0.3</generator>
+	<generator>https://wordpress.org/?v=7.0.4</generator>
 	<item>
 		<title>How to Improve Your Sleep: Evidence-Based Habits, Routines, and Supplements</title>
 		<link>/hub/guides/improve-sleep/</link>
@@ -549,13 +549,11 @@ Monitoring testosterone replacement therapy (TRT) requires more than simply chec
 <p>Our assays undergo validation to ensure accuracy, precision, and reliability. Capillary collection methods are also validated against traditional venous blood collection where applicable.</p>
 <p>For estradiol testing, the EasyDraw capillary collection method has been validated against venous serum testing using the same analytical methodology.</p>
 <h2>Hormone Testing Methods</h2>
-<h3>Estradiol (Sensitive E2)</h3>
-<h4>Testing Method</h4>
-<p>Sensitive estradiol testing is performed using <strong>LC-MS/MS (Liquid Chromatography-Tandem Mass Spectrometry)</strong>.</p>
-<p>LC-MS/MS is considered the gold standard for low-level estradiol measurement because it provides excellent specificity and minimizes interference that can occur with some immunoassays.</p>
-<h4>Detection Range</h4>
-<p>The lower limit of detection (LLOD) for estradiol is: <strong>48 pg/mL</strong></p>
-<p>Values below this threshold may not be accurately quantified.</p>
+<h3>Estradiol (Sensitive)</h3>
+<h4 class="font-claude-response-body break-words whitespace-normal" dir="ltr"><strong>Testing Method</strong></h4>
+<p class="font-claude-response-body break-words whitespace-normal" dir="ltr">Estradiol is measured by immunoassay, a widely used and well established method in clinical laboratories. The assay is validated for use on our sample type and is run in a CLIA certified, CAP accredited laboratory.</p>
+<h4 class="font-claude-response-body break-words whitespace-normal" dir="ltr"><strong>Detection Range</strong></h4>
+<p class="font-claude-response-body break-words whitespace-normal" dir="ltr">The lower limit of detection (LLOD) for estradiol is 48 pg/mL. Results below this threshold are reported as less than the detection limit rather than as an exact number, because values in that range cannot be reliably quantified. This is most relevant for men, postmenopausal women, and women tested in the early follicular phase, where estradiol is often naturally below the detection limit.</p>
 <h4>Validation Data</h4>
 <p>Detailed internal validation studies, assay correlation analyses, and proprietary performance metrics are not publicly available.</p>
 <h3>Total Testosterone</h3>
