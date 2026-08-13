@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/7.0.4" created="2026-08-12 20:13" -->
+    <!-- generator="WordPress/7.0.4" created="2026-08-13 16:08" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Wed, 12 Aug 2026 20:13:36 +0000</pubDate>
+            <pubDate>Thu, 13 Aug 2026 16:08:56 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -1923,8 +1923,8 @@ Variability in lab results is a known entity, yet it doesn’t detract from the 
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
-                                                        		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
-		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
+                                                        		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
+		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -7728,7 +7728,7 @@ If your TPOAb results are raised, please consult with your physician as this may
 <h3>Why is TSH important?</h3>
 Tracking your TSH levels allows you to understand the health of your thyroid gland, which is an integral part of your endocrine system. The thyroid gland's chief <a href="https://tmedweb.tulane.edu/pharmwiki/doku.php/thyroid_gland" data-sanitized-target="_blank"><span style="text-decoration: underline;">function</span></a> is to regulate metabolism but also plays an important role in maintaining normal growth and development, body temperature, and energy levels. Because of its significance, TSH is included in <span style="text-decoration: underline;"><a href="https://siphoxhealth.com/" data-sanitized-target="_blank">SiPhox Health</a></span>'s foundation panel.
 <h3>How can I better understand my TSH levels?</h3>
-<span class="notion-enable-hover" data-sanitized-mce-data-marked="1" data-sanitized-data-token-index="0" data-token-index="0" data-sanitized-data-reactroot="" data-reactroot="">According to <a href="https://www.uclahealth.org/medical-services/surgery/endocrine-surgery/conditions-treated/thyroid/normal-thyroid-hormone-levels" data-sanitized-target="_blank" data-sanitized-data-mce-href="https://www.uclahealth.org/medical-services/surgery/endocrine-surgery/conditions-treated/thyroid/normal-thyroid-hormone-levels"><span style="text-decoration: underline;">UCLA Health</span>:</a></span>
+Refer to the ranges below to better understand your TSH levels:
 <div data-dynamic-ranges="true" data-test="1"></div>
 <div data-ranges="true">
 <ul>
@@ -9240,8 +9240,9 @@ Measuring and analyzing PSA levels can lead to a variety of helpful checks, such
 </tbody>
 </table>
 </div>
-
 According to the <a href="https://www.cancer.org/cancer/types/prostate-cancer/detection-diagnosis-staging/tests.html" data-sanitized-target="_blank"><span style="text-decoration: underline;">American Cancer Society</span></a>, a PSA between 4 and 10 ng/mL is equivalent to a 25% chance of having prostate cancer, while a PSA over 10 ng/mL increases the likelihood to over 50%. <span style="text-decoration: underline;"><a href="https://www.mayoclinic.org/tests-procedures/psa-test/about/pac-20384731" data-sanitized-target="_blank">Some factors</a></span>, such as certain medications and even obesity, may lower PSA and make this test a misleading representation of your actual cancer risk. If you are concerned with your results, please consult with your physician to seek treatment.
+
+SiPhox's PSA ranges reflect thresholds established by major screening trials: the <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://icurology.org/DOIx.php?id=10.4111%2Ficu.20210429" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id--262655862">ERSPC trial</span></a>, which used a ≥3 ng/mL cutoff to flag abnormal results (and reported a survival benefit), versus the <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa0810696">PLCO trial's</a> ≥4 ng/mL threshold. SiPhox's "optimal" aligns with the more conservative ERSPC cutoff, while "good" still falls within the traditionally accepted normal range.<!-- notionvc: a2cb466b-0be1-4b8c-bab4-5543405a61e1 -->
 
 <span style="text-decoration: underline;">It is important to note that not everyone with a high PSA has prostate cancer, and even people with low PSA can have prostate cancer. PSA is simply a commonly used metric that may indicate the need for further testing.</span>
 <h3>How can I maintain optimal PSA levels?</h3>
@@ -11834,14 +11835,6 @@ If you need to improve your iron levels, consider the following:
                                     <wp:meta_key><![CDATA[limit_modified_date]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
                                                     </item>
                                                 <item>
                             <title><![CDATA[Alkaline Phosphatase (ALP)]]></title>
@@ -11909,13 +11902,32 @@ If you need to improve your iron levels, consider the following:
 <a href="https://my.clevelandclinic.org/health/diagnostics/22029-alkaline-phosphatase-alp">Alkaline Phosphatase (ALP)</a> is an enzyme found throughout the body, with the highest concentrations in the liver, bones, kidneys, and digestive system. It plays a key role in breaking down proteins and is essential for bone formation and liver function. ALP levels are commonly measured in blood tests to assess liver health, bone disorders, and overall metabolic activity.
 <h3>Why is ALP Important?</h3>
 ALP is a useful biomarker for detecting liver disease, bone conditions, and certain metabolic disorders. Elevated ALP levels can indicate liver damage, bile duct obstruction, or increased bone turnover, while low levels may suggest nutritional deficiencies or certain medical conditions. ALP testing is often included in routine liver function tests (LFTs) and can help diagnose various health issues early.
+<h3>How can I better understand my results?</h3>
+<p class="isSelectedEnd">To better interpret your results, refer to the following values:</p>
+
+<div data-dynamic-ranges="true" data-test="1"></div>
+<div data-ranges="true">
+<h4>Lab Range:</h4>
+<ul data-spread="false">
+ 	<li>Out of range (low): &lt;44 U/L</li>
+ 	<li>In range: 44–147 U/L</li>
+ 	<li>Out of range (high): &gt;147 U/L</li>
+</ul>
+<h4>SiPhox Ranges:</h4>
+<ul data-spread="false">
+ 	<li>Optimal: 70–110 U/L</li>
+ 	<li>Good: 55–70 U/L and 110–130 U/L</li>
+ 	<li>Fair: 44–55 U/L and 130–147 U/L</li>
+ 	<li>Pay attention: &lt;44 U/L or &gt;147 U/L</li>
+</ul>
+</div>
+<a href="https://my.clevelandclinic.org/health/diagnostics/22029-alkaline-phosphatase-alp">High ALP</a> may be associated with liver or bile duct disease, increased bone turnover, healing fractures, vitamin D deficiency, or certain other medical conditions. Pregnancy and normal bone growth in children and adolescents can also cause higher ALP levels. <a href="https://siphoxhealth.com/articles/is-low-alp-a-problem">Low ALP</a> may be associated with malnutrition, zinc or magnesium deficiency, hypothyroidism, or hypophosphatasia.
+
+SiPhox's Alkaline Phosphatase (ALP) ranges are supported by a <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585255/" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id--270175456">NHANES study of 34,147 US adults</span></a>, which found higher ALP levels were independently associated with increased all-cause and cardiovascular mortality across the general population. This is why SiPhox's "optimal" range targets the lower-to-mid normal zone rather than treating the entire standard lab range as equally safe.<!-- notionvc: 59a921d4-c9a2-443f-8b61-5e4f94458605 -->
 <h3>How Can I Maintain Optimal ALP Levels?</h3>
 If your ALP levels are high or low, addressing the underlying cause is key.
-<div data-ranges="true"></div>
-SiPhox's Alkaline Phosphatase (ALP) ranges are supported by a <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585255/" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id--270175456">NHANES study of 34,147 US adults</span></a>, which found higher ALP levels were independently associated with increased all-cause and cardiovascular mortality across the general population. This is why SiPhox's "optimal" range targets the lower-to-mid normal zone rather than treating the entire standard lab range as equally safe.
 
-<!-- notionvc: 4639b4c5-aa25-4c11-bdf4-1bcc0dff5bba -->
-<strong>For Elevated ALP:</strong>
+<!-- notionvc: 4639b4c5-aa25-4c11-bdf4-1bcc0dff5bba --><strong>For Elevated ALP:</strong>
 <ul>
  	<li><strong>Liver-related:</strong> Avoid alcohol, maintain a healthy diet, and monitor liver enzyme levels.</li>
  	<li><strong>Bone-related:</strong> Ensure sufficient vitamin D and calcium intake to support bone health.</li>
@@ -12015,6 +12027,27 @@ SiPhox's Alkaline Phosphatase (ALP) ranges are supported by a <a class="notion-l
 <a href="https://medlineplus.gov/ency/article/003483.htm">Total Protein</a> is a blood test that measures the combined levels of two key proteins in the blood: <a href="https://siphoxhealth.com/hub/biomarkers-2/biomarker-albumin">albumin</a> and <a href="https://siphoxhealth.com/hub/biomarkers-2/globulin">globulin</a>. These proteins play vital roles in maintaining fluid balance, immune function, and transporting essential substances throughout the body. Measuring total protein provides valuable insight into overall health, particularly liver function, kidney function, and nutritional status.
 <h3>Why is total protein important?</h3>
 Protein levels in the blood can indicate various health conditions. <a href="https://my.clevelandclinic.org/health/diseases/low-protein-in-blood-hypoproteinemia">Low total protein</a> may suggest liver disease, kidney disease, or malnutrition, while <a href="https://my.clevelandclinic.org/health/symptoms/21025-high-blood-protein-hyperproteinemia">high levels</a> could be linked to chronic infections, inflammatory diseases, or certain cancers like multiple myeloma. Because proteins are essential for immune response, healing, and muscle maintenance, monitoring total protein helps identify underlying health concerns before symptoms appear.
+<h3>How can I better understand my results?</h3>
+To better interpret your results, refer to the following values:
+<div data-dynamic-ranges="true" data-test="1"></div>
+<div data-ranges="true">
+<h4>Lab Range:</h4>
+<ul data-spread="false">
+ 	<li>Out of range (low): &lt;6.3 g/dL</li>
+ 	<li>In range: 6.3–8.2 g/dL</li>
+ 	<li>Out of range (high): &gt;8.2 g/dL</li>
+</ul>
+<h4>SiPhox Ranges:</h4>
+<ul data-spread="false">
+ 	<li>Optimal Range: 6.3–8.2 g/dL</li>
+ 	<li>Good Range: 6.0–6.3 g/dL and 8.2–8.5 g/dL</li>
+ 	<li>Fair Range: 5.5–6.0 g/dL and 8.5–9.0 g/dL</li>
+ 	<li>Pay Attention: &lt;5.5 g/dL or &gt;9.0 g/dL</li>
+</ul>
+</div>
+<a href="https://my.clevelandclinic.org/health/diseases/low-protein-in-blood-hypoproteinemia">Low total protein</a> may be associated with liver disease, kidney disease, malnutrition, or malabsorption. High total protein may be associated with dehydration, chronic infection or inflammation, or certain blood disorders. Total protein should be interpreted alongside albumin, globulin, and other relevant biomarkers to better understand the underlying cause of an abnormal result.
+
+SiPhox's total protein ranges are supported by a <a class="notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9617561/" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id--391820814">historical cohort study of 2,235 general inpatients</span></a>, which found total protein below 6.5–6.8 g/dL predicted significantly higher in-hospital mortality, reflecting malnutrition or inflammatory status. This is why SiPhox's "optimal" range sits above this risk threshold, treating levels near 6.4–6.6 g/dL as only "fair" despite falling within most labs' broader 6.0–8.3 g/dL normal range. <!-- --> <!-- notionvc: 536c8f3f-8e78-47ea-8158-ff97d26eeae8 -->
 <h3>How can I maintain optimal total protein levels?</h3>
 Maintaining balanced protein levels involves addressing any underlying health issues and ensuring proper nutrition.
 
@@ -12416,6 +12449,27 @@ Remember: Standard ranges tell you if you're similar to the general population. 
 
 <h3 data-sanitized-data-mce-fragment="1">Why is TgAb Important?</h3>
 Elevated TgAb levels are commonly linked to <a href="https://my.clevelandclinic.org/health/diseases/17665-hashimotos-disease"><strong class="sc-jwpOCX gKUUgZ" data-mark="strong">Hashimoto’s thyroiditis</strong></a> and <a href="https://www.mayoclinic.org/diseases-conditions/graves-disease/symptoms-causes/syc-20356240"><strong class="sc-jwpOCX gKUUgZ" data-mark="strong">Graves’ disease</strong></a>, two autoimmune disorders that can lead to hypothyroidism or hyperthyroidism. Since thyroid disorders often develop gradually, testing for TgAb can help detect autoimmune activity early, even before symptoms appear.
+<h3>How can I better understand my results?</h3>
+<p class="isSelectedEnd">To better interpret your results, refer to the following values:</p>
+
+<div data-dynamic-ranges="true" data-test="1"></div>
+<div data-ranges="true">
+<h4>Lab Range:</h4>
+<ul data-spread="false">
+ 	<li>Out of range (low): &lt;0 IU/mL</li>
+ 	<li>In range: &lt;4 IU/mL</li>
+ 	<li>Out of range (high): ≥4 IU/mL</li>
+</ul>
+<h4>SiPhox Ranges:</h4>
+<ul data-spread="false">
+ 	<li>Optimal Range: &lt;4 IU/mL</li>
+ 	<li>Fair Range: 4–9 IU/mL</li>
+ 	<li>Pay Attention: &gt;9 IU/mL</li>
+</ul>
+</div>
+Low or undetectable TgAb levels are generally favorable because they indicate that significant antibodies against thyroglobulin were not detected. Elevated TgAb indicates thyroid autoantibody activity and may be associated with autoimmune thyroid disease, particularly Hashimoto’s thyroiditis. However, TgAb should be interpreted together with thyroid hormone levels, TSH, TPOAb, symptoms, and clinical history rather than used alone to diagnose a thyroid condition.
+
+<span class="discussion-level-1 discussion-id-3b592984-f9b8-80c5-8378-001c8967d4e2 notion-enable-hover" data-token-index="0">SiPhox's TgAb ranges align with the </span><a class="discussion-level-1 discussion-id-3b592984-f9b8-80c5-8378-001c8967d4e2 notion-link-token notion-focusable-token notion-enable-hover" tabindex="0" href="https://academic.oup.com/ejendo/article/189/2/R11/7251404" rel="noopener noreferrer" data-token-index="1"><span class="link-annotation-unknown-block-id--1110555643">European Journal of Endocrinology's clinical and laboratory expert consensus</span></a><span class="discussion-level-1 discussion-id-3b592984-f9b8-80c5-8378-001c8967d4e2 notion-enable-hover" data-token-index="2">, which recommends reference ranges be based on TgAb levels found in a population free of thyroid disease, since detectable TgAb signals early autoimmune thyroid activity even below standard "positive" cutoffs. This is why SiPhox's "optimal" targets near-zero levels rather than the much higher standard lab cutoffs (often 20+ IU/mL).</span><!-- notionvc: ffcef72d-34d0-475f-9986-76c39cc88d69 -->
 <h3 data-sanitized-data-mce-fragment="1">How Can I Maintain Optimal Thyroid Health?</h3>
 <p data-sanitized-data-mce-fragment="1">Managing TgAb levels involves addressing underlying thyroid conditions and supporting overall immune function. Monitoring your thyroid function with regular testing and managing any known autoimmune conditions you may have will help to maintain optimal thyroid health.</p>
 
@@ -15344,8 +15398,8 @@ Understanding your Free T3:Free T4 ratio provides a more complete picture of thy
                             <wp:post_id>3871</wp:post_id>
                             <wp:post_date><![CDATA[2025-08-11 19:33:33]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2025-08-11 19:33:33]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-08-07 17:39:47]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-08-07 17:39:47]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-08-13 16:08:56]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-08-13 16:08:56]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[total-iron-binding-capacity]]></wp:post_name>
@@ -15461,6 +15515,14 @@ TIBC is most informative when part of a complete iron panel, which includes seru
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -29364,8 +29426,8 @@ They are what determine whether the outcome of treatment is merely weight reduct
                             <wp:post_id>4273</wp:post_id>
                             <wp:post_date><![CDATA[2026-06-18 14:40:28]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2026-06-18 14:40:28]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-08-12 20:13:36]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-08-12 20:13:36]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-08-12 20:13:37]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-08-12 20:13:37]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[testosterone-replacement-therapy-testing]]></wp:post_name>
@@ -29410,15 +29472,13 @@ Our assays undergo validation to ensure accuracy, precision, and reliability. Ca
 
 For estradiol testing, the EasyDraw capillary collection method has been validated against venous serum testing using the same analytical methodology.
 <h2>Hormone Testing Methods</h2>
-<h3>Estradiol (Sensitive E2)</h3>
-<h4>Testing Method</h4>
-Sensitive estradiol testing is performed using <strong>LC-MS/MS (Liquid Chromatography-Tandem Mass Spectrometry)</strong>.
+<h3>Estradiol (Sensitive)</h3>
+<h4 class="font-claude-response-body break-words whitespace-normal" dir="ltr"><strong>Testing Method</strong></h4>
+<p class="font-claude-response-body break-words whitespace-normal" dir="ltr">Estradiol is measured by immunoassay, a widely used and well established method in clinical laboratories. The assay is validated for use on our sample type and is run in a CLIA certified, CAP accredited laboratory.</p>
 
-LC-MS/MS is considered the gold standard for low-level estradiol measurement because it provides excellent specificity and minimizes interference that can occur with some immunoassays.
-<h4>Detection Range</h4>
-The lower limit of detection (LLOD) for estradiol is: <strong>48 pg/mL</strong>
+<h4 class="font-claude-response-body break-words whitespace-normal" dir="ltr"><strong>Detection Range</strong></h4>
+<p class="font-claude-response-body break-words whitespace-normal" dir="ltr">The lower limit of detection (LLOD) for estradiol is 48 pg/mL. Results below this threshold are reported as less than the detection limit rather than as an exact number, because values in that range cannot be reliably quantified. This is most relevant for men, postmenopausal women, and women tested in the early follicular phase, where estradiol is often naturally below the detection limit.</p>
 
-Values below this threshold may not be accurately quantified.
 <h4>Validation Data</h4>
 Detailed internal validation studies, assay correlation analyses, and proprietary performance metrics are not publicly available.
 <h3>Total Testosterone</h3>
@@ -29564,14 +29624,6 @@ These factors can shift hormone levels temporarily and should be avoided when po
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -33389,8 +33441,8 @@ At SiPhox Health, we firmly believe in the power of understanding your body thro
 		<category domain="post_tag" nicename="diabetes"><![CDATA[diabetes]]></category>
 		<category domain="post_tag" nicename="glucose"><![CDATA[glucose]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
-		<category domain="post_tag" nicename="hba1c"><![CDATA[HbA1c]]></category>
 		<category domain="category" nicename="hba1c"><![CDATA[HbA1C]]></category>
+		<category domain="post_tag" nicename="hba1c"><![CDATA[HbA1c]]></category>
 		<category domain="post_tag" nicename="hemoglobin-a1c"><![CDATA[Hemoglobin A1C]]></category>
 		<category domain="post_tag" nicename="insulin"><![CDATA[insulin]]></category>
 		<category domain="post_tag" nicename="metabolism"><![CDATA[metabolism]]></category>
