@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/7.0.4" created="2026-08-13 16:08" -->
+    <!-- generator="WordPress/7.1" created="2026-08-25 21:54" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Thu, 13 Aug 2026 16:08:56 +0000</pubDate>
+            <pubDate>Tue, 25 Aug 2026 21:54:27 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -42,7 +42,7 @@
 	<wp:author><wp:author_id>27</wp:author_id><wp:author_login><![CDATA[rami.abrams@siphoxhealth.com]]></wp:author_login><wp:author_email><![CDATA[rami.abrams@siphoxhealth.com]]></wp:author_email><wp:author_display_name><![CDATA[rami.abrams@siphoxhealth.com]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
                                                 
-            <generator>https://wordpress.org/?v=7.0.4</generator>
+            <generator>https://wordpress.org/?v=7.1</generator>
 
                                     <item>
                             <title><![CDATA[What We Measure]]></title>
@@ -1923,8 +1923,8 @@ Variability in lab results is a known entity, yet it doesn’t detract from the 
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
-                                                        		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
-		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
+                                                        		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
+		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -2130,8 +2130,8 @@ Cardiovascular health is no joke. Several studies mentioned earlier in this guid
                                                         		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
 		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
-		<category domain="category" nicename="cortisol"><![CDATA[Cortisol]]></category>
 		<category domain="post_tag" nicename="cortisol"><![CDATA[cortisol]]></category>
+		<category domain="category" nicename="cortisol"><![CDATA[Cortisol]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
 		<category domain="post_tag" nicename="health"><![CDATA[health]]></category>
 		<category domain="post_tag" nicename="hormones"><![CDATA[hormones]]></category>
@@ -3130,8 +3130,8 @@ If zinc levels are too low, it can lead to a variety of health issues, including
                                                         		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="post_tag" nicename="at-home"><![CDATA[at-home]]></category>
 		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
-		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="biomarkers"><![CDATA[biomarkers]]></category>
+		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood"><![CDATA[blood]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -15398,8 +15398,8 @@ Understanding your Free T3:Free T4 ratio provides a more complete picture of thy
                             <wp:post_id>3871</wp:post_id>
                             <wp:post_date><![CDATA[2025-08-11 19:33:33]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2025-08-11 19:33:33]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-08-13 16:08:56]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-08-13 16:08:56]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-08-13 16:08:57]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-08-13 16:08:57]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[total-iron-binding-capacity]]></wp:post_name>
@@ -15477,7 +15477,12 @@ SiPhox's TIBC ranges are supported by a <a class="notion-link-token notion-focus
 Your healthcare provider may recommend TIBC testing if you experience symptoms of iron imbalance, such as persistent fatigue, weakness, pale skin, shortness of breath, or frequent infections. Certain populations benefit from regular monitoring, including pregnant women, vegetarians and vegans, frequent blood donors, athletes, and those with chronic absorption issues.
 
 TIBC is most informative when part of a complete iron panel, which includes serum iron, ferritin, and transferrin saturation. This comprehensive approach gives a full picture of iron metabolism and helps guide treatment for optimal health.
-
+<h3>Where can I learn more?</h3>
+<ul data-spread="false">
+ 	<li><a href="https://my.clevelandclinic.org/health/diagnostics/24979-total-iron-binding-capacity-tibc">Cleveland Clinic – TIBC (Total Iron-Binding Capacity) Test</a></li>
+ 	<li><a href="https://medlineplus.gov/ency/article/003489.htm">MedlinePlus – Total Iron Binding Capacity</a></li>
+ 	<li><a href="https://www.mayocliniclabs.com/test-catalog/overview/621385">Mayo Clinic Laboratories – Iron and Total Iron-Binding Capacity</a></li>
+</ul>
 <strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong>]]></wp:meta_value>
                                 </wp:postmeta>
                                                             <wp:postmeta>
@@ -15515,14 +15520,6 @@ TIBC is most informative when part of a complete iron panel, which includes seru
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -26227,7 +26224,7 @@ Both are useful. Heart &amp; Metabolic Age tells you how your cardiovascular sys
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
-                            <title><![CDATA[Heart and Metabolic Age]]></title>
+                            <title><![CDATA[Heart & Metabolic Score]]></title>
                             <link>/hub/guides/heart-metabolic-age/</link>
                             <pubDate>Wed, 11 Feb 2026 21:49:46 +0000</pubDate>
                             <dc:creator><![CDATA[siphoxhealth]]></dc:creator>
@@ -26238,8 +26235,8 @@ Both are useful. Heart &amp; Metabolic Age tells you how your cardiovascular sys
                             <wp:post_id>4165</wp:post_id>
                             <wp:post_date><![CDATA[2026-02-11 21:49:46]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2026-02-11 21:49:46]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-02-11 21:49:47]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-02-11 21:49:47]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-08-25 21:54:27]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-08-25 21:54:27]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[heart-metabolic-age]]></wp:post_name>
@@ -26371,6 +26368,14 @@ Heart &amp; Metabolic Age distills these complex dynamics into a single, trackab
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
