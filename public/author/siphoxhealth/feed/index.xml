@@ -12,7 +12,7 @@
 	<atom:link href="/hub/author/siphoxhealth/feed/" rel="self" type="application/rss+xml" />
 	<link>/hub/</link>
 	<description></description>
-	<lastBuildDate>Wed, 12 Aug 2026 20:13:37 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Aug 2026 16:30:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,64 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=7.1</generator>
 	<item>
+		<title>Hypothyroid vs Hyperthyroid Symptoms: What That Means in Your Report</title>
+		<link>/hub/guides/hypothyroid-hyperthyroid-symptoms/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Wed, 26 Aug 2026 16:30:44 +0000</pubDate>
+				<category><![CDATA[Guides]]></category>
+		<guid isPermaLink="false">/hub/?p=4348</guid>
+
+					<description><![CDATA[
+
+Your thyroid report looks at two things together: what your blood tests show and how you are feeling. On its own, a symptom like tiredness could mean many things, but paired with your biomarkers, it starts to tell a clearer story. Symptoms and biomarkers work together Thyroid symptoms are famously nonspecific, and no two people&#8230; <a class="more-link" href="/hub/guides/hypothyroid-hyperthyroid-symptoms/">Continue reading <span class="screen-reader-text">Hypothyroid vs Hyperthyroid Symptoms: What That Means in Your Report</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<p>Your thyroid report looks at two things together: what your blood tests show and how you are feeling. On its own, a symptom like tiredness could mean many things, but paired with your biomarkers, it starts to tell a clearer story.</p>
+<h2>Symptoms and biomarkers work together</h2>
+<p>Thyroid symptoms are famously nonspecific, and no two people have exactly the same set. That is precisely why lab tests sit at the center of your report: the biomarkers show what your thyroid is doing, and your symptoms add the human context of how it is affecting you. Read together, they are far more informative than either alone.</p>
+<h2>When your thyroid slows down (hypothyroid)</h2>
+<p>An underactive thyroid slows your metabolism, so the symptoms tend to be ones of &#8220;slowing down&#8221;:</p>
+<ul>
+<li>Fatigue and sluggishness</li>
+<li>Feeling cold when others don&#8217;t</li>
+<li>Weight gain or fluid retention</li>
+<li>Constipation</li>
+<li>Dry skin and thinning hair</li>
+<li>Low mood, brain fog, or poor memory</li>
+</ul>
+<h2>When your thyroid speeds up (hyperthyroid)</h2>
+<p>An overactive thyroid does the opposite, revving your system up:</p>
+<ul>
+<li>Feeling hot, sweaty, or restless</li>
+<li>Weight loss despite a normal or bigger appetite</li>
+<li>A racing or irregular heartbeat</li>
+<li>Anxiety, nervousness, or irritability</li>
+<li>Trembling hands</li>
+<li>Trouble sleeping</li>
+</ul>
+<h2>Specific vs non-specific symptoms</h2>
+<p>Some symptoms are <strong>non-specific</strong>: tiredness, low mood, or weight change could stem from many causes and don&#8217;t point to the thyroid on their own. They gain meaning when they line up with your labs. Others are more <strong>specific</strong> (for example, a racing heartbeat with heat intolerance, or neck fullness) and point more directly toward a particular thyroid pattern. Your report groups them this way so the more telling signals carry appropriate weight.</p>
+<h2>How your report uses them</h2>
+<p>Your symptoms are scored for severity and combined with your biomarker results to build your overall picture: whether things look balanced, underactive, or overactive, and how strongly the signals agree. When your symptoms and your labs point the same way, that adds confidence; when they disagree, that is useful too, and worth discussing with your doctor.</p>
+<h2>What this means for you</h2>
+<p>If your labs are normal but you still feel off, that doesn&#8217;t mean your experience isn&#8217;t real: it means the answer may lie elsewhere, or may be worth rechecking over time. And if your labs are abnormal but you feel fine, your report helps flag it early. Either way, the goal is to bring the two together into one clear, personalized read.</p>
+<h2>Key takeaway</h2>
+<p>Hypothyroid symptoms are about slowing down; hyperthyroid symptoms are about speeding up. Neither is diagnosed on feeling alone. Your report pairs how you feel with what your biomarkers show to give you the fullest picture.</p>
+<h2>Where to read more</h2>
+<ul>
+<li>American Thyroid Association: <a href="https://www.thyroid.org/hypothyroidism/">Hypothyroidism</a>, <a href="https://www.thyroid.org/hyperthyroidism/">Hyperthyroidism</a></li>
+<li>Mayo Clinic: <a href="https://www.mayoclinic.org/diseases-conditions/hypothyroidism/symptoms-causes/syc-20350284">Hypothyroidism</a>, <a href="https://www.mayoclinic.org/diseases-conditions/hyperthyroidism/symptoms-causes/syc-20373659">Hyperthyroidism</a>.</li>
+</ul>
+<p><em>This article is for general wellness and educational purposes and is not medical advice. For anything specific to your health, please speak with your doctor.</em></p>
+<p><!-- notionvc: e05f9b84-7c65-480e-bcb5-e15265999710 --></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>How to Improve Your Sleep: Evidence-Based Habits, Routines, and Supplements</title>
 		<link>/hub/guides/improve-sleep/</link>
 		
@@ -848,162 +906,6 @@ Your GLP report looks at two things together: what your blood tests show and how
 </ul>
 <p><em>This article is for general wellness and educational purposes and isn’t medical advice. If you’re worried about a symptom or unsure how serious it is, contact your doctor or seek urgent care.</em></p>
 <p><!-- notionvc: 2133506c-aef6-46ce-bca4-a5ca6591b7c1 --></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Standard At-Home Body Measurement Protocol (Neck, Waist, Hip, Chest + Height &#038; Weight)</title>
-		<link>/hub/guides/standard-home-body-measurement-protocol/</link>
-		
-		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Fri, 15 May 2026 18:11:12 +0000</pubDate>
-				<category><![CDATA[Guides]]></category>
-		<guid isPermaLink="false">/hub/?p=4245</guid>
-
-					<description><![CDATA[
-
-This option is intended for users who are unable to complete the body composition scan through the SiPhox Health app. Before proceeding, please note that if you have completed a DEXA scan or another body composition assessment within the last 8 weeks, you may prefer to submit those results instead. You can share this information&#8230; <a class="more-link" href="/hub/guides/standard-home-body-measurement-protocol/">Continue reading <span class="screen-reader-text">Standard At-Home Body Measurement Protocol (Neck, Waist, Hip, Chest + Height &#038; Weight)</span></a>]]></description>
-			
-
-							<content:encoded><![CDATA[
-<p>This option is intended for users who are unable to complete the body composition scan through the SiPhox Health app. Before proceeding, please note that if you have completed a DEXA scan or another body composition assessment within the last 8 weeks, you may prefer to submit those results instead. You can share this information directly in the questionnaire, where you will have the opportunity to indicate that you have recent body composition results available.</p>
-<p>If you do not have a recent DEXA or other body composition scan, or if you are unable to access those results, you may continue with this alternative option.</p>
-<p>Accurate and standardized measurements are essential. Even small differences in technique can lead to large variations in results, so please follow the instructions carefully.<!-- notionvc: 669a4b2a-96e2-4c10-a45a-7fef13a6c8e7 --></p>
-<h2>What You Need</h2>
-<ul>
-<li>A soft, flexible measuring tape (tailor’s tape)</li>
-<li>A mirror (optional but helpful)</li>
-<li>Light, fitted clothing or minimal clothing</li>
-<li>A relaxed standing posture</li>
-</ul>
-<h2>Required Measurements</h2>
-<p>Participants should provide:</p>
-<ul>
-<li>Height</li>
-<li>Weight</li>
-<li>Neck circumference</li>
-<li>Chest circumference</li>
-<li>Waist circumference</li>
-<li>Hip circumference</li>
-</ul>
-<p>Each measurement should be taken twice, and the average recorded.</p>
-<h1>1. Height</h1>
-<h3>How to measure:</h3>
-<ul>
-<li>Stand barefoot on a flat surface (no shoes)</li>
-<li>Stand straight with heels together</li>
-<li>Keep head level (looking forward, not up or down)</li>
-<li>Measure from the floor to the top of the head</li>
-</ul>
-<h3>Tips:</h3>
-<ul>
-<li>Stand against a wall for accuracy</li>
-<li>Ensure heels, back, and head are aligned if possible</li>
-</ul>
-<h1>2. Weight</h1>
-<h3>How to measure:</h3>
-<ul>
-<li>Use a digital scale on a hard, flat surface (not carpet)</li>
-<li>Weigh yourself without shoes</li>
-<li>Preferably measure in the morning before eating</li>
-</ul>
-<h3>Tips:</h3>
-<ul>
-<li>Avoid holding objects while weighing</li>
-<li>Try to measure at a consistent time of day</li>
-</ul>
-<h1>3. Neck Circumference</h1>
-<h3>Why it matters:</h3>
-<p>Neck circumference helps estimate upper-body fat distribution and is a useful indicator in overall body composition profiling.</p>
-<h3>How to measure:</h3>
-<ul>
-<li>Stand upright with shoulders relaxed</li>
-<li>Place the tape just below the Adam’s apple (or midpoint of the neck)</li>
-<li>Wrap the tape around the neck horizontally</li>
-<li>Ensure it is snug but not compressing the skin</li>
-</ul>
-<h3>Key tips:</h3>
-<ul>
-<li>Do not tilt your head up or down</li>
-<li>Keep shoulders relaxed, not raised</li>
-</ul>
-<p><a href="/hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.02.24-PM.png"><img decoding="async" class="alignleft wp-image-4246" src="/hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.02.24-PM.png" alt="" width="215" height="162" srcset="/hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.02.24-PM.png 832w, /hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.02.24-PM-300x226.png 300w, /hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.02.24-PM-768x578.png 768w" sizes="(max-width: 215px) 100vw, 215px" /></a></p>
-<h1>4. Chest Circumference</h1>
-<h3>Why it matters:</h3>
-<p>Chest measurement reflects upper torso size and helps assess muscle and fat distribution in the upper body.</p>
-<h3>How to measure:</h3>
-<ul>
-<li>Wrap the tape around the fullest part of the chest</li>
-<li>Typically, across the nipple line</li>
-<li>Arms should be relaxed at your sides</li>
-<li>Stand naturally without expanding or holding breath</li>
-</ul>
-<h3>Key tips:</h3>
-<ul>
-<li>Do not puff out your chest</li>
-<li>Keep the tape level all the way around</li>
-</ul>
-<p><a href="/hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.04-PM.png"><img fetchpriority="high" decoding="async" class="alignleft wp-image-4247" src="/hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.04-PM.png" alt="" width="329" height="246" srcset="/hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.04-PM.png 822w, /hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.04-PM-300x224.png 300w, /hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.04-PM-768x574.png 768w" sizes="(max-width: 329px) 100vw, 329px" /></a></p>
-<h1>5. Waist Circumference</h1>
-<h3>Why it matters:</h3>
-<p>Waist circumference is one of the strongest indicators of central fat distribution and metabolic risk.</p>
-<h3>How to measure:</h3>
-<ul>
-<li>Locate the narrowest part of your torso (or midway between ribs and hips if unclear)</li>
-<li>Wrap the tape around your waist horizontally</li>
-<li>Keep it snug but not tight</li>
-</ul>
-<h3>Key tips:</h3>
-<ul>
-<li>Do not suck in your stomach</li>
-<li>Stand relaxed and breathe normally</li>
-<li>Ensure the tape is level all the way around</li>
-</ul>
-<p><a href="/hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.21-PM.png"><img decoding="async" class="alignleft wp-image-4249" src="/hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.21-PM.png" alt="" width="229" height="171" srcset="/hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.21-PM.png 916w, /hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.21-PM-300x224.png 300w, /hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.21-PM-768x573.png 768w" sizes="(max-width: 229px) 100vw, 229px" /></a></p>
-<p>&nbsp;</p>
-<h1>6. Hip Circumference</h1>
-<h3>Why it matters:</h3>
-<p>Hip measurement reflects lower-body fat and muscle distribution and is important for body shape and ratio analysis.</p>
-<h3>How to measure:</h3>
-<ul>
-<li>Stand with feet together</li>
-<li>Wrap the tape around the widest part of your hips and buttocks</li>
-<li>Ensure the tape is level and straight</li>
-</ul>
-<h3>Key tips:</h3>
-<ul>
-<li>Do not tilt your hips forward or backward</li>
-<li>Check in a mirror if possible to ensure even placement</li>
-</ul>
-<p><a href="/hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.32-PM.png"><img loading="lazy" decoding="async" class="alignleft wp-image-4248" src="/hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.32-PM.png" alt="" width="262" height="198" srcset="/hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.32-PM.png 910w, /hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.32-PM-300x227.png 300w, /hub/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.04.32-PM-768x581.png 768w" sizes="auto, (max-width: 262px) 100vw, 262px" /></a></p>
-<p>&nbsp;</p>
-<h2>Important General Guidelines</h2>
-<p>To ensure the highest quality data:</p>
-<ul>
-<li>Take all measurements standing in a relaxed posture</li>
-<li>Use the same tape for all measurements</li>
-<li>Measure directly against the body (not over thick clothing)</li>
-<li>Keep the tape level and parallel to the floor</li>
-<li>Avoid pulling the tape too tight or leaving it too loose</li>
-<li>If unsure, repeat the measurement and record the average</li>
-</ul>
-<h2>Data Consistency Matters</h2>
-<p>These measurements are used to track changes over time and across individuals. Small differences in technique can significantly affect interpretation, so consistency is more important than precision.</p>
-<p>We recommend that participants:</p>
-<ul>
-<li>Measure themselves at the same time of day when possible</li>
-<li>Use the same method each time</li>
-<li>Follow the same sequence of measurements</li>
-</ul>
-<h2>Summary</h2>
-<p>Our protocol combines six key body measurements (neck, chest, waist, hip, height, and weight) to create a reliable, standardized dataset when 3D scanning is not available. Together, these measurements provide a strong foundation for analyzing body composition patterns and tracking changes over time.</p>
-<p>References:</p>
-<p><a href="https://elht.nhs.uk/services/dietetics/body-measuring-techniques">https://elht.nhs.uk/services/dietetics/body-measuring-techniques</a></p>
-<p><a href="https://www.measurement-toolkit.org/anthropometry/objective-methods/simple-measures-circumference">https://www.measurement-toolkit.org/anthropometry/objective-methods/simple-measures-circumference</a></p>
-<p><a href="https://renpho.com/blogs/wellness-fitness-blog/heres-all-you-need-to-know-about-body-tape-measurements?srsltid=AfmBOopMMp2zu8yBn26uhVlPGlQHLkdhnw6ZI829c2cAwhTT6_agDqpw">https://renpho.com/blogs/wellness-fitness-blog/heres-all-you-need-to-know-about-body-tape-measurements?srsltid=AfmBOopMMp2zu8yBn26uhVlPGlQHLkdhnw6ZI829c2cAwhTT6_agDqpw</a></p>
-<p><!-- notionvc: 720bdeb2-f100-4002-8acc-00968565ba9f --></p>
 ]]></content:encoded>
 					
 		
