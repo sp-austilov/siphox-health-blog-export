@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/7.1" created="2026-08-26 16:30" -->
+    <!-- generator="WordPress/7.1" created="2026-08-26 17:10" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Wed, 26 Aug 2026 16:30:44 +0000</pubDate>
+            <pubDate>Wed, 26 Aug 2026 17:10:52 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -153,7 +153,7 @@ Metabolic fitness is the condition of a robust and healthy set of cellular mecha
                             <wp:post_name><![CDATA[what-we-measure]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>294</wp:menu_order>
+                            <wp:menu_order>293</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -495,7 +495,7 @@ https://youtu.be/u6oF_lyUsII
                             <wp:post_name><![CDATA[y-combinator-launch-2022]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>293</wp:menu_order>
+                            <wp:menu_order>292</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -650,6 +650,252 @@ https://youtu.be/u6oF_lyUsII
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_oembed_time_57e8d24ca20b58a56f73df0097216b52]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[1708057320]]></wp:meta_value>
+                                </wp:postmeta>
+                                                    </item>
+                                                <item>
+                            <title><![CDATA[Cholesterol: A Key Measure of Cardiovascular and Metabolic Health]]></title>
+                            <link>/hub/guides/biomarkers/how-to-optimize-your-cholesterol-a-biohackers-guide/</link>
+                            <pubDate>Fri, 19 May 2023 10:13:51 +0000</pubDate>
+                            <dc:creator><![CDATA[siphoxhealth]]></dc:creator>
+                            <guid isPermaLink="false">https://hub.siphoxhealth.com/?p=1720</guid>
+                            <description></description>
+                            <content:encoded><![CDATA[]]></content:encoded>
+                            <excerpt:encoded><![CDATA[Delve into expert opinions on the ideal cholesterol ranges, dietary choices, lifestyle changes, and the role of supplements and exercise in achieving and maintaining optimal cholesterol levels.]]></excerpt:encoded>
+                            <wp:post_id>1720</wp:post_id>
+                            <wp:post_date><![CDATA[2023-05-19 10:13:51]]></wp:post_date>
+                            <wp:post_date_gmt><![CDATA[2023-05-19 10:13:51]]></wp:post_date_gmt>
+                            <wp:post_modified><![CDATA[2024-02-16 04:22:47]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2024-02-16 04:22:47]]></wp:post_modified_gmt>
+                            <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+                            <wp:ping_status><![CDATA[open]]></wp:ping_status>
+                            <wp:post_name><![CDATA[how-to-optimize-your-cholesterol-a-biohackers-guide]]></wp:post_name>
+                            <wp:status><![CDATA[publish]]></wp:status>
+                            <wp:post_parent>0</wp:post_parent>
+                            <wp:menu_order>256</wp:menu_order>
+                            <wp:post_type><![CDATA[post]]></wp:post_type>
+                            <wp:post_password><![CDATA[]]></wp:post_password>
+                            <wp:is_sticky>0</wp:is_sticky>
+                                                        		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
+		<category domain="category" nicename="cholesterol"><![CDATA[Cholesterol]]></category>
+		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[7]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[rank_math_seo_score]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[72]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:6:{i:0;s:11:"text_editor";i:1;s:14:"highlight_card";i:2;s:11:"text_editor";i:3;s:8:"cta_card";i:4;s:11:"text_editor";i:5;s:11:"text_editor";}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_6414004cd50ab]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[written_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:1:{i:0;s:2:"16";}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_written_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_641a6cfe4d592]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[reviewed_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_reviewed_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_641bbb3ce67e4]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[rank_math_primary_category]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[47]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[2152]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[select_related_posts]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:3:{i:0;s:4:"2215";i:1;s:4:"1963";i:2;s:4:"1830";}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[limit_modified_date]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[rank_math_focus_keyword]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[cholesterol,cholesterol test,hdl,ldl,cholesterol levels]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_2_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[<h2>What is Cholesterol?</h2>
+Cholesterol is a waxy, fat-like substance that the body uses to build cells, make hormones, and synthesize vitamins. The liver produces the cholesterol required by the body, and it can also be obtained through diet, mainly from animal products. Cholesterol travels through the bloodstream, attached to proteins. These cholesterol-protein units are called lipoproteins.
+<h2>Understanding HDL, LDL, and Triglycerides</h2>
+Common cholesterol panels measure three types of lipids in your blood: high-density lipoprotein (HDL) cholesterol, low-density lipoprotein (LDL) cholesterol, and triglycerides. Here's what each of these lipids does:
+<ul>
+ 	<li>HDL cholesterol: HDL is often referred to as the "good cholesterol" because it helps remove LDL cholesterol from the bloodstream and protects against cardiovascular diseases. Higher levels of HDL cholesterol are associated with a lower risk of heart disease.</li>
+ 	<li>LDL cholesterol: LDL is commonly referred to as the "bad cholesterol" because it contributes to the buildup of fatty deposits or plaques in the arteries. High levels of LDL cholesterol increase the risk of heart attacks, strokes, and heart disease.</li>
+ 	<li>Triglycerides: Triglycerides are a type of fat found in the blood. They are used by the body for energy, but high levels can contribute to the hardening and narrowing of arteries, increasing the risk of heart disease.</li>
+</ul>
+<h2>Why measure cholesterol levels?</h2>
+Measuring cholesterol levels is essential because high cholesterol can lead to the buildup of fatty deposits or plaques in the arteries. This increases the risk of age-related conditions such as heart attacks, strokes, and heart disease. Regular cholesterol testing helps assess heart health, estimate the risk of cardiovascular disease, and monitor the impact of lifestyle changes on cholesterol levels.
+<h2>What are the risks of high/low cholesterol?</h2>
+High cholesterol, specifically high levels of LDL cholesterol, increases the risk of heart attacks, strokes, and heart disease. On the other hand, high levels of HDL cholesterol protect against cardiovascular diseases.
+Low levels of HDL cholesterol may increase the risk of heart disease and premature death. Extremely low levels of LDL cholesterol and triglycerides are not associated with any health risks but may indicate an underlying medical condition.
+
+Several studies have shown that maintaining optimal cholesterol levels can contribute to a longer and healthier life, while high cholesterol levels can lead to a higher risk of cardiovascular diseases and reduced life expectancy.
+<h2>Interpretation of cholesterol test results and optimal ranges</h2>
+Cholesterol test results provide insights into an individual's risk of heart attack, stroke, and cardiovascular disease. The optimal ranges for cholesterol and triglycerides are as follows:
+<ul>
+ 	<li>Total cholesterol: 125-200 mg/dL</li>
+ 	<li>LDL cholesterol: &lt;130 mg/dL</li>
+ 	<li>HDL cholesterol: &gt;45 mg/dL for men; &gt;55 mg/dL for women</li>
+ 	<li>Triglycerides: &lt;150 mg/dL</li>
+</ul>
+<h2>Reaching and maintaining optimal cholesterol levels could potentially add decades to one's life</h2>
+<h3>Diet</h3>
+Eating Heart-Healthy Foods plays a significant role in managing cholesterol levels.
+<ul>
+ 	<li>Reduce Saturated and Trans Fats: Saturated fats found in red meat and dairy products increase total cholesterol. Worse still, trans fats — often labeled as "partially hydrogenated oils" in store-bought cookies, crackers, and cakes — can raise your LDL ("bad") cholesterol levels.</li>
+ 	<li>Increase Soluble Fiber: Foods rich in soluble fiber can lower your LDL cholesterol. Good sources include oatmeal, kidney beans, brussels sprouts, apples, and pears.</li>
+ 	<li>Add Omega-3 Fatty Acids: Foods rich in omega-3 fatty acids can boost HDL ("good") cholesterol and reduce your risk of heart disease. Salmon, albacore tuna, mackerel, and sardines are high in omega-3 fatty acids. Flaxseeds and walnuts also offer these beneficial fats.</li>
+ 	<li>Reduce Sugar Consumption: The consumption of sugar (sucrose, high fructose corn syrup) increases plasma levels of triglycerides, LDL and apoB, and reduces plasma levels of HDL-C and apoA. The removal of sugar reverses each of these.</li>
+</ul>
+<h3>Behavioral Change</h3>
+<ul>
+ 	<li>Quit Smoking: Quitting smoking improves your HDL cholesterol levels. Moreover, the benefits happen quickly: Within 20 minutes of quitting, your blood pressure and heart rate decrease.</li>
+ 	<li>Reduce Alcohol Intake: While moderate alcohol use has been linked with higher levels of HDL cholesterol, the benefits aren't strong enough to recommend alcohol for anyone who doesn't drink already. Too much alcohol can lead to serious health problems, including high blood pressure, heart failure, and strokes.</li>
+</ul>
+<h3>Dietary Supplements</h3>
+Supplements may play a role in helping you to optimize cholesterol, however, make sure to discuss this with your healthcare provider before starting any new supplement regimen.
+<ul>
+ 	<li>Plant sterols and stanols.</li>
+ 	<li>soluble fiber (psyllium).</li>
+ 	<li>omega-3 fatty acids.</li>
+ 	<li>coenzyme Q10.</li>
+</ul>
+<h3>Exercise</h3>
+Moderate and High-Intensity Cardio has been shown to be the most effective form of exercise to improve HDL function and overall lipid profile.
+<h3>Consistent Testing</h3>
+<ul>
+ 	<li>Identification of Baseline Levels: The first step in managing cholesterol is to know your starting point. This initial test provides the baseline for future tests, allowing you and your doctor to track changes over time.</li>
+ 	<li>Early Detection of Potential Issues: Regular blood testing can catch elevated cholesterol levels before they lead to health issues such as atherosclerosis (hardening of the arteries) or heart disease. By identifying these changes early, you can take proactive measures to lower your cholesterol and reduce your risk.</li>
+ 	<li>Monitoring the Effectiveness of Interventions: If you're making lifestyle changes or taking medication to manage cholesterol, regular blood testing can show whether these strategies are working. If your cholesterol levels aren't improving, or if they're getting worse, you may need to adjust your strategies.</li>
+</ul>
+<h2>What do the experts say?</h2>
+Dr. Robert H. Eckel- former President of the American Heart Association
+<ul>
+ 	<li>"LDL cholesterol is a significant risk factor for cardiovascular disease. The optimal LDL cholesterol level is less than 100 mg/dL for most people. However, for those at higher risk, such as those with a history of heart disease or diabetes, an LDL level of less than 70 mg/dL is often recommended"</li>
+</ul>
+Dr. Patrick Moriarty- Director of the Atherosclerosis and LDL-Apheresis Center at the University of Kansas Medical Center
+<ul>
+ 	<li>"While focusing on lowering LDL cholesterol, we shouldn't neglect HDL, or 'good' cholesterol. For men, an HDL level of 40 mg/dL or higher is protective against heart disease, while for women, it should be 50 mg/dL or higher"</li>
+</ul>
+Dr. Peter Attia- Founder, <em>Early Medical</em>
+<ul>
+ 	<li>"If you want to stop atherosclerosis, you <strong>must lower the LDL particle number</strong>."</li>
+</ul>]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_2_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_1_card_type]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_1_card_type]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64153775140fc]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_1_paragraph]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[<h3>Key Takeaways:</h3>
+<ol>
+ 	<li>Cholesterol is essential for cell building, hormone synthesis, and vitamin production, and is produced by the liver and obtained from diet.</li>
+ 	<li>HDL cholesterol is protective against heart disease, while high levels of LDL cholesterol and triglycerides increase heart disease risk.</li>
+ 	<li>Regular testing of cholesterol levels is crucial as high cholesterol increases the risk of heart disease and strokes.</li>
+ 	<li>Optimal cholesterol management includes diet changes, exercise, and possibly supplements.</li>
+</ol>]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_1_paragraph]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_6415376e140fb]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_0_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[[lwptoc]]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_0_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[rank_math_analytic_object_id]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[62]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_3_subtitle]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[Home health testing has never been this good]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_3_subtitle]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64253e0f6f344]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_3_title]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[Start your SiPhox Health journey]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_3_title]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64253e1b6f345]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_3_paragraph]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[Subscribe to SiPhox and start tracking your LDL + other critical biomarkers as well as sleep, activity and heart data all in one comprehensive dashboard.]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_3_paragraph]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64253e216f346]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_3_cta]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:3:{s:5:"title";s:11:"Get started";s:3:"url";s:35:"https://l.siphox.health/cholesterol";s:6:"target";s:6:"_blank";}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_3_cta]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64253e2b6f347]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_4_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[&nbsp;
+
+<a href="/hub/wp-content/uploads/2023/03/Pricing-comparison-5.svg"><img class="aligncenter size-full wp-image-2636" role="img" src="/hub/wp-content/uploads/2023/03/Pricing-comparison-5.svg" alt="" width="1182" height="1001" /></a>]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_4_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_5_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[&nbsp;
+<p style="font-size: 14px;">Disclaimer: If you have any medical questions or concerns, please talk to your healthcare provider. The articles on the SiPhox Health Hub are underpinned by peer-reviewed research and information drawn from medical societies and governmental agencies. However, they are not a substitute for professional medical advice, diagnosis or treatment.</p>]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_5_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -1912,8 +2158,8 @@ Variability in lab results is a known entity, yet it doesn’t detract from the 
                             <wp:post_id>2809</wp:post_id>
                             <wp:post_date><![CDATA[2024-05-03 17:27:12]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2024-05-03 17:27:12]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2024-06-26 17:16:14]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2024-06-26 17:16:14]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-08-26 16:57:55]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-08-26 16:57:55]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[decoding-apob-the-key-to-cardiovascular-health]]></wp:post_name>
@@ -1947,7 +2193,7 @@ Variability in lab results is a known entity, yet it doesn’t detract from the 
                                 </wp:postmeta>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[written_by]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[a:1:{i:0;s:2:"15";}]]></wp:meta_value>
+                                    <wp:meta_value><![CDATA[a:1:{i:0;s:1:"7";}]]></wp:meta_value>
                                 </wp:postmeta>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_written_by]]></wp:meta_key>
@@ -2034,7 +2280,7 @@ To interpret your results, here are a few values that can be used to gauge your 
 </ul>
 According to the Cleveland Clinic, high ApoB may be a result of pregnancy, high cholesterol, or kidney issues while low ApoB may be present if you have sepsis, liver disease, malabsorption, or high estrogen levels. {{{“Apo B Test.” Cleveland Clinic, 16 May 2023, <a href="http://my.clevelandclinic.org/health/diagnostics/24992-apolipoprotein-b-test">my.clevelandclinic.org/health/diagnostics/24992-apolipoprotein-b-test</a>.}}} Of course, there are a variety of other factors that may be associated with abnormal ApoB levels, so it is best to consult with a physician if you are concerned with your levels to determine the root cause and seek treatment.
 
-If your ApoB levels are high, it is worth consulting your physician to see how you can manage your levels as underlying diseases may be at play. The SiPhox Heart Health Blueprint may also be a good option if you have elevated lipid levels or have a family history of poor cardiovascular health (see here: <a href="https://home.siphoxhealth.com/blueprints/heart-health">https://home.siphoxhealth.com/blueprints/heart-health</a>). If you have slightly elevated levels, you can try:
+If your ApoB levels are high, it is worth consulting your physician to see how you can manage your levels as underlying diseases may be at play. If you have slightly elevated levels, you can try:
 <ul>
  	<li>Engaging in at least 30 minutes of exercise each day {{{“Apo B Test.” Cleveland Clinic, 16 May 2023, <a href="http://my.clevelandclinic.org/health/diagnostics/24992-apolipoprotein-b-test">my.clevelandclinic.org/health/diagnostics/24992-apolipoprotein-b-test</a>.}}}</li>
  	<li>Limiting your intake of saturated fats {{{“Apo B Test.” Cleveland Clinic, 16 May 2023, <a href="http://my.clevelandclinic.org/health/diagnostics/24992-apolipoprotein-b-test">my.clevelandclinic.org/health/diagnostics/24992-apolipoprotein-b-test</a>.}}} This can be done by avoiding foods like butter, coconut oil, cakes, biscuits, fatty cuts of meat, cheese, etc. {{{“How to Eat Less Saturated Fat.” <em>NHS</em>, NHS, 19 June 2023, <a href="http://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/eat-less-saturated-fat/.%7D"><span style="text-decoration: underline;">www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/eat-less-saturated-fat/</span>.</a> }}}</li>
@@ -2046,17 +2292,8 @@ If your ApoB levels are high, it is worth consulting your physician to see how y
  	<li>Increase your intake of foods rich in soluble fiber {{{Jenkins, D. J., Wolever, T. M., Rao, A. V., Hegele, R. A., Mitchell, S. J., Ransom, T. P., Boctor, D. L., Spadafora, P. J., Jenkins, A. L., &amp; Mehling, C. (1993). Effect on blood lipids of very high intakes of fiber in diets low in saturated fat and cholesterol. <em>The New England journal of medicine</em>, <em>329</em>(1), 21–26. <a href="https://doi.org/10.1056/NEJM199307013290104">https://doi.org/10.1056/NEJM199307013290104</a>}}} such as wheat bran, psyllium seeds, cooked pinto beans, etc. (view the Soluble &amp; Insoluble Fiber Foods List <a href="https://www.northottawawellnessfoundation.org/wp-content/uploads/2017/11/NOWF-Fiber-Content-of-Foods.pdf"><span style="text-decoration: underline;">here)</span></a></li>
 </ul>
 <h2>Why is tracking your ApoB important?</h2>
-Cardiovascular health is no joke. Several studies mentioned earlier in this guide have revealed just how vital ApoB is as a predictor for cardiovascular events. The good news is that LDL, HDL, ApoB, ApoA, and triglycerides are all modifiable. But the first step in monitoring your levels is to test your levels, and that’s where SiPhox Health comes in. The benefit of <a href="https://home.siphoxhealth.com/"><span style="text-decoration: underline;">SiPhox Health</span></a> is having the freedom to track such volatile biomarkers frequently, affordably, and conveniently from the comfort of your home. Want to see what your ApoB levels are right now? How about testing every week to see if limiting saturated fats or exercising are actually changing your levels? Or maybe you’re thinking of trying statins and want to monitor your levels to determine whether the prescribed dosage is right for you? With <a href="https://home.siphoxhealth.com/"><span style="text-decoration: underline;">SiPhox Health</span></a>, your health is in your hands. Check out our website to learn more about <a href="https://home.siphoxhealth.com/blueprints/heart-health"><span style="text-decoration: underline;">SiPhox Health’s Heart Health Blueprint</span></a>.
-<h2>Tracking your ApoB with SiPhox Health:</h2>
-<ul>
- 	<li>At-home kit delivered to your home</li>
- 	<li>Fingerprick sample self-collection (low-pain, adjustable lancets)</li>
- 	<li>$295 one-time or subscribe to get $85 per test*</li>
- 	<li>Number of biomarkers included: 17 (7 cardiovascular markers including LDL, HDL, ApoA, ApoB, triglycerides, Lp(a), etc.)</li>
- 	<li>Heart Health Blueprint: Optimize for the lowest effective dose of lipid-lowering medication as needed.</li>
- 	<li>Sleep and activity tracking: Included, 200 devices supported</li>
- 	<li>2-5 business days after collection</li>
-</ul>
+Cardiovascular health is no joke. Several studies mentioned earlier in this guide have revealed just how vital ApoB is as a predictor for cardiovascular events. The good news is that LDL, HDL, ApoB, ApoA, and triglycerides are all modifiable. But the first step in monitoring your levels is to test your levels, and that’s where SiPhox Health comes in. The benefit of <a href="https://home.siphoxhealth.com/"><span style="text-decoration: underline;">SiPhox Health</span></a> is having the freedom to track such volatile biomarkers frequently, affordably, and conveniently from the comfort of your home. Want to see what your ApoB levels are right now? How about testing every week to see if limiting saturated fats or exercising are actually changing your levels? Or maybe you’re thinking of trying statins and want to monitor your levels to determine whether the prescribed dosage is right for you? With <a href="https://home.siphoxhealth.com/"><span style="text-decoration: underline;">SiPhox Health</span></a>, your health is in your hands.
+
 <!-- notionvc: 84b0c795-4a53-4795-add3-0f45efc23e0a -->]]></wp:meta_value>
                                 </wp:postmeta>
                                                             <wp:postmeta>
@@ -29959,7 +30196,7 @@ Your panel of TSH, Free T4, Free T3, and thyroid antibodies already covers what 
                             <wp:post_name><![CDATA[improve-sleep]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>1</wp:menu_order>
+                            <wp:menu_order>2</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -30206,43 +30443,6 @@ Bottom line: Better sleep is built through consistency. Start with one or two ma
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
-                            <title><![CDATA[Hypothyroid vs Hyperthyroid Symptoms: What That Means in Your Report]]></title>
-                            <link>/hub/guides/hypothyroid-hyperthyroid-symptoms/</link>
-                            <pubDate>Wed, 26 Aug 2026 16:30:44 +0000</pubDate>
-                            <dc:creator><![CDATA[siphoxhealth]]></dc:creator>
-                            <guid isPermaLink="false">/hub/?p=4348</guid>
-                            <description></description>
-                            <content:encoded><![CDATA[]]></content:encoded>
-                            <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-                            <wp:post_id>4348</wp:post_id>
-                            <wp:post_date><![CDATA[2026-08-26 16:30:44]]></wp:post_date>
-                            <wp:post_date_gmt><![CDATA[2026-08-26 16:30:44]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-08-26 16:30:44]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-08-26 16:30:44]]></wp:post_modified_gmt>
-                            <wp:comment_status><![CDATA[closed]]></wp:comment_status>
-                            <wp:ping_status><![CDATA[open]]></wp:ping_status>
-                            <wp:post_name><![CDATA[hypothyroid-hyperthyroid-symptoms]]></wp:post_name>
-                            <wp:status><![CDATA[publish]]></wp:status>
-                            <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>0</wp:menu_order>
-                            <wp:post_type><![CDATA[post]]></wp:post_type>
-                            <wp:post_password><![CDATA[]]></wp:post_password>
-                            <wp:is_sticky>0</wp:is_sticky>
-                                                        		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[7]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                    </item>
-                                                <item>
                             <title><![CDATA[SiPhox 2020 Retrospective]]></title>
                             <link>/hub/uncategorized/siphox-2020-retrospective-2/</link>
                             <pubDate>Sun, 10 Jan 2021 10:23:40 +0000</pubDate>
@@ -30301,7 +30501,7 @@ Thanks to Roman Gelperin.]]></content:encoded>
                             <wp:post_name><![CDATA[siphox-2020-retrospective-2]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>299</wp:menu_order>
+                            <wp:menu_order>298</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -30514,7 +30714,7 @@ We’re hard at work commercializing <a href="http://siphox.com/onelab" target=
                             <wp:post_name><![CDATA[trapping-light-a-brief-overview-of-silicon-micro-ring-optical-biosensors]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>298</wp:menu_order>
+                            <wp:menu_order>297</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -30741,7 +30941,7 @@ We’re hard at work commercializing <a href="https://siphoxhealth.com/pages/abo
                             <wp:post_name><![CDATA[optimal-ferritin-levels-and-how-to-lower-ferritin-a-biohackers-guide]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>288</wp:menu_order>
+                            <wp:menu_order>287</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -31447,7 +31647,7 @@ Additionally, high ferritin levels may double the risk of metabolic syndrome, a 
                             <wp:post_name><![CDATA[why-measure-your-insulin-levels-and-what-the-results-mean]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>287</wp:menu_order>
+                            <wp:menu_order>286</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -31690,7 +31890,7 @@ Given what we know about the systematic secretion of insulin in response to gluc
                             <wp:post_name><![CDATA[huberman-on-biohacking-your-cortisol]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>286</wp:menu_order>
+                            <wp:menu_order>285</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -32006,7 +32206,7 @@ Many people do that reflexively, however, they reach for carbohydrate-rich foods
                             <wp:post_name><![CDATA[a-life-saving-ferritin-discovery]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>283</wp:menu_order>
+                            <wp:menu_order>282</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -32350,262 +32550,6 @@ SiPhox Health deploys kits to the customer which the customer uses in two workfl
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[limit_modified_date]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                    </item>
-                                                <item>
-                            <title><![CDATA[Cholesterol: A Key Measure of Cardiovascular and Metabolic Health]]></title>
-                            <link>/hub/guides/biomarkers/how-to-optimize-your-cholesterol-a-biohackers-guide/</link>
-                            <pubDate>Fri, 19 May 2023 10:13:51 +0000</pubDate>
-                            <dc:creator><![CDATA[Eva Medved]]></dc:creator>
-                            <guid isPermaLink="false">https://hub.siphoxhealth.com/?p=1720</guid>
-                            <description></description>
-                            <content:encoded><![CDATA[]]></content:encoded>
-                            <excerpt:encoded><![CDATA[Delve into expert opinions on the ideal cholesterol ranges, dietary choices, lifestyle changes, and the role of supplements and exercise in achieving and maintaining optimal cholesterol levels.]]></excerpt:encoded>
-                            <wp:post_id>1720</wp:post_id>
-                            <wp:post_date><![CDATA[2023-05-19 10:13:51]]></wp:post_date>
-                            <wp:post_date_gmt><![CDATA[2023-05-19 10:13:51]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2024-02-16 04:22:47]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2024-02-16 04:22:47]]></wp:post_modified_gmt>
-                            <wp:comment_status><![CDATA[closed]]></wp:comment_status>
-                            <wp:ping_status><![CDATA[open]]></wp:ping_status>
-                            <wp:post_name><![CDATA[how-to-optimize-your-cholesterol-a-biohackers-guide]]></wp:post_name>
-                            <wp:status><![CDATA[publish]]></wp:status>
-                            <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>256</wp:menu_order>
-                            <wp:post_type><![CDATA[post]]></wp:post_type>
-                            <wp:post_password><![CDATA[]]></wp:post_password>
-                            <wp:is_sticky>0</wp:is_sticky>
-                                                        		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
-		<category domain="category" nicename="cholesterol"><![CDATA[Cholesterol]]></category>
-		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[7]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[rank_math_seo_score]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[72]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[content]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[a:6:{i:0;s:11:"text_editor";i:1;s:14:"highlight_card";i:2;s:11:"text_editor";i:3;s:8:"cta_card";i:4;s:11:"text_editor";i:5;s:11:"text_editor";}]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_content]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[field_6414004cd50ab]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[written_by]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[16]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_written_by]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[field_641a6cfe4d592]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[reviewed_by]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_reviewed_by]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[field_641bbb3ce67e4]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[rank_math_primary_category]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[47]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[2152]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[select_related_posts]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[a:3:{i:0;s:4:"2215";i:1;s:4:"1963";i:2;s:4:"1830";}]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[limit_modified_date]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[rank_math_focus_keyword]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[cholesterol,cholesterol test,hdl,ldl,cholesterol levels]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[content_2_copies]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[<h2>What is Cholesterol?</h2>
-Cholesterol is a waxy, fat-like substance that the body uses to build cells, make hormones, and synthesize vitamins. The liver produces the cholesterol required by the body, and it can also be obtained through diet, mainly from animal products. Cholesterol travels through the bloodstream, attached to proteins. These cholesterol-protein units are called lipoproteins.
-<h2>Understanding HDL, LDL, and Triglycerides</h2>
-Common cholesterol panels measure three types of lipids in your blood: high-density lipoprotein (HDL) cholesterol, low-density lipoprotein (LDL) cholesterol, and triglycerides. Here's what each of these lipids does:
-<ul>
- 	<li>HDL cholesterol: HDL is often referred to as the "good cholesterol" because it helps remove LDL cholesterol from the bloodstream and protects against cardiovascular diseases. Higher levels of HDL cholesterol are associated with a lower risk of heart disease.</li>
- 	<li>LDL cholesterol: LDL is commonly referred to as the "bad cholesterol" because it contributes to the buildup of fatty deposits or plaques in the arteries. High levels of LDL cholesterol increase the risk of heart attacks, strokes, and heart disease.</li>
- 	<li>Triglycerides: Triglycerides are a type of fat found in the blood. They are used by the body for energy, but high levels can contribute to the hardening and narrowing of arteries, increasing the risk of heart disease.</li>
-</ul>
-<h2>Why measure Cholesterol levels</h2>
-Measuring cholesterol levels is essential because high cholesterol can lead to the buildup of fatty deposits or plaques in the arteries. This increases the risk of age-related conditions such as heart attacks, strokes, and heart disease. Regular cholesterol testing helps assess heart health, estimate the risk of cardiovascular disease, and monitor the impact of lifestyle changes on cholesterol levels.
-<h2>What are the risks of high/low Cholesterol? A link to longevity</h2>
-High cholesterol, specifically high levels of LDL cholesterol, increases the risk of heart attacks, strokes, and heart disease. On the other hand, high levels of HDL cholesterol protect against cardiovascular diseases.
-Low levels of HDL cholesterol may increase the risk of heart disease and premature death. Extremely low levels of LDL cholesterol and triglycerides are not associated with any health risks but may indicate an underlying medical condition.
-
-Several studies have shown that maintaining optimal cholesterol levels can contribute to a longer and healthier life, while high cholesterol levels can lead to a higher risk of cardiovascular diseases and reduced life expectancy.
-<h2>Interpretation of Cholesterol test results and optimal ranges</h2>
-Cholesterol test results provide insights into an individual's risk of heart attack, stroke, and cardiovascular disease. The optimal ranges for cholesterol and triglycerides are as follows:
-<ul>
- 	<li>Total cholesterol: 125-200 mg/dL</li>
- 	<li>LDL cholesterol: &lt;130 mg/dL</li>
- 	<li>HDL cholesterol: &gt;45 mg/dL for men; &gt;55 mg/dL for women</li>
- 	<li>Triglycerides: &lt;150 mg/dL</li>
-</ul>
-<h2>Reaching and maintaining optimal cholesterol levels could potentially add decades to one's life.</h2>
-<h3>Diet</h3>
-Eating Heart-Healthy Foods plays a significant role in managing cholesterol levels.
-<ul>
- 	<li>Reduce Saturated and Trans Fats: Saturated fats found in red meat and dairy products increase total cholesterol. Worse still, trans fats — often labeled as "partially hydrogenated oils" in store-bought cookies, crackers, and cakes — can raise your LDL ("bad") cholesterol levels.</li>
- 	<li>Increase Soluble Fiber: Foods rich in soluble fiber can lower your LDL cholesterol. Good sources include oatmeal, kidney beans, brussels sprouts, apples, and pears.</li>
- 	<li>Add Omega-3 Fatty Acids: Foods rich in omega-3 fatty acids can boost HDL ("good") cholesterol and reduce your risk of heart disease. Salmon, albacore tuna, mackerel, and sardines are high in omega-3 fatty acids. Flaxseeds and walnuts also offer these beneficial fats.</li>
- 	<li>Reduce Sugar Consumption: The consumption of sugar (sucrose, high fructose corn syrup) increases plasma levels of triglycerides, LDL and apoB, and reduces plasma levels of HDL-C and apoA. The removal of sugar reverses each of these.</li>
-</ul>
-<h3>Behavioral Change</h3>
-<ul>
- 	<li>Quit Smoking: Quitting smoking improves your HDL cholesterol levels. Moreover, the benefits happen quickly: Within 20 minutes of quitting, your blood pressure and heart rate decrease.</li>
- 	<li>Reduce Alcohol Intake: While moderate alcohol use has been linked with higher levels of HDL cholesterol, the benefits aren't strong enough to recommend alcohol for anyone who doesn't drink already. Too much alcohol can lead to serious health problems, including high blood pressure, heart failure, and strokes.</li>
-</ul>
-<h3>Dietary Supplements</h3>
-Supplements may play a role in helping you to optimize cholesterol, however, make sure to discuss this with your healthcare provider before starting any new supplement regimen.
-<ul>
- 	<li>Plant sterols and stanols.</li>
- 	<li>soluble fiber (psyllium).</li>
- 	<li>omega-3 fatty acids.</li>
- 	<li>coenzyme Q10.</li>
-</ul>
-<h3>Exercise</h3>
-Moderate and High-Intensity Cardio has been shown to be the most effective form of exercise to improve HDL function and overall lipid profile.
-<h3>Consistent Testing</h3>
-<ul>
- 	<li>Identification of Baseline Levels: The first step in managing cholesterol is to know your starting point. This initial test, such as the SiPhox Health Panel, provides the baseline for future tests, allowing you and your doctor to track changes over time.</li>
- 	<li>Early Detection of Potential Issues: Regular blood testing can catch elevated cholesterol levels before they lead to health issues such as atherosclerosis (hardening of the arteries) or heart disease. By identifying these changes early, you can take proactive measures to lower your cholesterol and reduce your risk.</li>
- 	<li>Monitoring the Effectiveness of Interventions: If you're making lifestyle changes or taking medication to manage cholesterol, regular blood testing can show whether these strategies are working. If your cholesterol levels aren't improving, or if they're getting worse, you may need to adjust your strategies.</li>
-</ul>
-<h2>What do the experts say?</h2>
-Dr. Robert H. Eckel- former President of the American Heart Association
-<ul>
- 	<li>"LDL cholesterol is a significant risk factor for cardiovascular disease. The optimal LDL cholesterol level is less than 100 mg/dL for most people. However, for those at higher risk, such as those with a history of heart disease or diabetes, an LDL level of less than 70 mg/dL is often recommended"</li>
-</ul>
-Dr. Patrick Moriarty- Director of the Atherosclerosis and LDL-Apheresis Center at the University of Kansas Medical Center
-<ul>
- 	<li>"While focusing on lowering LDL cholesterol, we shouldn't neglect HDL, or 'good' cholesterol. For men, an HDL level of 40 mg/dL or higher is protective against heart disease, while for women, it should be 50 mg/dL or higher"</li>
-</ul>
-Dr. Peter Attia- Founder, <em>Early Medical</em>
-<ul>
- 	<li>"If you want to stop atherosclerosis, you <strong>must lower the LDL particle number</strong>."</li>
-</ul>
-&nbsp;
-<h3>Tracking your Cholesterol with SiPhox Health:</h3>
-<ul>
- 	<li>At-home kit delivered to your home</li>
- 	<li>Fingerprick sample self-collection (low-pain, adjustable lancets)</li>
- 	<li><strong>$295 one-time or subscribe to get $85 per test*</strong></li>
- 	<li>Number of biomarkers included: 17 (6 cardiovascular markers including LDL, HDL, ApoA, ApoB, triglycerides, etc.)</li>
- 	<li>Sleep and activity tracking: Included, 200 devices supported</li>
- 	<li>2-5 business days after collection</li>
-</ul>]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_content_2_copies]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[content_1_card_type]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_content_1_card_type]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[field_64153775140fc]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[content_1_paragraph]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[<h3>Key Takeaways:</h3>
-<ol>
- 	<li>Cholesterol is essential for cell building, hormone synthesis, and vitamin production, and is produced by the liver and obtained from diet.</li>
- 	<li>HDL cholesterol is protective against heart disease, while high levels of LDL cholesterol and triglycerides increase heart disease risk.</li>
- 	<li>Regular testing of cholesterol levels is crucial as high cholesterol increases the risk of heart disease and strokes.</li>
- 	<li>Optimal cholesterol management includes diet changes, exercise, and possibly supplements.</li>
-</ol>]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_content_1_paragraph]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[field_6415376e140fb]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[content_0_copies]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[[lwptoc]]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_content_0_copies]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[rank_math_analytic_object_id]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[62]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[content_3_subtitle]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[Home health testing has never been this good]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_content_3_subtitle]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[field_64253e0f6f344]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[content_3_title]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[Start your SiPhox Health journey]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_content_3_title]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[field_64253e1b6f345]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[content_3_paragraph]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[Subscribe to SiPhox and start tracking your LDL + 16 other critical biomarkers as well as sleep, activity and heart data all in one comprehensive dashboard.]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_content_3_paragraph]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[field_64253e216f346]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[content_3_cta]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[a:3:{s:5:"title";s:11:"Get started";s:3:"url";s:35:"https://l.siphox.health/cholesterol";s:6:"target";s:6:"_blank";}]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_content_3_cta]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[field_64253e2b6f347]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[content_4_copies]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[&nbsp;
-
-<a href="/hub/wp-content/uploads/2023/03/Pricing-comparison-5.svg"><img class="aligncenter size-full wp-image-2636" role="img" src="/hub/wp-content/uploads/2023/03/Pricing-comparison-5.svg" alt="" width="1182" height="1001" /></a>]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_content_4_copies]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[content_5_copies]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[&nbsp;
-<p style="font-size: 14px;">Disclaimer: If you have any medical questions or concerns, please talk to your healthcare provider. The articles on the SiPhox Health Hub are underpinned by peer-reviewed research and information drawn from medical societies and governmental agencies. However, they are not a substitute for professional medical advice, diagnosis or treatment.</p>]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_content_5_copies]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -33654,6 +33598,14 @@ Subscribe to SiPhox and start tracking your HbA1c + 16 other critical biomarkers
                                     <wp:meta_key><![CDATA[limit_modified_date]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
                                                     </item>
                                                 <item>
                             <title><![CDATA[Why a Yearly Physical Blood Test is Not Enough]]></title>
@@ -33962,6 +33914,121 @@ In conclusion, DNA methylation analysis offers a powerful tool for predicting bi
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[2807]]></wp:meta_value>
+                                </wp:postmeta>
+                                                    </item>
+                                                <item>
+                            <title><![CDATA[Hypothyroid vs Hyperthyroid Symptoms: What That Means in Your Report]]></title>
+                            <link>/hub/guides/hypothyroid-hyperthyroid-symptoms/</link>
+                            <pubDate>Wed, 26 Aug 2026 16:30:44 +0000</pubDate>
+                            <dc:creator><![CDATA[siphoxhealth]]></dc:creator>
+                            <guid isPermaLink="false">/hub/?p=4348</guid>
+                            <description></description>
+                            <content:encoded><![CDATA[]]></content:encoded>
+                            <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+                            <wp:post_id>4348</wp:post_id>
+                            <wp:post_date><![CDATA[2026-08-26 16:30:44]]></wp:post_date>
+                            <wp:post_date_gmt><![CDATA[2026-08-26 16:30:44]]></wp:post_date_gmt>
+                            <wp:post_modified><![CDATA[2026-08-26 16:30:45]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-08-26 16:30:45]]></wp:post_modified_gmt>
+                            <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+                            <wp:ping_status><![CDATA[open]]></wp:ping_status>
+                            <wp:post_name><![CDATA[hypothyroid-hyperthyroid-symptoms]]></wp:post_name>
+                            <wp:status><![CDATA[publish]]></wp:status>
+                            <wp:post_parent>0</wp:post_parent>
+                            <wp:menu_order>1</wp:menu_order>
+                            <wp:post_type><![CDATA[post]]></wp:post_type>
+                            <wp:post_password><![CDATA[]]></wp:post_password>
+                            <wp:is_sticky>0</wp:is_sticky>
+                                                        		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[7]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_0_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[[lwptoc]]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_0_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_1_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[Your thyroid report looks at two things together: what your blood tests show and how you are feeling. On its own, a symptom like tiredness could mean many things, but paired with your biomarkers, it starts to tell a clearer story.
+<h2>Symptoms and biomarkers work together</h2>
+Thyroid symptoms are famously nonspecific, and no two people have exactly the same set. That is precisely why lab tests sit at the center of your report: the biomarkers show what your thyroid is doing, and your symptoms add the human context of how it is affecting you. Read together, they are far more informative than either alone.
+<h2>When your thyroid slows down (hypothyroid)</h2>
+An underactive thyroid slows your metabolism, so the symptoms tend to be ones of "slowing down":
+<ul>
+ 	<li>Fatigue and sluggishness</li>
+ 	<li>Feeling cold when others don't</li>
+ 	<li>Weight gain or fluid retention</li>
+ 	<li>Constipation</li>
+ 	<li>Dry skin and thinning hair</li>
+ 	<li>Low mood, brain fog, or poor memory</li>
+</ul>
+<h2>When your thyroid speeds up (hyperthyroid)</h2>
+An overactive thyroid does the opposite, revving your system up:
+<ul>
+ 	<li>Feeling hot, sweaty, or restless</li>
+ 	<li>Weight loss despite a normal or bigger appetite</li>
+ 	<li>A racing or irregular heartbeat</li>
+ 	<li>Anxiety, nervousness, or irritability</li>
+ 	<li>Trembling hands</li>
+ 	<li>Trouble sleeping</li>
+</ul>
+<h2>Specific vs non-specific symptoms</h2>
+Some symptoms are <strong>non-specific</strong>: tiredness, low mood, or weight change could stem from many causes and don't point to the thyroid on their own. They gain meaning when they line up with your labs. Others are more <strong>specific</strong> (for example, a racing heartbeat with heat intolerance, or neck fullness) and point more directly toward a particular thyroid pattern. Your report groups them this way so the more telling signals carry appropriate weight.
+<h2>How your report uses them</h2>
+Your symptoms are scored for severity and combined with your biomarker results to build your overall picture: whether things look balanced, underactive, or overactive, and how strongly the signals agree. When your symptoms and your labs point the same way, that adds confidence; when they disagree, that is useful too, and worth discussing with your doctor.
+<h2>What this means for you</h2>
+If your labs are normal but you still feel off, that doesn't mean your experience isn't real: it means the answer may lie elsewhere, or may be worth rechecking over time. And if your labs are abnormal but you feel fine, your report helps flag it early. Either way, the goal is to bring the two together into one clear, personalized read.
+<h2>Key takeaway</h2>
+Hypothyroid symptoms are about slowing down; hyperthyroid symptoms are about speeding up. Neither is diagnosed on feeling alone. Your report pairs how you feel with what your biomarkers show to give you the fullest picture.
+<h2>Where to read more</h2>
+<ul>
+ 	<li>American Thyroid Association: <a href="https://www.thyroid.org/hypothyroidism/">Hypothyroidism</a>, <a href="https://www.thyroid.org/hyperthyroidism/">Hyperthyroidism</a></li>
+ 	<li>Mayo Clinic: <a href="https://www.mayoclinic.org/diseases-conditions/hypothyroidism/symptoms-causes/syc-20350284">Hypothyroidism</a>, <a href="https://www.mayoclinic.org/diseases-conditions/hyperthyroidism/symptoms-causes/syc-20373659">Hyperthyroidism</a>.</li>
+</ul>
+<em>This article is for general wellness and educational purposes and is not medical advice. For anything specific to your health, please speak with your doctor.</em>
+
+<!-- notionvc: e05f9b84-7c65-480e-bcb5-e15265999710 -->]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_1_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:2:{i:0;s:11:"text_editor";i:1;s:11:"text_editor";}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_6414004cd50ab]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[written_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:1:{i:0;s:1:"7";}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_written_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_641a6cfe4d592]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[reviewed_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_reviewed_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_641bbb3ce67e4]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[select_related_posts]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                 </channel>
