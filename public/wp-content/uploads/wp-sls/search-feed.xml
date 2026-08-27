@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/7.1" created="2026-08-27 18:32" -->
+    <!-- generator="WordPress/7.1" created="2026-08-27 18:37" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Thu, 27 Aug 2026 18:32:22 +0000</pubDate>
+            <pubDate>Thu, 27 Aug 2026 18:37:36 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -2000,8 +2000,8 @@ Understanding your Vitamin D levels is crucial for maintaining good health, espe
 		<category domain="post_tag" nicename="diabetes"><![CDATA[diabetes]]></category>
 		<category domain="post_tag" nicename="glucose"><![CDATA[glucose]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
-		<category domain="post_tag" nicename="hba1c"><![CDATA[HbA1c]]></category>
 		<category domain="category" nicename="hba1c"><![CDATA[HbA1C]]></category>
+		<category domain="post_tag" nicename="hba1c"><![CDATA[HbA1c]]></category>
 		<category domain="post_tag" nicename="hemoglobin-a1c"><![CDATA[Hemoglobin A1C]]></category>
 		<category domain="post_tag" nicename="insulin"><![CDATA[insulin]]></category>
 		<category domain="post_tag" nicename="metabolism"><![CDATA[metabolism]]></category>
@@ -34008,7 +34008,7 @@ Hypothyroid symptoms are about slowing down; hyperthyroid symptoms are about spe
                                                     </item>
                                                 <item>
                             <title><![CDATA[How Advanced Biological Age is Calculated]]></title>
-                            <link>/hub/uncategorized/advanced-bioage-calculation/</link>
+                            <link>/hub/guides/advanced-bioage-calculation/</link>
                             <pubDate>Thu, 27 Aug 2026 18:26:00 +0000</pubDate>
                             <dc:creator><![CDATA[siphoxhealth]]></dc:creator>
                             <guid isPermaLink="false">/hub/?p=4353</guid>
@@ -34018,8 +34018,8 @@ Hypothyroid symptoms are about slowing down; hyperthyroid symptoms are about spe
                             <wp:post_id>4353</wp:post_id>
                             <wp:post_date><![CDATA[2026-08-27 18:26:00]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2026-08-27 18:26:00]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-08-27 18:27:46]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-08-27 18:27:46]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-08-27 18:37:36]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-08-27 18:37:36]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[advanced-bioage-calculation]]></wp:post_name>
@@ -34030,7 +34030,6 @@ Hypothyroid symptoms are about slowing down; hyperthyroid symptoms are about spe
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
                                                         		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[7]]></wp:meta_value>
@@ -34147,6 +34146,14 @@ Hypothyroid symptoms are about slowing down; hyperthyroid symptoms are about spe
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -34365,12 +34372,177 @@ Hypothyroid symptoms are about slowing down; hyperthyroid symptoms are about spe
                                     <wp:meta_value><![CDATA[7]]></wp:meta_value>
                                 </wp:postmeta>
                                                             <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                    <wp:meta_key><![CDATA[content_0_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[[lwptoc]]]></wp:meta_value>
                                 </wp:postmeta>
                                                             <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                    <wp:meta_key><![CDATA[_content_0_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_1_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[<h1><span style="font-weight: 400;">Biological Age vs. Advanced Biological Age: What's the Difference?</span></h1>
+&nbsp;
+
+<span style="font-weight: 400;">If you have both results in your dashboard, you may notice they don't always agree. That is expected, and it is not a sign that one of them is wrong. They are built to answer two different questions.</span>
+
+<b>Biological Age</b><span style="font-weight: 400;"> asks: </span><i><span style="font-weight: 400;">which age does my biomarker pattern most resemble?</span></i>
+
+<b>Advanced Biological Age</b><span style="font-weight: 400;"> asks: </span><i><span style="font-weight: 400;">my predicted long-term disease risk matches the average person of what age?</span></i>
+
+<span style="font-weight: 400;">Those sound similar. The difference in how each number is built is what makes them useful together.</span>
+<h2><span style="font-weight: 400;">What Biological Age measures</span></h2>
+<span style="font-weight: 400;">Biological Age is a machine learning model trained on publicly available CDC data paired with internal SiPhox Health data to recognize how biomarker patterns shift with chronological age across large populations. When your results come in, the model compares your pattern to the patterns it learned and estimates the age your profile most closely resembles.</span>
+
+<span style="font-weight: 400;">Key characteristics:</span>
+<ul>
+ 	<li style="font-weight: 400;" aria-level="1"><b>One whole-body number.</b><span style="font-weight: 400;"> It summarizes the combined shape of your biomarker profile into a single trackable figure.</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><b>Broad marker set.</b><span style="font-weight: 400;"> It draws on a wide panel including metabolic, lipid, liver, kidney, inflammatory, nutrient, and hormonal markers, with sex-specific inputs. At least about half of the eligible markers are needed to generate a result.</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><b>Trained on age itself.</b><span style="font-weight: 400;"> The target the model learned to predict is chronological age.</span></li>
+</ul>
+<span style="font-weight: 400;">Biological Age is best used as a general wellness summary and a trend line. It answers "is my overall biomarker picture drifting older or younger over time?"</span>
+<h2><span style="font-weight: 400;">What Advanced Biological Age measures</span></h2>
+<span style="font-weight: 400;">Advanced Biological Age comes from our partnership with VOLO Health, whose modeling platform we use to generate the Advanced BioAge Report. The underlying models were trained on long-term health outcome data from large longitudinal cohorts, including the UK Biobank and a large body of US clinical records. Rather than learning to predict age, the models learned which biomarker patterns are associated with the development of specific conditions over a multi-year observation window, using standardized diagnostic code definitions for each condition.</span>
+
+<span style="font-weight: 400;">The result is a predicted long-term risk estimate, compared against people of your same age and sex. That estimate is then translated back into an age frame: if your profile carries the predicted risk typical of someone four years younger, your delta reads as four years younger.</span>
+
+<span style="font-weight: 400;">Key characteristics:</span>
+<ul>
+ 	<li style="font-weight: 400;" aria-level="1"><b>Eleven results, not one.</b><span style="font-weight: 400;"> You get an Overall Advanced Biological Age plus a separate age for each of ten body systems: cardiovascular, metabolic, respiratory, brain, liver, kidney, bone, thyroid, blood, and inflammation.</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><b>Trained on outcomes, not on age.</b><span style="font-weight: 400;"> The age number is the final translation step, not the modeling target.</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><b>Peer-relative by design.</b><span style="font-weight: 400;"> Every result is calibrated to your age and sex, and each system also comes with a peer group ranking.</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><b>Attribution built in.</b><span style="font-weight: 400;"> Each system shows which of your biomarkers are pushing that age up or down.</span></li>
+</ul>
+<span style="font-weight: 400;">Advanced Biological Age is best used to find out </span><i><span style="font-weight: 400;">where</span></i><span style="font-weight: 400;"> to focus. Because each system is modeled independently, you can have a strong cardiovascular result and a middling metabolic one, and that pattern tells you something a single number cannot.</span>
+<h2><span style="font-weight: 400;">Side by side</span></h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><b>Biological Age</b></th>
+<th><b>Advanced Biological Age</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span style="font-weight: 400;">Core question</span></td>
+<td><span style="font-weight: 400;">Which age does my biomarker pattern resemble?</span></td>
+<td><span style="font-weight: 400;">What age does my predicted long-term risk resemble?</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">What the model was trained to predict</span></td>
+<td><span style="font-weight: 400;">Chronological age</span></td>
+<td><span style="font-weight: 400;">Long-term disease outcomes</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Output</span></td>
+<td><span style="font-weight: 400;">One whole-body age</span></td>
+<td><span style="font-weight: 400;">Overall age plus 10 system-specific ages</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Reference frame</span></td>
+<td><span style="font-weight: 400;">Population age patterns</span></td>
+<td><span style="font-weight: 400;">People of your same age and sex</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Peer ranking</span></td>
+<td><span style="font-weight: 400;">Not included</span></td>
+<td><span style="font-weight: 400;">Included for each system</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Shows which markers are driving it</span></td>
+<td><span style="font-weight: 400;">Through your biomarker insights</span></td>
+<td><span style="font-weight: 400;">Built into each system as contributing factors</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Best used for</span></td>
+<td><span style="font-weight: 400;">Overall trend tracking</span></td>
+<td><span style="font-weight: 400;">Locating which systems need attention</span></td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+<h2><span style="font-weight: 400;">Why your two results might not match</span></h2>
+<ol start="4">
+ 	<li><b> They were trained on different targets.</b><span style="font-weight: 400;"> One model learned age. The other learned disease outcomes and converted to age afterward. A biomarker can be strongly age-associated without being strongly outcome-associated, and the reverse is also true. The two models will weight that marker very differently.</span></li>
+ 	<li><b> They use different inputs.</b><span style="font-weight: 400;"> The marker sets overlap but are not identical. Biological Age leans more heavily on hormonal and nutrient markers. The Advanced models lean more heavily on markers with long-run outcome evidence behind them. A result that moves one number may barely register in the other.</span></li>
+ 	<li><b> They use different reference points.</b><span style="font-weight: 400;"> Advanced Biological Age is always calibrated against people of your exact age and sex. Biological Age compares your pattern against age patterns across the whole population. Being average for your age and being average overall are not the same thing.</span></li>
+ 	<li><b>One is a summary, the other is a set.</b><span style="font-weight: 400;"> Advanced Biological Age reports eleven results. Your Overall Advanced Biological Age is its own independently modeled result and is not the average of the ten system ages. Comparing a single whole-body number to one system's age, or to an overall figure built a different way, will rarely produce a clean match.</span></li>
+</ol>
+<span style="font-weight: 400;">If the two numbers differ by a few years, that is normal. If they differ substantially and consistently across several tests, the more useful next step is to look at your contributing factors in each system and bring both results to your healthcare provider.</span>
+<h2><span style="font-weight: 400;">Which one should I pay attention to?</span></h2>
+<span style="font-weight: 400;">Both, for different jobs.</span>
+<ul>
+ 	<li style="font-weight: 400;" aria-level="1"><b>Tracking progress over time:</b><span style="font-weight: 400;"> Biological Age is a clean single line to watch, especially if you test consistently under similar conditions.</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><b>Deciding what to work on:</b><span style="font-weight: 400;"> Advanced Biological Age is more actionable, because it separates your body into systems and shows which markers are driving each one.</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><b>Talking to your doctor:</b><span style="font-weight: 400;"> Bring the contributing factors, not just the ages. The underlying biomarker values are what a clinician can act on.</span></li>
+</ul>
+<h2><span style="font-weight: 400;">What neither number is</span></h2>
+<span style="font-weight: 400;">Both results are wellness and educational tools. Specifically:</span>
+<ul>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Neither is a diagnosis, and neither should be used on its own to diagnose or treat any condition.</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Neither is a literal measurement of how old your cells or organs are. Both are comparisons expressed in years because years are intuitive.</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The Advanced models have not been reviewed or cleared by the FDA and are not intended as clinical decision support.</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Neither captures everything that shapes aging, including genetics, fitness, body composition, sleep quality, imaging findings, and medical history.</span></li>
+</ul>
+<h2><span style="font-weight: 400;">The bottom line</span></h2>
+<span style="font-weight: 400;">Biological Age gives you one number that tracks your overall biomarker aging signal over time. Advanced Biological Age gives you eleven outcome-anchored, peer-calibrated numbers that tell you which systems are strong and which deserve attention, plus the specific markers behind each. They are complementary views, and the most useful thing you can do with either is retest and watch the direction of travel.</span>
+<h2><span style="font-weight: 400;">References and further reading</span></h2>
+<b>On biological age models built from standard blood biomarkers</b>
+<ol>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Levine ME, Lu AT, Quach A, et al. An epigenetic biomarker of aging for lifespan and healthspan. </span><i><span style="font-weight: 400;">Aging (Albany NY)</span></i><span style="font-weight: 400;">. 2018;10(4):573-591. doi:10.18632/aging.101414</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Liu Z, Kuo PL, Horvath S, Crimmins E, Ferrucci L, Levine M. A new aging measure captures morbidity and mortality risk across diverse subpopulations from NHANES IV: a cohort study. </span><i><span style="font-weight: 400;">PLoS Med</span></i><span style="font-weight: 400;">. 2018;15(12):e1002718. doi:10.1371/journal.pmed.1002718</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Rutledge J, Oh H, Wyss-Coray T. Measuring biological age using omics data. </span><i><span style="font-weight: 400;">Nat Rev Genet</span></i><span style="font-weight: 400;">. 2022;23:715-727. doi:10.1038/s41576-022-00511-7</span></li>
+</ol>
+<b>On organ systems aging at different rates within the same person</b>
+<ol>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Oh HSH, Rutledge J, Nachun D, et al. Organ aging signatures in the plasma proteome track health and disease. </span><i><span style="font-weight: 400;">Nature</span></i><span style="font-weight: 400;">. 2023;624(7990):164-172. doi:10.1038/s41586-023-06802-1</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Oh HSH, Le Guen Y, Rappoport N, et al. Plasma proteomics links brain and immune system aging with healthspan and longevity. </span><i><span style="font-weight: 400;">Nat Med</span></i><span style="font-weight: 400;">. 2025;31:2703-2711. doi:10.1038/s41591-025-03798-1</span></li>
+</ol>
+<b>On the outcome data behind the Advanced models</b>
+<ol>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Sudlow C, Gallacher J, Allen N, et al. UK Biobank: an open access resource for identifying the causes of a wide range of complex diseases of middle and old age. </span><i><span style="font-weight: 400;">PLoS Med</span></i><span style="font-weight: 400;">. 2015;12(3):e1001779. doi:10.1371/journal.pmed.1001779</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Khan SS, Matsushita K, Sang Y, et al. Development and validation of the American Heart Association's PREVENT equations. </span><i><span style="font-weight: 400;">Circulation</span></i><span style="font-weight: 400;">. 2024;149(6):430-449. doi:10.1161/CIRCULATIONAHA.123.067626</span></li>
+</ol>
+<i><span style="font-weight: 400;">Your blood work is processed in a CLIA-certified, CAP-accredited laboratory. The Advanced BioAge Report is generated using VOLO Health's modeling platform and is provided for educational and informational purposes only. It is not intended to diagnose, cure, mitigate, treat, or prevent any disease or medical condition and does not constitute medical advice. Statistical associations described here are population-level findings and are not evidence of causation at the individual level. Always consult a qualified healthcare professional with questions regarding your health.</span></i>
+
+&nbsp;]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_1_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:2:{i:0;s:11:"text_editor";i:1;s:11:"text_editor";}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_6414004cd50ab]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[written_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:1:{i:0;s:1:"7";}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_written_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_641a6cfe4d592]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[reviewed_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_reviewed_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_641bbb3ce67e4]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[select_related_posts]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                 </channel>
