@@ -12,7 +12,7 @@
 	<atom:link href="/hub/author/siphoxhealth/feed/" rel="self" type="application/rss+xml" />
 	<link>/hub/</link>
 	<description></description>
-	<lastBuildDate>Wed, 26 Aug 2026 16:30:45 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Aug 2026 18:32:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,322 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=7.1</generator>
 	<item>
+		<title>Biological Age vs. Advanced Biological Age: What&#8217;s the Difference?</title>
+		<link>/hub/guides/bio-age-vs-advanced-bioage/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Thu, 27 Aug 2026 18:32:22 +0000</pubDate>
+				<category><![CDATA[Guides]]></category>
+		<guid isPermaLink="false">/hub/?p=4361</guid>
+
+					<description><![CDATA[
+
+Biological Age vs. Advanced Biological Age: What&#8217;s the Difference? &#160; If you have both results in your dashboard, you may notice they don&#8217;t always agree. That is expected, and it is not a sign that one of them is wrong. They are built to answer two different questions. Biological Age asks: which age does my&#8230; <a class="more-link" href="/hub/guides/bio-age-vs-advanced-bioage/">Continue reading <span class="screen-reader-text">Biological Age vs. Advanced Biological Age: What&#8217;s the Difference?</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h1><span style="font-weight: 400;">Biological Age vs. Advanced Biological Age: What&#8217;s the Difference?</span></h1>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">If you have both results in your dashboard, you may notice they don&#8217;t always agree. That is expected, and it is not a sign that one of them is wrong. They are built to answer two different questions.</span></p>
+<p><b>Biological Age</b><span style="font-weight: 400;"> asks: </span><i><span style="font-weight: 400;">which age does my biomarker pattern most resemble?</span></i></p>
+<p><b>Advanced Biological Age</b><span style="font-weight: 400;"> asks: </span><i><span style="font-weight: 400;">my predicted long-term disease risk matches the average person of what age?</span></i></p>
+<p><span style="font-weight: 400;">Those sound similar. The difference in how each number is built is what makes them useful together.</span></p>
+<h2><span style="font-weight: 400;">What Biological Age measures</span></h2>
+<p><span style="font-weight: 400;">Biological Age is a machine learning model trained on publicly available CDC data paired with internal SiPhox Health data to recognize how biomarker patterns shift with chronological age across large populations. When your results come in, the model compares your pattern to the patterns it learned and estimates the age your profile most closely resembles.</span></p>
+<p><span style="font-weight: 400;">Key characteristics:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><b>One whole-body number.</b><span style="font-weight: 400;"> It summarizes the combined shape of your biomarker profile into a single trackable figure.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Broad marker set.</b><span style="font-weight: 400;"> It draws on a wide panel including metabolic, lipid, liver, kidney, inflammatory, nutrient, and hormonal markers, with sex-specific inputs. At least about half of the eligible markers are needed to generate a result.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Trained on age itself.</b><span style="font-weight: 400;"> The target the model learned to predict is chronological age.</span></li>
+</ul>
+<p><span style="font-weight: 400;">Biological Age is best used as a general wellness summary and a trend line. It answers &#8220;is my overall biomarker picture drifting older or younger over time?&#8221;</span></p>
+<h2><span style="font-weight: 400;">What Advanced Biological Age measures</span></h2>
+<p><span style="font-weight: 400;">Advanced Biological Age comes from our partnership with VOLO Health, whose modeling platform we use to generate the Advanced BioAge Report. The underlying models were trained on long-term health outcome data from large longitudinal cohorts, including the UK Biobank and a large body of US clinical records. Rather than learning to predict age, the models learned which biomarker patterns are associated with the development of specific conditions over a multi-year observation window, using standardized diagnostic code definitions for each condition.</span></p>
+<p><span style="font-weight: 400;">The result is a predicted long-term risk estimate, compared against people of your same age and sex. That estimate is then translated back into an age frame: if your profile carries the predicted risk typical of someone four years younger, your delta reads as four years younger.</span></p>
+<p><span style="font-weight: 400;">Key characteristics:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><b>Eleven results, not one.</b><span style="font-weight: 400;"> You get an Overall Advanced Biological Age plus a separate age for each of ten body systems: cardiovascular, metabolic, respiratory, brain, liver, kidney, bone, thyroid, blood, and inflammation.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Trained on outcomes, not on age.</b><span style="font-weight: 400;"> The age number is the final translation step, not the modeling target.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Peer-relative by design.</b><span style="font-weight: 400;"> Every result is calibrated to your age and sex, and each system also comes with a peer group ranking.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Attribution built in.</b><span style="font-weight: 400;"> Each system shows which of your biomarkers are pushing that age up or down.</span></li>
+</ul>
+<p><span style="font-weight: 400;">Advanced Biological Age is best used to find out </span><i><span style="font-weight: 400;">where</span></i><span style="font-weight: 400;"> to focus. Because each system is modeled independently, you can have a strong cardiovascular result and a middling metabolic one, and that pattern tells you something a single number cannot.</span></p>
+<h2><span style="font-weight: 400;">Side by side</span></h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><b>Biological Age</b></th>
+<th><b>Advanced Biological Age</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span style="font-weight: 400;">Core question</span></td>
+<td><span style="font-weight: 400;">Which age does my biomarker pattern resemble?</span></td>
+<td><span style="font-weight: 400;">What age does my predicted long-term risk resemble?</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">What the model was trained to predict</span></td>
+<td><span style="font-weight: 400;">Chronological age</span></td>
+<td><span style="font-weight: 400;">Long-term disease outcomes</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Output</span></td>
+<td><span style="font-weight: 400;">One whole-body age</span></td>
+<td><span style="font-weight: 400;">Overall age plus 10 system-specific ages</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Reference frame</span></td>
+<td><span style="font-weight: 400;">Population age patterns</span></td>
+<td><span style="font-weight: 400;">People of your same age and sex</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Peer ranking</span></td>
+<td><span style="font-weight: 400;">Not included</span></td>
+<td><span style="font-weight: 400;">Included for each system</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Shows which markers are driving it</span></td>
+<td><span style="font-weight: 400;">Through your biomarker insights</span></td>
+<td><span style="font-weight: 400;">Built into each system as contributing factors</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Best used for</span></td>
+<td><span style="font-weight: 400;">Overall trend tracking</span></td>
+<td><span style="font-weight: 400;">Locating which systems need attention</span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Why your two results might not match</span></h2>
+<ol start="4">
+<li><b> They were trained on different targets.</b><span style="font-weight: 400;"> One model learned age. The other learned disease outcomes and converted to age afterward. A biomarker can be strongly age-associated without being strongly outcome-associated, and the reverse is also true. The two models will weight that marker very differently.</span></li>
+<li><b> They use different inputs.</b><span style="font-weight: 400;"> The marker sets overlap but are not identical. Biological Age leans more heavily on hormonal and nutrient markers. The Advanced models lean more heavily on markers with long-run outcome evidence behind them. A result that moves one number may barely register in the other.</span></li>
+<li><b> They use different reference points.</b><span style="font-weight: 400;"> Advanced Biological Age is always calibrated against people of your exact age and sex. Biological Age compares your pattern against age patterns across the whole population. Being average for your age and being average overall are not the same thing.</span></li>
+<li><b>One is a summary, the other is a set.</b><span style="font-weight: 400;"> Advanced Biological Age reports eleven results. Your Overall Advanced Biological Age is its own independently modeled result and is not the average of the ten system ages. Comparing a single whole-body number to one system&#8217;s age, or to an overall figure built a different way, will rarely produce a clean match.</span></li>
+</ol>
+<p><span style="font-weight: 400;">If the two numbers differ by a few years, that is normal. If they differ substantially and consistently across several tests, the more useful next step is to look at your contributing factors in each system and bring both results to your healthcare provider.</span></p>
+<h2><span style="font-weight: 400;">Which one should I pay attention to?</span></h2>
+<p><span style="font-weight: 400;">Both, for different jobs.</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><b>Tracking progress over time:</b><span style="font-weight: 400;"> Biological Age is a clean single line to watch, especially if you test consistently under similar conditions.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Deciding what to work on:</b><span style="font-weight: 400;"> Advanced Biological Age is more actionable, because it separates your body into systems and shows which markers are driving each one.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Talking to your doctor:</b><span style="font-weight: 400;"> Bring the contributing factors, not just the ages. The underlying biomarker values are what a clinician can act on.</span></li>
+</ul>
+<h2><span style="font-weight: 400;">What neither number is</span></h2>
+<p><span style="font-weight: 400;">Both results are wellness and educational tools. Specifically:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Neither is a diagnosis, and neither should be used on its own to diagnose or treat any condition.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Neither is a literal measurement of how old your cells or organs are. Both are comparisons expressed in years because years are intuitive.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The Advanced models have not been reviewed or cleared by the FDA and are not intended as clinical decision support.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Neither captures everything that shapes aging, including genetics, fitness, body composition, sleep quality, imaging findings, and medical history.</span></li>
+</ul>
+<h2><span style="font-weight: 400;">The bottom line</span></h2>
+<p><span style="font-weight: 400;">Biological Age gives you one number that tracks your overall biomarker aging signal over time. Advanced Biological Age gives you eleven outcome-anchored, peer-calibrated numbers that tell you which systems are strong and which deserve attention, plus the specific markers behind each. They are complementary views, and the most useful thing you can do with either is retest and watch the direction of travel.</span></p>
+<h2><span style="font-weight: 400;">References and further reading</span></h2>
+<p><b>On biological age models built from standard blood biomarkers</b></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Levine ME, Lu AT, Quach A, et al. An epigenetic biomarker of aging for lifespan and healthspan. </span><i><span style="font-weight: 400;">Aging (Albany NY)</span></i><span style="font-weight: 400;">. 2018;10(4):573-591. doi:10.18632/aging.101414</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Liu Z, Kuo PL, Horvath S, Crimmins E, Ferrucci L, Levine M. A new aging measure captures morbidity and mortality risk across diverse subpopulations from NHANES IV: a cohort study. </span><i><span style="font-weight: 400;">PLoS Med</span></i><span style="font-weight: 400;">. 2018;15(12):e1002718. doi:10.1371/journal.pmed.1002718</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Rutledge J, Oh H, Wyss-Coray T. Measuring biological age using omics data. </span><i><span style="font-weight: 400;">Nat Rev Genet</span></i><span style="font-weight: 400;">. 2022;23:715-727. doi:10.1038/s41576-022-00511-7</span></li>
+</ol>
+<p><b>On organ systems aging at different rates within the same person</b></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Oh HSH, Rutledge J, Nachun D, et al. Organ aging signatures in the plasma proteome track health and disease. </span><i><span style="font-weight: 400;">Nature</span></i><span style="font-weight: 400;">. 2023;624(7990):164-172. doi:10.1038/s41586-023-06802-1</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Oh HSH, Le Guen Y, Rappoport N, et al. Plasma proteomics links brain and immune system aging with healthspan and longevity. </span><i><span style="font-weight: 400;">Nat Med</span></i><span style="font-weight: 400;">. 2025;31:2703-2711. doi:10.1038/s41591-025-03798-1</span></li>
+</ol>
+<p><b>On the outcome data behind the Advanced models</b></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Sudlow C, Gallacher J, Allen N, et al. UK Biobank: an open access resource for identifying the causes of a wide range of complex diseases of middle and old age. </span><i><span style="font-weight: 400;">PLoS Med</span></i><span style="font-weight: 400;">. 2015;12(3):e1001779. doi:10.1371/journal.pmed.1001779</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Khan SS, Matsushita K, Sang Y, et al. Development and validation of the American Heart Association&#8217;s PREVENT equations. </span><i><span style="font-weight: 400;">Circulation</span></i><span style="font-weight: 400;">. 2024;149(6):430-449. doi:10.1161/CIRCULATIONAHA.123.067626</span></li>
+</ol>
+<p><i><span style="font-weight: 400;">Your blood work is processed in a CLIA-certified, CAP-accredited laboratory. The Advanced BioAge Report is generated using VOLO Health&#8217;s modeling platform and is provided for educational and informational purposes only. It is not intended to diagnose, cure, mitigate, treat, or prevent any disease or medical condition and does not constitute medical advice. Statistical associations described here are population-level findings and are not evidence of causation at the individual level. Always consult a qualified healthcare professional with questions regarding your health.</span></i></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Understanding Your Advanced BioAge Report</title>
+		<link>/hub/guides/understanding-advanced-bioage/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Thu, 27 Aug 2026 18:29:28 +0000</pubDate>
+				<category><![CDATA[Guides]]></category>
+		<guid isPermaLink="false">/hub/?p=4357</guid>
+
+					<description><![CDATA[
+
+Understanding Your Advanced BioAge Report &#160; Your biological age reveals how your body is actually aging, not just how many birthdays you have had. The Advanced BioAge Report translates your blood biomarker results into an age for each major organ system, so you can see where your health is thriving and where it needs attention.&#8230; <a class="more-link" href="/hub/guides/understanding-advanced-bioage/">Continue reading <span class="screen-reader-text">Understanding Your Advanced BioAge Report</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h1><span style="font-weight: 400;">Understanding Your Advanced BioAge Report</span></h1>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Your biological age reveals how your body is actually aging, not just how many birthdays you have had. The Advanced BioAge Report translates your blood biomarker results into an age for each major organ system, so you can see where your health is thriving and where it needs attention.</span></p>
+<p><span style="font-weight: 400;">This guide walks through every part of the report and what each piece means.</span></p>
+<h2><span style="font-weight: 400;">What&#8217;s in your report</span></h2>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><b>Your Overall Advanced Biological Age</b></li>
+<li style="font-weight: 400;" aria-level="1"><b>Ten system-specific biological ages</b></li>
+<li style="font-weight: 400;" aria-level="1"><b>A peer group ranking</b><span style="font-weight: 400;"> for your overall result and for each system</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Contributing factors</b><span style="font-weight: 400;"> showing which biomarkers are most influencing each system</span></li>
+</ul>
+<h2><span style="font-weight: 400;">Your Overall Advanced Biological Age</span></h2>
+<p><span style="font-weight: 400;">At the top of your report you will see two numbers: your chronological age, and your Overall Advanced Biological Age. The difference between them is your delta, shown as something like &#8220;2 years younger.&#8221;</span></p>
+<p><span style="font-weight: 400;">One thing worth knowing up front: </span><b>your overall result is not the average of your ten system ages.</b><span style="font-weight: 400;"> It is modeled separately, using biomarker patterns associated with whole-body resilience and long-term susceptibility across multiple systems at once. So it is possible for your overall result to look better or worse than a simple average of the systems below it. That is not an error. It is a different calculation answering a broader question.</span></p>
+<h2><span style="font-weight: 400;">The ten body systems</span></h2>
+<p><span style="font-weight: 400;">Each system gets its own age, modeled independently. Because each one is calculated the same way, they are directly comparable to each other.</span></p>
+<p><b>Cardiovascular</b><span style="font-weight: 400;"> reflects vascular and cardiac risk physiology, drawing on markers associated with atherosclerosis, endothelial stress, inflammation, and cardiometabolic load.</span></p>
+<p><b>Metabolic</b><span style="font-weight: 400;"> reflects glucose regulation and insulin sensitivity, and how flexible your metabolism looks versus showing signs of strain.</span></p>
+<p><b>Respiratory</b><span style="font-weight: 400;"> reflects patterns in your blood associated with reduced respiratory reserve and chronic airway inflammation.</span></p>
+<p><b>Brain</b><span style="font-weight: 400;"> reflects biomarker patterns associated with brain aging and cognitive resilience, often vascular, metabolic, or inflammatory in nature.</span></p>
+<p><b>Liver</b><span style="font-weight: 400;"> reflects hepatocellular integrity, metabolic liver load, and detoxification-related stress.</span></p>
+<p><b>Kidney</b><span style="font-weight: 400;"> reflects filtration efficiency and renal reserve.</span></p>
+<p><b>Bone</b><span style="font-weight: 400;"> reflects bone remodeling balance and mineral metabolism.</span></p>
+<p><b>Thyroid</b><span style="font-weight: 400;"> reflects thyroid axis physiology and the downstream metabolic signaling it drives.</span></p>
+<p><b>Blood</b><span style="font-weight: 400;"> reflects oxygen-carrying capacity, red cell and iron dynamics, and overall blood system resilience.</span></p>
+<p><b>Inflammation</b><span style="font-weight: 400;"> reflects chronic inflammatory load, sometimes described as inflammaging, which cuts across many age-related conditions.</span></p>
+<h3><span style="font-weight: 400;">A note on systems we infer rather than measure directly</span></h3>
+<p><span style="font-weight: 400;">Respiratory, bone, and brain deserve a specific caveat. We are not performing a lung function test, a bone density scan, or a cognitive assessment. These ages are derived entirely from patterns in your blood biomarkers that the underlying models found to be associated with long-term outcomes in those areas across large populations.</span></p>
+<p><span style="font-weight: 400;">That association is real and it is useful. It is not the same as a direct measurement of the organ. If one of these systems comes back with an unfavorable result, the appropriate next step is a conversation with your provider about whether direct testing makes sense for you, not a conclusion about your lungs or bones.</span></p>
+<h2><span style="font-weight: 400;">What your delta actually means</span></h2>
+<p><span style="font-weight: 400;">If your cardiovascular age reads four years younger than your chronological age, it means your cardiovascular biomarker profile looks like the average profile of someone four years younger than you.</span></p>
+<p><span style="font-weight: 400;">What it does </span><b>not</b><span style="font-weight: 400;"> mean:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">It is not a prediction that you will live four extra years.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">It is not a claim that your heart is literally four years younger.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">It is not a diagnosis, in either direction.</span></li>
+</ul>
+<p><span style="font-weight: 400;">It is a comparison, expressed in years because years are the frame most people find intuitive.</span></p>
+<p><span style="font-weight: 400;">Your deltas will often differ across systems, and that variation is the most useful thing in the report. A strong cardiovascular result alongside an average metabolic one tells you something specific about where to focus. A single number would hide that.</span></p>
+<h2><span style="font-weight: 400;">Your peer group ranking</span></h2>
+<p><span style="font-weight: 400;">Alongside each age, you will see a ranking such as &#8220;your cardiovascular health is in the top 14% for your peer group.&#8221; Your peer group is people of your same age and sex.</span></p>
+<p><span style="font-weight: 400;">A ranking in the top 14% means roughly 14% of your peers have a result at least as favorable as yours, so you are ahead of about 86% of them. Lower percentages are better.</span></p>
+<p><b>Why your ranking and your delta can tell different stories.</b><span style="font-weight: 400;"> You may see similar deltas across several systems while the rankings vary widely. This happens most often for younger customers, and it is expected. The models have less room to spread results apart at younger ages, when very few people in the reference data have developed the conditions being modeled. The age deltas compress toward a narrow band, while the peer ranking still has plenty of room to differentiate.</span></p>
+<p><span style="font-weight: 400;">If that describes your report, </span><b>read the ranking as your primary signal and the delta as secondary.</b><span style="font-weight: 400;"> As you get older, or as you retest over time, the deltas become more expressive.</span></p>
+<h2><span style="font-weight: 400;">Contributing factors</span></h2>
+<p><span style="font-weight: 400;">For each system, you can open the contributing factors view to see which of your biomarkers are influencing that age and in which direction. This is the part of the report you can actually act on.</span></p>
+<p><span style="font-weight: 400;">Two things to keep in mind:</span></p>
+<p><b>The same marker can matter differently in different systems.</b><span style="font-weight: 400;"> A given result might be a major driver of one system&#8217;s age and barely register in another. That is because the models learned, from outcome data, which markers carry weight for which outcomes.</span></p>
+<p><b>A result can be inside the standard lab range and still pull your age up.</b><span style="font-weight: 400;"> Standard reference ranges were built to flag clinical outliers in a general population. These models are looking for the values associated with the most favorable long-term outcomes for someone your age and sex, which is a narrower target. A value that is clinically normal but not at that optimum can still show up as a contributing factor. That is a signal for proactive attention, not a cause for alarm.</span></p>
+<h2><span style="font-weight: 400;">What to do with your results</span></h2>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><b>Start with the systems that ranked least favorably</b><span style="font-weight: 400;">, not the ones with the biggest headline deltas.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Open the contributing factors</b><span style="font-weight: 400;"> for those systems and note which markers appear.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Cross-reference those markers</b><span style="font-weight: 400;"> with your individual biomarker insights in your dashboard for context on what each one reflects.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Retest.</b><span style="font-weight: 400;"> A single report is a snapshot. The direction of travel across two or three reports carries far more signal than any one result, and normal variation between tests is expected. </span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Bring the report to your healthcare provider</b><span style="font-weight: 400;">, especially the contributing factors rather than just the ages.</span></li>
+</ol>
+<p><span style="font-weight: 400;">An unfavorable result in any system is not a diagnosis. It is a prompt for attention, and a starting point for a better conversation with your provider.</span></p>
+<h2><span style="font-weight: 400;">References and further reading</span></h2>
+<p><b>On different organ systems aging at different rates</b></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Oh HSH, Rutledge J, Nachun D, et al. Organ aging signatures in the plasma proteome track health and disease. </span><i><span style="font-weight: 400;">Nature</span></i><span style="font-weight: 400;">. 2023;624(7990):164-172. doi:10.1038/s41586-023-06802-1</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Oh HSH, Le Guen Y, Rappoport N, et al. Plasma proteomics links brain and immune system aging with healthspan and longevity. </span><i><span style="font-weight: 400;">Nat Med</span></i><span style="font-weight: 400;">. 2025;31:2703-2711. doi:10.1038/s41591-025-03798-1</span></li>
+</ol>
+<p><b>On the Inflammation domain</b></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Franceschi C, Campisi J. Chronic inflammation (inflammaging) and its potential contribution to age-associated diseases. </span><i><span style="font-weight: 400;">J Gerontol A Biol Sci Med Sci</span></i><span style="font-weight: 400;">. 2014;69(Suppl 1):S4-S9. doi:10.1093/gerona/glu057</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Franceschi C, Bonafè M, Valensin S, et al. Inflamm-aging: an evolutionary perspective on immunosenescence. </span><i><span style="font-weight: 400;">Ann N Y Acad Sci</span></i><span style="font-weight: 400;">. 2000;908:244-254. doi:10.1111/j.1749-6632.2000.tb06651.x</span></li>
+</ol>
+<p><b>On the Kidney domain</b></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Shlipak MG, Matsushita K, Ärnlöv J, et al. Cystatin C versus creatinine in determining risk based on kidney function. </span><i><span style="font-weight: 400;">N Engl J Med</span></i><span style="font-weight: 400;">. 2013;369(10):932-943. doi:10.1056/NEJMoa1214234</span></li>
+</ol>
+<p><b>On the Brain domain</b></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Livingston G, Huntley J, Liu KY, et al. Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission. </span><i><span style="font-weight: 400;">Lancet</span></i><span style="font-weight: 400;">. 2024;404(10452):572-628. doi:10.1016/S0140-6736(24)01296-0</span></li>
+</ol>
+<p><b>On the Respiratory domain</b></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Ellingsen J, Janson C, Bröms K, et al. CRP, fibrinogen, white blood cells, and blood cell indices as prognostic biomarkers of future COPD exacerbation frequency: the TIE cohort study. </span><i><span style="font-weight: 400;">J Clin Med</span></i><span style="font-weight: 400;">. 2024;13(13):3855. doi:10.3390/jcm13133855</span></li>
+</ol>
+<p><b>On the Thyroid and Bone domains</b></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Rodondi N, den Elzen WPJ, Bauer DC, et al. Subclinical hypothyroidism and the risk of coronary heart disease and mortality. </span><i><span style="font-weight: 400;">JAMA</span></i><span style="font-weight: 400;">. 2010;304(12):1365-1374. doi:10.1001/jama.2010.1361</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Blum MR, Bauer DC, Collet TH, et al. Subclinical thyroid dysfunction and fracture risk: a meta-analysis. </span><i><span style="font-weight: 400;">JAMA</span></i><span style="font-weight: 400;">. 2015;313(20):2055-2065. doi:10.1001/jama.2015.5161</span></li>
+</ol>
+<p><i><span style="font-weight: 400;">Your blood work is processed in a CLIA-certified, CAP-accredited laboratory. The Advanced BioAge Report is generated using VOLO Health&#8217;s modeling platform and is provided for educational and informational purposes only. It is not intended to diagnose, cure, mitigate, treat, or prevent any disease or medical condition and does not constitute medical advice. It has not been reviewed or cleared by the FDA. Statistical associations described here are population-level findings and are not evidence of causation at the individual level. Always consult a qualified healthcare professional with questions regarding your health.</span></i></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How Advanced Biological Age is Calculated</title>
+		<link>/hub/uncategorized/advanced-bioage-calculation/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Thu, 27 Aug 2026 18:26:00 +0000</pubDate>
+				<category><![CDATA[Guides]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/hub/?p=4353</guid>
+
+					<description><![CDATA[
+
+How Advanced Biological Age is Calculated &#160; There is no single lab test that directly measures biological age. Any biological age result is a model, and models differ enormously in how they are built. This guide explains how the Advanced BioAge Report is calculated, and what that method can and cannot tell you. The Advanced&#8230; <a class="more-link" href="/hub/uncategorized/advanced-bioage-calculation/">Continue reading <span class="screen-reader-text">How Advanced Biological Age is Calculated</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h1><span style="font-weight: 400;">How Advanced Biological Age is Calculated</span></h1>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">There is no single lab test that directly measures biological age. Any biological age result is a model, and models differ enormously in how they are built. This guide explains how the Advanced BioAge Report is calculated, and what that method can and cannot tell you.</span></p>
+<p><span style="font-weight: 400;">The Advanced BioAge Report is powered by VOLO Health&#8217;s modeling platform. We collect and process your blood work, and VOLO&#8217;s models turn those results into system-by-system age estimates.</span></p>
+<p><span style="font-weight: 400;">We chose this platform for one reason above all others: the models are anchored to real health outcomes rather than to expert consensus about what &#8220;healthy&#8221; should look like. The model was never told which values are good. It learned that from data on what actually happened to hundreds of thousands of people over many years.</span></p>
+<h2><span style="font-weight: 400;">Step 1: Your blood work</span></h2>
+<p><span style="font-weight: 400;">Everything starts with measurement. Your sample is processed in a CLIA-certified, CAP-accredited laboratory, and the resulting biomarker values are the only inputs to your report.</span></p>
+<p><span style="font-weight: 400;">The models draw on markers across several categories, including metabolic and glycemic markers, a full lipid picture, liver and kidney function, inflammatory markers, and blood count markers. Report completeness scales with panel breadth: the more of these markers your panel includes, the more confident each system result becomes.</span></p>
+<h2><span style="font-weight: 400;">Step 2: Removing the effect of age and sex</span></h2>
+<p><span style="font-weight: 400;">Age is by far the strongest predictor of most chronic disease, and sex matters substantially too. If a model does not handle this carefully, it mostly ends up rediscovering that older people get sick more often, which tells you nothing about </span><i><span style="font-weight: 400;">you</span></i><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">So the first modeling step builds a baseline expectation of disease prevalence as a function of age and sex, separately for each condition. Every individual in the training data is then measured against their own demographic baseline rather than against everyone else. What comes out is a relative signal: how does this person&#8217;s risk compare to what would be expected for someone of their age and sex?</span></p>
+<p><span style="font-weight: 400;">This is why your report is explicitly peer-calibrated. Two people with identical lab values but different ages will receive meaningfully different reports, because the question being asked is always relative to your own demographic group.</span></p>
+<h2><span style="font-weight: 400;">Step 3: Learning from outcomes, not from age</span></h2>
+<p><span style="font-weight: 400;">The models were trained on two large bodies of data: a major long-term population health study following roughly half a million participants with linked medical records, plus a much larger set of US clinical records used for external validation and calibration.</span></p>
+<p><span style="font-weight: 400;">For each health system, the outcomes being modeled are defined using standardized diagnostic code sets applied to those linked medical records, over a multi-year observation window following the original blood draw. In other words, the model looked at people&#8217;s biomarkers at one point in time, then looked at what conditions they went on to develop years later, and learned which biomarker patterns preceded which outcomes.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">This is the single most important thing to understand about the method. </span><b>The model was not trained to guess your age.</b><span style="font-weight: 400;"> It was trained to estimate long-term disease risk. The age you see in your report is the final translation step, not the modeling target.</span></p>
+<h2><span style="font-weight: 400;">Step 4: Capturing how markers interact</span></h2>
+<p><span style="font-weight: 400;">The models used are gradient-boosting machines, chosen specifically because they handle two things that simpler models struggle with:</span></p>
+<p><b>Nonlinear relationships.</b><span style="font-weight: 400;"> Risk does not always rise in a straight line as a marker rises. Some markers carry risk at both ends of their range. Some have a threshold effect. The model can represent those shapes rather than forcing a straight line through them.</span></p>
+<p><b>Interactions between markers.</b><span style="font-weight: 400;"> This is the part that a marker-by-marker reading of your labs cannot give you. Certain combinations carry more risk together than the sum of their individual contributions. Two people can have similar-looking individual results and meaningfully different combined risk pictures. Because the models were trained on the whole panel at once, those combinations are captured.</span></p>
+<h2><span style="font-weight: 400;">Step 5: Modeling each system separately</span></h2>
+<p><span style="font-weight: 400;">Every system in your report is modeled independently, using the same underlying data and the same set of biomarker inputs. No single condition gets privileged treatment.</span></p>
+<p><span style="font-weight: 400;">This matters more than it sounds. Because the systems are modeled simultaneously on the same population, the models can capture trade-offs where a biomarker value that looks favorable for one outcome is less favorable for another. A single-condition model would miss that entirely.</span></p>
+<p><span style="font-weight: 400;">It also means your ten system results are directly comparable to each other. A given ranking in the kidney system means the same thing, relative to your peers, as the same ranking in the brain system.</span></p>
+<h2><span style="font-weight: 400;">Step 6: Translating into an age</span></h2>
+<p><span style="font-weight: 400;">Once your relative risk estimate exists for a system, it is converted into an age by working backwards through the reference curve for people of your sex. The model asks: at what age would the average person in the reference population carry this same level of predicted risk?</span></p>
+<p><span style="font-weight: 400;">If the answer is four years below your chronological age, your delta reads as four years younger. That is the whole of what the number means.</span></p>
+<h2><span style="font-weight: 400;">Why this differs from your standard lab reference range</span></h2>
+<p><span style="font-weight: 400;">The reference range printed next to a lab value is designed to flag clinical outliers in a general population. It is typically the central range of a healthy reference group, sometimes adjusted for perceived healthy limits.</span></p>
+<p><span style="font-weight: 400;">These models are looking for something different: the biomarker values associated with the most favorable long-term outcomes across multiple systems at once, for someone of your specific age and sex. That target range is usually narrower than the standard lab range and can sit in a different place within it.</span></p>
+<p><span style="font-weight: 400;">The consequence is that a value can be entirely normal on your lab report and still appear as a contributing factor pulling a system&#8217;s age upward. Both things are true at once. The lab range is telling you there is no immediate clinical concern. The model is telling you the value is not at the modeled optimum for your profile. Only the second one is a target for proactive attention, and neither is a diagnosis.</span></p>
+<h2><span style="font-weight: 400;">Honest limitations</span></h2>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><b>This is a model, not a measurement.</b><span style="font-weight: 400;"> Every result is an estimate built on population-level associations, and population associations are not evidence of causation for any individual.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Blood biomarkers cannot see everything.</b><span style="font-weight: 400;"> Genetics, fitness, body composition, sleep quality, imaging findings, and medical history all shape aging and none of them are inputs here.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Some systems are inferred, not measured.</b><span style="font-weight: 400;"> The respiratory, bone, and brain results are derived from blood patterns, not from lung function testing, bone density scanning, or cognitive assessment.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Single results are snapshots.</b><span style="font-weight: 400;"> Lab values move with hydration, fasting state, time of day, sleep, illness, medication, and training load. The trend across multiple reports is more informative than any single one.</span></li>
+</ul>
+<h2><span style="font-weight: 400;">References and further reading</span></h2>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Sudlow C, Gallacher J, Allen N, et al. UK Biobank: an open access resource for identifying the causes of a wide range of complex diseases of middle and old age. </span><i><span style="font-weight: 400;">PLoS Med</span></i><span style="font-weight: 400;">. 2015;12(3):e1001779. doi:10.1371/journal.pmed.1001779</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Levine ME, Lu AT, Quach A, et al. An epigenetic biomarker of aging for lifespan and healthspan. </span><i><span style="font-weight: 400;">Aging (Albany NY)</span></i><span style="font-weight: 400;">. 2018;10(4):573-591. doi:10.18632/aging.101414</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Rutledge J, Oh H, Wyss-Coray T. Measuring biological age using omics data. </span><i><span style="font-weight: 400;">Nat Rev Genet</span></i><span style="font-weight: 400;">. 2022;23:715-727. doi:10.1038/s41576-022-00511-7</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Oh HSH, Rutledge J, Nachun D, et al. Organ aging signatures in the plasma proteome track health and disease. </span><i><span style="font-weight: 400;">Nature</span></i><span style="font-weight: 400;">. 2023;624(7990):164-172. doi:10.1038/s41586-023-06802-1</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Oh HSH, Le Guen Y, Rappoport N, et al. Plasma proteomics links brain and immune system aging with healthspan and longevity. </span><i><span style="font-weight: 400;">Nat Med</span></i><span style="font-weight: 400;">. 2025;31:2703-2711. doi:10.1038/s41591-025-03798-1</span></li>
+</ol>
+<p><i><span style="font-weight: 400;">Your blood work is processed in a CLIA-certified, CAP-accredited laboratory. The Advanced BioAge Report is generated using VOLO Health&#8217;s modeling platform and is provided for educational and informational purposes only. It is not intended to diagnose, cure, mitigate, treat, or prevent any disease or medical condition and does not constitute medical advice. Statistical associations described here are population-level findings and are not evidence of causation at the individual level. Always consult a qualified healthcare professional with questions regarding your health.</span></i></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Hypothyroid vs Hyperthyroid Symptoms: What That Means in Your Report</title>
 		<link>/hub/guides/hypothyroid-hyperthyroid-symptoms/</link>
 		
@@ -570,342 +886,6 @@ GLP medications change the way you eat. Your appetite drops, you feel full soone
 </ul>
 <p><em>This article is for general wellness and educational purposes and is not medical advice. For anything specific to your health or your medication, please speak with your doctor.</em></p>
 <p><!-- notionvc: 0ac8076a-0011-4ebb-a417-e2443a62e0cb --></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Testosterone Replacement Therapy Testing: Everything You Need to Know About Our Hormone Testing</title>
-		<link>/hub/guides/testosterone-replacement-therapy-testing/</link>
-		
-		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Thu, 18 Jun 2026 14:40:28 +0000</pubDate>
-				<category><![CDATA[Guides]]></category>
-		<guid isPermaLink="false">/hub/?p=4273</guid>
-
-					<description><![CDATA[
-
-Monitoring testosterone replacement therapy (TRT) requires more than simply checking your testosterone level. Understanding how tests are performed, what the results mean, and how to collect samples consistently can help you get the most value from your testing. This guide explains our testing methods, reporting practices, and recommendations for obtaining reliable results. Laboratory Standards &#38;&#8230; <a class="more-link" href="/hub/guides/testosterone-replacement-therapy-testing/">Continue reading <span class="screen-reader-text">Testosterone Replacement Therapy Testing: Everything You Need to Know About Our Hormone Testing</span></a>]]></description>
-			
-
-							<content:encoded><![CDATA[
-<p>Monitoring testosterone replacement therapy (TRT) requires more than simply checking your testosterone level. Understanding how tests are performed, what the results mean, and how to collect samples consistently can help you get the most value from your testing.</p>
-<p>This guide explains our testing methods, reporting practices, and recommendations for obtaining reliable results.</p>
-<h2>Laboratory Standards &amp; Accreditation</h2>
-<h4>CLIA/CAP-Certified Testing</h4>
-<p>All laboratory testing is performed according to rigorous quality standards required for CLIA and CAP-certified laboratories.</p>
-<p>These standards ensure that:</p>
-<ul>
-<li>Testing methods are validated before use</li>
-<li>Quality control procedures are continuously monitored</li>
-<li>Results are reported only within validated analytical ranges</li>
-<li>Laboratory processes meet established regulatory requirements</li>
-</ul>
-<p>Because of these standards, certain calculated values may not be reported if underlying measurements fall outside validated ranges.</p>
-<h4>Method Validation</h4>
-<p>Our assays undergo validation to ensure accuracy, precision, and reliability. Capillary collection methods are also validated against traditional venous blood collection where applicable.</p>
-<p>For estradiol testing, the EasyDraw capillary collection method has been validated against venous serum testing using the same analytical methodology.</p>
-<h2>Hormone Testing Methods</h2>
-<h3>Estradiol (Sensitive)</h3>
-<h4 class="font-claude-response-body break-words whitespace-normal" dir="ltr"><strong>Testing Method</strong></h4>
-<p class="font-claude-response-body break-words whitespace-normal" dir="ltr">Estradiol is measured by immunoassay, a widely used and well established method in clinical laboratories. The assay is validated for use on our sample type and is run in a CLIA certified, CAP accredited laboratory.</p>
-<h4 class="font-claude-response-body break-words whitespace-normal" dir="ltr"><strong>Detection Range</strong></h4>
-<p class="font-claude-response-body break-words whitespace-normal" dir="ltr">The lower limit of detection (LLOD) for estradiol is 48 pg/mL. Results below this threshold are reported as less than the detection limit rather than as an exact number, because values in that range cannot be reliably quantified. This is most relevant for men, postmenopausal women, and women tested in the early follicular phase, where estradiol is often naturally below the detection limit.</p>
-<h4>Validation Data</h4>
-<p>Detailed internal validation studies, assay correlation analyses, and proprietary performance metrics are not publicly available.</p>
-<h3>Total Testosterone</h3>
-<h4>Testing Method</h4>
-<p>For EasyDraw collections, total testosterone is measured using an <strong>immunoassay-based method</strong>.</p>
-<h4>Upper Reporting Limit</h4>
-<p>The assay reports testosterone concentrations up to: <strong>2,000 ng/dL</strong></p>
-<p>Results above this range are reported as: <strong>&gt; 2,000 ng/dL</strong></p>
-<p>Samples exceeding this limit are not automatically diluted and re-analyzed to provide a higher numerical result.</p>
-<h3>Free Testosterone</h3>
-<h4>Direct Measurement vs Calculation</h4>
-<p>Free testosterone is <strong>calculated</strong>, not directly measured through equilibrium dialysis.</p>
-<p>The calculation incorporates:</p>
-<ul>
-<li>Total Testosterone</li>
-<li>SHBG (Sex Hormone-Binding Globulin)</li>
-<li>Albumin</li>
-</ul>
-<p>This approach is commonly used in clinical practice and provides an estimate of biologically active testosterone.</p>
-<h3>Free Androgen Index (FAI)</h3>
-<p>The Free Androgen Index (FAI) is also calculated using total testosterone and SHBG values.</p>
-<p>Formula: <strong>FAI = ((Total Testosterone × 0.0347) ÷ SHBG) × 100</strong></p>
-<h2>Understanding Your Results</h2>
-<h3>Why Are Some Calculated Values Missing?</h3>
-<p>In some cases, Free Testosterone or FAI may not appear on your report.</p>
-<p>This occurs when SHBG or Total Testosterone falls outside the laboratory&#8217;s validated reporting range.</p>
-<p>To maintain compliance with laboratory quality standards and ensure accurate reporting, calculated values cannot be displayed when underlying measurements fall outside validated parameters.</p>
-<h2>Why Do Results Sometimes Differ Between Laboratories?</h2>
-<p>Differences between laboratories are common and do not necessarily indicate an error.</p>
-<p>Potential causes include:</p>
-<h4>Different Testing Methods</h4>
-<ul>
-<li>LC-MS/MS vs immunoassay</li>
-<li>Different instrument platforms</li>
-<li>Different calibration standards</li>
-</ul>
-<h4>Sample Type</h4>
-<ul>
-<li>Capillary blood</li>
-<li>Venous blood</li>
-</ul>
-<h4>Biological Variation</h4>
-<p>Hormone levels naturally fluctuate throughout the day and can be influenced by:</p>
-<ul>
-<li>Sleep quality</li>
-<li>Stress</li>
-<li>Exercise</li>
-<li>Illness</li>
-<li>Nutrition</li>
-<li>Hydration</li>
-<li>Alcohol intake</li>
-<li>Medications and supplements</li>
-</ul>
-<p>For this reason, trends over time are often more informative than a single isolated result.</p>
-<h2>Best Practices for TRT Testing</h2>
-<h4>Standardized Blood Collection Conditions</h4>
-<p>For reliable and comparable results, blood samples should be collected under consistent conditions:</p>
-<ul>
-<li>Morning collection (ideally before 10:00 AM)</li>
-<li>Fasting state (8–12 hours, no calories)</li>
-<li>Before applying testosterone gel/cream (if applicable)</li>
-<li>Same relative timing within the injection cycle each time</li>
-<li>After a normal night’s sleep</li>
-<li>No intense exercise immediately before testing</li>
-</ul>
-<h4>Injectable Testosterone</h4>
-<p>Testosterone levels fluctuate across the injection cycle, with higher levels shortly after dosing and lower levels just before the next injection.</p>
-<ul>
-<li>Testing around <strong>7 days post-injection</strong> generally reflects a near-trough level in many weekly dosing protocols</li>
-<li>Testing <strong>10–14 days post-injection</strong> may underestimate typical on-treatment exposure depending on dose and frequency</li>
-<li>Choose one consistent timepoint in your cycle and use it for all follow-up testing (commonly trough, just before the next dose)</li>
-</ul>
-<h4>Testosterone Gels and Creams</h4>
-<p>For transdermal therapy:</p>
-<ul>
-<li>Collect the blood sample <strong>before applying the daily dose</strong></li>
-<li>Keep application timing consistent between tests where possible</li>
-</ul>
-<h2>Factors That Can Affect Results</h2>
-<p>Results may vary due to short-term physiological and external influences, including:</p>
-<ul>
-<li>Acute illness</li>
-<li>Sleep disruption</li>
-<li>Alcohol intake</li>
-<li>Recent intense exercise</li>
-<li>Hydration status</li>
-</ul>
-<p>These factors can shift hormone levels temporarily and should be avoided when possible for baseline monitoring.</p>
-<h2>TRT Monitoring Principles</h2>
-<ul>
-<li>Use <strong>consistent sampling conditions and timing</strong> to ensure comparability</li>
-<li>Focus on <strong>trends over time rather than single measurements</strong></li>
-<li>Interpret results alongside symptoms and lifestyle context</li>
-<li>Differences between assays (e.g., LC-MS/MS vs immunoassay) and sample types (capillary vs venous) can affect absolute values</li>
-<li>Minor variability between tests is expected and does not necessarily indicate a clinically meaningful change</li>
-</ul>
-<h2>Where can I learn more?</h2>
-<ul>
-<li><a href="https://www.aafp.org/afp/2017/1001/p441">https://www.aafp.org/afp/2017/1001/p441</a></li>
-<li><a href="https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/testosterone-testing">https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/testosterone-testing</a></li>
-</ul>
-<p><!-- notionvc: eceb8235-8e81-4a49-a845-6dbcd0f989c4 --></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Staying Active on GLP Therapy: Preserving Muscle, Metabolism, and Long-Term Results</title>
-		<link>/hub/guides/staying-active-glp-therapy/</link>
-		
-		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Wed, 17 Jun 2026 14:24:18 +0000</pubDate>
-				<category><![CDATA[Guides]]></category>
-		<guid isPermaLink="false">/hub/?p=4269</guid>
-
-					<description><![CDATA[
-
-GLP receptor agonists have fundamentally changed the treatment of obesity and metabolic disease. Agents, such as semaglutide and tirzepatide, can produce substantial and sustained weight loss, as seen across large research trials. But beneath these headline results sits a more nuanced clinical reality: Weight loss on GLP therapy is not exclusively fat loss. Across trials&#8230; <a class="more-link" href="/hub/guides/staying-active-glp-therapy/">Continue reading <span class="screen-reader-text">Staying Active on GLP Therapy: Preserving Muscle, Metabolism, and Long-Term Results</span></a>]]></description>
-			
-
-							<content:encoded><![CDATA[
-<p>GLP receptor agonists have fundamentally changed the treatment of obesity and metabolic disease. Agents, such as semaglutide and tirzepatide, can produce substantial and sustained weight loss, as seen across large research trials.</p>
-<p>But beneath these headline results sits a more nuanced clinical reality:</p>
-<p>Weight loss on GLP therapy is not exclusively fat loss.</p>
-<p>Across trials and metabolic studies, a consistent finding emerges; a meaningful proportion of total weight reduction includes lean mass, particularly in individuals who do not actively engage in resistance training or maintain adequate protein intake.</p>
-<p>This is not a flaw of the medication. It is a physiological consequence of energy restriction without sufficient stimulus.</p>
-<p>And it leads to an important distinction:</p>
-<p><strong>GLPs determine how much weight you lose. Lifestyle determines what that weight consists of.</strong></p>
-<h2>Why Muscle Loss Matters More Than Most People Realize</h2>
-<p>Skeletal muscle is not simply structural tissue. It is metabolically active, insulin-sensitive, and central to long-term energy regulation.</p>
-<p>Loss of lean mass during weight reduction has been associated with:</p>
-<ul>
-<li>Lower resting metabolic rate</li>
-<li>Reduced insulin sensitivity</li>
-<li>Increased risk of weight regain</li>
-<li>Declines in physical function and strength</li>
-</ul>
-<p>In the context of obesity pharmacotherapy, this is particularly relevant. Post-treatment weight regain is common once medication is discontinued, and reduced muscle mass is one of the strongest predictors of rebound weight gain.</p>
-<p>This is why modern obesity guidelines, including those from the American Diabetes Association and Endocrine Society, emphasize <strong>preservation of lean mass during weight loss interventions</strong>, not just absolute weight reduction.</p>
-<h2>Resistance Training: The Primary Protective Signal</h2>
-<p>If there is one intervention that consistently changes body composition outcomes during weight loss, it is resistance training. Not cardio. Not calorie restriction. Not supplements.</p>
-<p>Resistance training provides a direct physiological signal that tells the body:</p>
-<p>“This tissue is needed.”</p>
-<p>Without that signal, the body has no reason to prioritize muscle preservation in a calorie deficit.</p>
-<h3>What This Looks Like in Practice</h3>
-<p>In clinical reality, adherence matters more than program complexity.</p>
-<p>The most effective structure is simple:</p>
-<h3>3 sessions per week (ideal)</h3>
-<p>or</p>
-<h3>2 sessions per week (minimum effective dose)</h3>
-<p>Each session should include five movement patterns:</p>
-<ul>
-<li>A squat pattern (leg press or squat)</li>
-<li>A hip hinge (deadlift or hip thrust)</li>
-<li>A push movement (bench press or push-ups)</li>
-<li>A pull movement (rows or lat pulldown)</li>
-<li>A core stability movement (planks or loaded carries)</li>
-</ul>
-<p>The key variable is not exercise selection: it is <strong>progressive overload over time</strong>, even modestly.</p>
-<p>A practical benchmark is effort-based:</p>
-<ul>
-<li>The last 1–2 repetitions of each set should feel challenging but controlled</li>
-</ul>
-<p>This is sufficient to preserve and improve lean mass during GLP-induced weight loss.</p>
-<h2>Daily Movement: The Underestimated Variable</h2>
-<p>Beyond structured training lies a more subtle driver of metabolic health: non-exercise activity thermogenesis (NEAT).</p>
-<p>This includes:</p>
-<ul>
-<li>Walking</li>
-<li>Standing</li>
-<li>Postural movement</li>
-<li>Low-intensity daily activity</li>
-</ul>
-<p>Research from Levine et al. has demonstrated that NEAT can vary by more than 2,000 kcal/day between individuals of similar size, making it one of the most variable components of total energy expenditure.</p>
-<h3>Practical application</h3>
-<p>A realistic target is:</p>
-<ul>
-<li>7,000–10,000 steps per day</li>
-</ul>
-<p>But more importantly:</p>
-<ul>
-<li>Short walks after meals (10–15 minutes)</li>
-<li>Breaking prolonged sitting every 60–90 minutes</li>
-<li>Walking during calls or low-intensity tasks</li>
-</ul>
-<p>These are small behaviors with disproportionately large metabolic effects.</p>
-<h2>Protein Intake: The Second Critical Pillar</h2>
-<p>If resistance training is the “signal” to preserve muscle, protein is the “building material.”</p>
-<p>During energy restriction, inadequate protein intake is strongly associated with:</p>
-<ul>
-<li>Increased lean mass loss</li>
-<li>Reduced satiety</li>
-<li>Higher likelihood of diet discontinuation</li>
-</ul>
-<h3>Evidence-based target</h3>
-<p>Most clinical literature supports:</p>
-<p>0.7-1.0 g/Ib/day of protein during weight loss phases</p>
-<h3>Practical translation</h3>
-<p>Rather than calculating totals, the most reliable approach is:</p>
-<ul>
-<li>25–35 g protein per meal</li>
-<li>3–4 meals per day</li>
-<li>Protein distributed evenly across the day</li>
-</ul>
-<h2>The Central Clinical Insight</h2>
-<p>Across obesity pharmacotherapy trials, a consistent pattern emerges:</p>
-<ul>
-<li>Medication drives weight loss magnitude</li>
-<li>Resistance training determines body composition</li>
-<li>Protein intake determines muscle preservation</li>
-<li>Daily activity determines metabolic stability</li>
-</ul>
-<h2>Takeaway</h2>
-<p>The goal of GLP therapy should not be simply weight loss.</p>
-<p>It should be:</p>
-<ul>
-<li>Fat loss with muscle preservation</li>
-<li>Metabolic improvement without functional decline</li>
-<li>A transition into a body that is not only lighter, but stronger and more resilient</li>
-</ul>
-<p>In that sense, exercise and protein are not adjuncts to pharmacotherapy.</p>
-<p>They are what determine whether the outcome of treatment is merely weight reduction or genuine metabolic transformation.</p>
-<h3>Read More:</h3>
-<p><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12683586/">https://pmc.ncbi.nlm.nih.gov/articles/PMC12683586/</a></p>
-<p><a href="https://health.clevelandclinic.org/exercise-for-glp-1-use">https://health.clevelandclinic.org/exercise-for-glp-1-use</a></p>
-<p><a href="https://www.endocrinedirectcarephysicians.com/post/optimal-daily-protein-intake-and-strength-training-tips-for-glp-1-medication-users-to-preserve-muscl">https://www.endocrinedirectcarephysicians.com/post/optimal-daily-protein-intake-and-strength-training-tips-for-glp-1-medication-users-to-preserve-muscl</a></p>
-<p><!-- notionvc: ae2765cb-3e56-41fa-9d4b-6ebb9197ca12 --></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Specific and Non-Specific Symptoms: What They Mean in Your Report</title>
-		<link>/hub/guides/specific-nonspecific-symptoms-glp/</link>
-		
-		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Wed, 17 Jun 2026 14:13:57 +0000</pubDate>
-				<category><![CDATA[Guides]]></category>
-		<guid isPermaLink="false">/hub/?p=4264</guid>
-
-					<description><![CDATA[
-
-Your GLP report looks at two things together: what your blood tests show and how you’re feeling. The symptoms you report are grouped as specific or non-specific, based on how closely they point to a particular body system. Symptoms and Biomarkers Work Together A biomarker is something we measure in your blood, such as triglycerides&#8230; <a class="more-link" href="/hub/guides/specific-nonspecific-symptoms-glp/">Continue reading <span class="screen-reader-text">Specific and Non-Specific Symptoms: What They Mean in Your Report</span></a>]]></description>
-			
-
-							<content:encoded><![CDATA[
-<p>Your GLP report looks at two things together: what your blood tests show and how you’re feeling. The symptoms you report are grouped as specific or non-specific, based on how closely they point to a particular body system.</p>
-<h2><strong>Symptoms and Biomarkers Work Together</strong></h2>
-<p>A biomarker is something we measure in your blood, such as triglycerides or vitamin B12. A symptom is something you notice or feel, such as nausea or low energy. Biomarkers show what’s happening inside your body; symptoms show how it feels day to day. Together they give a clearer picture than either one alone, which is why your check-ins ask about both.</p>
-<h2><strong>Non-Specific Symptoms</strong></h2>
-<p>Non-specific symptoms are common and can have many causes, so on their own they don’t point to any single problem. On a GLP, the usual ones include:</p>
-<ul>
-<li>Tiredness or low energy</li>
-<li>Mild nausea</li>
-<li>Headache</li>
-<li>Dizziness</li>
-<li>Brain fog</li>
-<li>Changes in appetite or mild stomach upset</li>
-</ul>
-<p>These often appear as your body adjusts, especially in the early weeks while your dose is increasing, and tend to ease with time, hydration, and regular meals. We still track them because patterns matter: ongoing tiredness on its own is vague, but tiredness alongside a low vitamin B12 result tells a clearer story.</p>
-<h2><strong>Specific Symptoms</strong></h2>
-<p>Specific symptoms point more clearly to one cause or body system. They’re less common, and a few are worth flagging early so they can be checked. Examples include:</p>
-<ul>
-<li>Severe stomach pain, especially high up and spreading to the back, which can relate to the pancreas</li>
-<li>Pain in the upper-right abdomen after meals, or yellowing of the skin or eyes, which can relate to the gallbladder</li>
-<li>Ongoing vomiting or being unable to keep fluids down, which can signal dehydration</li>
-</ul>
-<p>These are uncommon, but because each points to something specific, your report treats them differently from the more common, for example, dips in energy, that many people notice from time to time.</p>
-<h2><strong>How Your Report Uses Them</strong></h2>
-<p>Your symptoms are scored for severity and combined with your lab results and body composition to produce your overall tolerance score. The two types are used differently:</p>
-<ul>
-<li><strong>Non-specific symptoms can add context.</strong> They importantly let us know how you are feeling overall.</li>
-<li><strong>Specific symptoms can point to a more specific cause</strong> related to the GLP medication.</li>
-</ul>
-<p>Most of these will also come and go, especially when starting or increasing your dose. However, it is important that if you have any concerns you check in with your doctor.</p>
-<p>In terms of scoring, the balance shifts as you go. Early on, while your body is adjusting, your report leans more on your symptoms; later, in maintenance, it leans more on your biomarker trends.</p>
-<h2><strong>What This Means For You</strong></h2>
-<ul>
-<li>Log your symptoms, including the small ones, and note whether each is steady, easing, or worsening.</li>
-<li>Most non-specific symptoms come with adjusting and settle on their own; hydration and regular meals usually help.</li>
-<li>If a symptom feels severe or worrying, or matches a specific symptom above, check in with your doctor. Our <a href="https://siphoxhealth.com/hub/guides/contraindications-discontinuation-glp/">Contraindications and Discontinuation Guidelines</a> list the signs that need urgent care.</li>
-</ul>
-<h2><strong>Key Takeaway</strong></h2>
-<p>Non-specific symptoms are common and usually part of adjusting. Specific symptoms are less common and can point to something more particular. Tracking both, in your own words, helps keep your plan safe, personal, and useful.</p>
-<h2><strong>Where to Read More</strong></h2>
-<ul>
-<li><a href="https://siphoxhealth.com/hub/guides/contraindications-discontinuation-glp/">Contraindications and Discontinuation Guidelines</a></li>
-<li><a href="https://siphoxhealth.com/hub/guides/glp1-titration-phase/">GLP Titration Phase: tracking symptoms and biomarkers early on</a></li>
-<li><a href="https://siphoxhealth.com/hub/guides/glp1-maintenance-phase/">GLP Maintenance Phase: tracking biomarkers long term</a></li>
-</ul>
-<p><em>This article is for general wellness and educational purposes and isn’t medical advice. If you’re worried about a symptom or unsure how serious it is, contact your doctor or seek urgent care.</em></p>
-<p><!-- notionvc: 2133506c-aef6-46ce-bca4-a5ca6591b7c1 --></p>
 ]]></content:encoded>
 					
 		
