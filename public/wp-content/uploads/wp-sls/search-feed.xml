@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/7.1" created="2026-08-26 17:10" -->
+    <!-- generator="WordPress/7.1" created="2026-08-27 16:04" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Wed, 26 Aug 2026 17:10:52 +0000</pubDate>
+            <pubDate>Thu, 27 Aug 2026 16:04:37 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -1970,6 +1970,209 @@ Understanding your Vitamin D levels is crucial for maintaining good health, espe
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[rank_math_focus_keyword]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[vitamin d]]></wp:meta_value>
+                                </wp:postmeta>
+                                                    </item>
+                                                <item>
+                            <title><![CDATA[HbA1c At Home- A Tool for Metabolic Health]]></title>
+                            <link>/hub/guides/optimizing-lower-hba1c-better-metabolic-health/</link>
+                            <pubDate>Fri, 12 Apr 2024 13:50:11 +0000</pubDate>
+                            <dc:creator><![CDATA[siphoxhealth]]></dc:creator>
+                            <guid isPermaLink="false">https://hub.siphoxhealth.com/?p=2490</guid>
+                            <description></description>
+                            <content:encoded><![CDATA[]]></content:encoded>
+                            <excerpt:encoded><![CDATA[Learn more about HbA1c, an important metabolic marker and long-term indicator of glycemic control.]]></excerpt:encoded>
+                            <wp:post_id>2490</wp:post_id>
+                            <wp:post_date><![CDATA[2024-04-12 13:50:11]]></wp:post_date>
+                            <wp:post_date_gmt><![CDATA[2024-04-12 13:50:11]]></wp:post_date_gmt>
+                            <wp:post_modified><![CDATA[2024-04-12 13:51:26]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2024-04-12 13:51:26]]></wp:post_modified_gmt>
+                            <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+                            <wp:ping_status><![CDATA[open]]></wp:ping_status>
+                            <wp:post_name><![CDATA[optimizing-lower-hba1c-better-metabolic-health]]></wp:post_name>
+                            <wp:status><![CDATA[publish]]></wp:status>
+                            <wp:post_parent>0</wp:post_parent>
+                            <wp:menu_order>150</wp:menu_order>
+                            <wp:post_type><![CDATA[post]]></wp:post_type>
+                            <wp:post_password><![CDATA[]]></wp:post_password>
+                            <wp:is_sticky>0</wp:is_sticky>
+                                                        		<category domain="post_tag" nicename="a1c"><![CDATA[A1C]]></category>
+		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
+		<category domain="post_tag" nicename="diabetes"><![CDATA[diabetes]]></category>
+		<category domain="post_tag" nicename="glucose"><![CDATA[glucose]]></category>
+		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
+		<category domain="category" nicename="hba1c"><![CDATA[HbA1C]]></category>
+		<category domain="post_tag" nicename="hba1c"><![CDATA[HbA1c]]></category>
+		<category domain="post_tag" nicename="hemoglobin-a1c"><![CDATA[Hemoglobin A1C]]></category>
+		<category domain="post_tag" nicename="insulin"><![CDATA[insulin]]></category>
+		<category domain="post_tag" nicename="metabolism"><![CDATA[metabolism]]></category>
+		<category domain="post_tag" nicename="pre-diabetes"><![CDATA[pre-diabetes]]></category>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[7]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[rank_math_seo_score]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[70]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[written_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:1:{i:0;s:2:"17";}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_written_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_641a6cfe4d592]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[reviewed_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_reviewed_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_641bbb3ce67e4]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[select_related_posts]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:1:{i:0;s:4:"1539";}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_0_card_type]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_0_card_type]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64153775140fc]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_0_paragraph]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[<strong>Key Takeaways</strong>
+<ul>
+ 	<li>Hemoglobin A1C is an important screen for diabetic risk, providing a long-term snapshot of blood glucose concentration in comparison to other tests.</li>
+ 	<li>Levels that are consistently above 5.6% may warrant a visit to a physician.</li>
+ 	<li>Because of its role in diagnosing diabetes, HbA1c is included in SiPhox Health's base panel.</li>
+</ul>
+A1C results can be interpreted using the following reference ranges, but it is important to consult with your physician if your level falls outside the normal range.
+<ul>
+ 	<li><span style="text-decoration: underline;"><a href="https://www.abim.org/Media/bfijryql/laboratory-reference-ranges.pdf">Normal</a></span>: 4 - 5.6%</li>
+ 	<li><span style="text-decoration: underline;"><a href="https://www.cdc.gov/diabetes/managing/managing-blood-sugar/a1c.html#:~:text=A%20normal%20A1C%20level%20is,for%20developing%20type%202%20diabetes.">Pre-Diabetes</a></span>: 5.7 - 6.4%</li>
+ 	<li><a href="https://www.cdc.gov/diabetes/managing/managing-blood-sugar/a1c.html#:~:text=A%20normal%20A1C%20level%20is,for%20developing%20type%202%20diabetes."><span style="text-decoration: underline;">Diabetes</span>:</a> &gt; 6.5%</li>
+ 	<li><a href="https://www.singlecare.com/blog/normal-a1c-levels/"><span style="text-decoration: underline;">Critical</span></a>: &gt; 9%</li>
+</ul>
+According to the <a href="https://www.cdc.gov/diabetes/managing/managing-blood-sugar/a1c.html#:~:text=The">CDC</a>, several factors can provide a false report of your A1C results, including:
+<ul>
+ 	<li>Kidney failure, liver disease, anemia</li>
+ 	<li>Less common hemoglobin types that people of African, Mediterranean, or Southeast Asian descent may have</li>
+ 	<li>Certain medications</li>
+ 	<li>Blood loss or blood transfusions</li>
+ 	<li>Early or late pregnancy</li>
+</ul>
+<!-- notionvc: 6fe1567e-2865-4cb0-93ef-9932c9e94f17 -->
+
+<!-- notionvc: 38b58bcd-39ae-4912-80dc-a87dbebd79d1 -->]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_0_paragraph]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_6415376e140fb]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_1_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[<h2>What is Hemoglobin A1C?</h2>
+Hemoglobin (Hb) is a type of protein that circulates in the blood and is responsible for transporting oxygen from the lungs to tissues throughout the body. {{{<span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">Billett HH. Hemoglobin and Hematocrit. In: Walker HK, Hall WD, Hurst JW, editors. Clinical Methods: The History, Physical, and Laboratory Examinations. 3rd edition. Boston: Butterworths; 1990. Chapter 151.</span><span class="bk_cite_avail" style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);"> Available from: https://www.ncbi.nlm.nih.gov/books/NBK259/</span><span style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">}}}</span>
+
+A HbA1c test is a measure of the percent of total hemoglobin that has been glycosylated, or attached to glucose (sugar). This is significant because the percentage of glycosylated HbA1c correlates to the average amount of glucose that is present in the bloodstream over the past 2 to 3 months. Since diabetes is a disease in which blood glucose levels are too high, elevated HbA1c can be indicative of pre-diabetes or diabetes. {{{MedlinePlus [Internet]. Bethesda (MD): National Library of Medicine (US). Blood Glucose; [updated 2024 Mar 6]. Available from: https://medlineplus.gov/bloodglucose.html#}}}
+<h2>Why is measuring HbA1c important?</h2>
+Many sources suggest that A1C levels between 5.7% and 6.4% are indicative of pre-diabetes, whereas higher levels are indicative of diabetes. {{{<i>A1C Looks Back</i>. Understanding A1C Test | ADA. https://diabetes.org/about-diabetes/a1c}}}. According to the CDC, 136 million American adults have either diabetes or pre-diabetes {{{<span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">Centers for Disease Control and Prevention. National Diabetes Statistics Report website. https://www.cdc.gov/diabetes/data/statistics-report/index.html. Accessed 2024 April 10.</span><span style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">}}}, and out of all American adults with diabetes, 47.4% had A1C values over 7%.</span>
+
+<span style="text-decoration: underline;">That’s where the HbA1c test really shines— in its value as a predictor and monitor of this serious metabolic disease. Unlike daily blood sugar tests, HbA1c reflects average glucose levels over two to three months, offering a more comprehensive picture of how well diabetes is being controlled.</span>
+
+This helps in making informed decisions about treatment adjustments and lifestyle changes. High HbA1c levels indicate poor blood sugar control, increasing the risk of diabetes-related complications such as cardiovascular disease, kidney damage (nephropathy), eye damage (retinopathy), nerve damage (neuropathy), and poor wound healing. These complications can have a significant impact on quality of life and overall health. Therefore, maintaining HbA1c levels within the recommended range is crucial for reducing the risk of these long-term effects. {{{Department of Health &amp; Human Services. (2004, October 28). <i>Diabetes - long-term effects</i>. Better Health Channel. https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/diabetes-long-term-effects}}}
+<h2>What factors can influence HbA1c values?</h2>
+Several factors can influence HbA1c readings. Conditions like anemia or hemoglobinopathies can alter hemoglobin levels, affecting HbA1c accuracy. Changes in red blood cell lifespan due to recent blood loss, transfusion, or certain chronic conditions (e.g., kidney or liver disease) can skew results. Some medications impact glucose metabolism, thus influencing HbA1c. Racial and ethnic differences have been observed in HbA1c levels, requiring careful interpretation. Pregnancy also affects HbA1c, necessitating different evaluation standards for pregnant women. It's important to consider these factors for accurate assessment of HbA1c results. {{{Centers for Disease Control and Prevention. (2022, September 30). <i>All About Your A1C</i>. Centers for Disease Control and Prevention. https://www.cdc.gov/diabetes/managing/managing-blood-sugar/a1c.html#:~:text=The}}}
+<h2>What lifestyle modifications can be made to regulate HbA1c?</h2>
+Chronic stress can raise blood glucose levels due to the release of stress hormones like cortisol, which can lead to higher HbA1c readings. Finding ways to mitigate this such as deep breathing exercises, meditation, yoga, mindfulness exercises, and adequate sleep may help. {{{Hilliard, M. E., Yi-Frazier, J. P., Hessler, D., Butler, A. M., Anderson, B. J., &amp; Jaser, S. (2016). Stress and A1c Among People with Diabetes Across the Lifespan. <i>Current diabetes reports</i>, <i>16</i>(8), 67. https://doi.org/10.1007/s11892-016-0761-3}}} Smoking can increase HbA1c levels independently of glucose concentration. {{{Centers for Disease Control and Prevention. (2022a, June 20). <i>Smoking and Diabetes</i>. Centers for Disease Control and Prevention. https://www.cdc.gov/diabetes/library/features/smoking-and-diabetes.html}}} A higher BMI, often associated with increased fat mass, can lead to insulin resistance, which in turn may raise HbA1c levels. {{{Sarnings, W., Aman, A., Rasyid, H., Bakri, S., Sanusi, H., As Daud, N., &amp; Zainuddin, A. (2022). Obesity Measurement Index Is Associated With Hemoglobin A1c Level in Young Adult Without Diabetes: A Single-Center Cross-Sectional Study. <em>Journal Of Endocrinology And Metabolism, 12</em>(4-5), 140-145. https://jofem.org/index.php/jofem/article/view/823/284284589}}} Conversely, regular exercise improves insulin sensitivity and glucose metabolism, potentially lowering HbA1c. {{{Sheri R. Colberg<span class="al-author-delim">, </span>Ronald J. Sigal<span class="al-author-delim">, </span>Jane E. Yardley<span class="al-author-delim">, </span>Michael C. Riddell<span class="al-author-delim">, </span>David W. Dunstan<span class="al-author-delim">, </span>Paddy C. Dempsey<span class="al-author-delim">, </span>Edward S. Horton<span class="al-author-delim">, </span>Kristin Castorino<span class="al-author-delim">, </span>Deborah F. Tate; Physical Activity/Exercise and Diabetes: A Position Statement of the American Diabetes Association. <em>Diabetes Care</em> 1 November 2016; 39 (11): 2065–2079. <a href="https://doi.org/10.2337/dc16-1728" target="_blank" rel="noopener">https://doi.org/10.2337/dc16-1728</a>}}} These lifestyle factors, along with dietary habits, play a significant role in determining HbA1c values and overall metabolic health. {{{Managing Diabetes: Six Healthy Steps with the Most Benefit. Johns Hopkins Medicine. (2021, November 1). https://www.hopkinsmedicine.org/health/conditions-and-diseases/diabetes/managing-diabetes-six-healthy-steps-with-the-most-benefit}}}
+
+If your A1C is elevated, Johns Hopkins Medicine {{{Managing Diabetes: Six Healthy Steps with the Most Benefit. Johns Hopkins Medicine. (2021, November 1). https://www.hopkinsmedicine.org/health/conditions-and-diseases/diabetes/managing-diabetes-six-healthy-steps-with-the-most-benefit}}} suggests:
+<ul>
+ 	<li>Losing weight by leading a healthy lifestyle</li>
+ 	<li>Increasing fiber in your diet by choosing veggies, whole grains, and fruit</li>
+ 	<li>Regularly exercising - particularly, aerobic exercise and strength training</li>
+ 	<li>Quitting smoking</li>
+</ul>
+<div id="1712931477.193009" class="c-virtual_list__item" tabindex="0" role="listitem" aria-setsize="-1" data-qa="virtual-list-item" data-item-key="1712931477.193009">
+<div class="c-message_kit__background c-message_kit__background--hovered p-message_pane_message__message c-message_kit__message" role="presentation" data-qa="message_container" data-qa-unprocessed="false" data-qa-placeholder="false">
+<div class="c-message_kit__hover c-message_kit__hover--hovered" role="document" aria-roledescription="message" data-qa-hover="true">
+<div class="c-message_kit__actions c-message_kit__actions--above">
+<div class="c-message_kit__gutter">
+<div class="c-message_kit__gutter__right" role="presentation" data-qa="message_content">
+<div class="c-message_kit__blocks c-message_kit__blocks--rich_text">
+<div class="c-message__message_blocks c-message__message_blocks--rich_text" data-qa="message-text">
+<div class="p-block_kit_renderer" data-qa="block-kit-renderer">
+<div class="p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first">
+<div class="p-rich_text_block" dir="auto">
+<div class="p-rich_text_section">To manage blood sugar levels effectively, consider reducing carbohydrate intake, as carbs are broken down into sugars by the body. <span style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">{{{</span><i style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">Carbohydrates</i><span style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">. UF Health. (n.d.). https://ufhealth.org/conditions-and-treatments/carbohydrates}}} </span>Opt for foods with a lower glycemic index, such as non-starchy vegetables and whole fruits, which are digested and absorbed more slowly, resulting in fewer blood glucose spikes. Additionally, incorporating soluble fiber into your diet can help slow sugar absorption and stabilize blood glucose levels. Good sources of soluble fiber include oats, peas, beans, lentils, vegetables, nuts, flaxseeds, and avocado. {{{List of soluble fiber foods for IBS: Holiday edition. List of Soluble Fiber Foods for IBS: Holiday Edition | Bastyr University. (2023a, November 1). https://bastyr.edu/about/news/list-soluble-fiber-foods-ibs-holiday-edition}}} Avoiding high-glycemic foods like sugary treats, white bread, white rice, potatoes, fruit juice, and sweet corn can further support blood sugar management. {{{<i>Understanding Carbs</i>. Carbs and Diabetes | ADA. https://diabetes.org/food-nutrition/understanding-carbs}}} Using a Glucometer or CGM (Continuous Glucose Monitor) is a valuable tool for real-time monitoring of how food and exercise impact blood glucose levels. By identifying patterns that may not be apparent otherwise, these devices help refine glycemic control and enhance overall management of blood sugar levels. <span style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">{{{Wright, E. E., Jr, Kerr, M. S. D., Reyes, I. J., Nabutovsky, Y., &amp; Miller, E. (2021). Use of Flash Continuous Glucose Monitoring Is Associated With A1C Reduction in People With Type 2 Diabetes Treated With Basal Insulin or Noninsulin Therapy. </span><i style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">Diabetes spectrum : a publication of the American Diabetes Association</i><span style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">, </span><i style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">34</i><span style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">(2), 184–189. https://doi.org/10.2337/ds20-0069}}}.</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+Several supplements may aid in lowering HbA1c levels. While the following may aid in lowering A1C, relying solely on supplements for glycemic control is not recommended.
+<ul>
+ 	<li>Cinnamon {{{Cleveland Clinic. (2024, March 19). Can taking cinnamon supplements lower your blood sugar? https://health.clevelandclinic.org/can-taking-cinnamon-lower-your-blood-sugar}}}</li>
+ 	<li>Magnesium {{{ELDerawi, W. A., Naser, I. A., Taleb, M. H., &amp; Abutair, A. S. (2018). The Effects of Oral Magnesium Supplementation on Glycemic Response among Type 2 Diabetes Patients. Nutrients, 11(1), 44. https://doi.org/10.3390/nu11010044}}}</li>
+ 	<li>Chromium Picolinate {{{Watts, M. (2023, October 29). Diabetes and Chromium. https://www.diabetes.co.uk/Diabetes-and-Chromium.html}}}</li>
+ 	<li>Berberine {{{Yin, J., Xing, H., &amp; Ye, J. (2008). Efficacy of berberine in patients with type 2 diabetes mellitus. Metabolism: clinical and experimental, 57(5), 712–717. https://doi.org/10.1016/j.metabol.2008.01.013}}}</li>
+ 	<li>Fiber (Metamucil or psyllium husk) {{{Gibb, R. D., McRorie, J. W., Jr, Russell, D. A., Hasselblad, V., &amp; D'Alessio, D. A. (2015). Psyllium fiber improves glycemic control proportional to loss of glycemic control: a meta-analysis of data in euglycemic subjects, patients at risk of type 2 diabetes mellitus, and patients being treated for type 2 diabetes mellitus. The American journal of clinical nutrition, 102(6), 1604–1614. https://doi.org/10.3945/ajcn.115.106989}}}</li>
+</ul>
+These supplements show promise in improving insulin sensitivity and reducing blood sugar levels and have been targets for therapeutic studies. However, it's important to consult a healthcare provider before starting any supplement regimen, especially for individuals with diabetes or pre-diabetes, as these supplements may interact with other medications and may not be suitable for everyone.
+
+Subscribe to SiPhox and start tracking your HbA1c + other critical biomarkers as well as sleep, activity, and heart data all in one comprehensive dashboard.
+
+<a href="https://siphoxhealth.com/pages/pricing-tiers"><span style="text-decoration: underline;"><strong>Learn more about SiPhox Health testing here.</strong></span></a>]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_1_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:2:{i:0;s:14:"highlight_card";i:1;s:11:"text_editor";}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_6414004cd50ab]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[rank_math_primary_category]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[rank_math_focus_keyword]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[HbA1c,diabetes,metabolic,blood test,insulin]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[2770]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[rank_math_analytic_object_id]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[122]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[limit_modified_date]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -26462,7 +26665,7 @@ Both are useful. Heart &amp; Metabolic Age tells you how your cardiovascular sys
                                                     </item>
                                                 <item>
                             <title><![CDATA[Heart & Metabolic Score]]></title>
-                            <link>/hub/guides/heart-metabolic-age/</link>
+                            <link>/hub/guides/heart-metabolic-score/</link>
                             <pubDate>Wed, 11 Feb 2026 21:49:46 +0000</pubDate>
                             <dc:creator><![CDATA[siphoxhealth]]></dc:creator>
                             <guid isPermaLink="false">/hub/?p=4165</guid>
@@ -26472,11 +26675,11 @@ Both are useful. Heart &amp; Metabolic Age tells you how your cardiovascular sys
                             <wp:post_id>4165</wp:post_id>
                             <wp:post_date><![CDATA[2026-02-11 21:49:46]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2026-02-11 21:49:46]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-08-25 21:54:28]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-08-25 21:54:28]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-08-27 16:04:37]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-08-27 16:04:37]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
-                            <wp:post_name><![CDATA[heart-metabolic-age]]></wp:post_name>
+                            <wp:post_name><![CDATA[heart-metabolic-score]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
                             <wp:menu_order>22</wp:menu_order>
@@ -26602,6 +26805,14 @@ The Heart &amp; Metabolic Score distills these dynamics into a single, trackable
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -30178,271 +30389,6 @@ Your panel of TSH, Free T4, Free T3, and thyroid antibodies already covers what 
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
-                            <title><![CDATA[How to Improve Your Sleep: Evidence-Based Habits, Routines, and Supplements]]></title>
-                            <link>/hub/guides/improve-sleep/</link>
-                            <pubDate>Thu, 23 Jul 2026 13:42:16 +0000</pubDate>
-                            <dc:creator><![CDATA[siphoxhealth]]></dc:creator>
-                            <guid isPermaLink="false">/hub/?p=4295</guid>
-                            <description></description>
-                            <content:encoded><![CDATA[]]></content:encoded>
-                            <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-                            <wp:post_id>4295</wp:post_id>
-                            <wp:post_date><![CDATA[2026-07-23 13:42:16]]></wp:post_date>
-                            <wp:post_date_gmt><![CDATA[2026-07-23 13:42:16]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-07-23 13:55:49]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-07-23 13:55:49]]></wp:post_modified_gmt>
-                            <wp:comment_status><![CDATA[closed]]></wp:comment_status>
-                            <wp:ping_status><![CDATA[open]]></wp:ping_status>
-                            <wp:post_name><![CDATA[improve-sleep]]></wp:post_name>
-                            <wp:status><![CDATA[publish]]></wp:status>
-                            <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>2</wp:menu_order>
-                            <wp:post_type><![CDATA[post]]></wp:post_type>
-                            <wp:post_password><![CDATA[]]></wp:post_password>
-                            <wp:is_sticky>0</wp:is_sticky>
-                                                        		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[7]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[content_0_copies]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[[lwptoc]]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_content_0_copies]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[content_1_copies]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[<h2 id="why-sleep-matters">Why Sleep Matters</h2>
-Sleep is one of the most important aspects of physical and mental health, yet it is one of the aspects of health and wellness that is first neglected even when it helps to support the brain, heart, immune system, metabolism, hormones, memory and our energy and mood during the day. Sleep is vital yet overlooked.
-
-During sleep, the brain activates the glymphatic system, which help to clear metabolic waste. This helps with memory consolidation, allowing the brain to gain and retain new information and connect it to already existing information.
-
-Sleep also influences hormones such as leptin and ghrelin which are involved with hunger and appetite. Have you ever pulled an “all nighter”. Did you notice how much more hungry you were and the urge to constantly snack? When sleep is continually interrupted, it can become increasingly difficult to regulate appetite which can contribute to overeating and weight gain.
-
-Sleep also benefits the cardiovascular system by giving it time to recover. Blood pressure usually decreases during sleep which in turn reduces the workload placed on the heart. Chronic and poor sleep is associated with high blood pressure, cardiovascular disease as well as impaired immune function, weight gain (as mentioned earlier) and poor cognitive function.
-<h2 id="how-much-sleep-do-you-need">How Much Sleep Do You Need?</h2>
-The general guideline for healthy adults is to aim for 7-9 hours of sleep each night.
-
-Of course, life can get in the way sometimes and while the occasional poor night’s sleep is okay, regular sleep of less than 7 hours can result in decreased daytime performance and increased long term health risks. On the other hand, constantly sleeping more than 9 hours per night may also be associated with negative health outcomes for some people. Keep in mind that sleep is highly personal and varies from person to person.
-
-The main goal is to get enough consistent, high quality sleep that makes you wake up feeling fresh and reenergized, not solely spending more time in bed. The actual sleep matters most.
-<h2 id="why-sleep-consistency-matters">Why Sleep Consistency Matters</h2>
-Maintaining a regular sleep schedule is one of the most important habits to support the body’s internal clock.
-
-You can help support your internal clock by going to bed and waking up at roughly the same time each day, including the weekends. Having an inconsistent sleep/wake routine can disrupt circadian rhythms and make it harder to fall asleep, make it harder to wake up leaving you feeling groggy and impair daytime energy.
-
-Consistently waking up at the same time each day is particularly useful as it gives your brain a reliable signal that the day has started.
-<h2 id="morning-sunlight-and-exercise">Morning Sunlight and Exercise</h2>
-The habits that support good sleep begin in the morning.
-<h4>Morning sunlight</h4>
-Natural sunlight in the morning helps to sync your circadian rhythm which controls alertness, sleepiness and melatonin production.
-
-Aim for 20-30 minutes of morning sunlight before 10am or after 3pm whereas sunlight between 10-3 is best for vitamin D production. Morning sunlight signals to your brain that the day has started and can help you to fall asleep earlier later in the evening.
-
-Research also suggests that greater morning light exposure is associated with an earlier sleep midpoint and over better sleep quality.
-<h4>Regular exercise</h4>
-Physical activity can improve sleep quality and increase the amount of deep sleep you get.
-
-Aim for approximately 150 minutes of moderate intensity activity per week of 75 minutes of intense activity. A single bout of 30 minute moderate intensity activity can help to improve sleep the same night.
-
-Check out this link on <a href="https://siphoxhealth.com/hub/guides/maintaining-muscle-with-age">The Minimum Effective Workout Plan for Maintaining Muscle as You Age – SiPhox Health</a>.
-
-Exercise should help support sleep and sleep should help to support exercise and recovery. Avoid sacrificing sleep to fit in a workout.
-<h2 id="sleep-hygiene-and-evening-habits">Sleep Hygiene and Evening Habits</h2>
-Sleep hygiene refers to the habits and environment that prepares your body for quality, restful sleep.
-
-Make sure your bedroom is:
-<ul>
- 	<li>Cool</li>
- 	<li>Dark</li>
- 	<li>Quiet</li>
- 	<li>Comfortable</li>
-</ul>
-Use a pillow and mattress that are right for you. Blackout curtains, earplugs and a white noise machine can also help to create a more restful sleep environment. Consider going around and taping up any light that may be emitting from power outlets and charging devices.
-
-Try reserving the bed for sleep and intimacy only and avoid using the bed as a space for working, studying, eating, watching T.V. and scrolling on your phone. This can help strengthen the association between going to bed and falling asleep.
-<h4>Screens</h4>
-Phones, tablets, televisions and all of the other light emitting devices around can suppress melatonin and increase awakeness near to bedtime.
-
-Try to turn off and avoid screens 30-60 minutes before bed. This is also a good time to start dimming the light around the house.
-<h4>Caffeine</h4>
-Caffeine blocks adenosine receptors which is one of the signals that helps your body feel sleepy. Try to avoid caffeine after midday (2pm) when possible. The half life of caffeine is around 8 hours meaning that 8 hours after caffeine consumption, half will still be circulating in your system.
-<h4>Alcohol</h4>
-Alcohol may initially make you feel drowsy, but it can disrupt the second half of the night. It may reduce REM sleep, increase awakenings, and leave you feeling less refreshed the next morning.
-
-Avoid relying on alcohol as a sleep aid and avoid alcohol 4 hours before time. This would mean the last call is at 7pm for an 11pm bedtime.
-<h4>Evening meals</h4>
-Avoid large, heavy, or unhealthy meals approximately 2 hours before bedtime. Eating too much too close to bedtime may cause digestive discomfort, or acid reflux, making it harder to stay and fall asleep.
-<h2 id="stress-management-and-bedtime-journaling">Stress Management and Bedtime Journaling</h2>
-A racing mind is a common reason people struggle to fall asleep. Relaxation practices can help shift the body away from a high-alert “fight or flight” state and toward a calmer resting state.
-
-Helpful options include:
-<ul>
- 	<li>Mindfulness meditation</li>
- 	<li>Slow breathing</li>
- 	<li>Progressive muscle relaxation</li>
- 	<li>Mindful walking in nature</li>
- 	<li>Bedtime journaling</li>
-</ul>
-<h4>Progressive muscle relaxation</h4>
-Progressive muscle relaxation involves gently tensing and then releasing different muscle groups.
-
-Tense each muscle group for approximately 5–10 seconds, then slowly release it while focusing on the feeling of relaxation. Work gradually through the feet, legs, hips, abdomen, shoulders, face, and hands.
-
-Avoid tensing the muscles to the point of pain.
-<h4>The five-minute to-do list</h4>
-If unfinished tasks keep running through your mind, spend five minutes before bed writing a specific to-do list for the next day or coming days.
-
-Writing future tasks down may help “off-load” them from your mind so you do not have to keep mentally rehearsing them.
-
-Be specific. Instead of writing “work on project,” list the individual actions you need to complete. Journaling about completed tasks may not provide the same sleep-onset benefit.
-<h4>Nature walking</h4>
-A mindful nature walk may also improve mood and sleep difficulties. One studied approach used approximately 35 minutes of mindful walking, with attention directed toward the surroundings and present moment.
-<h2 id="supplements-that-may-support-sleep">Supplements That May Support Sleep</h2>
-Behavioral changes should remain the foundation of a sleep-improvement plan. Supplements may provide additional support, but they should not replace a consistent sleep schedule, morning light, exercise, stress management, or a supportive bedroom environment.
-<h4>Magnesium Bisglycinate</h4>
-Magnesium supports nervous system function and relaxation.
-
-A study using 250 mg of elemental magnesium daily for four weeks found a modest improvement in insomnia severity.
-
-The evidence remains limited and mixed. Benefits may be greater in people with low dietary magnesium intake.
-<h4>Holy Basil</h4>
-Holy basil, also called tulsi, is an herb that has been studied for stress and sleep support.
-
-A standardized extract taken at 250 mg daily for eight weeks was associated with reduced perceived stress and improved subjective sleep quality.
-
-The supplement was well tolerated in the study, but individual responses may vary.
-<h4>L-Theanine</h4>
-L-theanine is an amino acid naturally found in tea.
-
-Research suggests it may support:
-<ul>
- 	<li>Sleep quality</li>
- 	<li>Daytime function</li>
- 	<li>Sleep onset</li>
-</ul>
-However, the evidence is mixed because many studies combine L-theanine with other ingredients, making it difficult to determine its independent effect.
-
-Speak with a healthcare professional before using supplements if you take medications, have a chronic health condition, are pregnant, or are breastfeeding.
-<h2 id="what-to-track">What to Track</h2>
-Tracking a few simple measures can help you understand whether your sleep routine is working.
-<h4>Sleep duration</h4>
-The total amount of time you spend asleep.
-
-Aim for 7–9 hours per night.
-<h4>Sleep latency</h4>
-The amount of time it takes to fall asleep after going to bed.
-
-A sleep latency of less than 30 minutes is a useful general target.
-<h4>Sleep efficiency</h4>
-The percentage of your time in bed that you are actually asleep.
-
-A sleep efficiency above 85% is a useful general target.
-<h4>Daytime energy</h4>
-Pay attention to your alertness, focus, mood, and sleepiness during the day. How you feel and function can be just as important as the numbers recorded by a device.
-
-A sleep diary, app, or wearable may help you monitor trends. Wearable devices are useful for patterns but may not measure total sleep time or sleep stages with clinical accuracy.
-<h2 id="when-to-seek-professional-help">When to Seek Professional Help</h2>
-General sleep habits may not be enough when an underlying sleep disorder is present.
-
-Speak with a healthcare professional if you experience:
-<ul>
- 	<li>Persistent difficulty falling or staying asleep</li>
- 	<li>Excessive daytime sleepiness</li>
- 	<li>Loud or chronic snoring</li>
- 	<li>Gasping or choking during sleep</li>
- 	<li>Frequent nighttime awakenings</li>
- 	<li>Sleep problems that interfere with work, driving, safety, or daily functioning</li>
- 	<li>Feeling unrefreshed despite spending enough time in bed</li>
-</ul>
-Snoring, gasping, and choking may be signs of obstructive sleep apnea. Persistent insomnia may also require targeted clinical treatment rather than sleep hygiene alone.
-<h4>Simple Daily Sleep Plan</h4>
-<h5>Morning</h5>
-<ul>
- 	<li>Wake up at approximately the same time every day</li>
- 	<li>Get 20–30 minutes of natural light before 10 a.m.</li>
-</ul>
-<h5>During the day</h5>
-<ul>
- 	<li>Exercise regularly</li>
- 	<li>Aim for approximately 150 minutes of moderate aerobic activity per week</li>
- 	<li>Stop caffeine around midday</li>
-</ul>
-<h5>Evening</h5>
-<ul>
- 	<li>Finish large meals at least two hours before bed</li>
- 	<li>Limit alcohol</li>
- 	<li>Keep the bedroom dark, cool, quiet, and comfortable</li>
-</ul>
-<h5>Thirty minutes before bed</h5>
-<ul>
- 	<li>Turn off screens</li>
- 	<li>Dim the lights</li>
- 	<li>Use breathing, mindfulness, or progressive muscle relaxation</li>
-</ul>
-<h5>At bedtime</h5>
-<ul>
- 	<li>Spend five minutes writing a specific to-do list for the next day</li>
- 	<li>Aim for 7–9 hours of sleep</li>
- 	<li>Maintain the same wake-up time on weekdays and weekends</li>
-</ul>
-<h2 id="summary-key-takeaways">Summary / Key Takeaways</h2>
-Improving sleep usually starts with consistent daily habits rather than a single supplement or quick fix.
-
-✓ Sleep duration: Aim for 7–9 hours each night
-✓ Consistency: Keep a regular bedtime and wake-up time
-✓ Morning light: Get 20–30 minutes of sunlight before 10 a.m.
-✓ Exercise: Work toward 150 minutes of moderate activity each week
-✓ Sleep environment: Keep the bedroom dark, cool, quiet, and comfortable
-✓ Evening habits: Reduce late caffeine, alcohol, screens, and heavy meals
-✓ Mental relaxation: Use mindfulness, progressive muscle relaxation, or a five-minute to-do list
-✓ Supplements: Consider magnesium, holy basil, or L-theanine only as additions to healthy sleep habits
-
-Bottom line: Better sleep is built through consistency. Start with one or two manageable changes, practice them daily, and gradually add more habits as they become part of your routine.
-
-<a href="https://siphoxhealth.com/products/coaching-call-one-time">Book a call with one of our health coaches</a> today to learn more about improving your sleep and building a routine that supports your long-term health.]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_content_1_copies]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[content]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[a:2:{i:0;s:11:"text_editor";i:1;s:11:"text_editor";}]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_content]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[field_6414004cd50ab]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[written_by]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[a:1:{i:0;s:1:"7";}]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_written_by]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[field_641a6cfe4d592]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[reviewed_by]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_reviewed_by]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[field_641bbb3ce67e4]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[select_related_posts]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
-                                </wp:postmeta>
-                                                    </item>
-                                                <item>
                             <title><![CDATA[SiPhox 2020 Retrospective]]></title>
                             <link>/hub/uncategorized/siphox-2020-retrospective-2/</link>
                             <pubDate>Sun, 10 Jan 2021 10:23:40 +0000</pubDate>
@@ -33087,8 +33033,8 @@ To learn more about these biomarkers including why they are important, whether t
                                                         		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="female-fertility"><![CDATA[female fertility]]></category>
 		<category domain="post_tag" nicename="fertility"><![CDATA[fertility]]></category>
-		<category domain="post_tag" nicename="fsh"><![CDATA[FSH]]></category>
 		<category domain="category" nicename="fsh"><![CDATA[FSH]]></category>
+		<category domain="post_tag" nicename="fsh"><![CDATA[FSH]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
 		<category domain="post_tag" nicename="womens-health"><![CDATA[womens health]]></category>
                                                             <wp:postmeta>
@@ -33386,225 +33332,6 @@ At SiPhox Health, we firmly believe in the power of understanding your body thro
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_content_7_copies]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
-                                </wp:postmeta>
-                                                    </item>
-                                                <item>
-                            <title><![CDATA[HbA1c At Home- A Tool for Metabolic Health]]></title>
-                            <link>/hub/guides/optimizing-lower-hba1c-better-metabolic-health/</link>
-                            <pubDate>Fri, 12 Apr 2024 13:50:11 +0000</pubDate>
-                            <dc:creator><![CDATA[PavelKorecky]]></dc:creator>
-                            <guid isPermaLink="false">https://hub.siphoxhealth.com/?p=2490</guid>
-                            <description></description>
-                            <content:encoded><![CDATA[]]></content:encoded>
-                            <excerpt:encoded><![CDATA[Learn more about HbA1c, an important metabolic marker and long-term indicator of glycemic control.]]></excerpt:encoded>
-                            <wp:post_id>2490</wp:post_id>
-                            <wp:post_date><![CDATA[2024-04-12 13:50:11]]></wp:post_date>
-                            <wp:post_date_gmt><![CDATA[2024-04-12 13:50:11]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2024-04-12 13:51:26]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2024-04-12 13:51:26]]></wp:post_modified_gmt>
-                            <wp:comment_status><![CDATA[closed]]></wp:comment_status>
-                            <wp:ping_status><![CDATA[open]]></wp:ping_status>
-                            <wp:post_name><![CDATA[optimizing-lower-hba1c-better-metabolic-health]]></wp:post_name>
-                            <wp:status><![CDATA[publish]]></wp:status>
-                            <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>150</wp:menu_order>
-                            <wp:post_type><![CDATA[post]]></wp:post_type>
-                            <wp:post_password><![CDATA[]]></wp:post_password>
-                            <wp:is_sticky>0</wp:is_sticky>
-                                                        		<category domain="post_tag" nicename="a1c"><![CDATA[A1C]]></category>
-		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
-		<category domain="post_tag" nicename="diabetes"><![CDATA[diabetes]]></category>
-		<category domain="post_tag" nicename="glucose"><![CDATA[glucose]]></category>
-		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
-		<category domain="post_tag" nicename="hba1c"><![CDATA[HbA1c]]></category>
-		<category domain="category" nicename="hba1c"><![CDATA[HbA1C]]></category>
-		<category domain="post_tag" nicename="hemoglobin-a1c"><![CDATA[Hemoglobin A1C]]></category>
-		<category domain="post_tag" nicename="insulin"><![CDATA[insulin]]></category>
-		<category domain="post_tag" nicename="metabolism"><![CDATA[metabolism]]></category>
-		<category domain="post_tag" nicename="pre-diabetes"><![CDATA[pre-diabetes]]></category>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[7]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[rank_math_seo_score]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[70]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[written_by]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[17]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_written_by]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[field_641a6cfe4d592]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[reviewed_by]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_reviewed_by]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[field_641bbb3ce67e4]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[select_related_posts]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[a:1:{i:0;s:4:"1539";}]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[content_0_card_type]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_content_0_card_type]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[field_64153775140fc]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[content_0_paragraph]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[<strong>Key Takeaways</strong>
-<ul>
- 	<li>Hemoglobin A1C is an important screen for diabetic risk, providing a long-term snapshot of blood glucose concentration in comparison to other tests.</li>
- 	<li>Levels that are consistently above 5.6% may warrant a visit to a physician.</li>
- 	<li>Because of its role in diagnosing diabetes, HbA1c is included in SiPhox Health's base panel.</li>
-</ul>
-A1C results can be interpreted using the following reference ranges, but it is important to consult with your physician if your level falls outside the normal range.
-<ul>
- 	<li><span style="text-decoration: underline;"><a href="https://www.abim.org/Media/bfijryql/laboratory-reference-ranges.pdf">Normal</a></span>: 4 - 5.6%</li>
- 	<li><span style="text-decoration: underline;"><a href="https://www.cdc.gov/diabetes/managing/managing-blood-sugar/a1c.html#:~:text=A%20normal%20A1C%20level%20is,for%20developing%20type%202%20diabetes.">Pre-Diabetes</a></span>: 5.7 - 6.4%</li>
- 	<li><a href="https://www.cdc.gov/diabetes/managing/managing-blood-sugar/a1c.html#:~:text=A%20normal%20A1C%20level%20is,for%20developing%20type%202%20diabetes."><span style="text-decoration: underline;">Diabetes</span>:</a> &gt; 6.5%</li>
- 	<li><a href="https://www.singlecare.com/blog/normal-a1c-levels/"><span style="text-decoration: underline;">Critical</span></a>: &gt; 9%</li>
-</ul>
-According to the <a href="https://www.cdc.gov/diabetes/managing/managing-blood-sugar/a1c.html#:~:text=The">CDC</a>, several factors can provide a false report of your A1C results, including:
-<ul>
- 	<li>Kidney failure, liver disease, anemia</li>
- 	<li>Less common hemoglobin types that people of African, Mediterranean, or Southeast Asian descent may have</li>
- 	<li>Certain medications</li>
- 	<li>Blood loss or blood transfusions</li>
- 	<li>Early or late pregnancy</li>
-</ul>
-<!-- notionvc: 6fe1567e-2865-4cb0-93ef-9932c9e94f17 -->
-
-<!-- notionvc: 38b58bcd-39ae-4912-80dc-a87dbebd79d1 -->]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_content_0_paragraph]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[field_6415376e140fb]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[content_1_copies]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[<h2>What is Hemoglobin A1C?</h2>
-Hemoglobin (Hb) is a type of protein that circulates in the blood and is responsible for transporting oxygen from the lungs to tissues throughout the body. {{{<span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">Billett HH. Hemoglobin and Hematocrit. In: Walker HK, Hall WD, Hurst JW, editors. Clinical Methods: The History, Physical, and Laboratory Examinations. 3rd edition. Boston: Butterworths; 1990. Chapter 151.</span><span class="bk_cite_avail" style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);"> Available from: https://www.ncbi.nlm.nih.gov/books/NBK259/</span><span style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">}}}</span>
-
-A HbA1c test is a measure of the percent of total hemoglobin that has been glycosylated, or attached to glucose (sugar). This is significant because the percentage of glycosylated HbA1c correlates to the average amount of glucose that is present in the bloodstream over the past 2 to 3 months. Since diabetes is a disease in which blood glucose levels are too high, elevated HbA1c can be indicative of pre-diabetes or diabetes. {{{MedlinePlus [Internet]. Bethesda (MD): National Library of Medicine (US). Blood Glucose; [updated 2024 Mar 6]. Available from: https://medlineplus.gov/bloodglucose.html#}}}
-<h2>Why is measuring HbA1c important?</h2>
-Many sources suggest that A1C levels between 5.7% and 6.4% are indicative of pre-diabetes, whereas higher levels are indicative of diabetes. {{{<i>A1C Looks Back</i>. Understanding A1C Test | ADA. https://diabetes.org/about-diabetes/a1c}}}. According to the CDC, 136 million American adults have either diabetes or pre-diabetes {{{<span style="background-color: var(--global--color-background); color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base);">Centers for Disease Control and Prevention. National Diabetes Statistics Report website. https://www.cdc.gov/diabetes/data/statistics-report/index.html. Accessed 2024 April 10.</span><span style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">}}}, and out of all American adults with diabetes, 47.4% had A1C values over 7%.</span>
-
-<span style="text-decoration: underline;">That’s where the HbA1c test really shines— in its value as a predictor and monitor of this serious metabolic disease. Unlike daily blood sugar tests, HbA1c reflects average glucose levels over two to three months, offering a more comprehensive picture of how well diabetes is being controlled.</span>
-
-This helps in making informed decisions about treatment adjustments and lifestyle changes. High HbA1c levels indicate poor blood sugar control, increasing the risk of diabetes-related complications such as cardiovascular disease, kidney damage (nephropathy), eye damage (retinopathy), nerve damage (neuropathy), and poor wound healing. These complications can have a significant impact on quality of life and overall health. Therefore, maintaining HbA1c levels within the recommended range is crucial for reducing the risk of these long-term effects. {{{Department of Health &amp; Human Services. (2004, October 28). <i>Diabetes - long-term effects</i>. Better Health Channel. https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/diabetes-long-term-effects}}}
-<h2>What factors can influence HbA1c values?</h2>
-Several factors can influence HbA1c readings. Conditions like anemia or hemoglobinopathies can alter hemoglobin levels, affecting HbA1c accuracy. Changes in red blood cell lifespan due to recent blood loss, transfusion, or certain chronic conditions (e.g., kidney or liver disease) can skew results. Some medications impact glucose metabolism, thus influencing HbA1c. Racial and ethnic differences have been observed in HbA1c levels, requiring careful interpretation. Pregnancy also affects HbA1c, necessitating different evaluation standards for pregnant women. It's important to consider these factors for accurate assessment of HbA1c results. {{{Centers for Disease Control and Prevention. (2022, September 30). <i>All About Your A1C</i>. Centers for Disease Control and Prevention. https://www.cdc.gov/diabetes/managing/managing-blood-sugar/a1c.html#:~:text=The}}}
-<h2>What lifestyle modifications can be made to regulate HbA1c?</h2>
-Chronic stress can raise blood glucose levels due to the release of stress hormones like cortisol, which can lead to higher HbA1c readings. Finding ways to mitigate this such as deep breathing exercises, meditation, yoga, mindfulness exercises, and adequate sleep may help. {{{Hilliard, M. E., Yi-Frazier, J. P., Hessler, D., Butler, A. M., Anderson, B. J., &amp; Jaser, S. (2016). Stress and A1c Among People with Diabetes Across the Lifespan. <i>Current diabetes reports</i>, <i>16</i>(8), 67. https://doi.org/10.1007/s11892-016-0761-3}}} Smoking can increase HbA1c levels independently of glucose concentration. {{{Centers for Disease Control and Prevention. (2022a, June 20). <i>Smoking and Diabetes</i>. Centers for Disease Control and Prevention. https://www.cdc.gov/diabetes/library/features/smoking-and-diabetes.html}}} A higher BMI, often associated with increased fat mass, can lead to insulin resistance, which in turn may raise HbA1c levels. {{{Sarnings, W., Aman, A., Rasyid, H., Bakri, S., Sanusi, H., As Daud, N., &amp; Zainuddin, A. (2022). Obesity Measurement Index Is Associated With Hemoglobin A1c Level in Young Adult Without Diabetes: A Single-Center Cross-Sectional Study. <em>Journal Of Endocrinology And Metabolism, 12</em>(4-5), 140-145. https://jofem.org/index.php/jofem/article/view/823/284284589}}} Conversely, regular exercise improves insulin sensitivity and glucose metabolism, potentially lowering HbA1c. {{{Sheri R. Colberg<span class="al-author-delim">, </span>Ronald J. Sigal<span class="al-author-delim">, </span>Jane E. Yardley<span class="al-author-delim">, </span>Michael C. Riddell<span class="al-author-delim">, </span>David W. Dunstan<span class="al-author-delim">, </span>Paddy C. Dempsey<span class="al-author-delim">, </span>Edward S. Horton<span class="al-author-delim">, </span>Kristin Castorino<span class="al-author-delim">, </span>Deborah F. Tate; Physical Activity/Exercise and Diabetes: A Position Statement of the American Diabetes Association. <em>Diabetes Care</em> 1 November 2016; 39 (11): 2065–2079. <a href="https://doi.org/10.2337/dc16-1728" target="_blank" rel="noopener">https://doi.org/10.2337/dc16-1728</a>}}} These lifestyle factors, along with dietary habits, play a significant role in determining HbA1c values and overall metabolic health. {{{Managing Diabetes: Six Healthy Steps with the Most Benefit. Johns Hopkins Medicine. (2021, November 1). https://www.hopkinsmedicine.org/health/conditions-and-diseases/diabetes/managing-diabetes-six-healthy-steps-with-the-most-benefit}}}
-
-If your A1C is elevated, Johns Hopkins Medicine {{{Managing Diabetes: Six Healthy Steps with the Most Benefit. Johns Hopkins Medicine. (2021, November 1). https://www.hopkinsmedicine.org/health/conditions-and-diseases/diabetes/managing-diabetes-six-healthy-steps-with-the-most-benefit}}} suggests:
-<ul>
- 	<li>Losing weight by leading a healthy lifestyle</li>
- 	<li>Increasing fiber in your diet by choosing veggies, whole grains, and fruit</li>
- 	<li>Regularly exercising - particularly, aerobic exercise and strength training</li>
- 	<li>Quitting smoking</li>
-</ul>
-<div id="1712931477.193009" class="c-virtual_list__item" tabindex="0" role="listitem" aria-setsize="-1" data-qa="virtual-list-item" data-item-key="1712931477.193009">
-<div class="c-message_kit__background c-message_kit__background--hovered p-message_pane_message__message c-message_kit__message" role="presentation" data-qa="message_container" data-qa-unprocessed="false" data-qa-placeholder="false">
-<div class="c-message_kit__hover c-message_kit__hover--hovered" role="document" aria-roledescription="message" data-qa-hover="true">
-<div class="c-message_kit__actions c-message_kit__actions--above">
-<div class="c-message_kit__gutter">
-<div class="c-message_kit__gutter__right" role="presentation" data-qa="message_content">
-<div class="c-message_kit__blocks c-message_kit__blocks--rich_text">
-<div class="c-message__message_blocks c-message__message_blocks--rich_text" data-qa="message-text">
-<div class="p-block_kit_renderer" data-qa="block-kit-renderer">
-<div class="p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first">
-<div class="p-rich_text_block" dir="auto">
-<div class="p-rich_text_section">To manage blood sugar levels effectively, consider reducing carbohydrate intake, as carbs are broken down into sugars by the body. <span style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">{{{</span><i style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">Carbohydrates</i><span style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">. UF Health. (n.d.). https://ufhealth.org/conditions-and-treatments/carbohydrates}}} </span>Opt for foods with a lower glycemic index, such as non-starchy vegetables and whole fruits, which are digested and absorbed more slowly, resulting in fewer blood glucose spikes. Additionally, incorporating soluble fiber into your diet can help slow sugar absorption and stabilize blood glucose levels. Good sources of soluble fiber include oats, peas, beans, lentils, vegetables, nuts, flaxseeds, and avocado. {{{List of soluble fiber foods for IBS: Holiday edition. List of Soluble Fiber Foods for IBS: Holiday Edition | Bastyr University. (2023a, November 1). https://bastyr.edu/about/news/list-soluble-fiber-foods-ibs-holiday-edition}}} Avoiding high-glycemic foods like sugary treats, white bread, white rice, potatoes, fruit juice, and sweet corn can further support blood sugar management. {{{<i>Understanding Carbs</i>. Carbs and Diabetes | ADA. https://diabetes.org/food-nutrition/understanding-carbs}}} Using a Glucometer or CGM (Continuous Glucose Monitor) is a valuable tool for real-time monitoring of how food and exercise impact blood glucose levels. By identifying patterns that may not be apparent otherwise, these devices help refine glycemic control and enhance overall management of blood sugar levels. <span style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">{{{Wright, E. E., Jr, Kerr, M. S. D., Reyes, I. J., Nabutovsky, Y., &amp; Miller, E. (2021). Use of Flash Continuous Glucose Monitoring Is Associated With A1C Reduction in People With Type 2 Diabetes Treated With Basal Insulin or Noninsulin Therapy. </span><i style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">Diabetes spectrum : a publication of the American Diabetes Association</i><span style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">, </span><i style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">34</i><span style="color: var(--global--color-primary); font-family: var(--global--font-secondary); font-size: var(--global--font-size-base); background-color: var(--global--color-background);">(2), 184–189. https://doi.org/10.2337/ds20-0069}}}.</span></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-Several supplements may aid in lowering HbA1c levels. While the following may aid in lowering A1C, relying solely on supplements for glycemic control is not recommended.
-<ul>
- 	<li>Cinnamon {{{Cleveland Clinic. (2024, March 19). Can taking cinnamon supplements lower your blood sugar? https://health.clevelandclinic.org/can-taking-cinnamon-lower-your-blood-sugar}}}</li>
- 	<li>Magnesium {{{ELDerawi, W. A., Naser, I. A., Taleb, M. H., &amp; Abutair, A. S. (2018). The Effects of Oral Magnesium Supplementation on Glycemic Response among Type 2 Diabetes Patients. Nutrients, 11(1), 44. https://doi.org/10.3390/nu11010044}}}</li>
- 	<li>Chromium Picolinate {{{Watts, M. (2023, October 29). Diabetes and Chromium. https://www.diabetes.co.uk/Diabetes-and-Chromium.html}}}</li>
- 	<li>Berberine {{{Yin, J., Xing, H., &amp; Ye, J. (2008). Efficacy of berberine in patients with type 2 diabetes mellitus. Metabolism: clinical and experimental, 57(5), 712–717. https://doi.org/10.1016/j.metabol.2008.01.013}}}</li>
- 	<li>Fiber (Metamucil or psyllium husk) {{{Gibb, R. D., McRorie, J. W., Jr, Russell, D. A., Hasselblad, V., &amp; D'Alessio, D. A. (2015). Psyllium fiber improves glycemic control proportional to loss of glycemic control: a meta-analysis of data in euglycemic subjects, patients at risk of type 2 diabetes mellitus, and patients being treated for type 2 diabetes mellitus. The American journal of clinical nutrition, 102(6), 1604–1614. https://doi.org/10.3945/ajcn.115.106989}}}</li>
-</ul>
-These supplements show promise in improving insulin sensitivity and reducing blood sugar levels and have been targets for therapeutic studies. However, it's important to consult a healthcare provider before starting any supplement regimen, especially for individuals with diabetes or pre-diabetes, as these supplements may interact with other medications and may not be suitable for everyone.
-<h2>Tracking HbA1c with SiPhox Health:</h2>
-- At-home kit delivered to your home
-- Fingerprick sample self-collection (low-pain, adjustable lancets)
-- $295 one-time, $85 subscription
-- Number of biomarkers included: 17 in the base panel (Thyroid+ and Hormone+ add-on panels available)
-- Sleep and activity tracking: Included, 200 devices supported
-- CGM tracking
-- 2-5 business days after collection
-
-Subscribe to SiPhox and start tracking your HbA1c + 16 other critical biomarkers as well as sleep, activity, and heart data all in one comprehensive dashboard.
-
-<a href="https://siphoxhealth.com/pages/pricing-tiers"><span style="text-decoration: underline;"><strong>Learn more about SiPhox Health testing here.</strong></span></a>]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_content_1_copies]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[content]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[a:2:{i:0;s:14:"highlight_card";i:1;s:11:"text_editor";}]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_content]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[field_6414004cd50ab]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[rank_math_primary_category]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[rank_math_focus_keyword]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[HbA1c,diabetes,metabolic,blood test,insulin]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[2770]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[rank_math_analytic_object_id]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[122]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[limit_modified_date]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -33914,6 +33641,271 @@ In conclusion, DNA methylation analysis offers a powerful tool for predicting bi
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[2807]]></wp:meta_value>
+                                </wp:postmeta>
+                                                    </item>
+                                                <item>
+                            <title><![CDATA[How to Improve Your Sleep: Evidence-Based Habits, Routines, and Supplements]]></title>
+                            <link>/hub/guides/improve-sleep/</link>
+                            <pubDate>Thu, 23 Jul 2026 13:42:16 +0000</pubDate>
+                            <dc:creator><![CDATA[siphoxhealth]]></dc:creator>
+                            <guid isPermaLink="false">/hub/?p=4295</guid>
+                            <description></description>
+                            <content:encoded><![CDATA[]]></content:encoded>
+                            <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+                            <wp:post_id>4295</wp:post_id>
+                            <wp:post_date><![CDATA[2026-07-23 13:42:16]]></wp:post_date>
+                            <wp:post_date_gmt><![CDATA[2026-07-23 13:42:16]]></wp:post_date_gmt>
+                            <wp:post_modified><![CDATA[2026-07-23 13:55:49]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-07-23 13:55:49]]></wp:post_modified_gmt>
+                            <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+                            <wp:ping_status><![CDATA[open]]></wp:ping_status>
+                            <wp:post_name><![CDATA[improve-sleep]]></wp:post_name>
+                            <wp:status><![CDATA[publish]]></wp:status>
+                            <wp:post_parent>0</wp:post_parent>
+                            <wp:menu_order>2</wp:menu_order>
+                            <wp:post_type><![CDATA[post]]></wp:post_type>
+                            <wp:post_password><![CDATA[]]></wp:post_password>
+                            <wp:is_sticky>0</wp:is_sticky>
+                                                        		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[7]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_0_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[[lwptoc]]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_0_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content_1_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[<h2 id="why-sleep-matters">Why Sleep Matters</h2>
+Sleep is one of the most important aspects of physical and mental health, yet it is one of the aspects of health and wellness that is first neglected even when it helps to support the brain, heart, immune system, metabolism, hormones, memory and our energy and mood during the day. Sleep is vital yet overlooked.
+
+During sleep, the brain activates the glymphatic system, which help to clear metabolic waste. This helps with memory consolidation, allowing the brain to gain and retain new information and connect it to already existing information.
+
+Sleep also influences hormones such as leptin and ghrelin which are involved with hunger and appetite. Have you ever pulled an “all nighter”. Did you notice how much more hungry you were and the urge to constantly snack? When sleep is continually interrupted, it can become increasingly difficult to regulate appetite which can contribute to overeating and weight gain.
+
+Sleep also benefits the cardiovascular system by giving it time to recover. Blood pressure usually decreases during sleep which in turn reduces the workload placed on the heart. Chronic and poor sleep is associated with high blood pressure, cardiovascular disease as well as impaired immune function, weight gain (as mentioned earlier) and poor cognitive function.
+<h2 id="how-much-sleep-do-you-need">How Much Sleep Do You Need?</h2>
+The general guideline for healthy adults is to aim for 7-9 hours of sleep each night.
+
+Of course, life can get in the way sometimes and while the occasional poor night’s sleep is okay, regular sleep of less than 7 hours can result in decreased daytime performance and increased long term health risks. On the other hand, constantly sleeping more than 9 hours per night may also be associated with negative health outcomes for some people. Keep in mind that sleep is highly personal and varies from person to person.
+
+The main goal is to get enough consistent, high quality sleep that makes you wake up feeling fresh and reenergized, not solely spending more time in bed. The actual sleep matters most.
+<h2 id="why-sleep-consistency-matters">Why Sleep Consistency Matters</h2>
+Maintaining a regular sleep schedule is one of the most important habits to support the body’s internal clock.
+
+You can help support your internal clock by going to bed and waking up at roughly the same time each day, including the weekends. Having an inconsistent sleep/wake routine can disrupt circadian rhythms and make it harder to fall asleep, make it harder to wake up leaving you feeling groggy and impair daytime energy.
+
+Consistently waking up at the same time each day is particularly useful as it gives your brain a reliable signal that the day has started.
+<h2 id="morning-sunlight-and-exercise">Morning Sunlight and Exercise</h2>
+The habits that support good sleep begin in the morning.
+<h4>Morning sunlight</h4>
+Natural sunlight in the morning helps to sync your circadian rhythm which controls alertness, sleepiness and melatonin production.
+
+Aim for 20-30 minutes of morning sunlight before 10am or after 3pm whereas sunlight between 10-3 is best for vitamin D production. Morning sunlight signals to your brain that the day has started and can help you to fall asleep earlier later in the evening.
+
+Research also suggests that greater morning light exposure is associated with an earlier sleep midpoint and over better sleep quality.
+<h4>Regular exercise</h4>
+Physical activity can improve sleep quality and increase the amount of deep sleep you get.
+
+Aim for approximately 150 minutes of moderate intensity activity per week of 75 minutes of intense activity. A single bout of 30 minute moderate intensity activity can help to improve sleep the same night.
+
+Check out this link on <a href="https://siphoxhealth.com/hub/guides/maintaining-muscle-with-age">The Minimum Effective Workout Plan for Maintaining Muscle as You Age – SiPhox Health</a>.
+
+Exercise should help support sleep and sleep should help to support exercise and recovery. Avoid sacrificing sleep to fit in a workout.
+<h2 id="sleep-hygiene-and-evening-habits">Sleep Hygiene and Evening Habits</h2>
+Sleep hygiene refers to the habits and environment that prepares your body for quality, restful sleep.
+
+Make sure your bedroom is:
+<ul>
+ 	<li>Cool</li>
+ 	<li>Dark</li>
+ 	<li>Quiet</li>
+ 	<li>Comfortable</li>
+</ul>
+Use a pillow and mattress that are right for you. Blackout curtains, earplugs and a white noise machine can also help to create a more restful sleep environment. Consider going around and taping up any light that may be emitting from power outlets and charging devices.
+
+Try reserving the bed for sleep and intimacy only and avoid using the bed as a space for working, studying, eating, watching T.V. and scrolling on your phone. This can help strengthen the association between going to bed and falling asleep.
+<h4>Screens</h4>
+Phones, tablets, televisions and all of the other light emitting devices around can suppress melatonin and increase awakeness near to bedtime.
+
+Try to turn off and avoid screens 30-60 minutes before bed. This is also a good time to start dimming the light around the house.
+<h4>Caffeine</h4>
+Caffeine blocks adenosine receptors which is one of the signals that helps your body feel sleepy. Try to avoid caffeine after midday (2pm) when possible. The half life of caffeine is around 8 hours meaning that 8 hours after caffeine consumption, half will still be circulating in your system.
+<h4>Alcohol</h4>
+Alcohol may initially make you feel drowsy, but it can disrupt the second half of the night. It may reduce REM sleep, increase awakenings, and leave you feeling less refreshed the next morning.
+
+Avoid relying on alcohol as a sleep aid and avoid alcohol 4 hours before time. This would mean the last call is at 7pm for an 11pm bedtime.
+<h4>Evening meals</h4>
+Avoid large, heavy, or unhealthy meals approximately 2 hours before bedtime. Eating too much too close to bedtime may cause digestive discomfort, or acid reflux, making it harder to stay and fall asleep.
+<h2 id="stress-management-and-bedtime-journaling">Stress Management and Bedtime Journaling</h2>
+A racing mind is a common reason people struggle to fall asleep. Relaxation practices can help shift the body away from a high-alert “fight or flight” state and toward a calmer resting state.
+
+Helpful options include:
+<ul>
+ 	<li>Mindfulness meditation</li>
+ 	<li>Slow breathing</li>
+ 	<li>Progressive muscle relaxation</li>
+ 	<li>Mindful walking in nature</li>
+ 	<li>Bedtime journaling</li>
+</ul>
+<h4>Progressive muscle relaxation</h4>
+Progressive muscle relaxation involves gently tensing and then releasing different muscle groups.
+
+Tense each muscle group for approximately 5–10 seconds, then slowly release it while focusing on the feeling of relaxation. Work gradually through the feet, legs, hips, abdomen, shoulders, face, and hands.
+
+Avoid tensing the muscles to the point of pain.
+<h4>The five-minute to-do list</h4>
+If unfinished tasks keep running through your mind, spend five minutes before bed writing a specific to-do list for the next day or coming days.
+
+Writing future tasks down may help “off-load” them from your mind so you do not have to keep mentally rehearsing them.
+
+Be specific. Instead of writing “work on project,” list the individual actions you need to complete. Journaling about completed tasks may not provide the same sleep-onset benefit.
+<h4>Nature walking</h4>
+A mindful nature walk may also improve mood and sleep difficulties. One studied approach used approximately 35 minutes of mindful walking, with attention directed toward the surroundings and present moment.
+<h2 id="supplements-that-may-support-sleep">Supplements That May Support Sleep</h2>
+Behavioral changes should remain the foundation of a sleep-improvement plan. Supplements may provide additional support, but they should not replace a consistent sleep schedule, morning light, exercise, stress management, or a supportive bedroom environment.
+<h4>Magnesium Bisglycinate</h4>
+Magnesium supports nervous system function and relaxation.
+
+A study using 250 mg of elemental magnesium daily for four weeks found a modest improvement in insomnia severity.
+
+The evidence remains limited and mixed. Benefits may be greater in people with low dietary magnesium intake.
+<h4>Holy Basil</h4>
+Holy basil, also called tulsi, is an herb that has been studied for stress and sleep support.
+
+A standardized extract taken at 250 mg daily for eight weeks was associated with reduced perceived stress and improved subjective sleep quality.
+
+The supplement was well tolerated in the study, but individual responses may vary.
+<h4>L-Theanine</h4>
+L-theanine is an amino acid naturally found in tea.
+
+Research suggests it may support:
+<ul>
+ 	<li>Sleep quality</li>
+ 	<li>Daytime function</li>
+ 	<li>Sleep onset</li>
+</ul>
+However, the evidence is mixed because many studies combine L-theanine with other ingredients, making it difficult to determine its independent effect.
+
+Speak with a healthcare professional before using supplements if you take medications, have a chronic health condition, are pregnant, or are breastfeeding.
+<h2 id="what-to-track">What to Track</h2>
+Tracking a few simple measures can help you understand whether your sleep routine is working.
+<h4>Sleep duration</h4>
+The total amount of time you spend asleep.
+
+Aim for 7–9 hours per night.
+<h4>Sleep latency</h4>
+The amount of time it takes to fall asleep after going to bed.
+
+A sleep latency of less than 30 minutes is a useful general target.
+<h4>Sleep efficiency</h4>
+The percentage of your time in bed that you are actually asleep.
+
+A sleep efficiency above 85% is a useful general target.
+<h4>Daytime energy</h4>
+Pay attention to your alertness, focus, mood, and sleepiness during the day. How you feel and function can be just as important as the numbers recorded by a device.
+
+A sleep diary, app, or wearable may help you monitor trends. Wearable devices are useful for patterns but may not measure total sleep time or sleep stages with clinical accuracy.
+<h2 id="when-to-seek-professional-help">When to Seek Professional Help</h2>
+General sleep habits may not be enough when an underlying sleep disorder is present.
+
+Speak with a healthcare professional if you experience:
+<ul>
+ 	<li>Persistent difficulty falling or staying asleep</li>
+ 	<li>Excessive daytime sleepiness</li>
+ 	<li>Loud or chronic snoring</li>
+ 	<li>Gasping or choking during sleep</li>
+ 	<li>Frequent nighttime awakenings</li>
+ 	<li>Sleep problems that interfere with work, driving, safety, or daily functioning</li>
+ 	<li>Feeling unrefreshed despite spending enough time in bed</li>
+</ul>
+Snoring, gasping, and choking may be signs of obstructive sleep apnea. Persistent insomnia may also require targeted clinical treatment rather than sleep hygiene alone.
+<h4>Simple Daily Sleep Plan</h4>
+<h5>Morning</h5>
+<ul>
+ 	<li>Wake up at approximately the same time every day</li>
+ 	<li>Get 20–30 minutes of natural light before 10 a.m.</li>
+</ul>
+<h5>During the day</h5>
+<ul>
+ 	<li>Exercise regularly</li>
+ 	<li>Aim for approximately 150 minutes of moderate aerobic activity per week</li>
+ 	<li>Stop caffeine around midday</li>
+</ul>
+<h5>Evening</h5>
+<ul>
+ 	<li>Finish large meals at least two hours before bed</li>
+ 	<li>Limit alcohol</li>
+ 	<li>Keep the bedroom dark, cool, quiet, and comfortable</li>
+</ul>
+<h5>Thirty minutes before bed</h5>
+<ul>
+ 	<li>Turn off screens</li>
+ 	<li>Dim the lights</li>
+ 	<li>Use breathing, mindfulness, or progressive muscle relaxation</li>
+</ul>
+<h5>At bedtime</h5>
+<ul>
+ 	<li>Spend five minutes writing a specific to-do list for the next day</li>
+ 	<li>Aim for 7–9 hours of sleep</li>
+ 	<li>Maintain the same wake-up time on weekdays and weekends</li>
+</ul>
+<h2 id="summary-key-takeaways">Summary / Key Takeaways</h2>
+Improving sleep usually starts with consistent daily habits rather than a single supplement or quick fix.
+
+✓ Sleep duration: Aim for 7–9 hours each night
+✓ Consistency: Keep a regular bedtime and wake-up time
+✓ Morning light: Get 20–30 minutes of sunlight before 10 a.m.
+✓ Exercise: Work toward 150 minutes of moderate activity each week
+✓ Sleep environment: Keep the bedroom dark, cool, quiet, and comfortable
+✓ Evening habits: Reduce late caffeine, alcohol, screens, and heavy meals
+✓ Mental relaxation: Use mindfulness, progressive muscle relaxation, or a five-minute to-do list
+✓ Supplements: Consider magnesium, holy basil, or L-theanine only as additions to healthy sleep habits
+
+Bottom line: Better sleep is built through consistency. Start with one or two manageable changes, practice them daily, and gradually add more habits as they become part of your routine.
+
+<a href="https://siphoxhealth.com/products/coaching-call-one-time">Book a call with one of our health coaches</a> today to learn more about improving your sleep and building a routine that supports your long-term health.]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content_1_copies]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_64152a1b1da06]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[content]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:2:{i:0;s:11:"text_editor";i:1;s:11:"text_editor";}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_content]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_6414004cd50ab]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[written_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:1:{i:0;s:1:"7";}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_written_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_641a6cfe4d592]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[reviewed_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_reviewed_by]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_641bbb3ce67e4]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[select_related_posts]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
