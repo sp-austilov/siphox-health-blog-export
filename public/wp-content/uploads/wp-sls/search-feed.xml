@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/7.1" created="2026-08-31 18:21" -->
+    <!-- generator="WordPress/7.1" created="2026-09-03 20:52" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Mon, 31 Aug 2026 18:21:10 +0000</pubDate>
+            <pubDate>Thu, 03 Sep 2026 20:52:36 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -2387,8 +2387,8 @@ Variability in lab results is a known entity, yet it doesn’t detract from the 
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
-                                                        		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
-		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
+                                                        		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
+		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -3580,8 +3580,8 @@ If zinc levels are too low, it can lead to a variety of health issues, including
                                                         		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="post_tag" nicename="at-home"><![CDATA[at-home]]></category>
 		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
-		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="biomarkers"><![CDATA[biomarkers]]></category>
+		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood"><![CDATA[blood]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -12893,21 +12893,15 @@ Remember: Standard ranges tell you if you're similar to the general population. 
 <h3 data-sanitized-data-mce-fragment="1">Why is TgAb Important?</h3>
 Elevated TgAb levels are commonly linked to <a href="https://my.clevelandclinic.org/health/diseases/17665-hashimotos-disease"><strong class="sc-jwpOCX gKUUgZ" data-mark="strong">Hashimoto’s thyroiditis</strong></a> and <a href="https://www.mayoclinic.org/diseases-conditions/graves-disease/symptoms-causes/syc-20356240"><strong class="sc-jwpOCX gKUUgZ" data-mark="strong">Graves’ disease</strong></a>, two autoimmune disorders that can lead to hypothyroidism or hyperthyroidism. Since thyroid disorders often develop gradually, testing for TgAb can help detect autoimmune activity early, even before symptoms appear.
 <h3>How can I better understand my results?</h3>
-<p class="isSelectedEnd">To better interpret your results, refer to the following values:</p>
-
 <div data-dynamic-ranges="true" data-test="1"></div>
+
 <div data-ranges="true">
-<h4>Lab Range:</h4>
-<ul data-spread="false">
- 	<li>Out of range (low): &lt;0 IU/mL</li>
+<p dir="ltr">Here's how your result compares to typical values from <a href="https://academic.oup.com/jcem/article-abstract/87/2/489/2846568?redirectedFrom=fulltext">laboratory reference data</a> and research:</p>
+<p dir="ltr">Lab Range:</p>
+
+<ul dir="ltr">
  	<li>In range: &lt;4 IU/mL</li>
  	<li>Out of range (high): ≥4 IU/mL</li>
-</ul>
-<h4>SiPhox Ranges:</h4>
-<ul data-spread="false">
- 	<li>Optimal Range: &lt;4 IU/mL</li>
- 	<li>Fair Range: 4–9 IU/mL</li>
- 	<li>Pay Attention: &gt;9 IU/mL</li>
 </ul>
 </div>
 Low or undetectable TgAb levels are generally favorable because they indicate that significant antibodies against thyroglobulin were not detected. Elevated TgAb indicates thyroid autoantibody activity and may be associated with autoimmune thyroid disease, particularly Hashimoto’s thyroiditis. However, TgAb should be interpreted together with thyroid hormone levels, TSH, TPOAb, symptoms, and clinical history rather than used alone to diagnose a thyroid condition.
@@ -16281,8 +16275,8 @@ If you have symptoms of anemia or polycythemia, consult your healthcare provider
                             <wp:post_id>3879</wp:post_id>
                             <wp:post_date><![CDATA[2025-08-11 19:38:21]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2025-08-11 19:38:21]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-05-01 20:52:04]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-05-01 20:52:04]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-09-03 20:52:36]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-09-03 20:52:36]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[hemoglobin]]></wp:post_name>
@@ -16429,6 +16423,14 @@ DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH Y
                                     <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
                                 </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
                                                     </item>
                                                 <item>
                             <title><![CDATA[Hematocrit]]></title>
@@ -16442,8 +16444,8 @@ DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH Y
                             <wp:post_id>3881</wp:post_id>
                             <wp:post_date><![CDATA[2025-08-11 19:41:15]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2025-08-11 19:41:15]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-05-04 21:02:49]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-05-04 21:02:49]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-09-03 20:51:30]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-09-03 20:51:30]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[hematocrit]]></wp:post_name>
@@ -16474,12 +16476,14 @@ DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH Y
 <a href="https://medlineplus.gov/lab-tests/hematocrit-test/">Hematocrit (HCT)</a> is a blood test that determines what portion of your blood volume is made up of red blood cells. Think of it as a ratio that reveals how much of your blood consists of oxygen-carrying cells compared to liquid plasma. This simple yet powerful measurement offers valuable insights into oxygen delivery capacity, cardiovascular performance, and potential underlying conditions.
 
 Red blood cells carry oxygen from your lungs to tissues throughout your body and return carbon dioxide for exhalation. Optimal hematocrit levels mean your body can efficiently deliver oxygen to support energy production, brain function, and physical performance. Abnormal results, either too high or too low, can indicate medical issues that require attention.
+<h3 class="PDq2pG_selectionAnchorContainer" data-section-id="gggtqs" data-start="92" data-end="136">How is HCT, Capillary (Calc) Determined?</h3>
+<p data-start="138" data-end="737" data-is-last-node="" data-is-only-node=""><strong data-start="217" data-end="242">HCT, Capillary (Calc)</strong> is an estimated hematocrit value calculated from your capillary hemoglobin measurement rather than measured directly as part of a CBC. Hematocrit and hemoglobin are closely related, and hematocrit is commonly approximated as about three times the hemoglobin concentration. This relationship generally works well when red blood cells are normal in size and hemoglobin content, but the calculated value may differ from a directly measured hematocrit in certain blood disorders or when red blood cell characteristics are abnormal.</p>
+
 <h3>Normal Hematocrit Ranges and What They Mean</h3>
 The <a href="https://www.who.int/publications/i/item/9789241596657">World Health Organization</a> defines reference thresholds for red blood cell indices based on age, sex, and physiological state. Hematocrit values vary depending on these same factors, as well as altitude of residence:
 
 <!-- notionvc: 742212d2-3b5f-4631-8d80-a5290709315c -->
 <div data-dynamic-ranges="true" data-test="1"></div>
-
 <div data-ranges="true">
 
 <strong>For adult males:</strong>
@@ -33022,8 +33026,8 @@ To learn more about these biomarkers including why they are important, whether t
                                                         		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="female-fertility"><![CDATA[female fertility]]></category>
 		<category domain="post_tag" nicename="fertility"><![CDATA[fertility]]></category>
-		<category domain="post_tag" nicename="fsh"><![CDATA[FSH]]></category>
 		<category domain="category" nicename="fsh"><![CDATA[FSH]]></category>
+		<category domain="post_tag" nicename="fsh"><![CDATA[FSH]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
 		<category domain="post_tag" nicename="womens-health"><![CDATA[womens health]]></category>
                                                             <wp:postmeta>
