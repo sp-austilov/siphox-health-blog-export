@@ -12,7 +12,7 @@
 	<atom:link href="/hub/feed/" rel="self" type="application/rss+xml" />
 	<link>/hub/</link>
 	<description></description>
-	<lastBuildDate>Thu, 27 Aug 2026 18:37:37 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 14 Sep 2026 20:04:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,58 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=7.1</generator>
 	<item>
+		<title>Heart Rate Variability</title>
+		<link>/hub/biomarkers-2/biomarker-heart-rate-variability/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Mon, 14 Sep 2026 20:04:05 +0000</pubDate>
+				<category><![CDATA[Biomarkers]]></category>
+		<guid isPermaLink="false">/hub/?p=4380</guid>
+
+					<description><![CDATA[
+
+What is heart rate variability? Heart rate variability (HRV) is the variation in time between consecutive heartbeats. A heart beating 60 times a minute does not beat exactly once per second: the intervals fluctuate, and that fluctuation is the measurement. HRV is used as a non-invasive index of cardiac autonomic regulation, particularly the parasympathetic (vagal)&#8230; <a class="more-link" href="/hub/biomarkers-2/biomarker-heart-rate-variability/">Continue reading <span class="screen-reader-text">Heart Rate Variability</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h3 dir="ltr">What is heart rate variability?</h3>
+<p dir="ltr">Heart rate variability (HRV) is the variation in time between consecutive heartbeats. A heart beating 60 times a minute does not beat exactly once per second: the intervals fluctuate, and that fluctuation is the measurement. HRV is used as a non-invasive index of cardiac autonomic regulation, particularly the parasympathetic (vagal) branch that slows the heart between breaths. The <a href="https://pubmed.ncbi.nlm.nih.gov/8737210/">1996 ESC/NASPE Task Force standards</a> remain the reference document for how HRV is calculated and interpreted.</p>
+<p dir="ltr"><strong>Higher HRV</strong> generally indicates greater vagal activity and a more flexible autonomic response. <strong>Lower HRV</strong> indicates the opposite: a system biased toward sympathetic activation, which is what you would expect during stress, illness, sleep deprivation, or heavy training load.</p>
+<p dir="ltr">Most wearables report HRV as <strong>RMSSD </strong>&#8211; the root mean square of successive differences between beat intervals &#8211; expressed in milliseconds. RMSSD is the standard choice for short recordings because it is dominated by parasympathetic activity and is relatively robust in brief windows. Devices typically average it across your sleep period, which is why the metric is often labelled &#8220;average HRV.&#8221; Some research uses <strong>SDNN</strong> instead, which captures total variability across a longer recording; the two are not interchangeable.</p>
+<h3 dir="ltr">Why heart rate variability matters</h3>
+<p dir="ltr">Low HRV is an established risk marker. A <a href="https://academic.oup.com/europace/article/15/5/742/673395">meta-analysis and dose–response meta-regression</a> of eight prospective studies covering 21,988 people with no known cardiovascular disease found that those in the lowest HRV category had a 32–45% higher risk of a first cardiovascular event than those in the highest. The same analysis estimated that a 1% higher SDNN corresponded to roughly 1% lower risk of a fatal or non-fatal event.</p>
+<p dir="ltr">HRV also responds quickly to short-term physiological stressors, which is what makes it useful day to day. A <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12394884/">meta-analysis of randomized trials</a> found that sleep deprivation significantly reduced RMSSD while increasing low-frequency power and the LF/HF ratio: a pattern consistent with vagal withdrawal and sympathetic predominance.</p>
+<p dir="ltr">One important nuance: higher is not universally better. Very high RMSSD values can be produced by ectopic beats, arrhythmia, or motion artifact rather than by robust vagal tone, and in older cohorts, <a href="https://academic.oup.com/europace/article/15/5/742/673395">both reduced and increased HRV on a short resting ECG have predicted cardiac mortality</a>. An unexpectedly high reading is a reason to check data quality, not to celebrate.</p>
+<h3 dir="ltr">How can I better understand my HRV levels?</h3>
+<p dir="ltr">There are no universally accepted clinical reference intervals for HRV measured by Fitbit, Oura, WHOOP, Garmin, or any other consumer wearable. The closest defensible reference intervals come from ECG-based RMSSD population studies.</p>
+<p dir="ltr">The best available reference is the <a href="https://journals.sagepub.com/doi/full/10.1177/2047487319872567">Lifelines Cohort Study</a>, published in the <em>European Journal of Preventive Cardiology</em>. It derived RMSSD from 10-second resting ECG recordings in 84,772 relatively healthy adults aged 13 to 91. Participants with cardiovascular disease, hypertension, type 2 diabetes, or obesity were excluded, along with anyone taking antidepressants, beta-blockers, or vagally active medications, and recordings with excessive noise or non-sinus beats were discarded.</p>
+<div data-dynamic-ranges="true" data-test="1"></div>
+<div data-ranges="true">
+</div>
+<p dir="ltr">SiPhox scores HRV in age-based bands. All values are in milliseconds.</p>
+<p dir="ltr">The source measurement is a resting ECG in a clinical setting, whereas your reading comes from optical (PPG) sensing during sleep. We recommend comparing HRV to your own baseline and avoiding comparison across devices. For wearable-scale context, a <a href="https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30246-6/fulltext">cross-sectional study of 8 million Fitbit users</a> published in <em>The Lancet Digital Health</em> characterized PPG-derived HRV by age, sex, time of day, and activity level, and confirmed a strong circadian rhythm in the measure. It remains the largest description of HRV as consumer devices actually measure it.</p>
+<h3 dir="ltr">What changes HRV?</h3>
+<p dir="ltr"><strong>Age.</strong> The dominant factor, and not modifiable.</p>
+<p dir="ltr"><strong>Sleep.</strong> Sleep loss reduces RMSSD, per the <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12394884/">randomized-trial meta-analysis</a> cited above. Because most devices measure HRV during sleep, poor or short sleep affects both the physiology and the measurement window.</p>
+<p dir="ltr"><strong>Alcohol.</strong> The <a href="https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001284">5-million-person-day wearable analysis</a> found dose-dependent reductions in nocturnal HRV alongside increases in resting heart rate. Drinking earlier in the evening attenuated the effect.</p>
+<p dir="ltr"><strong>Training load.</strong> HRV is widely used to monitor adaptation, but it is not a simple &#8220;higher means fitter&#8221; readout. A <a href="https://pubmed.ncbi.nlm.nih.gov/23852425/">review in <em>Sports Medicine</em></a> documented that both decreases <em>and</em> increases in vagal HRV indices have accompanied negative adaptation in elite endurance athletes, and that gains in fitness have sometimes coincided with falling HRV.</p>
+<p dir="ltr"><strong>Slow breathing.</strong> A <a href="https://pubmed.ncbi.nlm.nih.gov/35623448/">systematic review and meta-analysis of 223 studies</a> found that voluntary slow breathing increased vagally mediated HRV during the session, immediately after a single session, and after multi-session interventions. It is a low-cost, low-risk practice with consistent short-term effects on the measure.</p>
+<p dir="ltr"><strong>Illness and recovery.</strong> Suppressed HRV accompanies acute infection and can persist afterward. A <a href="https://www.nature.com/articles/s41598-025-15208-0">retrospective study of more than 12,000 individuals</a> found that persistent physiological changes after COVID-19 most commonly presented as elevated nightly heart rate together with reductions in some HRV metrics.</p>
+<p dir="ltr"><strong>Measurement context.</strong> More than resting heart rate, HRV is sensitive to body position, time of day, breathing rate, recording length, and artifact handling. Two readings taken under different conditions are not comparable, even on the same device.</p>
+<h2 dir="ltr">Where can I learn more?</h2>
+<ol dir="ltr">
+<li>Task Force of the European Society of Cardiology and the North American Society of Pacing and Electrophysiology. <a href="https://pubmed.ncbi.nlm.nih.gov/8737210/">Heart rate variability: standards of measurement, physiological interpretation, and clinical use.</a> <em>Eur Heart J</em>. 1996;17(3):354–381. (<a href="https://www.escardio.org/static-file/Escardio/Guidelines/Scientific-Statements/guidelines-Heart-Rate-Variability-FT-1996.pdf">full text PDF</a>)</li>
+<li>Tegegne BS, Man T, van Roon AM, Snieder H, Riese H. <a href="https://journals.sagepub.com/doi/full/10.1177/2047487319872567">Reference values of heart rate variability from 10-second resting electrocardiograms: the Lifelines Cohort Study.</a> <em>Eur J Prev Cardiol</em>. 2020;27(19):2191–2194.</li>
+<li>Hillebrand S, Gast KB, de Mutsert R, et al. <a href="https://academic.oup.com/europace/article/15/5/742/673395">Heart rate variability and first cardiovascular event in populations without known cardiovascular disease: meta-analysis and dose–response meta-regression.</a> <em>EP Europace</em>. 2013;15(5):742–749.</li>
+<li>van den Berg ME, Rijnbeek PR, Niemeijer MN, et al. <a href="https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2018.00424/full">Normal values of corrected heart-rate variability in 10-second electrocardiograms for all ages.</a> <em>Front Physiol</em>. 2018;9:424.</li>
+<li>Natarajan A, Pantelopoulos A, Emir-Farinas H, Natarajan P. <a href="https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30246-6/fulltext">Heart rate variability with photoplethysmography in 8 million individuals: a cross-sectional study.</a> <em>Lancet Digit Health</em>. 2020;2(12):e650–e657.</li>
+</ol>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Biological Age vs. Advanced Biological Age: What&#8217;s the Difference?</title>
 		<link>/hub/guides/bio-age-vs-advanced-bioage/</link>
 		
@@ -827,64 +879,6 @@ What is Mean Platelet Volume (MPV)? Mean Platelet Volume (MPV) is a measurement 
 </div>
 </div>
 </div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>How to Eat Well on a GLP</title>
-		<link>/hub/guides/eat-well-glp/</link>
-		
-		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Thu, 18 Jun 2026 16:58:51 +0000</pubDate>
-				<category><![CDATA[Guides]]></category>
-		<guid isPermaLink="false">/hub/?p=4277</guid>
-
-					<description><![CDATA[
-
-GLP medications change the way you eat. Your appetite drops, you feel full sooner, and your meals naturally get smaller. That is the medication doing its job. The trick is making sure the food you do eat is working as hard as possible for you. This guide covers the simple principles that help you eat&#8230; <a class="more-link" href="/hub/guides/eat-well-glp/">Continue reading <span class="screen-reader-text">How to Eat Well on a GLP</span></a>]]></description>
-			
-
-							<content:encoded><![CDATA[
-<p>GLP medications change the way you eat. Your appetite drops, you feel full sooner, and your meals naturally get smaller. That is the medication doing its job. The trick is making sure the food you do eat is working as hard as possible for you. This guide covers the simple principles that help you eat well while your appetite is lower, hold on to your muscle, and feel good day to day.</p>
-<h2><strong>Why eating well matters more on a GLP</strong></h2>
-<p>When you are eating less, every meal carries more weight. There is less room for empty calories, and a higher chance of missing out on protein, vitamins, and minerals without meaning to. Eating well on a GLP is less about eating less, which the medication already helps with, and more about making each meal count. Do that, and you protect your energy, your mood, and the quality of your results.</p>
-<h2><strong>Put protein first</strong></h2>
-<p>Protein is the single most important part of your plate on a GLP. When you lose weight quickly, some of that loss can come from muscle rather than fat. Getting enough protein, alongside a little resistance training, helps keep the weight you lose mostly fat. A simple approach:</p>
-<ul>
-<li>Include a protein source at every meal and snack</li>
-<li>Eat your protein first, before the rest of the plate, while your appetite is small</li>
-<li>Reach for easy options like eggs, Greek yogurt, fish, chicken, tofu, beans, lentils, and protein shakes when cooking feels like too much</li>
-</ul>
-<p>If you find it hard to hit your protein from food alone, a shake or supplement can fill the gap. Our guide to <a href="https://siphoxhealth.com/hub/guides/best-protein-supplements/">choosing a protein supplement</a> can help you pick one.</p>
-<h2><strong>Make every meal count</strong></h2>
-<p>With smaller portions, nutrient-dense food does the heavy lifting. Build meals around whole foods: vegetables, fruit, whole grains, and good fats, with protein at the center. Try not to skip meals even on days when you are not very hungry. Regular, smaller meals keep your energy steady and help you meet your nutrition needs without forcing large plates you do not want.</p>
-<h2><strong>Stay hydrated</strong></h2>
-<p>GLP medications can quietly turn down your thirst, and dehydration is one of the most common issues early on. It can also make side effects like nausea, headaches, and fatigue feel worse. Keep a water bottle nearby and sip through the day rather than waiting until you feel thirsty. If you are sweating a lot or feeling lightheaded, adding electrolytes can help.</p>
-<h2><strong>Eat gently to ease side effects</strong></h2>
-<p>Nausea, fullness, and an unsettled stomach are common in the early weeks. A few habits make a real difference:</p>
-<ul>
-<li>Eat smaller amounts more often, and slow down</li>
-<li>Go easy on very greasy, fried, or rich foods while you adjust</li>
-<li>Choose plain, simple foods like crackers, rice, broth, or bananas on queasy days</li>
-<li>Stop when you feel comfortably full, not stuffed</li>
-</ul>
-<p>Most of this settles as your body adjusts. If it does not, your doctor can help.</p>
-<h2><strong>Mind your micronutrients</strong></h2>
-<p>Eating less can gradually lower key nutrients like iron, vitamin B12, vitamin D, and folate. Low levels here often show up as tiredness or brain fog, which can be easy to mistake for the medication itself. Eating a varied diet helps, and your SiPhox labs will flag any gaps so you and your coach can act early. A supplement may be worth discussing if a marker drifts low.</p>
-<h2><strong>Build habits that last</strong></h2>
-<p>The eating habits you build now are the ones that will carry you through maintenance and beyond, including if you taper off your medication later. Keep it simple and repeatable: plan a few go-to high-protein meals, keep easy snacks on hand, and aim for consistency rather than perfection.</p>
-<h2><strong>Key takeaway</strong></h2>
-<p>On a GLP, eating well is less about eating less and more about making every bite count. Lead with protein, stay hydrated, keep your meals nutrient-dense, and go gently when side effects flare. Small, steady habits are what protect your muscle, your energy, and your results.</p>
-<h2><strong>Where to read more</strong></h2>
-<ul>
-<li><a href="https://siphoxhealth.com/hub/guides/best-protein-supplements/">Protein supplements: choosing the best option for your health</a></li>
-<li><a href="https://siphoxhealth.com/hub/guides/maintaining-muscle-with-age/">The minimum effective workout plan for maintaining muscle</a></li>
-<li><a href="https://siphoxhealth.com/hub/guides/glp1-titration-phase/">GLP Titration Phase: what to expect early on</a></li>
-</ul>
-<p><em>This article is for general wellness and educational purposes and is not medical advice. For anything specific to your health or your medication, please speak with your doctor.</em></p>
-<p><!-- notionvc: 0ac8076a-0011-4ebb-a417-e2443a62e0cb --></p>
 ]]></content:encoded>
 					
 		
