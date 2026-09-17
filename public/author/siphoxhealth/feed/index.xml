@@ -12,7 +12,7 @@
 	<atom:link href="/hub/author/siphoxhealth/feed/" rel="self" type="application/rss+xml" />
 	<link>/hub/</link>
 	<description></description>
-	<lastBuildDate>Mon, 14 Sep 2026 20:04:37 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 Sep 2026 20:22:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,45 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=7.1</generator>
 	<item>
+		<title>IGF-1: The Hormone Worth Watching</title>
+		<link>/hub/biomarkers-2/biomarker-igf1/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Thu, 17 Sep 2026 20:21:26 +0000</pubDate>
+				<category><![CDATA[Biomarkers]]></category>
+		<guid isPermaLink="false">/hub/?p=4386</guid>
+
+					<description><![CDATA[
+
+What is IGF-1? IGF-1 (Insulin-like Growth Factor 1) is a hormone produced mainly by the liver in response to growth hormone signaling from the pituitary gland. Once released into the bloodstream, it acts on nearly every tissue in the body, driving cell growth, tissue repair, and metabolic regulation. It&#8217;s especially important for muscle protein synthesis,&#8230; <a class="more-link" href="/hub/biomarkers-2/biomarker-igf1/">Continue reading <span class="screen-reader-text">IGF-1: The Hormone Worth Watching</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h3><strong>What is IGF-1?</strong></h3>
+<p>IGF-1 (Insulin-like Growth Factor 1) is a hormone produced mainly by the liver in response to growth hormone signaling from the pituitary gland. Once released into the bloodstream, it acts on nearly every tissue in the body, driving cell growth, tissue repair, and metabolic regulation. It&#8217;s especially important for muscle protein synthesis, bone density, and the general maintenance of lean tissue as we age.</p>
+<p>Levels of IGF-1 rise through childhood and adolescence, peak in early adulthood, and then decline steadily from there. That decline is a normal part of aging, but the rate and degree vary a lot from person to person, shaped by nutrition, sleep, exercise, and body composition. Abnormally low levels can point to growth hormone deficiency, malnutrition, or liver dysfunction, since the liver is where most of the production happens. Abnormally high levels can be associated with growth hormone excess or, in some research contexts, have been studied in relation to other long-term health considerations. A single number rarely tells the full story on its own, which is why we treat IGF-1 as one input among many rather than a standalone verdict.</p>
+<h3><strong>Why it&#8217;s especially relevant right now</strong></h3>
+<p>IGF-1 has become a more interesting marker to watch as GLP adoption has climbed. Rapid weight loss changes the hormonal environment in ways that don&#8217;t show up on a scale. Appetite suppression can mean lower overall caloric and protein intake, and lower protein intake is one of the biggest levers affecting both IGF-1 production and muscle retention. That connection matters because muscle isn&#8217;t just about strength. Lean mass plays a direct role in metabolic rate, glucose regulation, and how well the body holds onto its progress.</p>
+<p>This ties directly into one of the most consistent findings from recent industry research on GLP users: most people losing weight on these medications are losing some amount of muscle along with fat, and most aren&#8217;t tracking it. Cardio activity tends to increase, but strength training, the single best lever for preserving lean mass, is often the most neglected part of the routine. IGF-1 sits right at the intersection of that story. It&#8217;s a hormonal signal that reflects whether the body is in a state that supports muscle maintenance or one that&#8217;s working against it.</p>
+<h3><strong>What this means in practice</strong></h3>
+<p>Tracking IGF-1 alongside body composition gives a more complete picture than either one alone. Body composition scanning shows what&#8217;s changing (the ratio of fat loss to muscle loss). IGF-1 offers a window into part of why that&#8217;s happening on a hormonal level, and whether protein intake and resistance training are keeping pace with the rate of weight loss. Watched over time, a downward trend paired with disproportionate muscle loss is a signal worth acting on, whether that means adjusting protein intake, adding resistance training, or flagging it for a conversation with a prescriber.</p>
+<p>That&#8217;s the same logic behind pairing IGF-1 with metabolic, thyroid, and nutritional markers in a single panel rather than testing it in isolation. Hormones don&#8217;t operate independently, and neither does weight loss. A marker like IGF-1 is far more useful in context than as a standalone data point.</p>
+<h3><strong>Getting the full picture</strong></h3>
+<p>We offer IGF-1 as an optional upgrade alongside our core panels, collected through our EasyDraw arm-based draw and processed at a CLIA-certified, CAP-accredited lab, so it&#8217;s easy to add to your existing testing routine without a separate blood draw or lab visit.</p>
+<p><em>Want to see where your IGF-1 stands? Add it to your next panel and track it alongside your other biomarkers over time.</em></p>
+<p><strong>References</strong></p>
+<ol>
+<li>MedlinePlus. &#8220;IGF-1 (Insulin-like Growth Factor 1) Test.&#8221; National Library of Medicine. <a href="https://medlineplus.gov/lab-tests/igf-1-insulin-like-growth-factor-1-test/">https://medlineplus.gov/lab-tests/igf-1-insulin-like-growth-factor-1-test/</a></li>
+<li>Kouvari M, et al. &#8220;About 31% of weight lost by adults during GLP-1 therapy comes from lean mass.&#8221; Healio, reporting on a systematic review and meta-analysis of 9 RCTs. <a href="https://www.healio.com/news/endocrinology/20250313/about-31-of-weight-lost-by-adults-during-glp1-therapy-comes-from-lean-mass">https://www.healio.com/news/endocrinology/20250313/about-31-of-weight-lost-by-adults-during-glp1-therapy-comes-from-lean-mass</a></li>
+<li>&#8220;Greater lean-body-mass decline with tirzepatide than semaglutide in routine care, revealed by body-composition digital phenotyping.&#8221; medRxiv preprint, nference, 2026. <a href="https://www.medrxiv.org/content/10.64898/2026.04.11.26350687.full.pdf">https://www.medrxiv.org/content/10.64898/2026.04.11.26350687.full.pdf</a></li>
+</ol>
+<p><!-- notionvc: 6a842742-c452-4dae-9ac4-f9668ae605b1 --></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Heart Rate Variability</title>
 		<link>/hub/biomarkers-2/biomarker-heart-rate-variability/</link>
 		
@@ -762,123 +801,6 @@ There is no magic &#8220;thyroid diet,&#8221; and you do not need a cupboard ful
 <p><em>This article is for general wellness and educational purposes only. It is not medical advice, it is not a diagnosis, and it does not replace care from your own clinician. Do not start, stop, or change any supplement or medication based on it. Individual needs vary, so please speak with your doctor, pharmacist, or a registered dietitian before making major dietary changes or starting supplements.</em></p>
 <p><strong>Sources:</strong> NIH Office of Dietary Supplements: <a href="https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/">Iodine</a>, <a href="https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/">Selenium</a>; American Thyroid Association: <a href="https://www.thyroid.org/ata-statement-on-the-potential-risks-of-excess-iodine-ingestion-and-exposure/">Statement on Excess Iodine</a>, <a href="https://www.thyroid.org/patient-thyroid-information/ct-for-patients/july-2024/vol-17-issue-7-p-5-6/">Selenium &amp; Hashimoto&#8217;s</a>; <a href="https://nutritionsource.hsph.harvard.edu/iodine/">Harvard Nutrition Source: Iodine</a>; <a href="https://www.mayoclinic.org/diseases-conditions/hypothyroidism/expert-answers/hypothyroidism/faq-20058536">Mayo Clinic: hypothyroidism diet &amp; levothyroxine</a>; <a href="https://www.aafp.org/afp/2023/0700/fpin-hda-gluten-free-diet-thyroid-disease">AAFP/FPIN: gluten-free diet &amp; thyroid disease</a>.</p>
 <p><!-- notionvc: 78bc36c0-7c22-4d73-a30c-e000b32bb76e --></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Mean Platelet Volume (MPV)</title>
-		<link>/hub/biomarkers-2/mpv/</link>
-		
-		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Tue, 23 Jun 2026 20:19:42 +0000</pubDate>
-				<category><![CDATA[Biomarkers]]></category>
-		<guid isPermaLink="false">/hub/?p=4281</guid>
-
-					<description><![CDATA[
-
-What is Mean Platelet Volume (MPV)? Mean Platelet Volume (MPV) is a measurement of the average size of platelets in your blood, with normal levels typically ranging from 7.5–12.5 fL (femtoliters). Testing MPV helps assess platelet production activity, identify clotting disorders, and flag early signs of cardiovascular or inflammatory disease. Understanding MPV and Its Role&#8230; <a class="more-link" href="/hub/biomarkers-2/mpv/">Continue reading <span class="screen-reader-text">Mean Platelet Volume (MPV)</span></a>]]></description>
-			
-
-							<content:encoded><![CDATA[
-<div>
-<div data-test-render-count="1">
-<div class="group">
-<div class="contents">
-<div class="group relative relative pb-3" data-is-streaming="false">
-<div class="font-claude-response relative leading-[1.65rem] [&amp;_pre&gt;div]:bg-bg-000/50 [&amp;_pre&gt;div]:border-0.5 [&amp;_pre&gt;div]:border-border-400 [&amp;_.ignore-pre-bg&gt;div]:bg-transparent [&amp;_.standard-markdown_:is(p,blockquote,h1,h2,h3,h4,h5,h6)]:pl-2 [&amp;_.standard-markdown_:is(p,blockquote,ul,ol,h1,h2,h3,h4,h5,h6)]:pr-8 [&amp;_.progressive-markdown_:is(p,blockquote,h1,h2,h3,h4,h5,h6)]:pl-2 [&amp;_.progressive-markdown_:is(p,blockquote,ul,ol,h1,h2,h3,h4,h5,h6)]:pr-8">
-<div>
-<div class="grid grid-rows-[auto_auto] min-w-0">
-<div class="row-start-2 col-start-1 relative grid isolate min-w-0">
-<div class="row-start-1 col-start-1 relative z-[2] min-w-0">
-<div>
-<div class="standard-markdown grid-cols-1 grid [&amp;_&gt;_*]:min-w-0 gap-3 standard-markdown">
-<h3 class="font-claude-response-body break-words whitespace-normal"><strong>What is Mean Platelet Volume (MPV)?</strong></h3>
-<p class="font-claude-response-body break-words whitespace-normal">Mean Platelet Volume (MPV) is a measurement of the average size of platelets in your blood, with normal levels typically ranging from 7.5–12.5 fL (femtoliters). <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://medlineplus.gov/lab-tests/mpv-blood-test/">Testing MPV</a> helps assess platelet production activity, identify clotting disorders, and flag early signs of cardiovascular or inflammatory disease.</p>
-<h3 class="font-claude-response-body break-words whitespace-normal"><strong>Understanding MPV and Its Role in Your Body</strong></h3>
-<p class="font-claude-response-body break-words whitespace-normal">Mean Platelet Volume is reported as part of a standard <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://www.nhlbi.nih.gov/health/blood-tests">complete blood count (CBC)</a> and reflects the size distribution of platelets, the small cell fragments responsible for clotting and wound repair. Platelets are produced in the bone marrow by large cells called megakaryocytes. Newly released platelets are larger and more metabolically active; as they age in circulation, they shrink. MPV therefore serves as an indirect measure of platelet turnover and bone marrow activity.</p>
-<p class="font-claude-response-body break-words whitespace-normal">Because platelet size correlates with function, MPV carries clinical significance beyond platelet count alone. Larger platelets contain more clotting factors, release more thromboxane A2, and aggregate more readily. This makes MPV a useful marker for assessing bleeding risk, cardiovascular health, and inflammatory states. Clinicians typically interpret MPV alongside <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://medlineplus.gov/lab-tests/platelet-tests/">platelet count</a> for the most complete picture.</p>
-<h3 class="font-claude-response-body break-words whitespace-normal"><strong>Normal MPV Ranges and What They Mean</strong></h3>
-<p class="font-claude-response-body break-words whitespace-normal">Normal MPV ranges are consistent across sexes and most age groups in adults. Reference values may vary slightly between laboratories depending on instrument calibration and methodology.</p>
-<div data-dynamic-ranges="true" data-test="1"></div>
-<div data-ranges="true">
-<p class="font-claude-response-body break-words whitespace-normal">Normal range: 7.5–12.5 fL</p>
-</div>
-<p class="font-claude-response-body break-words whitespace-normal"><a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://medlineplus.gov/lab-tests/mpv-blood-test/">MPV is most informative when read in context with platelet count</a>:</p>
-<ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3">
-<li class="font-claude-response-body whitespace-normal break-words pl-2">High MPV with low platelet count: suggests increased platelet destruction, as seen in immune thrombocytopenic purpura (ITP)</li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2">Low MPV with low platelet count: points toward decreased production, as seen in bone marrow failure or aplastic anemia</li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2">High MPV with high platelet count: may indicate a myeloproliferative disorder</li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2">Normal MPV with normal platelet count: generally reflects healthy platelet turnover</li>
-</ul>
-<p class="font-claude-response-body break-words whitespace-normal">A single out-of-range MPV result warrants clinical context before drawing conclusions. Hydration status, sample handling time, and anticoagulant type can all affect measured values.</p>
-<h3 class="font-claude-response-body break-words whitespace-normal"><strong>Low MPV: Causes and Health Implications</strong></h3>
-<p class="font-claude-response-body break-words whitespace-normal">A lower-than-normal MPV suggests platelets are smaller than average, which often reflects reduced production activity or suppressed bone marrow output. Symptoms are not always present, but depending on the underlying cause, patients may experience unusual bruising, prolonged bleeding, or fatigue.</p>
-<p class="font-claude-response-body break-words whitespace-normal">Common causes include:</p>
-<ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3">
-<li class="font-claude-response-body whitespace-normal break-words pl-2">Aplastic anemia or bone marrow suppression</li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2">Chemotherapy or radiation effects on bone marrow</li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2">Inflammatory bowel disease, particularly Crohn&#8217;s disease and ulcerative colitis</li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2">Sepsis or systemic infection</li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2">Iron deficiency anemia in some presentations</li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2">Autoimmune conditions affecting marrow function</li>
-</ul>
-<p class="font-claude-response-body break-words whitespace-normal"><a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://medlineplus.gov/lab-tests/platelet-tests/">Low MPV paired with low platelet count</a> is a pattern that warrants further evaluation, as it can indicate impaired platelet production and elevated bleeding risk.</p>
-<h3 class="font-claude-response-body break-words whitespace-normal"><strong>High MPV: When Your Levels Are Elevated</strong></h3>
-<p class="font-claude-response-body break-words whitespace-normal">Elevated MPV indicates that circulating platelets are larger than average, which often reflects increased bone marrow output in response to higher demand. Larger platelets are more reactive, so <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://pubmed.ncbi.nlm.nih.gov/19691485/">persistently elevated MPV has been associated with a higher risk of arterial clotting events</a>.</p>
-<p class="font-claude-response-body break-words whitespace-normal">Potential causes include:</p>
-<ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3">
-<li class="font-claude-response-body whitespace-normal break-words pl-2">Cardiovascular disease and atherosclerosis</li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2">Type 2 diabetes and insulin resistance</li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2">Hypertension</li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2">Hypothyroidism</li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2">Immune thrombocytopenic purpura (ITP), where platelet destruction drives accelerated production</li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2">Vitamin B12 or folate deficiency</li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2">Smoking</li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2">Pre-eclampsia in pregnancy</li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2">Chronic inflammatory states</li>
-</ul>
-<p class="font-claude-response-body break-words whitespace-normal"><a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://pubmed.ncbi.nlm.nih.gov/19691485/">Research has linked high MPV with increased risk of myocardial infarction and stroke</a>, independent of platelet count. If you have persistently elevated MPV alongside cardiovascular risk factors, discuss it with your physician.</p>
-<h3 class="font-claude-response-body break-words whitespace-normal"><strong>Optimizing Your MPV Naturally</strong></h3>
-<p class="font-claude-response-body break-words whitespace-normal">MPV is not a standalone modifiable target in the way that cholesterol or blood pressure is, but the conditions that drive abnormal MPV are often addressable through lifestyle.</p>
-<p class="font-claude-response-body break-words whitespace-normal">For elevated MPV, focus on reducing inflammatory and cardiovascular burden:</p>
-<ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3">
-<li class="font-claude-response-body whitespace-normal break-words pl-2">Anti-inflammatory diet: emphasize fatty fish, olive oil, leafy greens, and berries rich in omega-3 fatty acids and polyphenols</li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2">Blood sugar management: minimize refined carbohydrates and added sugar, particularly if you have or are at risk for type 2 diabetes</li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2">Smoking cessation: <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6501263/">smoking is directly associated with larger platelet size and higher platelet reactivity</a></li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2">Blood pressure control: regular aerobic exercise, reduced sodium intake, and weight management all support healthy vascular function</li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2">Thyroid monitoring: if hypothyroidism is a contributing factor, appropriate treatment can normalize platelet dynamics</li>
-</ul>
-<p class="font-claude-response-body break-words whitespace-normal">For low MPV related to nutritional causes:</p>
-<ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3">
-<li class="font-claude-response-body whitespace-normal break-words pl-2">Ensure adequate intake of folate (leafy greens, legumes, fortified grains) and vitamin B12 (animal products, fortified plant milks)</li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2">Address iron deficiency if present through diet or supplementation as directed by your physician</li>
-</ul>
-<h3 class="font-claude-response-body break-words whitespace-normal"><strong>Maintaining Healthy MPV</strong></h3>
-<p class="font-claude-response-body break-words whitespace-normal">Consistent sleep, regular moderate exercise, managing chronic conditions like diabetes or thyroid disease, and avoiding smoking all support balanced platelet production and function over time. Because <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://www.nhlbi.nih.gov/health/blood-tests">MPV is part of a routine CBC panel</a>, it can be tracked longitudinally to detect trends before symptoms develop.</p>
-<p class="font-claude-response-body break-words whitespace-normal"><strong>Where can I learn more?</strong></p>
-<ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3">
-<li class="font-claude-response-body whitespace-normal break-words pl-2"><a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://www.nhlbi.nih.gov/health/blood-tests">National Heart, Lung, and Blood Institute. Blood Tests.</a></li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2"><a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6501263/">Korniluk A, et al. Mean Platelet Volume (MPV): New Perspectives for an Old Marker in the Course and Prognosis of Inflammatory Conditions. <em>Mediators of Inflammation</em>, 2019.</a></li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2"><a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://pubmed.ncbi.nlm.nih.gov/19691485/">Chu SG, et al. Mean Platelet Volume as a Predictor of Cardiovascular Risk: A Systematic Review and Meta-Analysis. <em>Journal of Thrombosis and Haemostasis</em>, 2010.</a></li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2"><a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://medlineplus.gov/lab-tests/mpv-blood-test/">MedlinePlus, National Library of Medicine. MPV Blood Test.</a></li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2"><a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://medlineplus.gov/lab-tests/platelet-tests/">MedlinePlus, National Library of Medicine. Platelet Tests.</a></li>
-</ul>
-<p class="font-claude-response-body break-words whitespace-normal"><strong>DISCLAIMER: IF YOU ARE CONCERNED WITH ANY OF YOUR RESULTS, PLEASE CONSULT WITH YOUR PHYSICIAN.</strong></p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
 ]]></content:encoded>
 					
 		
