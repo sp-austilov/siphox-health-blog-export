@@ -12,25 +12,75 @@
 	<atom:link href="/hub/feed/" rel="self" type="application/rss+xml" />
 	<link>/hub/</link>
 	<description></description>
-	<lastBuildDate>Thu, 17 Sep 2026 20:22:09 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 24 Sep 2026 16:28:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.1.1</generator>
+	<generator>https://wordpress.org/?v=7.1.2</generator>
 	<item>
+		<title>Insulin-Like Growth Factor (IGF)</title>
+		<link>/hub/biomarkers-2/biomarker-igf/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 16:27:10 +0000</pubDate>
+				<category><![CDATA[Biomarkers]]></category>
+		<guid isPermaLink="false">/hub/?p=4392</guid>
+
+					<description><![CDATA[
+
+What is IGF-1? Insulin-like growth factor 1 (IGF-1) is a hormone that plays an important role in growth, tissue repair, muscle and bone health, and metabolism. IGF-1 is produced primarily by the liver in response to growth hormone (GH) and is responsible for many of GH&#8217;s effects throughout the body. Unlike growth hormone, which is&#8230; <a class="more-link" href="/hub/biomarkers-2/biomarker-igf/">Continue reading <span class="screen-reader-text">Insulin-Like Growth Factor (IGF)</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h3 dir="auto" data-section-id="1dt4xfh" data-start="732" data-end="750">What is IGF-1?</h3>
+<p dir="auto" data-start="752" data-end="1037">Insulin-like growth factor 1 (IGF-1) is a hormone that plays an important role in growth, tissue repair, muscle and bone health, and metabolism. IGF-1 is produced primarily by the liver in response to growth hormone (GH) and is responsible for many of GH&#8217;s effects throughout the body.</p>
+<p dir="auto" data-start="1039" data-end="1305">Unlike growth hormone, which is released in pulses and can fluctuate substantially throughout the day, IGF-1 remains relatively stable. This makes it a useful marker for assessing activity of the growth hormone and IGF-1 system.</p>
+<p dir="auto" data-start="1307" data-end="1582">IGF-1 is unusual because <strong data-start="1332" data-end="1368">higher is not necessarily better</strong>. Levels naturally decline throughout adulthood, so a healthy IGF-1 level for someone in their 20s can look very different from a healthy level for someone in their 60s or 70s.</p>
+<h3 dir="auto" data-section-id="16by68n" data-start="1584" data-end="1611">Why is IGF-1 important?</h3>
+<p dir="auto" data-start="1613" data-end="1802">IGF-1 to provides insight into your growth hormone and metabolic health. IGF-1 helps support the maintenance of muscle, bone, and other tissues throughout adulthood.</p>
+<p dir="auto" data-start="1804" data-end="2222">IGF-1 is also commonly used by healthcare providers when evaluating growth hormone disorders because it provides a more stable reflection of growth hormone activity than a single GH measurement. Both unusually low and unusually high IGF-1 levels can sometimes indicate changes in the growth hormone system, although an IGF-1 result alone cannot diagnose a growth hormone disorder.</p>
+<h3 dir="auto" data-section-id="1z0lq1p" data-start="2224" data-end="2272">How can I better understand my IGF-1 levels?</h3>
+<p dir="auto" data-start="2274" data-end="2650">Unlike biomarkers with one standard adult cutoff, <strong data-start="2324" data-end="2377">IGF-1 should be interpreted according to your age</strong>. IGF-1 rises through childhood and adolescence, peaks around puberty and young adulthood, and then gradually declines with age. Large reference studies involving thousands of healthy people demonstrate this strong age-related pattern.</p>
+<p dir="auto" data-start="2652" data-end="2853">Sex can also affect IGF-1 reference values depending on age and the laboratory method used. SiPhox therefore compares your result with the <strong data-start="2791" data-end="2852">age- and sex-specific reference range that applies to you</strong>.</p>
+<p dir="auto" data-start="3688" data-end="3963">These values match the current Labcorp IDS-iSYS IGF-1 reference intervals. Labcorp established these age- and sex-adjusted intervals using a very large U.S. clinical population and notes that IGF-1 reference intervals are assay-specific.</p>
+<p dir="auto" data-start="3965" data-end="4146">IGF-1 should therefore <strong data-start="3988" data-end="4054">not be interpreted against one universal &#8220;ideal&#8221; concentration</strong>. Instead, SiPhox evaluates your result relative to the expected range for your age and sex.</p>
+<div data-dynamic-ranges="true" data-test="1"></div>
+<div data-ranges="true">
+</div>
+<p dir="auto" data-start="4148" data-end="4767">Population studies also suggest that being at either extreme of the IGF-1 distribution may be less favorable than being closer to the middle. A meta-analysis of nearly 15,000 adults found a U-shaped relationship between IGF-1 and mortality, with both approximately the <strong data-start="4417" data-end="4475">lowest 10% and highest 10% of age-related IGF-1 levels</strong> associated with higher mortality than values around the middle of the distribution. A later meta-analysis involving more than 30,000 adults similarly found higher mortality at both low and high IGF-1 concentrations.</p>
+<h3 dir="auto" data-section-id="1gc0fgm" data-start="4980" data-end="5024">How can I maintain optimal IGF-1 levels?</h3>
+<p dir="auto" data-start="5026" data-end="5197">Because IGF-1 naturally changes with age, the goal is <strong data-start="5080" data-end="5121">not to make IGF-1 as high as possible</strong>. Instead, focus on supporting normal growth hormone and metabolic function.</p>
+<p dir="auto" data-start="5199" data-end="5450"><strong data-start="5199" data-end="5213">Nutrition:</strong> Adequate nutrition is important for maintaining normal IGF-1 production. Undernutrition and significant calorie or protein restriction can lower IGF-1, even when growth hormone production is normal.</p>
+<p dir="auto" data-start="5452" data-end="5711"><strong data-start="5452" data-end="5465">Exercise:</strong> Regular physical activity supports muscle, bone, and metabolic health and interacts with the growth hormone and IGF-1 system. Exercise can affect circulating IGF-1, although the response varies according to age, health status, and exercise type.</p>
+<p dir="auto" data-start="5713" data-end="5913"><strong data-start="5713" data-end="5723">Sleep:</strong> Growth hormone secretion is strongly linked to sleep, particularly deep sleep. Maintaining consistent, adequate sleep helps support normal regulation of the growth hormone and IGF-1 system.</p>
+<p dir="auto" data-start="5915" data-end="6245"><strong data-start="5915" data-end="5947">Consider the bigger picture:</strong> Nutrition, body composition, liver function, metabolic health, pregnancy, and certain medications can all affect IGF-1 levels. Current endocrine consensus recommends interpreting IGF-1 in the context of these factors rather than relying on the number alone.</p>
+<p dir="auto" data-start="6247" data-end="6486">If your IGF-1 is persistently outside your age-specific laboratory range, discuss the result with your healthcare provider. Repeat testing or additional evaluation may be appropriate depending on your result, symptoms, and medical history.</p>
+<h3 dir="auto" data-section-id="thkods" data-start="6488" data-end="6515">Where can I learn more?</h3>
+<ul data-start="6517" data-end="6684">
+<li data-section-id="1flqygl" data-start="6517" data-end="6558"><span class="contents" data-content-reference-start="6404" data-content-reference-end="6527"><span class="" data-state="closed"><a class="decorated-link" href="https://www.labcorp.com/tests/010363/insulin-like-growth-factor-1-igf-1?utm_source=chatgpt.com" target="_blank" rel="noopener">Labcorp: Insulin-like Growth Factor 1 (IGF-1)</a></span></span></li>
+<li data-section-id="rwywvp" data-start="6559" data-end="6600"><span class="contents" data-content-reference-start="6530" data-content-reference-end="6658"><span class="" data-state="closed"><a class="decorated-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10837217/?utm_source=chatgpt.com" target="_blank" rel="noopener">2024 Acromegaly Consensus: IGF-1 interpretation and age-adjusted ranges</a></span></span></li>
+<li data-section-id="18npx85" data-start="6601" data-end="6642"><span class="contents" data-content-reference-start="6661" data-content-reference-end="6783"><span class="" data-state="closed"><a class="decorated-link" href="https://pubmed.ncbi.nlm.nih.gov/24606072/?utm_source=chatgpt.com" target="_blank" rel="noopener">Large multicenter study of age- and sex-adjusted IGF-1 reference intervals</a></span></span></li>
+<li data-section-id="1nw41v9" data-start="6643" data-end="6684"><span class="contents" data-content-reference-start="6786" data-content-reference-end="6878"><span class="" data-state="closed"><a class="decorated-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8844108/?utm_source=chatgpt.com" target="_blank" rel="noopener">Meta-analysis of IGF-1 and mortality</a></span></span></li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>IGF-1: The Hormone Worth Watching</title>
-		<link>/hub/biomarkers-2/biomarker-igf1/</link>
+		<link>/hub/guides/igf1/</link>
 		
 		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
 		<pubDate>Thu, 17 Sep 2026 20:21:26 +0000</pubDate>
-				<category><![CDATA[Biomarkers]]></category>
+				<category><![CDATA[Guides]]></category>
 		<guid isPermaLink="false">/hub/?p=4386</guid>
 
 					<description><![CDATA[
 
-What is IGF-1? IGF-1 (Insulin-like Growth Factor 1) is a hormone produced mainly by the liver in response to growth hormone signaling from the pituitary gland. Once released into the bloodstream, it acts on nearly every tissue in the body, driving cell growth, tissue repair, and metabolic regulation. It&#8217;s especially important for muscle protein synthesis,&#8230; <a class="more-link" href="/hub/biomarkers-2/biomarker-igf1/">Continue reading <span class="screen-reader-text">IGF-1: The Hormone Worth Watching</span></a>]]></description>
+What is IGF-1? IGF-1 (Insulin-like Growth Factor 1) is a hormone produced mainly by the liver in response to growth hormone signaling from the pituitary gland. Once released into the bloodstream, it acts on nearly every tissue in the body, driving cell growth, tissue repair, and metabolic regulation. It&#8217;s especially important for muscle protein synthesis,&#8230; <a class="more-link" href="/hub/guides/igf1/">Continue reading <span class="screen-reader-text">IGF-1: The Hormone Worth Watching</span></a>]]></description>
 			
 
 							<content:encoded><![CDATA[
@@ -754,53 +804,6 @@ Movement is one of the best things you can do for your energy, mood, and long-te
 <p><em>This article is for general wellness and educational purposes only. It is not medical advice, it is not a diagnosis, and it does not replace care from your own clinician or a personalized exercise or treatment plan. Please get your clinician&#8217;s guidance before starting or changing an exercise program, and do not adjust any treatment on your own, especially if your thyroid levels are not yet controlled. If you have chest pain, a severe or irregular heartbeat, fainting, or breathlessness at rest, stop and seek medical care.</em></p>
 <p><strong>Sources:</strong> <a href="https://health.clevelandclinic.org/uncontrolled-thyroid-exercise-diet-risks">Cleveland Clinic: Exercise and an Uncontrolled Thyroid</a>; American Thyroid Association: <a href="https://www.thyroid.org/hyperthyroidism/">Hyperthyroidism</a>, <a href="https://www.thyroid.org/hypothyroidism/">Hypothyroidism</a>.</p>
 <p><!-- notionvc: f5238577-ef68-4a3c-8b26-d2b1d884df9a --></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Eating Well for Thyroid Health</title>
-		<link>/hub/guides/eating-well-thyroid-health/</link>
-		
-		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Thu, 23 Jul 2026 13:27:22 +0000</pubDate>
-				<category><![CDATA[Guides]]></category>
-		<guid isPermaLink="false">/hub/?p=4286</guid>
-
-					<description><![CDATA[
-
-There is no magic &#8220;thyroid diet,&#8221; and you do not need a cupboard full of supplements. What genuinely helps is getting enough of a few key nutrients, sidestepping a couple of common mistakes, and eating in a balanced way most of the time. This guide covers the simple principles that give your thyroid what it&#8230; <a class="more-link" href="/hub/guides/eating-well-thyroid-health/">Continue reading <span class="screen-reader-text">Eating Well for Thyroid Health</span></a>]]></description>
-			
-
-							<content:encoded><![CDATA[
-<p>There is no magic &#8220;thyroid diet,&#8221; and you do not need a cupboard full of supplements. What genuinely helps is getting enough of a few key nutrients, sidestepping a couple of common mistakes, and eating in a balanced way most of the time. This guide covers the simple principles that give your thyroid what it needs, without the myths that make food feel complicated.</p>
-<h2>Why food matters for your thyroid</h2>
-<p>Your thyroid runs on nutrients from what you eat. It uses iodine to build thyroid hormone, then relies on a handful of other nutrients to activate and protect it. Get enough of the right ones, without overdoing it, and the gland has what it needs. For most people that comes from everyday balanced meals, not from a stack of pills.</p>
-<h2>Iodine: enough, but not too much</h2>
-<p>Iodine is the one nutrient your thyroid cannot do without, since it is the raw material for its hormones. The important nuance is that both too little and too much can cause problems, so the aim is a steady, adequate intake rather than the highest amount you can manage.</p>
-<p>Most people who use iodized salt get plenty from ordinary foods like dairy, eggs, and seafood. Adults need about 150 micrograms a day, and a little more in pregnancy. The usual source of trouble is the opposite of deficiency: high-dose iodine or kelp and seaweed products, which can deliver many times a safe amount and tip the gland off balance. Unless your clinician has recommended it, there is no need to add iodine, and kelp supplements are best left on the shelf.</p>
-<h2>Selenium: the quiet helper</h2>
-<p>Selenium helps your body switch thyroid hormone into its active form and shields the gland from everyday wear, so getting enough matters. More is not better, though. A few studies hint that selenium supplements can slightly lower thyroid antibodies in Hashimoto&#8217;s, but the evidence is mixed, does not clearly help people feel better, and is not something major guidelines recommend across the board. Selenium also has a narrow safe range. The simplest approach is to get it from food, where a couple of Brazil nuts already cover a full day, and to add a supplement only in discussion with your clinician.</p>
-<h2>Iron, zinc, and vitamin D: the supporting cast</h2>
-<p>A few other nutrients play backup. Iron powers the enzyme that makes thyroid hormone, and running low on it often accompanies an underactive or autoimmune gland, so it is worth checking if you feel tired a lot. Zinc helps your body process thyroid hormone. Vitamin D tends to run low in people with autoimmune thyroid conditions, though that is a link rather than proof a supplement fixes anything. For all three, aim for enough through a varied diet, and correct a genuine shortfall only if you have one.</p>
-<h2>Broccoli, kale, and soy are fine</h2>
-<p>You may have heard that cruciferous vegetables like broccoli, cabbage, and kale, along with soy, are &#8220;goitrogens&#8221; that harm the thyroid. In the amounts people normally eat, they are safe, and cooking softens any effect even further. The theoretical worry only applies alongside iodine deficiency or genuinely extreme habits, such as drinking large amounts of raw cruciferous juice daily. These are nutritious foods, so keep them on your plate as part of a varied diet.</p>
-<h2>If you take levothyroxine: keep the timing steady</h2>
-<p>If you take levothyroxine, food and some supplements can affect how much your body absorbs. The notes below are general background, not instructions for your dose, so keep taking your medication exactly as prescribed and check any timing questions with your doctor or pharmacist. As a rule of thumb, levothyroxine is usually absorbed best on an empty stomach; coffee and soy-heavy meals are kept a little apart from it; and calcium or iron supplements are spaced several hours away, because they can bind it. Whatever schedule you settle on with your clinician, keeping it the same each day is the part that helps most.</p>
-<h2>The bottom line: a balanced, whole-food pattern</h2>
-<p>No single food makes or breaks thyroid health. What the evidence keeps pointing to is an overall pattern: plenty of vegetables and fruit, quality protein, whole grains, and enough (not extra) iodine, selenium, iron, zinc, and vitamin D. One myth worth retiring is going gluten-free to help thyroid disease. On its own it does not, and it only makes a difference if you also have celiac disease, which is worth ruling out if you have symptoms of it, since the condition turns up more often in people with autoimmune thyroid conditions.</p>
-<h2>Key takeaway</h2>
-<p>Get enough iodine without going overboard, aim for a solid baseline of selenium, iron, zinc, and vitamin D from food, and keep broccoli and soy on your plate. If you take medication, hold its timing steady and separate from coffee, calcium, and iron. A consistent, balanced diet will do far more for your thyroid than any restrictive plan.</p>
-<h2>Where to read more</h2>
-<ul>
-<li><a href="https://app.siphoxhealth.com/thyroid-knowledge-center">Understanding Your Thyroid Biomarkers</a>: what each marker means in your report</li>
-<li><a href="https://app.siphoxhealth.com/thyroid-knowledge-center">Preparing for Your Thyroid Test</a>: how to get a clean, accurate result</li>
-<li><a href="https://app.siphoxhealth.com/thyroid-knowledge-center">Staying Active &amp; Thyroid Health</a>: movement that supports your thyroid</li>
-</ul>
-<p><em>This article is for general wellness and educational purposes only. It is not medical advice, it is not a diagnosis, and it does not replace care from your own clinician. Do not start, stop, or change any supplement or medication based on it. Individual needs vary, so please speak with your doctor, pharmacist, or a registered dietitian before making major dietary changes or starting supplements.</em></p>
-<p><strong>Sources:</strong> NIH Office of Dietary Supplements: <a href="https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/">Iodine</a>, <a href="https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/">Selenium</a>; American Thyroid Association: <a href="https://www.thyroid.org/ata-statement-on-the-potential-risks-of-excess-iodine-ingestion-and-exposure/">Statement on Excess Iodine</a>, <a href="https://www.thyroid.org/patient-thyroid-information/ct-for-patients/july-2024/vol-17-issue-7-p-5-6/">Selenium &amp; Hashimoto&#8217;s</a>; <a href="https://nutritionsource.hsph.harvard.edu/iodine/">Harvard Nutrition Source: Iodine</a>; <a href="https://www.mayoclinic.org/diseases-conditions/hypothyroidism/expert-answers/hypothyroidism/faq-20058536">Mayo Clinic: hypothyroidism diet &amp; levothyroxine</a>; <a href="https://www.aafp.org/afp/2023/0700/fpin-hda-gluten-free-diet-thyroid-disease">AAFP/FPIN: gluten-free diet &amp; thyroid disease</a>.</p>
-<p><!-- notionvc: 78bc36c0-7c22-4d73-a30c-e000b32bb76e --></p>
 ]]></content:encoded>
 					
 		
