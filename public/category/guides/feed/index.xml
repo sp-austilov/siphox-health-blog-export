@@ -12,14 +12,87 @@
 	<atom:link href="/hub/category/guides/feed/" rel="self" type="application/rss+xml" />
 	<link>/hub/</link>
 	<description></description>
-	<lastBuildDate>Thu, 24 Sep 2026 16:13:52 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 07 Oct 2026 19:15:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.1.2</generator>
+	<generator>https://wordpress.org/?v=7.1.3</generator>
 	<item>
+		<title>Why EasyDraw Capillary Testing Is as Good as Venous Testing Under Proper Conditions</title>
+		<link>/hub/guides/easydraw-capillary-vs-venous/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Wed, 07 Oct 2026 17:07:01 +0000</pubDate>
+				<category><![CDATA[Guides]]></category>
+		<guid isPermaLink="false">/hub/?p=4397</guid>
+
+					<description><![CDATA[
+
+Many people assume venous blood draws are automatically more accurate because they collect more blood. In reality, accuracy depends less on the size of the tube and more on whether the sample type has been properly validated, whether there is enough usable sample for each assay, and whether the sample is processed on validated laboratory&#8230; <a class="more-link" href="/hub/guides/easydraw-capillary-vs-venous/">Continue reading <span class="screen-reader-text">Why EasyDraw Capillary Testing Is as Good as Venous Testing Under Proper Conditions</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<p>Many people assume venous blood draws are automatically more accurate because they collect more blood. In reality, accuracy depends less on the size of the tube and more on whether the sample type has been properly validated, whether there is enough usable sample for each assay, and whether the sample is processed on validated laboratory equipment.</p>
+<p>At SiPhox Health, we use the EasyDraw arm collector to collect capillary blood from the upper arm. EasyDraw was validated in an internal 470-subject comparative study in which capillary samples were collected at the same time as venous samples and the results were compared directly. SiPhox has also validated its 50+ supported biomarkers, including hormone, metabolic, chemistry, lipid, and related health markers, using this capillary collection workflow.</p>
+<p>That means EasyDraw capillary testing is as good as venous testing under proper collection, handling, and processing conditions. A paired study of 480 adults comparing fingertip and upper-arm capillary collection against matched venous samples on a single integrated analyzer platform found capillary and venous results clinically comparable for 16 of 18 routine analytes once sample-quality cutoffs were applied. [1] Similar equivalence has been demonstrated for other upper-arm collection devices, with 17 of 19 analytes falling within CLIA acceptance limits against matched venous samples. [2]</p>
+<p>At the same time, traditional venous collection often requires far more blood than the analyzer itself needs. Modern chemistry analyzers require under 50 µL of plasma for a routine comprehensive metabolic panel, and hospital laboratories have been shown to collect roughly 8.5 times the required analytical volume for a complete blood count and about 12 times the required volume for a basic metabolic panel, with much of the sample discarded. [3,4] Large reference labs may request multiple tubes because their workflows are built around high-throughput routing, tube-type requirements, volume checks, and separate lab stations. That does not mean every assay requires that much blood. It often means the lab is collecting enough blood to make processing easier across a large, divided system.</p>
+<p>So the real comparison is not “small sample versus large sample.” The better comparison is validated EasyDraw capillary collection versus traditional venous collection. EasyDraw capillary testing delivers venous-level performance while using substantially less blood.</p>
+<h2>EasyDraw samples are tested on validated lab equipment</h2>
+<p>EasyDraw collection happens at home, but the testing itself happens in a laboratory setting.</p>
+<p>SiPhox works with CLIA-certified and CAP-accredited laboratories, and samples are processed using professional laboratory analyzers. The same analyzer runs both venous and EasyDraw capillary samples, which means the assay volume requirements are the same once the sample is ready to be tested.</p>
+<p>The analyzer needs the correct sample type, enough usable volume, and proper processing conditions. It does not need a large venous tube. What it actually requires is the per-assay volume plus the instrument&#8217;s dead volume, which varies by platform and container. [3,5]</p>
+<p><!-- notionvc: 882611eb-7fdd-4c97-b13d-06d48a29d0bb --></p>
+<h2>EasyDraw capillary testing is validated marker by marker</h2>
+<p>EasyDraw isn&#8217;t assumed to match venous testing because it&#8217;s convenient. Each biomarker is evaluated against defined acceptance criteria, including coefficient of variability expectations, some of which differ by gender, such as CRP and C-peptide. Results outside the expected two-deviation acceptance window are not considered viable.</p>
+<p>That marker-level validation is what supports the conclusion, for the biomarkers SiPhox supports, when samples are collected and processed properly.</p>
+<p><!-- notionvc: 04249087-d795-46cb-9f10-755d736485c3 --></p>
+<h2>Venous draws often collect more blood than the assays actually need</h2>
+<p>Traditional venous collection is designed for large-scale lab operations. It is not always designed around the minimum blood volume required by the analyzer.</p>
+<p>For example, a large reference lab may ask for several vacutainers for a panel that, in a more optimized workflow, uses a much smaller amount of blood. This is because reference labs often collect extra blood to support operational efficiency. Conventional large-volume collection tubes have been shown to collect blood far in excess of analyzer requirements, and low-volume alternatives can match analytical performance at a fraction of the draw. [6]</p>
+<p>There are several reasons for this:</p>
+<ul>
+<li>Different lab departments or stations may process different tests.</li>
+<li>Each station may prefer or require its own tube.</li>
+<li>Some tests require different tube types.</li>
+<li>Some specialty markers require special handling, such as tinted or light-protected tubes.</li>
+<li>Automated systems may require extra volume for checks, transfers, and processing.</li>
+<li>Extra blood reduces the chance that a high-throughput lab needs to request a redraw.</li>
+</ul>
+<p>This does not mean the extra blood makes the test more accurate. It means the lab’s workflow is designed to make processing easier and more reliable at scale.</p>
+<p><!-- notionvc: d278b6f1-b3b4-4770-aac6-1ac3de73d33d --></p>
+<h2>Why multiple venous tubes do not mean better testing</h2>
+<p>A venous blood draw can require multiple tubes even when the actual analytical volume used by the instruments is much smaller.</p>
+<p><a href="/hub/wp-content/uploads/2026/10/Screenshot-2026-10-07-at-1.04.19-PM.png"><img fetchpriority="high" decoding="async" class="alignleft wp-image-4398" src="/hub/wp-content/uploads/2026/10/Screenshot-2026-10-07-at-1.04.19-PM.png" alt="" width="531" height="432" srcset="/hub/wp-content/uploads/2026/10/Screenshot-2026-10-07-at-1.04.19-PM.png 1196w, /hub/wp-content/uploads/2026/10/Screenshot-2026-10-07-at-1.04.19-PM-300x244.png 300w, /hub/wp-content/uploads/2026/10/Screenshot-2026-10-07-at-1.04.19-PM-1024x832.png 1024w, /hub/wp-content/uploads/2026/10/Screenshot-2026-10-07-at-1.04.19-PM-768x624.png 768w" sizes="(max-width: 531px) 100vw, 531px" /></a></p>
+<p><!-- notionvc: 06cb288f-c6ed-4f32-92ce-53dd96c8d061 --></p>
+<p>The Labcorp AccuDraw example above shows a panel requiring three serum gel tubes and one lavender-top EDTA tube. The listed panel is the SiPhox longevity panel that includes markers such as Lipoprotein(a), C-reactive protein, Apolipoprotein B, a lipid panel, vitamin D, HbA1c, Apolipoprotein A-1, TSH, FSH, LH, estradiol, C-peptide, cortisol, ferritin, and DHEA-S.</p>
+<p>The collection requirement is three serum gel tubes at 8.5 mL each plus one lavender-top EDTA tube at 4.0 mL.</p>
+<p>SiPhox runs the same panel from one microtainer: about 0.5 mL. Instead of giving each lab station its own full tube, the sample is aliquoted and routed based on what the panel actually needs. SiPhox also designs its panels around validated markers, which avoids specialty tests that carry their own tube or handling requirements.</p>
+<h2>The bottom line</h2>
+<p>Under proper conditions, EasyDraw capillary testing delivers venous-level results while requiring substantially less blood.</p>
+<p>Those conditions matter: the collection method must be validated, the biomarkers must be validated, the sample must be collected and handled correctly and processed on appropriate laboratory equipment, and there must be enough usable volume for each assay.</p>
+<p>Traditional venous collection uses more blood not because every test analytically requires it, but because large reference labs are built around routing, separate stations, volume checks, and specialized tube requirements.</p>
+<h2>References</h2>
+<ol>
+<li>Venous–capillary blood agreement for routine chemistry analytes: effects of collection site and sample matrix. <em>Clin Chem Lab Med</em> (2026). <a href="https://pubmed.ncbi.nlm.nih.gov/42446434/">https://pubmed.ncbi.nlm.nih.gov/42446434/</a></li>
+<li>Evaluation of a Simplified Upper Arm Device for Vacuum-Assisted Collection of Capillary Blood Specimens. <em>Diagnostics</em> 15(15):1935 (2025). <a href="https://doi.org/10.3390/diagnostics15151935">https://doi.org/10.3390/diagnostics15151935</a></li>
+<li>Listening Closely When the Volume Is Turned Down. <em>Clinical Laboratory News</em> / ADLM. <a href="https://myadlm.org/cln/articles/2016/may/listening-closely-when-the-volume-is-turned-down">https://myadlm.org/cln/articles/2016/may/listening-closely-when-the-volume-is-turned-down</a></li>
+<li>Reducing Blood Loss by Changing to Small Volume Tubes for Laboratory Testing. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7930757/">https://pmc.ncbi.nlm.nih.gov/articles/PMC7930757/</a></li>
+<li>Reducing neonatal phlebotomy blood losses through the accurate calculation of minimum test volume requirements. <em>Ann Clin Biochem</em> (2021). <a href="https://journals.sagepub.com/doi/full/10.1177/00045632211030953">https://journals.sagepub.com/doi/full/10.1177/00045632211030953</a></li>
+<li>Performance evaluation of low-volume blood collection tubes for coagulation tests (2026). <a href="https://pubmed.ncbi.nlm.nih.gov/42414931/">https://pubmed.ncbi.nlm.nih.gov/42414931/</a></li>
+</ol>
+<p><!-- notionvc: 24acbf26-015d-4420-8893-b0beb9ad81c7 --></p>
+<p><!-- notionvc: 22487792-2879-41f6-a884-f0557fb5aba3 --></p>
+<p>&nbsp;</p>
+<p><!-- notionvc: 9f1242e3-0d49-474a-85f0-4685d971e47a --></p>
+<p><!-- notionvc: 4dce0ede-ae45-45cc-9471-5ea20eb41731 --></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>IGF-1: The Hormone Worth Watching</title>
 		<link>/hub/guides/igf1/</link>
 		
@@ -749,64 +822,6 @@ There is no magic &#8220;thyroid diet,&#8221; and you do not need a cupboard ful
 <p><em>This article is for general wellness and educational purposes only. It is not medical advice, it is not a diagnosis, and it does not replace care from your own clinician. Do not start, stop, or change any supplement or medication based on it. Individual needs vary, so please speak with your doctor, pharmacist, or a registered dietitian before making major dietary changes or starting supplements.</em></p>
 <p><strong>Sources:</strong> NIH Office of Dietary Supplements: <a href="https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/">Iodine</a>, <a href="https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/">Selenium</a>; American Thyroid Association: <a href="https://www.thyroid.org/ata-statement-on-the-potential-risks-of-excess-iodine-ingestion-and-exposure/">Statement on Excess Iodine</a>, <a href="https://www.thyroid.org/patient-thyroid-information/ct-for-patients/july-2024/vol-17-issue-7-p-5-6/">Selenium &amp; Hashimoto&#8217;s</a>; <a href="https://nutritionsource.hsph.harvard.edu/iodine/">Harvard Nutrition Source: Iodine</a>; <a href="https://www.mayoclinic.org/diseases-conditions/hypothyroidism/expert-answers/hypothyroidism/faq-20058536">Mayo Clinic: hypothyroidism diet &amp; levothyroxine</a>; <a href="https://www.aafp.org/afp/2023/0700/fpin-hda-gluten-free-diet-thyroid-disease">AAFP/FPIN: gluten-free diet &amp; thyroid disease</a>.</p>
 <p><!-- notionvc: 78bc36c0-7c22-4d73-a30c-e000b32bb76e --></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>How to Eat Well on a GLP</title>
-		<link>/hub/guides/eat-well-glp/</link>
-		
-		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Thu, 18 Jun 2026 16:58:51 +0000</pubDate>
-				<category><![CDATA[Guides]]></category>
-		<guid isPermaLink="false">/hub/?p=4277</guid>
-
-					<description><![CDATA[
-
-GLP medications change the way you eat. Your appetite drops, you feel full sooner, and your meals naturally get smaller. That is the medication doing its job. The trick is making sure the food you do eat is working as hard as possible for you. This guide covers the simple principles that help you eat&#8230; <a class="more-link" href="/hub/guides/eat-well-glp/">Continue reading <span class="screen-reader-text">How to Eat Well on a GLP</span></a>]]></description>
-			
-
-							<content:encoded><![CDATA[
-<p>GLP medications change the way you eat. Your appetite drops, you feel full sooner, and your meals naturally get smaller. That is the medication doing its job. The trick is making sure the food you do eat is working as hard as possible for you. This guide covers the simple principles that help you eat well while your appetite is lower, hold on to your muscle, and feel good day to day.</p>
-<h2><strong>Why eating well matters more on a GLP</strong></h2>
-<p>When you are eating less, every meal carries more weight. There is less room for empty calories, and a higher chance of missing out on protein, vitamins, and minerals without meaning to. Eating well on a GLP is less about eating less, which the medication already helps with, and more about making each meal count. Do that, and you protect your energy, your mood, and the quality of your results.</p>
-<h2><strong>Put protein first</strong></h2>
-<p>Protein is the single most important part of your plate on a GLP. When you lose weight quickly, some of that loss can come from muscle rather than fat. Getting enough protein, alongside a little resistance training, helps keep the weight you lose mostly fat. A simple approach:</p>
-<ul>
-<li>Include a protein source at every meal and snack</li>
-<li>Eat your protein first, before the rest of the plate, while your appetite is small</li>
-<li>Reach for easy options like eggs, Greek yogurt, fish, chicken, tofu, beans, lentils, and protein shakes when cooking feels like too much</li>
-</ul>
-<p>If you find it hard to hit your protein from food alone, a shake or supplement can fill the gap. Our guide to <a href="https://siphoxhealth.com/hub/guides/best-protein-supplements/">choosing a protein supplement</a> can help you pick one.</p>
-<h2><strong>Make every meal count</strong></h2>
-<p>With smaller portions, nutrient-dense food does the heavy lifting. Build meals around whole foods: vegetables, fruit, whole grains, and good fats, with protein at the center. Try not to skip meals even on days when you are not very hungry. Regular, smaller meals keep your energy steady and help you meet your nutrition needs without forcing large plates you do not want.</p>
-<h2><strong>Stay hydrated</strong></h2>
-<p>GLP medications can quietly turn down your thirst, and dehydration is one of the most common issues early on. It can also make side effects like nausea, headaches, and fatigue feel worse. Keep a water bottle nearby and sip through the day rather than waiting until you feel thirsty. If you are sweating a lot or feeling lightheaded, adding electrolytes can help.</p>
-<h2><strong>Eat gently to ease side effects</strong></h2>
-<p>Nausea, fullness, and an unsettled stomach are common in the early weeks. A few habits make a real difference:</p>
-<ul>
-<li>Eat smaller amounts more often, and slow down</li>
-<li>Go easy on very greasy, fried, or rich foods while you adjust</li>
-<li>Choose plain, simple foods like crackers, rice, broth, or bananas on queasy days</li>
-<li>Stop when you feel comfortably full, not stuffed</li>
-</ul>
-<p>Most of this settles as your body adjusts. If it does not, your doctor can help.</p>
-<h2><strong>Mind your micronutrients</strong></h2>
-<p>Eating less can gradually lower key nutrients like iron, vitamin B12, vitamin D, and folate. Low levels here often show up as tiredness or brain fog, which can be easy to mistake for the medication itself. Eating a varied diet helps, and your SiPhox labs will flag any gaps so you and your coach can act early. A supplement may be worth discussing if a marker drifts low.</p>
-<h2><strong>Build habits that last</strong></h2>
-<p>The eating habits you build now are the ones that will carry you through maintenance and beyond, including if you taper off your medication later. Keep it simple and repeatable: plan a few go-to high-protein meals, keep easy snacks on hand, and aim for consistency rather than perfection.</p>
-<h2><strong>Key takeaway</strong></h2>
-<p>On a GLP, eating well is less about eating less and more about making every bite count. Lead with protein, stay hydrated, keep your meals nutrient-dense, and go gently when side effects flare. Small, steady habits are what protect your muscle, your energy, and your results.</p>
-<h2><strong>Where to read more</strong></h2>
-<ul>
-<li><a href="https://siphoxhealth.com/hub/guides/best-protein-supplements/">Protein supplements: choosing the best option for your health</a></li>
-<li><a href="https://siphoxhealth.com/hub/guides/maintaining-muscle-with-age/">The minimum effective workout plan for maintaining muscle</a></li>
-<li><a href="https://siphoxhealth.com/hub/guides/glp1-titration-phase/">GLP Titration Phase: what to expect early on</a></li>
-</ul>
-<p><em>This article is for general wellness and educational purposes and is not medical advice. For anything specific to your health or your medication, please speak with your doctor.</em></p>
-<p><!-- notionvc: 0ac8076a-0011-4ebb-a417-e2443a62e0cb --></p>
 ]]></content:encoded>
 					
 		

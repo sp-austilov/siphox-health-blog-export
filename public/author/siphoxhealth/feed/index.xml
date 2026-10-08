@@ -12,14 +12,87 @@
 	<atom:link href="/hub/author/siphoxhealth/feed/" rel="self" type="application/rss+xml" />
 	<link>/hub/</link>
 	<description></description>
-	<lastBuildDate>Thu, 24 Sep 2026 16:28:18 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 07 Oct 2026 19:15:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.1.2</generator>
+	<generator>https://wordpress.org/?v=7.1.3</generator>
 	<item>
+		<title>Why EasyDraw Capillary Testing Is as Good as Venous Testing Under Proper Conditions</title>
+		<link>/hub/guides/easydraw-capillary-vs-venous/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Wed, 07 Oct 2026 17:07:01 +0000</pubDate>
+				<category><![CDATA[Guides]]></category>
+		<guid isPermaLink="false">/hub/?p=4397</guid>
+
+					<description><![CDATA[
+
+Many people assume venous blood draws are automatically more accurate because they collect more blood. In reality, accuracy depends less on the size of the tube and more on whether the sample type has been properly validated, whether there is enough usable sample for each assay, and whether the sample is processed on validated laboratory&#8230; <a class="more-link" href="/hub/guides/easydraw-capillary-vs-venous/">Continue reading <span class="screen-reader-text">Why EasyDraw Capillary Testing Is as Good as Venous Testing Under Proper Conditions</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<p>Many people assume venous blood draws are automatically more accurate because they collect more blood. In reality, accuracy depends less on the size of the tube and more on whether the sample type has been properly validated, whether there is enough usable sample for each assay, and whether the sample is processed on validated laboratory equipment.</p>
+<p>At SiPhox Health, we use the EasyDraw arm collector to collect capillary blood from the upper arm. EasyDraw was validated in an internal 470-subject comparative study in which capillary samples were collected at the same time as venous samples and the results were compared directly. SiPhox has also validated its 50+ supported biomarkers, including hormone, metabolic, chemistry, lipid, and related health markers, using this capillary collection workflow.</p>
+<p>That means EasyDraw capillary testing is as good as venous testing under proper collection, handling, and processing conditions. A paired study of 480 adults comparing fingertip and upper-arm capillary collection against matched venous samples on a single integrated analyzer platform found capillary and venous results clinically comparable for 16 of 18 routine analytes once sample-quality cutoffs were applied. [1] Similar equivalence has been demonstrated for other upper-arm collection devices, with 17 of 19 analytes falling within CLIA acceptance limits against matched venous samples. [2]</p>
+<p>At the same time, traditional venous collection often requires far more blood than the analyzer itself needs. Modern chemistry analyzers require under 50 µL of plasma for a routine comprehensive metabolic panel, and hospital laboratories have been shown to collect roughly 8.5 times the required analytical volume for a complete blood count and about 12 times the required volume for a basic metabolic panel, with much of the sample discarded. [3,4] Large reference labs may request multiple tubes because their workflows are built around high-throughput routing, tube-type requirements, volume checks, and separate lab stations. That does not mean every assay requires that much blood. It often means the lab is collecting enough blood to make processing easier across a large, divided system.</p>
+<p>So the real comparison is not “small sample versus large sample.” The better comparison is validated EasyDraw capillary collection versus traditional venous collection. EasyDraw capillary testing delivers venous-level performance while using substantially less blood.</p>
+<h2>EasyDraw samples are tested on validated lab equipment</h2>
+<p>EasyDraw collection happens at home, but the testing itself happens in a laboratory setting.</p>
+<p>SiPhox works with CLIA-certified and CAP-accredited laboratories, and samples are processed using professional laboratory analyzers. The same analyzer runs both venous and EasyDraw capillary samples, which means the assay volume requirements are the same once the sample is ready to be tested.</p>
+<p>The analyzer needs the correct sample type, enough usable volume, and proper processing conditions. It does not need a large venous tube. What it actually requires is the per-assay volume plus the instrument&#8217;s dead volume, which varies by platform and container. [3,5]</p>
+<p><!-- notionvc: 882611eb-7fdd-4c97-b13d-06d48a29d0bb --></p>
+<h2>EasyDraw capillary testing is validated marker by marker</h2>
+<p>EasyDraw isn&#8217;t assumed to match venous testing because it&#8217;s convenient. Each biomarker is evaluated against defined acceptance criteria, including coefficient of variability expectations, some of which differ by gender, such as CRP and C-peptide. Results outside the expected two-deviation acceptance window are not considered viable.</p>
+<p>That marker-level validation is what supports the conclusion, for the biomarkers SiPhox supports, when samples are collected and processed properly.</p>
+<p><!-- notionvc: 04249087-d795-46cb-9f10-755d736485c3 --></p>
+<h2>Venous draws often collect more blood than the assays actually need</h2>
+<p>Traditional venous collection is designed for large-scale lab operations. It is not always designed around the minimum blood volume required by the analyzer.</p>
+<p>For example, a large reference lab may ask for several vacutainers for a panel that, in a more optimized workflow, uses a much smaller amount of blood. This is because reference labs often collect extra blood to support operational efficiency. Conventional large-volume collection tubes have been shown to collect blood far in excess of analyzer requirements, and low-volume alternatives can match analytical performance at a fraction of the draw. [6]</p>
+<p>There are several reasons for this:</p>
+<ul>
+<li>Different lab departments or stations may process different tests.</li>
+<li>Each station may prefer or require its own tube.</li>
+<li>Some tests require different tube types.</li>
+<li>Some specialty markers require special handling, such as tinted or light-protected tubes.</li>
+<li>Automated systems may require extra volume for checks, transfers, and processing.</li>
+<li>Extra blood reduces the chance that a high-throughput lab needs to request a redraw.</li>
+</ul>
+<p>This does not mean the extra blood makes the test more accurate. It means the lab’s workflow is designed to make processing easier and more reliable at scale.</p>
+<p><!-- notionvc: d278b6f1-b3b4-4770-aac6-1ac3de73d33d --></p>
+<h2>Why multiple venous tubes do not mean better testing</h2>
+<p>A venous blood draw can require multiple tubes even when the actual analytical volume used by the instruments is much smaller.</p>
+<p><a href="/hub/wp-content/uploads/2026/10/Screenshot-2026-10-07-at-1.04.19-PM.png"><img fetchpriority="high" decoding="async" class="alignleft wp-image-4398" src="/hub/wp-content/uploads/2026/10/Screenshot-2026-10-07-at-1.04.19-PM.png" alt="" width="531" height="432" srcset="/hub/wp-content/uploads/2026/10/Screenshot-2026-10-07-at-1.04.19-PM.png 1196w, /hub/wp-content/uploads/2026/10/Screenshot-2026-10-07-at-1.04.19-PM-300x244.png 300w, /hub/wp-content/uploads/2026/10/Screenshot-2026-10-07-at-1.04.19-PM-1024x832.png 1024w, /hub/wp-content/uploads/2026/10/Screenshot-2026-10-07-at-1.04.19-PM-768x624.png 768w" sizes="(max-width: 531px) 100vw, 531px" /></a></p>
+<p><!-- notionvc: 06cb288f-c6ed-4f32-92ce-53dd96c8d061 --></p>
+<p>The Labcorp AccuDraw example above shows a panel requiring three serum gel tubes and one lavender-top EDTA tube. The listed panel is the SiPhox longevity panel that includes markers such as Lipoprotein(a), C-reactive protein, Apolipoprotein B, a lipid panel, vitamin D, HbA1c, Apolipoprotein A-1, TSH, FSH, LH, estradiol, C-peptide, cortisol, ferritin, and DHEA-S.</p>
+<p>The collection requirement is three serum gel tubes at 8.5 mL each plus one lavender-top EDTA tube at 4.0 mL.</p>
+<p>SiPhox runs the same panel from one microtainer: about 0.5 mL. Instead of giving each lab station its own full tube, the sample is aliquoted and routed based on what the panel actually needs. SiPhox also designs its panels around validated markers, which avoids specialty tests that carry their own tube or handling requirements.</p>
+<h2>The bottom line</h2>
+<p>Under proper conditions, EasyDraw capillary testing delivers venous-level results while requiring substantially less blood.</p>
+<p>Those conditions matter: the collection method must be validated, the biomarkers must be validated, the sample must be collected and handled correctly and processed on appropriate laboratory equipment, and there must be enough usable volume for each assay.</p>
+<p>Traditional venous collection uses more blood not because every test analytically requires it, but because large reference labs are built around routing, separate stations, volume checks, and specialized tube requirements.</p>
+<h2>References</h2>
+<ol>
+<li>Venous–capillary blood agreement for routine chemistry analytes: effects of collection site and sample matrix. <em>Clin Chem Lab Med</em> (2026). <a href="https://pubmed.ncbi.nlm.nih.gov/42446434/">https://pubmed.ncbi.nlm.nih.gov/42446434/</a></li>
+<li>Evaluation of a Simplified Upper Arm Device for Vacuum-Assisted Collection of Capillary Blood Specimens. <em>Diagnostics</em> 15(15):1935 (2025). <a href="https://doi.org/10.3390/diagnostics15151935">https://doi.org/10.3390/diagnostics15151935</a></li>
+<li>Listening Closely When the Volume Is Turned Down. <em>Clinical Laboratory News</em> / ADLM. <a href="https://myadlm.org/cln/articles/2016/may/listening-closely-when-the-volume-is-turned-down">https://myadlm.org/cln/articles/2016/may/listening-closely-when-the-volume-is-turned-down</a></li>
+<li>Reducing Blood Loss by Changing to Small Volume Tubes for Laboratory Testing. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7930757/">https://pmc.ncbi.nlm.nih.gov/articles/PMC7930757/</a></li>
+<li>Reducing neonatal phlebotomy blood losses through the accurate calculation of minimum test volume requirements. <em>Ann Clin Biochem</em> (2021). <a href="https://journals.sagepub.com/doi/full/10.1177/00045632211030953">https://journals.sagepub.com/doi/full/10.1177/00045632211030953</a></li>
+<li>Performance evaluation of low-volume blood collection tubes for coagulation tests (2026). <a href="https://pubmed.ncbi.nlm.nih.gov/42414931/">https://pubmed.ncbi.nlm.nih.gov/42414931/</a></li>
+</ol>
+<p><!-- notionvc: 24acbf26-015d-4420-8893-b0beb9ad81c7 --></p>
+<p><!-- notionvc: 22487792-2879-41f6-a884-f0557fb5aba3 --></p>
+<p>&nbsp;</p>
+<p><!-- notionvc: 9f1242e3-0d49-474a-85f0-4685d971e47a --></p>
+<p><!-- notionvc: 4dce0ede-ae45-45cc-9471-5ea20eb41731 --></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Insulin-Like Growth Factor (IGF)</title>
 		<link>/hub/biomarkers-2/biomarker-igf/</link>
 		
@@ -755,55 +828,6 @@ Reverse T3, or rT3, is one of the tests people most often ask us to add to their
 <p><em>This article is for general wellness and educational purposes only. It explains why reverse T3 is not part of the SiPhox panel; it is not medical advice, it is not a diagnosis, and it does not replace care from your own clinician. For decisions about thyroid testing or treatment, please speak with your doctor.</em></p>
 <p><strong>Sources:</strong> American Thyroid Association: <a href="https://www.thyroid.org/thyroid-function-tests/">Thyroid Function Tests</a>, <a href="https://www.thyroid.org/american-thyroid-association-statement-on-wilsons-syndrome/">Statement on &#8220;Wilson&#8217;s Syndrome&#8221;</a>, <a href="https://www.thyroid.org/patient-thyroid-information/ct-for-patients/january-2019/vol-12-issue-1-p-11-12/">Clinical Thyroidology for the Public (Jan 2019)</a>; <a href="https://www.ccjm.org/content/85/6/450">&#8220;Reverse T3 or perverse T3?&#8221; Cleveland Clinic Journal of Medicine (2018)</a>; <a href="https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/thyroid-disorders/euthyroid-sick-syndrome">Merck Manual: Euthyroid Sick Syndrome</a>; <a href="https://www.ncbi.nlm.nih.gov/books/NBK285570/">The Non-Thyroidal Illness Syndrome, Endotext</a>.</p>
 <p><!-- notionvc: 84dc1f25-6ed8-4e5c-b916-b5c19bcf6870 --></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Staying Active &#038; Thyroid Health</title>
-		<link>/hub/guides/staying-active-thyroid-health/</link>
-		
-		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
-		<pubDate>Thu, 23 Jul 2026 13:29:29 +0000</pubDate>
-				<category><![CDATA[Guides]]></category>
-		<guid isPermaLink="false">/hub/?p=4289</guid>
-
-					<description><![CDATA[
-
-Movement is one of the best things you can do for your energy, mood, and long-term health, and having a thyroid condition does not change that. What changes is how you go about it. The right approach depends on whether your thyroid is running slow or fast, and whether it is well controlled. Here is&#8230; <a class="more-link" href="/hub/guides/staying-active-thyroid-health/">Continue reading <span class="screen-reader-text">Staying Active &#038; Thyroid Health</span></a>]]></description>
-			
-
-							<content:encoded><![CDATA[
-<p>Movement is one of the best things you can do for your energy, mood, and long-term health, and having a thyroid condition does not change that. What changes is how you go about it. The right approach depends on whether your thyroid is running slow or fast, and whether it is well controlled. Here is how to stay active safely and get the most out of it.</p>
-<h2>Why movement helps</h2>
-<p>When your thyroid is well managed, regular activity does just what you would hope: steadier energy, a brighter mood, easier weight control, and better protection for your heart and bones. Those happen to be the areas a thyroid imbalance tends to hit hardest, which is why movement is such a useful part of feeling like yourself again once your levels sit in a reasonable range.</p>
-<h2>If your thyroid is underactive (running slow)</h2>
-<p>An underactive thyroid slows your metabolism, so when it is undertreated you may feel tired, cold, and quick to run out of steam during exercise. The trick is not to force it. Start gentle and build up over time, with walking, light strength work, and easy cardio as good first steps.</p>
-<p>Here is the encouraging part: as treatment brings your levels back to normal, energy and stamina usually climb with them, and activity then helps with any leftover fatigue and with weight. If you still feel wiped out by ordinary movement once things have settled, mention it to your clinician rather than pushing through.</p>
-<h2>If your thyroid is overactive (running fast)</h2>
-<p>This is where a little caution pays off. An overactive thyroid already keeps your body revved up, with a faster heartbeat and higher energy burn even at rest. Piling intense exercise on top of uncontrolled hyperthyroidism can strain the heart, raise the risk of irregular rhythms, and worsen overheating, anxiety, and poor sleep. Uncontrolled overactivity also drains muscle and speeds up bone loss.</p>
-<p>So the order matters: it is best to have your levels well controlled first, which is something to work through with your doctor, and to hold off on high-intensity training until then. Check with your clinician before you start or restart a program, and once things are steady you can build back up safely.</p>
-<h2>Exercise supports your treatment, it does not replace it</h2>
-<p>Activity is a real tool for energy, mood, weight, and long-term heart and bone health. What it cannot do is take the place of getting your thyroid levels right in the first place. Treatment is the foundation, and movement is what you build on top of it, so the two work best together.</p>
-<h2>Simple ways to start</h2>
-<ul>
-<li>Begin low: walking, gentle cycling, or light resistance work</li>
-<li>Add time or intensity slowly, as your energy allows</li>
-<li>Include some strength training to protect muscle and bone</li>
-<li>Listen to your body: unusual breathlessness, a racing heartbeat, or lasting exhaustion is your cue to ease off and check in with your clinician</li>
-</ul>
-<h2>Key takeaway</h2>
-<p>If your thyroid is running slow, start gently and let treatment rebuild your energy before you ramp up. If it is running fast, make sure it is well controlled, with your doctor&#8217;s guidance, before any intense exercise. Either way, movement is there to support your treatment, not to stand in for it.</p>
-<h2>Where to read more</h2>
-<ul>
-<li><a href="https://app.siphoxhealth.com/thyroid-knowledge-center">Hypothyroid vs Hyperthyroid Symptoms</a>: how your symptoms and biomarkers fit together</li>
-<li><a href="https://app.siphoxhealth.com/thyroid-knowledge-center">Eating Well for Thyroid Health</a>: nutrition that supports your thyroid</li>
-</ul>
-<hr />
-<p><em>This article is for general wellness and educational purposes only. It is not medical advice, it is not a diagnosis, and it does not replace care from your own clinician or a personalized exercise or treatment plan. Please get your clinician&#8217;s guidance before starting or changing an exercise program, and do not adjust any treatment on your own, especially if your thyroid levels are not yet controlled. If you have chest pain, a severe or irregular heartbeat, fainting, or breathlessness at rest, stop and seek medical care.</em></p>
-<p><strong>Sources:</strong> <a href="https://health.clevelandclinic.org/uncontrolled-thyroid-exercise-diet-risks">Cleveland Clinic: Exercise and an Uncontrolled Thyroid</a>; American Thyroid Association: <a href="https://www.thyroid.org/hyperthyroidism/">Hyperthyroidism</a>, <a href="https://www.thyroid.org/hypothyroidism/">Hypothyroidism</a>.</p>
-<p><!-- notionvc: f5238577-ef68-4a3c-8b26-d2b1d884df9a --></p>
 ]]></content:encoded>
 					
 		
