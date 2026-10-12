@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SiPhox Health</title>
+	<atom:link href="/hub/feed/" rel="self" type="application/rss+xml" />
+	<link>/hub/</link>
+	<description></description>
+	<lastBuildDate>Wed, 07 Oct 2026 19:15:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.3</generator>
+	<item>
+		<title>Why EasyDraw Capillary Testing Is as Good as Venous Testing Under Proper Conditions</title>
+		<link>/hub/guides/easydraw-capillary-vs-venous/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Wed, 07 Oct 2026 17:07:01 +0000</pubDate>
+				<category><![CDATA[Guides]]></category>
+		<guid isPermaLink="false">/hub/?p=4397</guid>
+
+					<description><![CDATA[
+
+Many people assume venous blood draws are automatically more accurate because they collect more blood. In reality, accuracy depends less on the size of the tube and more on whether the sample type has been properly validated, whether there is enough usable sample for each assay, and whether the sample is processed on validated laboratory&#8230; <a class="more-link" href="/hub/guides/easydraw-capillary-vs-venous/">Continue reading <span class="screen-reader-text">Why EasyDraw Capillary Testing Is as Good as Venous Testing Under Proper Conditions</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<p>Many people assume venous blood draws are automatically more accurate because they collect more blood. In reality, accuracy depends less on the size of the tube and more on whether the sample type has been properly validated, whether there is enough usable sample for each assay, and whether the sample is processed on validated laboratory equipment.</p>
+<p>At SiPhox Health, we use the EasyDraw arm collector to collect capillary blood from the upper arm. EasyDraw was validated in an internal 470-subject comparative study in which capillary samples were collected at the same time as venous samples and the results were compared directly. SiPhox has also validated its 50+ supported biomarkers, including hormone, metabolic, chemistry, lipid, and related health markers, using this capillary collection workflow.</p>
+<p>That means EasyDraw capillary testing is as good as venous testing under proper collection, handling, and processing conditions. A paired study of 480 adults comparing fingertip and upper-arm capillary collection against matched venous samples on a single integrated analyzer platform found capillary and venous results clinically comparable for 16 of 18 routine analytes once sample-quality cutoffs were applied. [1] Similar equivalence has been demonstrated for other upper-arm collection devices, with 17 of 19 analytes falling within CLIA acceptance limits against matched venous samples. [2]</p>
+<p>At the same time, traditional venous collection often requires far more blood than the analyzer itself needs. Modern chemistry analyzers require under 50 µL of plasma for a routine comprehensive metabolic panel, and hospital laboratories have been shown to collect roughly 8.5 times the required analytical volume for a complete blood count and about 12 times the required volume for a basic metabolic panel, with much of the sample discarded. [3,4] Large reference labs may request multiple tubes because their workflows are built around high-throughput routing, tube-type requirements, volume checks, and separate lab stations. That does not mean every assay requires that much blood. It often means the lab is collecting enough blood to make processing easier across a large, divided system.</p>
+<p>So the real comparison is not “small sample versus large sample.” The better comparison is validated EasyDraw capillary collection versus traditional venous collection. EasyDraw capillary testing delivers venous-level performance while using substantially less blood.</p>
+<h2>EasyDraw samples are tested on validated lab equipment</h2>
+<p>EasyDraw collection happens at home, but the testing itself happens in a laboratory setting.</p>
+<p>SiPhox works with CLIA-certified and CAP-accredited laboratories, and samples are processed using professional laboratory analyzers. The same analyzer runs both venous and EasyDraw capillary samples, which means the assay volume requirements are the same once the sample is ready to be tested.</p>
+<p>The analyzer needs the correct sample type, enough usable volume, and proper processing conditions. It does not need a large venous tube. What it actually requires is the per-assay volume plus the instrument&#8217;s dead volume, which varies by platform and container. [3,5]</p>
+<p><!-- notionvc: 882611eb-7fdd-4c97-b13d-06d48a29d0bb --></p>
+<h2>EasyDraw capillary testing is validated marker by marker</h2>
+<p>EasyDraw isn&#8217;t assumed to match venous testing because it&#8217;s convenient. Each biomarker is evaluated against defined acceptance criteria, including coefficient of variability expectations, some of which differ by gender, such as CRP and C-peptide. Results outside the expected two-deviation acceptance window are not considered viable.</p>
+<p>That marker-level validation is what supports the conclusion, for the biomarkers SiPhox supports, when samples are collected and processed properly.</p>
+<p><!-- notionvc: 04249087-d795-46cb-9f10-755d736485c3 --></p>
+<h2>Venous draws often collect more blood than the assays actually need</h2>
+<p>Traditional venous collection is designed for large-scale lab operations. It is not always designed around the minimum blood volume required by the analyzer.</p>
+<p>For example, a large reference lab may ask for several vacutainers for a panel that, in a more optimized workflow, uses a much smaller amount of blood. This is because reference labs often collect extra blood to support operational efficiency. Conventional large-volume collection tubes have been shown to collect blood far in excess of analyzer requirements, and low-volume alternatives can match analytical performance at a fraction of the draw. [6]</p>
+<p>There are several reasons for this:</p>
+<ul>
+<li>Different lab departments or stations may process different tests.</li>
+<li>Each station may prefer or require its own tube.</li>
+<li>Some tests require different tube types.</li>
+<li>Some specialty markers require special handling, such as tinted or light-protected tubes.</li>
+<li>Automated systems may require extra volume for checks, transfers, and processing.</li>
+<li>Extra blood reduces the chance that a high-throughput lab needs to request a redraw.</li>
+</ul>
+<p>This does not mean the extra blood makes the test more accurate. It means the lab’s workflow is designed to make processing easier and more reliable at scale.</p>
+<p><!-- notionvc: d278b6f1-b3b4-4770-aac6-1ac3de73d33d --></p>
+<h2>Why multiple venous tubes do not mean better testing</h2>
+<p>A venous blood draw can require multiple tubes even when the actual analytical volume used by the instruments is much smaller.</p>
+<p><a href="/hub/wp-content/uploads/2026/10/Screenshot-2026-10-07-at-1.04.19-PM.png"><img fetchpriority="high" decoding="async" class="alignleft wp-image-4398" src="/hub/wp-content/uploads/2026/10/Screenshot-2026-10-07-at-1.04.19-PM.png" alt="" width="531" height="432" srcset="/hub/wp-content/uploads/2026/10/Screenshot-2026-10-07-at-1.04.19-PM.png 1196w, /hub/wp-content/uploads/2026/10/Screenshot-2026-10-07-at-1.04.19-PM-300x244.png 300w, /hub/wp-content/uploads/2026/10/Screenshot-2026-10-07-at-1.04.19-PM-1024x832.png 1024w, /hub/wp-content/uploads/2026/10/Screenshot-2026-10-07-at-1.04.19-PM-768x624.png 768w" sizes="(max-width: 531px) 100vw, 531px" /></a></p>
+<p><!-- notionvc: 06cb288f-c6ed-4f32-92ce-53dd96c8d061 --></p>
+<p>The Labcorp AccuDraw example above shows a panel requiring three serum gel tubes and one lavender-top EDTA tube. The listed panel is the SiPhox longevity panel that includes markers such as Lipoprotein(a), C-reactive protein, Apolipoprotein B, a lipid panel, vitamin D, HbA1c, Apolipoprotein A-1, TSH, FSH, LH, estradiol, C-peptide, cortisol, ferritin, and DHEA-S.</p>
+<p>The collection requirement is three serum gel tubes at 8.5 mL each plus one lavender-top EDTA tube at 4.0 mL.</p>
+<p>SiPhox runs the same panel from one microtainer: about 0.5 mL. Instead of giving each lab station its own full tube, the sample is aliquoted and routed based on what the panel actually needs. SiPhox also designs its panels around validated markers, which avoids specialty tests that carry their own tube or handling requirements.</p>
+<h2>The bottom line</h2>
+<p>Under proper conditions, EasyDraw capillary testing delivers venous-level results while requiring substantially less blood.</p>
+<p>Those conditions matter: the collection method must be validated, the biomarkers must be validated, the sample must be collected and handled correctly and processed on appropriate laboratory equipment, and there must be enough usable volume for each assay.</p>
+<p>Traditional venous collection uses more blood not because every test analytically requires it, but because large reference labs are built around routing, separate stations, volume checks, and specialized tube requirements.</p>
+<h2>References</h2>
+<ol>
+<li>Venous–capillary blood agreement for routine chemistry analytes: effects of collection site and sample matrix. <em>Clin Chem Lab Med</em> (2026). <a href="https://pubmed.ncbi.nlm.nih.gov/42446434/">https://pubmed.ncbi.nlm.nih.gov/42446434/</a></li>
+<li>Evaluation of a Simplified Upper Arm Device for Vacuum-Assisted Collection of Capillary Blood Specimens. <em>Diagnostics</em> 15(15):1935 (2025). <a href="https://doi.org/10.3390/diagnostics15151935">https://doi.org/10.3390/diagnostics15151935</a></li>
+<li>Listening Closely When the Volume Is Turned Down. <em>Clinical Laboratory News</em> / ADLM. <a href="https://myadlm.org/cln/articles/2016/may/listening-closely-when-the-volume-is-turned-down">https://myadlm.org/cln/articles/2016/may/listening-closely-when-the-volume-is-turned-down</a></li>
+<li>Reducing Blood Loss by Changing to Small Volume Tubes for Laboratory Testing. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7930757/">https://pmc.ncbi.nlm.nih.gov/articles/PMC7930757/</a></li>
+<li>Reducing neonatal phlebotomy blood losses through the accurate calculation of minimum test volume requirements. <em>Ann Clin Biochem</em> (2021). <a href="https://journals.sagepub.com/doi/full/10.1177/00045632211030953">https://journals.sagepub.com/doi/full/10.1177/00045632211030953</a></li>
+<li>Performance evaluation of low-volume blood collection tubes for coagulation tests (2026). <a href="https://pubmed.ncbi.nlm.nih.gov/42414931/">https://pubmed.ncbi.nlm.nih.gov/42414931/</a></li>
+</ol>
+<p><!-- notionvc: 24acbf26-015d-4420-8893-b0beb9ad81c7 --></p>
+<p><!-- notionvc: 22487792-2879-41f6-a884-f0557fb5aba3 --></p>
+<p>&nbsp;</p>
+<p><!-- notionvc: 9f1242e3-0d49-474a-85f0-4685d971e47a --></p>
+<p><!-- notionvc: 4dce0ede-ae45-45cc-9471-5ea20eb41731 --></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Insulin-Like Growth Factor (IGF)</title>
+		<link>/hub/biomarkers-2/biomarker-igf/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 16:27:10 +0000</pubDate>
+				<category><![CDATA[Biomarkers]]></category>
+		<guid isPermaLink="false">/hub/?p=4392</guid>
+
+					<description><![CDATA[
+
+What is IGF-1? Insulin-like growth factor 1 (IGF-1) is a hormone that plays an important role in growth, tissue repair, muscle and bone health, and metabolism. IGF-1 is produced primarily by the liver in response to growth hormone (GH) and is responsible for many of GH&#8217;s effects throughout the body. Unlike growth hormone, which is&#8230; <a class="more-link" href="/hub/biomarkers-2/biomarker-igf/">Continue reading <span class="screen-reader-text">Insulin-Like Growth Factor (IGF)</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h3 dir="auto" data-section-id="1dt4xfh" data-start="732" data-end="750">What is IGF-1?</h3>
+<p dir="auto" data-start="752" data-end="1037">Insulin-like growth factor 1 (IGF-1) is a hormone that plays an important role in growth, tissue repair, muscle and bone health, and metabolism. IGF-1 is produced primarily by the liver in response to growth hormone (GH) and is responsible for many of GH&#8217;s effects throughout the body.</p>
+<p dir="auto" data-start="1039" data-end="1305">Unlike growth hormone, which is released in pulses and can fluctuate substantially throughout the day, IGF-1 remains relatively stable. This makes it a useful marker for assessing activity of the growth hormone and IGF-1 system.</p>
+<p dir="auto" data-start="1307" data-end="1582">IGF-1 is unusual because <strong data-start="1332" data-end="1368">higher is not necessarily better</strong>. Levels naturally decline throughout adulthood, so a healthy IGF-1 level for someone in their 20s can look very different from a healthy level for someone in their 60s or 70s.</p>
+<h3 dir="auto" data-section-id="16by68n" data-start="1584" data-end="1611">Why is IGF-1 important?</h3>
+<p dir="auto" data-start="1613" data-end="1802">IGF-1 to provides insight into your growth hormone and metabolic health. IGF-1 helps support the maintenance of muscle, bone, and other tissues throughout adulthood.</p>
+<p dir="auto" data-start="1804" data-end="2222">IGF-1 is also commonly used by healthcare providers when evaluating growth hormone disorders because it provides a more stable reflection of growth hormone activity than a single GH measurement. Both unusually low and unusually high IGF-1 levels can sometimes indicate changes in the growth hormone system, although an IGF-1 result alone cannot diagnose a growth hormone disorder.</p>
+<h3 dir="auto" data-section-id="1z0lq1p" data-start="2224" data-end="2272">How can I better understand my IGF-1 levels?</h3>
+<p dir="auto" data-start="2274" data-end="2650">Unlike biomarkers with one standard adult cutoff, <strong data-start="2324" data-end="2377">IGF-1 should be interpreted according to your age</strong>. IGF-1 rises through childhood and adolescence, peaks around puberty and young adulthood, and then gradually declines with age. Large reference studies involving thousands of healthy people demonstrate this strong age-related pattern.</p>
+<p dir="auto" data-start="2652" data-end="2853">Sex can also affect IGF-1 reference values depending on age and the laboratory method used. SiPhox therefore compares your result with the <strong data-start="2791" data-end="2852">age- and sex-specific reference range that applies to you</strong>.</p>
+<p dir="auto" data-start="3688" data-end="3963">These values match the current Labcorp IDS-iSYS IGF-1 reference intervals. Labcorp established these age- and sex-adjusted intervals using a very large U.S. clinical population and notes that IGF-1 reference intervals are assay-specific.</p>
+<p dir="auto" data-start="3965" data-end="4146">IGF-1 should therefore <strong data-start="3988" data-end="4054">not be interpreted against one universal &#8220;ideal&#8221; concentration</strong>. Instead, SiPhox evaluates your result relative to the expected range for your age and sex.</p>
+<div data-dynamic-ranges="true" data-test="1"></div>
+<div data-ranges="true">
+</div>
+<p dir="auto" data-start="4148" data-end="4767">Population studies also suggest that being at either extreme of the IGF-1 distribution may be less favorable than being closer to the middle. A meta-analysis of nearly 15,000 adults found a U-shaped relationship between IGF-1 and mortality, with both approximately the <strong data-start="4417" data-end="4475">lowest 10% and highest 10% of age-related IGF-1 levels</strong> associated with higher mortality than values around the middle of the distribution. A later meta-analysis involving more than 30,000 adults similarly found higher mortality at both low and high IGF-1 concentrations.</p>
+<h3 dir="auto" data-section-id="1gc0fgm" data-start="4980" data-end="5024">How can I maintain optimal IGF-1 levels?</h3>
+<p dir="auto" data-start="5026" data-end="5197">Because IGF-1 naturally changes with age, the goal is <strong data-start="5080" data-end="5121">not to make IGF-1 as high as possible</strong>. Instead, focus on supporting normal growth hormone and metabolic function.</p>
+<p dir="auto" data-start="5199" data-end="5450"><strong data-start="5199" data-end="5213">Nutrition:</strong> Adequate nutrition is important for maintaining normal IGF-1 production. Undernutrition and significant calorie or protein restriction can lower IGF-1, even when growth hormone production is normal.</p>
+<p dir="auto" data-start="5452" data-end="5711"><strong data-start="5452" data-end="5465">Exercise:</strong> Regular physical activity supports muscle, bone, and metabolic health and interacts with the growth hormone and IGF-1 system. Exercise can affect circulating IGF-1, although the response varies according to age, health status, and exercise type.</p>
+<p dir="auto" data-start="5713" data-end="5913"><strong data-start="5713" data-end="5723">Sleep:</strong> Growth hormone secretion is strongly linked to sleep, particularly deep sleep. Maintaining consistent, adequate sleep helps support normal regulation of the growth hormone and IGF-1 system.</p>
+<p dir="auto" data-start="5915" data-end="6245"><strong data-start="5915" data-end="5947">Consider the bigger picture:</strong> Nutrition, body composition, liver function, metabolic health, pregnancy, and certain medications can all affect IGF-1 levels. Current endocrine consensus recommends interpreting IGF-1 in the context of these factors rather than relying on the number alone.</p>
+<p dir="auto" data-start="6247" data-end="6486">If your IGF-1 is persistently outside your age-specific laboratory range, discuss the result with your healthcare provider. Repeat testing or additional evaluation may be appropriate depending on your result, symptoms, and medical history.</p>
+<h3 dir="auto" data-section-id="thkods" data-start="6488" data-end="6515">Where can I learn more?</h3>
+<ul data-start="6517" data-end="6684">
+<li data-section-id="1flqygl" data-start="6517" data-end="6558"><span class="contents" data-content-reference-start="6404" data-content-reference-end="6527"><span class="" data-state="closed"><a class="decorated-link" href="https://www.labcorp.com/tests/010363/insulin-like-growth-factor-1-igf-1?utm_source=chatgpt.com" target="_blank" rel="noopener">Labcorp: Insulin-like Growth Factor 1 (IGF-1)</a></span></span></li>
+<li data-section-id="rwywvp" data-start="6559" data-end="6600"><span class="contents" data-content-reference-start="6530" data-content-reference-end="6658"><span class="" data-state="closed"><a class="decorated-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10837217/?utm_source=chatgpt.com" target="_blank" rel="noopener">2024 Acromegaly Consensus: IGF-1 interpretation and age-adjusted ranges</a></span></span></li>
+<li data-section-id="18npx85" data-start="6601" data-end="6642"><span class="contents" data-content-reference-start="6661" data-content-reference-end="6783"><span class="" data-state="closed"><a class="decorated-link" href="https://pubmed.ncbi.nlm.nih.gov/24606072/?utm_source=chatgpt.com" target="_blank" rel="noopener">Large multicenter study of age- and sex-adjusted IGF-1 reference intervals</a></span></span></li>
+<li data-section-id="1nw41v9" data-start="6643" data-end="6684"><span class="contents" data-content-reference-start="6786" data-content-reference-end="6878"><span class="" data-state="closed"><a class="decorated-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8844108/?utm_source=chatgpt.com" target="_blank" rel="noopener">Meta-analysis of IGF-1 and mortality</a></span></span></li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>IGF-1: The Hormone Worth Watching</title>
+		<link>/hub/guides/igf1/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Thu, 17 Sep 2026 20:21:26 +0000</pubDate>
+				<category><![CDATA[Guides]]></category>
+		<guid isPermaLink="false">/hub/?p=4386</guid>
+
+					<description><![CDATA[
+
+What is IGF-1? IGF-1 (Insulin-like Growth Factor 1) is a hormone produced mainly by the liver in response to growth hormone signaling from the pituitary gland. Once released into the bloodstream, it acts on nearly every tissue in the body, driving cell growth, tissue repair, and metabolic regulation. It&#8217;s especially important for muscle protein synthesis,&#8230; <a class="more-link" href="/hub/guides/igf1/">Continue reading <span class="screen-reader-text">IGF-1: The Hormone Worth Watching</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h3><strong>What is IGF-1?</strong></h3>
+<p>IGF-1 (Insulin-like Growth Factor 1) is a hormone produced mainly by the liver in response to growth hormone signaling from the pituitary gland. Once released into the bloodstream, it acts on nearly every tissue in the body, driving cell growth, tissue repair, and metabolic regulation. It&#8217;s especially important for muscle protein synthesis, bone density, and the general maintenance of lean tissue as we age.</p>
+<p>Levels of IGF-1 rise through childhood and adolescence, peak in early adulthood, and then decline steadily from there. That decline is a normal part of aging, but the rate and degree vary a lot from person to person, shaped by nutrition, sleep, exercise, and body composition. Abnormally low levels can point to growth hormone deficiency, malnutrition, or liver dysfunction, since the liver is where most of the production happens. Abnormally high levels can be associated with growth hormone excess or, in some research contexts, have been studied in relation to other long-term health considerations. A single number rarely tells the full story on its own, which is why we treat IGF-1 as one input among many rather than a standalone verdict.</p>
+<h3><strong>Why it&#8217;s especially relevant right now</strong></h3>
+<p>IGF-1 has become a more interesting marker to watch as GLP adoption has climbed. Rapid weight loss changes the hormonal environment in ways that don&#8217;t show up on a scale. Appetite suppression can mean lower overall caloric and protein intake, and lower protein intake is one of the biggest levers affecting both IGF-1 production and muscle retention. That connection matters because muscle isn&#8217;t just about strength. Lean mass plays a direct role in metabolic rate, glucose regulation, and how well the body holds onto its progress.</p>
+<p>This ties directly into one of the most consistent findings from recent industry research on GLP users: most people losing weight on these medications are losing some amount of muscle along with fat, and most aren&#8217;t tracking it. Cardio activity tends to increase, but strength training, the single best lever for preserving lean mass, is often the most neglected part of the routine. IGF-1 sits right at the intersection of that story. It&#8217;s a hormonal signal that reflects whether the body is in a state that supports muscle maintenance or one that&#8217;s working against it.</p>
+<h3><strong>What this means in practice</strong></h3>
+<p>Tracking IGF-1 alongside body composition gives a more complete picture than either one alone. Body composition scanning shows what&#8217;s changing (the ratio of fat loss to muscle loss). IGF-1 offers a window into part of why that&#8217;s happening on a hormonal level, and whether protein intake and resistance training are keeping pace with the rate of weight loss. Watched over time, a downward trend paired with disproportionate muscle loss is a signal worth acting on, whether that means adjusting protein intake, adding resistance training, or flagging it for a conversation with a prescriber.</p>
+<p>That&#8217;s the same logic behind pairing IGF-1 with metabolic, thyroid, and nutritional markers in a single panel rather than testing it in isolation. Hormones don&#8217;t operate independently, and neither does weight loss. A marker like IGF-1 is far more useful in context than as a standalone data point.</p>
+<h3><strong>Getting the full picture</strong></h3>
+<p>We offer IGF-1 as an optional upgrade alongside our core panels, collected through our EasyDraw arm-based draw and processed at a CLIA-certified, CAP-accredited lab, so it&#8217;s easy to add to your existing testing routine without a separate blood draw or lab visit.</p>
+<p><em>Want to see where your IGF-1 stands? Add it to your next panel and track it alongside your other biomarkers over time.</em></p>
+<p><strong>References</strong></p>
+<ol>
+<li>MedlinePlus. &#8220;IGF-1 (Insulin-like Growth Factor 1) Test.&#8221; National Library of Medicine. <a href="https://medlineplus.gov/lab-tests/igf-1-insulin-like-growth-factor-1-test/">https://medlineplus.gov/lab-tests/igf-1-insulin-like-growth-factor-1-test/</a></li>
+<li>Kouvari M, et al. &#8220;About 31% of weight lost by adults during GLP-1 therapy comes from lean mass.&#8221; Healio, reporting on a systematic review and meta-analysis of 9 RCTs. <a href="https://www.healio.com/news/endocrinology/20250313/about-31-of-weight-lost-by-adults-during-glp1-therapy-comes-from-lean-mass">https://www.healio.com/news/endocrinology/20250313/about-31-of-weight-lost-by-adults-during-glp1-therapy-comes-from-lean-mass</a></li>
+<li>&#8220;Greater lean-body-mass decline with tirzepatide than semaglutide in routine care, revealed by body-composition digital phenotyping.&#8221; medRxiv preprint, nference, 2026. <a href="https://www.medrxiv.org/content/10.64898/2026.04.11.26350687.full.pdf">https://www.medrxiv.org/content/10.64898/2026.04.11.26350687.full.pdf</a></li>
+</ol>
+<p><!-- notionvc: 6a842742-c452-4dae-9ac4-f9668ae605b1 --></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Heart Rate Variability</title>
+		<link>/hub/biomarkers-2/biomarker-heart-rate-variability/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Mon, 14 Sep 2026 20:04:05 +0000</pubDate>
+				<category><![CDATA[Biomarkers]]></category>
+		<guid isPermaLink="false">/hub/?p=4380</guid>
+
+					<description><![CDATA[
+
+What is heart rate variability? Heart rate variability (HRV) is the variation in time between consecutive heartbeats. A heart beating 60 times a minute does not beat exactly once per second: the intervals fluctuate, and that fluctuation is the measurement. HRV is used as a non-invasive index of cardiac autonomic regulation, particularly the parasympathetic (vagal)&#8230; <a class="more-link" href="/hub/biomarkers-2/biomarker-heart-rate-variability/">Continue reading <span class="screen-reader-text">Heart Rate Variability</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h3 dir="ltr">What is heart rate variability?</h3>
+<p dir="ltr">Heart rate variability (HRV) is the variation in time between consecutive heartbeats. A heart beating 60 times a minute does not beat exactly once per second: the intervals fluctuate, and that fluctuation is the measurement. HRV is used as a non-invasive index of cardiac autonomic regulation, particularly the parasympathetic (vagal) branch that slows the heart between breaths. The <a href="https://pubmed.ncbi.nlm.nih.gov/8737210/">1996 ESC/NASPE Task Force standards</a> remain the reference document for how HRV is calculated and interpreted.</p>
+<p dir="ltr"><strong>Higher HRV</strong> generally indicates greater vagal activity and a more flexible autonomic response. <strong>Lower HRV</strong> indicates the opposite: a system biased toward sympathetic activation, which is what you would expect during stress, illness, sleep deprivation, or heavy training load.</p>
+<p dir="ltr">Most wearables report HRV as <strong>RMSSD </strong>&#8211; the root mean square of successive differences between beat intervals &#8211; expressed in milliseconds. RMSSD is the standard choice for short recordings because it is dominated by parasympathetic activity and is relatively robust in brief windows. Devices typically average it across your sleep period, which is why the metric is often labelled &#8220;average HRV.&#8221; Some research uses <strong>SDNN</strong> instead, which captures total variability across a longer recording; the two are not interchangeable.</p>
+<h3 dir="ltr">Why heart rate variability matters</h3>
+<p dir="ltr">Low HRV is an established risk marker. A <a href="https://academic.oup.com/europace/article/15/5/742/673395">meta-analysis and dose–response meta-regression</a> of eight prospective studies covering 21,988 people with no known cardiovascular disease found that those in the lowest HRV category had a 32–45% higher risk of a first cardiovascular event than those in the highest. The same analysis estimated that a 1% higher SDNN corresponded to roughly 1% lower risk of a fatal or non-fatal event.</p>
+<p dir="ltr">HRV also responds quickly to short-term physiological stressors, which is what makes it useful day to day. A <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12394884/">meta-analysis of randomized trials</a> found that sleep deprivation significantly reduced RMSSD while increasing low-frequency power and the LF/HF ratio: a pattern consistent with vagal withdrawal and sympathetic predominance.</p>
+<p dir="ltr">One important nuance: higher is not universally better. Very high RMSSD values can be produced by ectopic beats, arrhythmia, or motion artifact rather than by robust vagal tone, and in older cohorts, <a href="https://academic.oup.com/europace/article/15/5/742/673395">both reduced and increased HRV on a short resting ECG have predicted cardiac mortality</a>. An unexpectedly high reading is a reason to check data quality, not to celebrate.</p>
+<h3 dir="ltr">How can I better understand my HRV levels?</h3>
+<p dir="ltr">There are no universally accepted clinical reference intervals for HRV measured by Fitbit, Oura, WHOOP, Garmin, or any other consumer wearable. The closest defensible reference intervals come from ECG-based RMSSD population studies.</p>
+<p dir="ltr">The best available reference is the <a href="https://journals.sagepub.com/doi/full/10.1177/2047487319872567">Lifelines Cohort Study</a>, published in the <em>European Journal of Preventive Cardiology</em>. It derived RMSSD from 10-second resting ECG recordings in 84,772 relatively healthy adults aged 13 to 91. Participants with cardiovascular disease, hypertension, type 2 diabetes, or obesity were excluded, along with anyone taking antidepressants, beta-blockers, or vagally active medications, and recordings with excessive noise or non-sinus beats were discarded.</p>
+<div data-dynamic-ranges="true" data-test="1"></div>
+<div data-ranges="true">
+</div>
+<p dir="ltr">SiPhox scores HRV in age-based bands. All values are in milliseconds.</p>
+<p dir="ltr">The source measurement is a resting ECG in a clinical setting, whereas your reading comes from optical (PPG) sensing during sleep. We recommend comparing HRV to your own baseline and avoiding comparison across devices. For wearable-scale context, a <a href="https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30246-6/fulltext">cross-sectional study of 8 million Fitbit users</a> published in <em>The Lancet Digital Health</em> characterized PPG-derived HRV by age, sex, time of day, and activity level, and confirmed a strong circadian rhythm in the measure. It remains the largest description of HRV as consumer devices actually measure it.</p>
+<h3 dir="ltr">What changes HRV?</h3>
+<p dir="ltr"><strong>Age.</strong> The dominant factor, and not modifiable.</p>
+<p dir="ltr"><strong>Sleep.</strong> Sleep loss reduces RMSSD, per the <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12394884/">randomized-trial meta-analysis</a> cited above. Because most devices measure HRV during sleep, poor or short sleep affects both the physiology and the measurement window.</p>
+<p dir="ltr"><strong>Alcohol.</strong> The <a href="https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001284">5-million-person-day wearable analysis</a> found dose-dependent reductions in nocturnal HRV alongside increases in resting heart rate. Drinking earlier in the evening attenuated the effect.</p>
+<p dir="ltr"><strong>Training load.</strong> HRV is widely used to monitor adaptation, but it is not a simple &#8220;higher means fitter&#8221; readout. A <a href="https://pubmed.ncbi.nlm.nih.gov/23852425/">review in <em>Sports Medicine</em></a> documented that both decreases <em>and</em> increases in vagal HRV indices have accompanied negative adaptation in elite endurance athletes, and that gains in fitness have sometimes coincided with falling HRV.</p>
+<p dir="ltr"><strong>Slow breathing.</strong> A <a href="https://pubmed.ncbi.nlm.nih.gov/35623448/">systematic review and meta-analysis of 223 studies</a> found that voluntary slow breathing increased vagally mediated HRV during the session, immediately after a single session, and after multi-session interventions. It is a low-cost, low-risk practice with consistent short-term effects on the measure.</p>
+<p dir="ltr"><strong>Illness and recovery.</strong> Suppressed HRV accompanies acute infection and can persist afterward. A <a href="https://www.nature.com/articles/s41598-025-15208-0">retrospective study of more than 12,000 individuals</a> found that persistent physiological changes after COVID-19 most commonly presented as elevated nightly heart rate together with reductions in some HRV metrics.</p>
+<p dir="ltr"><strong>Measurement context.</strong> More than resting heart rate, HRV is sensitive to body position, time of day, breathing rate, recording length, and artifact handling. Two readings taken under different conditions are not comparable, even on the same device.</p>
+<h2 dir="ltr">Where can I learn more?</h2>
+<ol dir="ltr">
+<li>Task Force of the European Society of Cardiology and the North American Society of Pacing and Electrophysiology. <a href="https://pubmed.ncbi.nlm.nih.gov/8737210/">Heart rate variability: standards of measurement, physiological interpretation, and clinical use.</a> <em>Eur Heart J</em>. 1996;17(3):354–381. (<a href="https://www.escardio.org/static-file/Escardio/Guidelines/Scientific-Statements/guidelines-Heart-Rate-Variability-FT-1996.pdf">full text PDF</a>)</li>
+<li>Tegegne BS, Man T, van Roon AM, Snieder H, Riese H. <a href="https://journals.sagepub.com/doi/full/10.1177/2047487319872567">Reference values of heart rate variability from 10-second resting electrocardiograms: the Lifelines Cohort Study.</a> <em>Eur J Prev Cardiol</em>. 2020;27(19):2191–2194.</li>
+<li>Hillebrand S, Gast KB, de Mutsert R, et al. <a href="https://academic.oup.com/europace/article/15/5/742/673395">Heart rate variability and first cardiovascular event in populations without known cardiovascular disease: meta-analysis and dose–response meta-regression.</a> <em>EP Europace</em>. 2013;15(5):742–749.</li>
+<li>van den Berg ME, Rijnbeek PR, Niemeijer MN, et al. <a href="https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2018.00424/full">Normal values of corrected heart-rate variability in 10-second electrocardiograms for all ages.</a> <em>Front Physiol</em>. 2018;9:424.</li>
+<li>Natarajan A, Pantelopoulos A, Emir-Farinas H, Natarajan P. <a href="https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30246-6/fulltext">Heart rate variability with photoplethysmography in 8 million individuals: a cross-sectional study.</a> <em>Lancet Digit Health</em>. 2020;2(12):e650–e657.</li>
+</ol>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Biological Age vs. Advanced Biological Age: What&#8217;s the Difference?</title>
+		<link>/hub/guides/bio-age-vs-advanced-bioage/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Thu, 27 Aug 2026 18:32:22 +0000</pubDate>
+				<category><![CDATA[Guides]]></category>
+		<guid isPermaLink="false">/hub/?p=4361</guid>
+
+					<description><![CDATA[
+
+Biological Age vs. Advanced Biological Age: What&#8217;s the Difference? &#160; If you have both results in your dashboard, you may notice they don&#8217;t always agree. That is expected, and it is not a sign that one of them is wrong. They are built to answer two different questions. Biological Age asks: which age does my&#8230; <a class="more-link" href="/hub/guides/bio-age-vs-advanced-bioage/">Continue reading <span class="screen-reader-text">Biological Age vs. Advanced Biological Age: What&#8217;s the Difference?</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h1><span style="font-weight: 400;">Biological Age vs. Advanced Biological Age: What&#8217;s the Difference?</span></h1>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">If you have both results in your dashboard, you may notice they don&#8217;t always agree. That is expected, and it is not a sign that one of them is wrong. They are built to answer two different questions.</span></p>
+<p><b>Biological Age</b><span style="font-weight: 400;"> asks: </span><i><span style="font-weight: 400;">which age does my biomarker pattern most resemble?</span></i></p>
+<p><b>Advanced Biological Age</b><span style="font-weight: 400;"> asks: </span><i><span style="font-weight: 400;">my predicted long-term disease risk matches the average person of what age?</span></i></p>
+<p><span style="font-weight: 400;">Those sound similar. The difference in how each number is built is what makes them useful together.</span></p>
+<h2><span style="font-weight: 400;">What Biological Age measures</span></h2>
+<p><span style="font-weight: 400;">Biological Age is a machine learning model trained on publicly available CDC data paired with internal SiPhox Health data to recognize how biomarker patterns shift with chronological age across large populations. When your results come in, the model compares your pattern to the patterns it learned and estimates the age your profile most closely resembles.</span></p>
+<p><span style="font-weight: 400;">Key characteristics:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><b>One whole-body number.</b><span style="font-weight: 400;"> It summarizes the combined shape of your biomarker profile into a single trackable figure.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Broad marker set.</b><span style="font-weight: 400;"> It draws on a wide panel including metabolic, lipid, liver, kidney, inflammatory, nutrient, and hormonal markers, with sex-specific inputs. At least about half of the eligible markers are needed to generate a result.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Trained on age itself.</b><span style="font-weight: 400;"> The target the model learned to predict is chronological age.</span></li>
+</ul>
+<p><span style="font-weight: 400;">Biological Age is best used as a general wellness summary and a trend line. It answers &#8220;is my overall biomarker picture drifting older or younger over time?&#8221;</span></p>
+<h2><span style="font-weight: 400;">What Advanced Biological Age measures</span></h2>
+<p><span style="font-weight: 400;">Advanced Biological Age comes from our partnership with VOLO Health, whose modeling platform we use to generate the Advanced BioAge Report. The underlying models were trained on long-term health outcome data from large longitudinal cohorts, including the UK Biobank and a large body of US clinical records. Rather than learning to predict age, the models learned which biomarker patterns are associated with the development of specific conditions over a multi-year observation window, using standardized diagnostic code definitions for each condition.</span></p>
+<p><span style="font-weight: 400;">The result is a predicted long-term risk estimate, compared against people of your same age and sex. That estimate is then translated back into an age frame: if your profile carries the predicted risk typical of someone four years younger, your delta reads as four years younger.</span></p>
+<p><span style="font-weight: 400;">Key characteristics:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><b>Eleven results, not one.</b><span style="font-weight: 400;"> You get an Overall Advanced Biological Age plus a separate age for each of ten body systems: cardiovascular, metabolic, respiratory, brain, liver, kidney, bone, thyroid, blood, and inflammation.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Trained on outcomes, not on age.</b><span style="font-weight: 400;"> The age number is the final translation step, not the modeling target.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Peer-relative by design.</b><span style="font-weight: 400;"> Every result is calibrated to your age and sex, and each system also comes with a peer group ranking.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Attribution built in.</b><span style="font-weight: 400;"> Each system shows which of your biomarkers are pushing that age up or down.</span></li>
+</ul>
+<p><span style="font-weight: 400;">Advanced Biological Age is best used to find out </span><i><span style="font-weight: 400;">where</span></i><span style="font-weight: 400;"> to focus. Because each system is modeled independently, you can have a strong cardiovascular result and a middling metabolic one, and that pattern tells you something a single number cannot.</span></p>
+<h2><span style="font-weight: 400;">Side by side</span></h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><b>Biological Age</b></th>
+<th><b>Advanced Biological Age</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span style="font-weight: 400;">Core question</span></td>
+<td><span style="font-weight: 400;">Which age does my biomarker pattern resemble?</span></td>
+<td><span style="font-weight: 400;">What age does my predicted long-term risk resemble?</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">What the model was trained to predict</span></td>
+<td><span style="font-weight: 400;">Chronological age</span></td>
+<td><span style="font-weight: 400;">Long-term disease outcomes</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Output</span></td>
+<td><span style="font-weight: 400;">One whole-body age</span></td>
+<td><span style="font-weight: 400;">Overall age plus 10 system-specific ages</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Reference frame</span></td>
+<td><span style="font-weight: 400;">Population age patterns</span></td>
+<td><span style="font-weight: 400;">People of your same age and sex</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Peer ranking</span></td>
+<td><span style="font-weight: 400;">Not included</span></td>
+<td><span style="font-weight: 400;">Included for each system</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Shows which markers are driving it</span></td>
+<td><span style="font-weight: 400;">Through your biomarker insights</span></td>
+<td><span style="font-weight: 400;">Built into each system as contributing factors</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Best used for</span></td>
+<td><span style="font-weight: 400;">Overall trend tracking</span></td>
+<td><span style="font-weight: 400;">Locating which systems need attention</span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Why your two results might not match</span></h2>
+<ol start="4">
+<li><b> They were trained on different targets.</b><span style="font-weight: 400;"> One model learned age. The other learned disease outcomes and converted to age afterward. A biomarker can be strongly age-associated without being strongly outcome-associated, and the reverse is also true. The two models will weight that marker very differently.</span></li>
+<li><b> They use different inputs.</b><span style="font-weight: 400;"> The marker sets overlap but are not identical. Biological Age leans more heavily on hormonal and nutrient markers. The Advanced models lean more heavily on markers with long-run outcome evidence behind them. A result that moves one number may barely register in the other.</span></li>
+<li><b> They use different reference points.</b><span style="font-weight: 400;"> Advanced Biological Age is always calibrated against people of your exact age and sex. Biological Age compares your pattern against age patterns across the whole population. Being average for your age and being average overall are not the same thing.</span></li>
+<li><b>One is a summary, the other is a set.</b><span style="font-weight: 400;"> Advanced Biological Age reports eleven results. Your Overall Advanced Biological Age is its own independently modeled result and is not the average of the ten system ages. Comparing a single whole-body number to one system&#8217;s age, or to an overall figure built a different way, will rarely produce a clean match.</span></li>
+</ol>
+<p><span style="font-weight: 400;">If the two numbers differ by a few years, that is normal. If they differ substantially and consistently across several tests, the more useful next step is to look at your contributing factors in each system and bring both results to your healthcare provider.</span></p>
+<h2><span style="font-weight: 400;">Which one should I pay attention to?</span></h2>
+<p><span style="font-weight: 400;">Both, for different jobs.</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><b>Tracking progress over time:</b><span style="font-weight: 400;"> Biological Age is a clean single line to watch, especially if you test consistently under similar conditions.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Deciding what to work on:</b><span style="font-weight: 400;"> Advanced Biological Age is more actionable, because it separates your body into systems and shows which markers are driving each one.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Talking to your doctor:</b><span style="font-weight: 400;"> Bring the contributing factors, not just the ages. The underlying biomarker values are what a clinician can act on.</span></li>
+</ul>
+<h2><span style="font-weight: 400;">What neither number is</span></h2>
+<p><span style="font-weight: 400;">Both results are wellness and educational tools. Specifically:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Neither is a diagnosis, and neither should be used on its own to diagnose or treat any condition.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Neither is a literal measurement of how old your cells or organs are. Both are comparisons expressed in years because years are intuitive.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The Advanced models have not been reviewed or cleared by the FDA and are not intended as clinical decision support.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Neither captures everything that shapes aging, including genetics, fitness, body composition, sleep quality, imaging findings, and medical history.</span></li>
+</ul>
+<h2><span style="font-weight: 400;">The bottom line</span></h2>
+<p><span style="font-weight: 400;">Biological Age gives you one number that tracks your overall biomarker aging signal over time. Advanced Biological Age gives you eleven outcome-anchored, peer-calibrated numbers that tell you which systems are strong and which deserve attention, plus the specific markers behind each. They are complementary views, and the most useful thing you can do with either is retest and watch the direction of travel.</span></p>
+<h2><span style="font-weight: 400;">References and further reading</span></h2>
+<p><b>On biological age models built from standard blood biomarkers</b></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Levine ME, Lu AT, Quach A, et al. An epigenetic biomarker of aging for lifespan and healthspan. </span><i><span style="font-weight: 400;">Aging (Albany NY)</span></i><span style="font-weight: 400;">. 2018;10(4):573-591. doi:10.18632/aging.101414</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Liu Z, Kuo PL, Horvath S, Crimmins E, Ferrucci L, Levine M. A new aging measure captures morbidity and mortality risk across diverse subpopulations from NHANES IV: a cohort study. </span><i><span style="font-weight: 400;">PLoS Med</span></i><span style="font-weight: 400;">. 2018;15(12):e1002718. doi:10.1371/journal.pmed.1002718</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Rutledge J, Oh H, Wyss-Coray T. Measuring biological age using omics data. </span><i><span style="font-weight: 400;">Nat Rev Genet</span></i><span style="font-weight: 400;">. 2022;23:715-727. doi:10.1038/s41576-022-00511-7</span></li>
+</ol>
+<p><b>On organ systems aging at different rates within the same person</b></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Oh HSH, Rutledge J, Nachun D, et al. Organ aging signatures in the plasma proteome track health and disease. </span><i><span style="font-weight: 400;">Nature</span></i><span style="font-weight: 400;">. 2023;624(7990):164-172. doi:10.1038/s41586-023-06802-1</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Oh HSH, Le Guen Y, Rappoport N, et al. Plasma proteomics links brain and immune system aging with healthspan and longevity. </span><i><span style="font-weight: 400;">Nat Med</span></i><span style="font-weight: 400;">. 2025;31:2703-2711. doi:10.1038/s41591-025-03798-1</span></li>
+</ol>
+<p><b>On the outcome data behind the Advanced models</b></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Sudlow C, Gallacher J, Allen N, et al. UK Biobank: an open access resource for identifying the causes of a wide range of complex diseases of middle and old age. </span><i><span style="font-weight: 400;">PLoS Med</span></i><span style="font-weight: 400;">. 2015;12(3):e1001779. doi:10.1371/journal.pmed.1001779</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Khan SS, Matsushita K, Sang Y, et al. Development and validation of the American Heart Association&#8217;s PREVENT equations. </span><i><span style="font-weight: 400;">Circulation</span></i><span style="font-weight: 400;">. 2024;149(6):430-449. doi:10.1161/CIRCULATIONAHA.123.067626</span></li>
+</ol>
+<p><i><span style="font-weight: 400;">Your blood work is processed in a CLIA-certified, CAP-accredited laboratory. The Advanced BioAge Report is generated using VOLO Health&#8217;s modeling platform and is provided for educational and informational purposes only. It is not intended to diagnose, cure, mitigate, treat, or prevent any disease or medical condition and does not constitute medical advice. Statistical associations described here are population-level findings and are not evidence of causation at the individual level. Always consult a qualified healthcare professional with questions regarding your health.</span></i></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Understanding Your Advanced BioAge Report</title>
+		<link>/hub/guides/understanding-advanced-bioage/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Thu, 27 Aug 2026 18:29:28 +0000</pubDate>
+				<category><![CDATA[Guides]]></category>
+		<guid isPermaLink="false">/hub/?p=4357</guid>
+
+					<description><![CDATA[
+
+Understanding Your Advanced BioAge Report &#160; Your biological age reveals how your body is actually aging, not just how many birthdays you have had. The Advanced BioAge Report translates your blood biomarker results into an age for each major organ system, so you can see where your health is thriving and where it needs attention.&#8230; <a class="more-link" href="/hub/guides/understanding-advanced-bioage/">Continue reading <span class="screen-reader-text">Understanding Your Advanced BioAge Report</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h1><span style="font-weight: 400;">Understanding Your Advanced BioAge Report</span></h1>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Your biological age reveals how your body is actually aging, not just how many birthdays you have had. The Advanced BioAge Report translates your blood biomarker results into an age for each major organ system, so you can see where your health is thriving and where it needs attention.</span></p>
+<p><span style="font-weight: 400;">This guide walks through every part of the report and what each piece means.</span></p>
+<h2><span style="font-weight: 400;">What&#8217;s in your report</span></h2>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><b>Your Overall Advanced Biological Age</b></li>
+<li style="font-weight: 400;" aria-level="1"><b>Ten system-specific biological ages</b></li>
+<li style="font-weight: 400;" aria-level="1"><b>A peer group ranking</b><span style="font-weight: 400;"> for your overall result and for each system</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Contributing factors</b><span style="font-weight: 400;"> showing which biomarkers are most influencing each system</span></li>
+</ul>
+<h2><span style="font-weight: 400;">Your Overall Advanced Biological Age</span></h2>
+<p><span style="font-weight: 400;">At the top of your report you will see two numbers: your chronological age, and your Overall Advanced Biological Age. The difference between them is your delta, shown as something like &#8220;2 years younger.&#8221;</span></p>
+<p><span style="font-weight: 400;">One thing worth knowing up front: </span><b>your overall result is not the average of your ten system ages.</b><span style="font-weight: 400;"> It is modeled separately, using biomarker patterns associated with whole-body resilience and long-term susceptibility across multiple systems at once. So it is possible for your overall result to look better or worse than a simple average of the systems below it. That is not an error. It is a different calculation answering a broader question.</span></p>
+<h2><span style="font-weight: 400;">The ten body systems</span></h2>
+<p><span style="font-weight: 400;">Each system gets its own age, modeled independently. Because each one is calculated the same way, they are directly comparable to each other.</span></p>
+<p><b>Cardiovascular</b><span style="font-weight: 400;"> reflects vascular and cardiac risk physiology, drawing on markers associated with atherosclerosis, endothelial stress, inflammation, and cardiometabolic load.</span></p>
+<p><b>Metabolic</b><span style="font-weight: 400;"> reflects glucose regulation and insulin sensitivity, and how flexible your metabolism looks versus showing signs of strain.</span></p>
+<p><b>Respiratory</b><span style="font-weight: 400;"> reflects patterns in your blood associated with reduced respiratory reserve and chronic airway inflammation.</span></p>
+<p><b>Brain</b><span style="font-weight: 400;"> reflects biomarker patterns associated with brain aging and cognitive resilience, often vascular, metabolic, or inflammatory in nature.</span></p>
+<p><b>Liver</b><span style="font-weight: 400;"> reflects hepatocellular integrity, metabolic liver load, and detoxification-related stress.</span></p>
+<p><b>Kidney</b><span style="font-weight: 400;"> reflects filtration efficiency and renal reserve.</span></p>
+<p><b>Bone</b><span style="font-weight: 400;"> reflects bone remodeling balance and mineral metabolism.</span></p>
+<p><b>Thyroid</b><span style="font-weight: 400;"> reflects thyroid axis physiology and the downstream metabolic signaling it drives.</span></p>
+<p><b>Blood</b><span style="font-weight: 400;"> reflects oxygen-carrying capacity, red cell and iron dynamics, and overall blood system resilience.</span></p>
+<p><b>Inflammation</b><span style="font-weight: 400;"> reflects chronic inflammatory load, sometimes described as inflammaging, which cuts across many age-related conditions.</span></p>
+<h3><span style="font-weight: 400;">A note on systems we infer rather than measure directly</span></h3>
+<p><span style="font-weight: 400;">Respiratory, bone, and brain deserve a specific caveat. We are not performing a lung function test, a bone density scan, or a cognitive assessment. These ages are derived entirely from patterns in your blood biomarkers that the underlying models found to be associated with long-term outcomes in those areas across large populations.</span></p>
+<p><span style="font-weight: 400;">That association is real and it is useful. It is not the same as a direct measurement of the organ. If one of these systems comes back with an unfavorable result, the appropriate next step is a conversation with your provider about whether direct testing makes sense for you, not a conclusion about your lungs or bones.</span></p>
+<h2><span style="font-weight: 400;">What your delta actually means</span></h2>
+<p><span style="font-weight: 400;">If your cardiovascular age reads four years younger than your chronological age, it means your cardiovascular biomarker profile looks like the average profile of someone four years younger than you.</span></p>
+<p><span style="font-weight: 400;">What it does </span><b>not</b><span style="font-weight: 400;"> mean:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">It is not a prediction that you will live four extra years.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">It is not a claim that your heart is literally four years younger.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">It is not a diagnosis, in either direction.</span></li>
+</ul>
+<p><span style="font-weight: 400;">It is a comparison, expressed in years because years are the frame most people find intuitive.</span></p>
+<p><span style="font-weight: 400;">Your deltas will often differ across systems, and that variation is the most useful thing in the report. A strong cardiovascular result alongside an average metabolic one tells you something specific about where to focus. A single number would hide that.</span></p>
+<h2><span style="font-weight: 400;">Your peer group ranking</span></h2>
+<p><span style="font-weight: 400;">Alongside each age, you will see a ranking such as &#8220;your cardiovascular health is in the top 14% for your peer group.&#8221; Your peer group is people of your same age and sex.</span></p>
+<p><span style="font-weight: 400;">A ranking in the top 14% means roughly 14% of your peers have a result at least as favorable as yours, so you are ahead of about 86% of them. Lower percentages are better.</span></p>
+<p><b>Why your ranking and your delta can tell different stories.</b><span style="font-weight: 400;"> You may see similar deltas across several systems while the rankings vary widely. This happens most often for younger customers, and it is expected. The models have less room to spread results apart at younger ages, when very few people in the reference data have developed the conditions being modeled. The age deltas compress toward a narrow band, while the peer ranking still has plenty of room to differentiate.</span></p>
+<p><span style="font-weight: 400;">If that describes your report, </span><b>read the ranking as your primary signal and the delta as secondary.</b><span style="font-weight: 400;"> As you get older, or as you retest over time, the deltas become more expressive.</span></p>
+<h2><span style="font-weight: 400;">Contributing factors</span></h2>
+<p><span style="font-weight: 400;">For each system, you can open the contributing factors view to see which of your biomarkers are influencing that age and in which direction. This is the part of the report you can actually act on.</span></p>
+<p><span style="font-weight: 400;">Two things to keep in mind:</span></p>
+<p><b>The same marker can matter differently in different systems.</b><span style="font-weight: 400;"> A given result might be a major driver of one system&#8217;s age and barely register in another. That is because the models learned, from outcome data, which markers carry weight for which outcomes.</span></p>
+<p><b>A result can be inside the standard lab range and still pull your age up.</b><span style="font-weight: 400;"> Standard reference ranges were built to flag clinical outliers in a general population. These models are looking for the values associated with the most favorable long-term outcomes for someone your age and sex, which is a narrower target. A value that is clinically normal but not at that optimum can still show up as a contributing factor. That is a signal for proactive attention, not a cause for alarm.</span></p>
+<h2><span style="font-weight: 400;">What to do with your results</span></h2>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><b>Start with the systems that ranked least favorably</b><span style="font-weight: 400;">, not the ones with the biggest headline deltas.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Open the contributing factors</b><span style="font-weight: 400;"> for those systems and note which markers appear.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Cross-reference those markers</b><span style="font-weight: 400;"> with your individual biomarker insights in your dashboard for context on what each one reflects.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Retest.</b><span style="font-weight: 400;"> A single report is a snapshot. The direction of travel across two or three reports carries far more signal than any one result, and normal variation between tests is expected. </span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Bring the report to your healthcare provider</b><span style="font-weight: 400;">, especially the contributing factors rather than just the ages.</span></li>
+</ol>
+<p><span style="font-weight: 400;">An unfavorable result in any system is not a diagnosis. It is a prompt for attention, and a starting point for a better conversation with your provider.</span></p>
+<h2><span style="font-weight: 400;">References and further reading</span></h2>
+<p><b>On different organ systems aging at different rates</b></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Oh HSH, Rutledge J, Nachun D, et al. Organ aging signatures in the plasma proteome track health and disease. </span><i><span style="font-weight: 400;">Nature</span></i><span style="font-weight: 400;">. 2023;624(7990):164-172. doi:10.1038/s41586-023-06802-1</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Oh HSH, Le Guen Y, Rappoport N, et al. Plasma proteomics links brain and immune system aging with healthspan and longevity. </span><i><span style="font-weight: 400;">Nat Med</span></i><span style="font-weight: 400;">. 2025;31:2703-2711. doi:10.1038/s41591-025-03798-1</span></li>
+</ol>
+<p><b>On the Inflammation domain</b></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Franceschi C, Campisi J. Chronic inflammation (inflammaging) and its potential contribution to age-associated diseases. </span><i><span style="font-weight: 400;">J Gerontol A Biol Sci Med Sci</span></i><span style="font-weight: 400;">. 2014;69(Suppl 1):S4-S9. doi:10.1093/gerona/glu057</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Franceschi C, Bonafè M, Valensin S, et al. Inflamm-aging: an evolutionary perspective on immunosenescence. </span><i><span style="font-weight: 400;">Ann N Y Acad Sci</span></i><span style="font-weight: 400;">. 2000;908:244-254. doi:10.1111/j.1749-6632.2000.tb06651.x</span></li>
+</ol>
+<p><b>On the Kidney domain</b></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Shlipak MG, Matsushita K, Ärnlöv J, et al. Cystatin C versus creatinine in determining risk based on kidney function. </span><i><span style="font-weight: 400;">N Engl J Med</span></i><span style="font-weight: 400;">. 2013;369(10):932-943. doi:10.1056/NEJMoa1214234</span></li>
+</ol>
+<p><b>On the Brain domain</b></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Livingston G, Huntley J, Liu KY, et al. Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission. </span><i><span style="font-weight: 400;">Lancet</span></i><span style="font-weight: 400;">. 2024;404(10452):572-628. doi:10.1016/S0140-6736(24)01296-0</span></li>
+</ol>
+<p><b>On the Respiratory domain</b></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Ellingsen J, Janson C, Bröms K, et al. CRP, fibrinogen, white blood cells, and blood cell indices as prognostic biomarkers of future COPD exacerbation frequency: the TIE cohort study. </span><i><span style="font-weight: 400;">J Clin Med</span></i><span style="font-weight: 400;">. 2024;13(13):3855. doi:10.3390/jcm13133855</span></li>
+</ol>
+<p><b>On the Thyroid and Bone domains</b></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Rodondi N, den Elzen WPJ, Bauer DC, et al. Subclinical hypothyroidism and the risk of coronary heart disease and mortality. </span><i><span style="font-weight: 400;">JAMA</span></i><span style="font-weight: 400;">. 2010;304(12):1365-1374. doi:10.1001/jama.2010.1361</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Blum MR, Bauer DC, Collet TH, et al. Subclinical thyroid dysfunction and fracture risk: a meta-analysis. </span><i><span style="font-weight: 400;">JAMA</span></i><span style="font-weight: 400;">. 2015;313(20):2055-2065. doi:10.1001/jama.2015.5161</span></li>
+</ol>
+<p><i><span style="font-weight: 400;">Your blood work is processed in a CLIA-certified, CAP-accredited laboratory. The Advanced BioAge Report is generated using VOLO Health&#8217;s modeling platform and is provided for educational and informational purposes only. It is not intended to diagnose, cure, mitigate, treat, or prevent any disease or medical condition and does not constitute medical advice. It has not been reviewed or cleared by the FDA. Statistical associations described here are population-level findings and are not evidence of causation at the individual level. Always consult a qualified healthcare professional with questions regarding your health.</span></i></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How Advanced Biological Age is Calculated</title>
+		<link>/hub/guides/advanced-bioage-calculation/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Thu, 27 Aug 2026 18:26:00 +0000</pubDate>
+				<category><![CDATA[Guides]]></category>
+		<guid isPermaLink="false">/hub/?p=4353</guid>
+
+					<description><![CDATA[
+
+How Advanced Biological Age is Calculated &#160; There is no single lab test that directly measures biological age. Any biological age result is a model, and models differ enormously in how they are built. This guide explains how the Advanced BioAge Report is calculated, and what that method can and cannot tell you. The Advanced&#8230; <a class="more-link" href="/hub/guides/advanced-bioage-calculation/">Continue reading <span class="screen-reader-text">How Advanced Biological Age is Calculated</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h1><span style="font-weight: 400;">How Advanced Biological Age is Calculated</span></h1>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">There is no single lab test that directly measures biological age. Any biological age result is a model, and models differ enormously in how they are built. This guide explains how the Advanced BioAge Report is calculated, and what that method can and cannot tell you.</span></p>
+<p><span style="font-weight: 400;">The Advanced BioAge Report is powered by VOLO Health&#8217;s modeling platform. We collect and process your blood work, and VOLO&#8217;s models turn those results into system-by-system age estimates.</span></p>
+<p><span style="font-weight: 400;">We chose this platform for one reason above all others: the models are anchored to real health outcomes rather than to expert consensus about what &#8220;healthy&#8221; should look like. The model was never told which values are good. It learned that from data on what actually happened to hundreds of thousands of people over many years.</span></p>
+<h2><span style="font-weight: 400;">Step 1: Your blood work</span></h2>
+<p><span style="font-weight: 400;">Everything starts with measurement. Your sample is processed in a CLIA-certified, CAP-accredited laboratory, and the resulting biomarker values are the only inputs to your report.</span></p>
+<p><span style="font-weight: 400;">The models draw on markers across several categories, including metabolic and glycemic markers, a full lipid picture, liver and kidney function, inflammatory markers, and blood count markers. Report completeness scales with panel breadth: the more of these markers your panel includes, the more confident each system result becomes.</span></p>
+<h2><span style="font-weight: 400;">Step 2: Removing the effect of age and sex</span></h2>
+<p><span style="font-weight: 400;">Age is by far the strongest predictor of most chronic disease, and sex matters substantially too. If a model does not handle this carefully, it mostly ends up rediscovering that older people get sick more often, which tells you nothing about </span><i><span style="font-weight: 400;">you</span></i><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">So the first modeling step builds a baseline expectation of disease prevalence as a function of age and sex, separately for each condition. Every individual in the training data is then measured against their own demographic baseline rather than against everyone else. What comes out is a relative signal: how does this person&#8217;s risk compare to what would be expected for someone of their age and sex?</span></p>
+<p><span style="font-weight: 400;">This is why your report is explicitly peer-calibrated. Two people with identical lab values but different ages will receive meaningfully different reports, because the question being asked is always relative to your own demographic group.</span></p>
+<h2><span style="font-weight: 400;">Step 3: Learning from outcomes, not from age</span></h2>
+<p><span style="font-weight: 400;">The models were trained on two large bodies of data: a major long-term population health study following roughly half a million participants with linked medical records, plus a much larger set of US clinical records used for external validation and calibration.</span></p>
+<p><span style="font-weight: 400;">For each health system, the outcomes being modeled are defined using standardized diagnostic code sets applied to those linked medical records, over a multi-year observation window following the original blood draw. In other words, the model looked at people&#8217;s biomarkers at one point in time, then looked at what conditions they went on to develop years later, and learned which biomarker patterns preceded which outcomes.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">This is the single most important thing to understand about the method. </span><b>The model was not trained to guess your age.</b><span style="font-weight: 400;"> It was trained to estimate long-term disease risk. The age you see in your report is the final translation step, not the modeling target.</span></p>
+<h2><span style="font-weight: 400;">Step 4: Capturing how markers interact</span></h2>
+<p><span style="font-weight: 400;">The models used are gradient-boosting machines, chosen specifically because they handle two things that simpler models struggle with:</span></p>
+<p><b>Nonlinear relationships.</b><span style="font-weight: 400;"> Risk does not always rise in a straight line as a marker rises. Some markers carry risk at both ends of their range. Some have a threshold effect. The model can represent those shapes rather than forcing a straight line through them.</span></p>
+<p><b>Interactions between markers.</b><span style="font-weight: 400;"> This is the part that a marker-by-marker reading of your labs cannot give you. Certain combinations carry more risk together than the sum of their individual contributions. Two people can have similar-looking individual results and meaningfully different combined risk pictures. Because the models were trained on the whole panel at once, those combinations are captured.</span></p>
+<h2><span style="font-weight: 400;">Step 5: Modeling each system separately</span></h2>
+<p><span style="font-weight: 400;">Every system in your report is modeled independently, using the same underlying data and the same set of biomarker inputs. No single condition gets privileged treatment.</span></p>
+<p><span style="font-weight: 400;">This matters more than it sounds. Because the systems are modeled simultaneously on the same population, the models can capture trade-offs where a biomarker value that looks favorable for one outcome is less favorable for another. A single-condition model would miss that entirely.</span></p>
+<p><span style="font-weight: 400;">It also means your ten system results are directly comparable to each other. A given ranking in the kidney system means the same thing, relative to your peers, as the same ranking in the brain system.</span></p>
+<h2><span style="font-weight: 400;">Step 6: Translating into an age</span></h2>
+<p><span style="font-weight: 400;">Once your relative risk estimate exists for a system, it is converted into an age by working backwards through the reference curve for people of your sex. The model asks: at what age would the average person in the reference population carry this same level of predicted risk?</span></p>
+<p><span style="font-weight: 400;">If the answer is four years below your chronological age, your delta reads as four years younger. That is the whole of what the number means.</span></p>
+<h2><span style="font-weight: 400;">Why this differs from your standard lab reference range</span></h2>
+<p><span style="font-weight: 400;">The reference range printed next to a lab value is designed to flag clinical outliers in a general population. It is typically the central range of a healthy reference group, sometimes adjusted for perceived healthy limits.</span></p>
+<p><span style="font-weight: 400;">These models are looking for something different: the biomarker values associated with the most favorable long-term outcomes across multiple systems at once, for someone of your specific age and sex. That target range is usually narrower than the standard lab range and can sit in a different place within it.</span></p>
+<p><span style="font-weight: 400;">The consequence is that a value can be entirely normal on your lab report and still appear as a contributing factor pulling a system&#8217;s age upward. Both things are true at once. The lab range is telling you there is no immediate clinical concern. The model is telling you the value is not at the modeled optimum for your profile. Only the second one is a target for proactive attention, and neither is a diagnosis.</span></p>
+<h2><span style="font-weight: 400;">Honest limitations</span></h2>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><b>This is a model, not a measurement.</b><span style="font-weight: 400;"> Every result is an estimate built on population-level associations, and population associations are not evidence of causation for any individual.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Blood biomarkers cannot see everything.</b><span style="font-weight: 400;"> Genetics, fitness, body composition, sleep quality, imaging findings, and medical history all shape aging and none of them are inputs here.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Some systems are inferred, not measured.</b><span style="font-weight: 400;"> The respiratory, bone, and brain results are derived from blood patterns, not from lung function testing, bone density scanning, or cognitive assessment.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Single results are snapshots.</b><span style="font-weight: 400;"> Lab values move with hydration, fasting state, time of day, sleep, illness, medication, and training load. The trend across multiple reports is more informative than any single one.</span></li>
+</ul>
+<h2><span style="font-weight: 400;">References and further reading</span></h2>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Sudlow C, Gallacher J, Allen N, et al. UK Biobank: an open access resource for identifying the causes of a wide range of complex diseases of middle and old age. </span><i><span style="font-weight: 400;">PLoS Med</span></i><span style="font-weight: 400;">. 2015;12(3):e1001779. doi:10.1371/journal.pmed.1001779</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Levine ME, Lu AT, Quach A, et al. An epigenetic biomarker of aging for lifespan and healthspan. </span><i><span style="font-weight: 400;">Aging (Albany NY)</span></i><span style="font-weight: 400;">. 2018;10(4):573-591. doi:10.18632/aging.101414</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Rutledge J, Oh H, Wyss-Coray T. Measuring biological age using omics data. </span><i><span style="font-weight: 400;">Nat Rev Genet</span></i><span style="font-weight: 400;">. 2022;23:715-727. doi:10.1038/s41576-022-00511-7</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Oh HSH, Rutledge J, Nachun D, et al. Organ aging signatures in the plasma proteome track health and disease. </span><i><span style="font-weight: 400;">Nature</span></i><span style="font-weight: 400;">. 2023;624(7990):164-172. doi:10.1038/s41586-023-06802-1</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Oh HSH, Le Guen Y, Rappoport N, et al. Plasma proteomics links brain and immune system aging with healthspan and longevity. </span><i><span style="font-weight: 400;">Nat Med</span></i><span style="font-weight: 400;">. 2025;31:2703-2711. doi:10.1038/s41591-025-03798-1</span></li>
+</ol>
+<p><i><span style="font-weight: 400;">Your blood work is processed in a CLIA-certified, CAP-accredited laboratory. The Advanced BioAge Report is generated using VOLO Health&#8217;s modeling platform and is provided for educational and informational purposes only. It is not intended to diagnose, cure, mitigate, treat, or prevent any disease or medical condition and does not constitute medical advice. Statistical associations described here are population-level findings and are not evidence of causation at the individual level. Always consult a qualified healthcare professional with questions regarding your health.</span></i></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Hypothyroid vs Hyperthyroid Symptoms: What That Means in Your Report</title>
+		<link>/hub/guides/hypothyroid-hyperthyroid-symptoms/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Wed, 26 Aug 2026 16:30:44 +0000</pubDate>
+				<category><![CDATA[Guides]]></category>
+		<guid isPermaLink="false">/hub/?p=4348</guid>
+
+					<description><![CDATA[
+
+Your thyroid report looks at two things together: what your blood tests show and how you are feeling. On its own, a symptom like tiredness could mean many things, but paired with your biomarkers, it starts to tell a clearer story. Symptoms and biomarkers work together Thyroid symptoms are famously nonspecific, and no two people&#8230; <a class="more-link" href="/hub/guides/hypothyroid-hyperthyroid-symptoms/">Continue reading <span class="screen-reader-text">Hypothyroid vs Hyperthyroid Symptoms: What That Means in Your Report</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<p>Your thyroid report looks at two things together: what your blood tests show and how you are feeling. On its own, a symptom like tiredness could mean many things, but paired with your biomarkers, it starts to tell a clearer story.</p>
+<h2>Symptoms and biomarkers work together</h2>
+<p>Thyroid symptoms are famously nonspecific, and no two people have exactly the same set. That is precisely why lab tests sit at the center of your report: the biomarkers show what your thyroid is doing, and your symptoms add the human context of how it is affecting you. Read together, they are far more informative than either alone.</p>
+<h2>When your thyroid slows down (hypothyroid)</h2>
+<p>An underactive thyroid slows your metabolism, so the symptoms tend to be ones of &#8220;slowing down&#8221;:</p>
+<ul>
+<li>Fatigue and sluggishness</li>
+<li>Feeling cold when others don&#8217;t</li>
+<li>Weight gain or fluid retention</li>
+<li>Constipation</li>
+<li>Dry skin and thinning hair</li>
+<li>Low mood, brain fog, or poor memory</li>
+</ul>
+<h2>When your thyroid speeds up (hyperthyroid)</h2>
+<p>An overactive thyroid does the opposite, revving your system up:</p>
+<ul>
+<li>Feeling hot, sweaty, or restless</li>
+<li>Weight loss despite a normal or bigger appetite</li>
+<li>A racing or irregular heartbeat</li>
+<li>Anxiety, nervousness, or irritability</li>
+<li>Trembling hands</li>
+<li>Trouble sleeping</li>
+</ul>
+<h2>Specific vs non-specific symptoms</h2>
+<p>Some symptoms are <strong>non-specific</strong>: tiredness, low mood, or weight change could stem from many causes and don&#8217;t point to the thyroid on their own. They gain meaning when they line up with your labs. Others are more <strong>specific</strong> (for example, a racing heartbeat with heat intolerance, or neck fullness) and point more directly toward a particular thyroid pattern. Your report groups them this way so the more telling signals carry appropriate weight.</p>
+<h2>How your report uses them</h2>
+<p>Your symptoms are scored for severity and combined with your biomarker results to build your overall picture: whether things look balanced, underactive, or overactive, and how strongly the signals agree. When your symptoms and your labs point the same way, that adds confidence; when they disagree, that is useful too, and worth discussing with your doctor.</p>
+<h2>What this means for you</h2>
+<p>If your labs are normal but you still feel off, that doesn&#8217;t mean your experience isn&#8217;t real: it means the answer may lie elsewhere, or may be worth rechecking over time. And if your labs are abnormal but you feel fine, your report helps flag it early. Either way, the goal is to bring the two together into one clear, personalized read.</p>
+<h2>Key takeaway</h2>
+<p>Hypothyroid symptoms are about slowing down; hyperthyroid symptoms are about speeding up. Neither is diagnosed on feeling alone. Your report pairs how you feel with what your biomarkers show to give you the fullest picture.</p>
+<h2>Where to read more</h2>
+<ul>
+<li>American Thyroid Association: <a href="https://www.thyroid.org/hypothyroidism/">Hypothyroidism</a>, <a href="https://www.thyroid.org/hyperthyroidism/">Hyperthyroidism</a></li>
+<li>Mayo Clinic: <a href="https://www.mayoclinic.org/diseases-conditions/hypothyroidism/symptoms-causes/syc-20350284">Hypothyroidism</a>, <a href="https://www.mayoclinic.org/diseases-conditions/hyperthyroidism/symptoms-causes/syc-20373659">Hyperthyroidism</a>.</li>
+</ul>
+<p><em>This article is for general wellness and educational purposes and is not medical advice. For anything specific to your health, please speak with your doctor.</em></p>
+<p><!-- notionvc: e05f9b84-7c65-480e-bcb5-e15265999710 --></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Improve Your Sleep: Evidence-Based Habits, Routines, and Supplements</title>
+		<link>/hub/guides/improve-sleep/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Thu, 23 Jul 2026 13:42:16 +0000</pubDate>
+				<category><![CDATA[Guides]]></category>
+		<guid isPermaLink="false">/hub/?p=4295</guid>
+
+					<description><![CDATA[
+
+Why Sleep Matters Sleep is one of the most important aspects of physical and mental health, yet it is one of the aspects of health and wellness that is first neglected even when it helps to support the brain, heart, immune system, metabolism, hormones, memory and our energy and mood during the day. Sleep is&#8230; <a class="more-link" href="/hub/guides/improve-sleep/">Continue reading <span class="screen-reader-text">How to Improve Your Sleep: Evidence-Based Habits, Routines, and Supplements</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<h2 id="why-sleep-matters">Why Sleep Matters</h2>
+<p>Sleep is one of the most important aspects of physical and mental health, yet it is one of the aspects of health and wellness that is first neglected even when it helps to support the brain, heart, immune system, metabolism, hormones, memory and our energy and mood during the day. Sleep is vital yet overlooked.</p>
+<p>During sleep, the brain activates the glymphatic system, which help to clear metabolic waste. This helps with memory consolidation, allowing the brain to gain and retain new information and connect it to already existing information.</p>
+<p>Sleep also influences hormones such as leptin and ghrelin which are involved with hunger and appetite. Have you ever pulled an “all nighter”. Did you notice how much more hungry you were and the urge to constantly snack? When sleep is continually interrupted, it can become increasingly difficult to regulate appetite which can contribute to overeating and weight gain.</p>
+<p>Sleep also benefits the cardiovascular system by giving it time to recover. Blood pressure usually decreases during sleep which in turn reduces the workload placed on the heart. Chronic and poor sleep is associated with high blood pressure, cardiovascular disease as well as impaired immune function, weight gain (as mentioned earlier) and poor cognitive function.</p>
+<h2 id="how-much-sleep-do-you-need">How Much Sleep Do You Need?</h2>
+<p>The general guideline for healthy adults is to aim for 7-9 hours of sleep each night.</p>
+<p>Of course, life can get in the way sometimes and while the occasional poor night’s sleep is okay, regular sleep of less than 7 hours can result in decreased daytime performance and increased long term health risks. On the other hand, constantly sleeping more than 9 hours per night may also be associated with negative health outcomes for some people. Keep in mind that sleep is highly personal and varies from person to person.</p>
+<p>The main goal is to get enough consistent, high quality sleep that makes you wake up feeling fresh and reenergized, not solely spending more time in bed. The actual sleep matters most.</p>
+<h2 id="why-sleep-consistency-matters">Why Sleep Consistency Matters</h2>
+<p>Maintaining a regular sleep schedule is one of the most important habits to support the body’s internal clock.</p>
+<p>You can help support your internal clock by going to bed and waking up at roughly the same time each day, including the weekends. Having an inconsistent sleep/wake routine can disrupt circadian rhythms and make it harder to fall asleep, make it harder to wake up leaving you feeling groggy and impair daytime energy.</p>
+<p>Consistently waking up at the same time each day is particularly useful as it gives your brain a reliable signal that the day has started.</p>
+<h2 id="morning-sunlight-and-exercise">Morning Sunlight and Exercise</h2>
+<p>The habits that support good sleep begin in the morning.</p>
+<h4>Morning sunlight</h4>
+<p>Natural sunlight in the morning helps to sync your circadian rhythm which controls alertness, sleepiness and melatonin production.</p>
+<p>Aim for 20-30 minutes of morning sunlight before 10am or after 3pm whereas sunlight between 10-3 is best for vitamin D production. Morning sunlight signals to your brain that the day has started and can help you to fall asleep earlier later in the evening.</p>
+<p>Research also suggests that greater morning light exposure is associated with an earlier sleep midpoint and over better sleep quality.</p>
+<h4>Regular exercise</h4>
+<p>Physical activity can improve sleep quality and increase the amount of deep sleep you get.</p>
+<p>Aim for approximately 150 minutes of moderate intensity activity per week of 75 minutes of intense activity. A single bout of 30 minute moderate intensity activity can help to improve sleep the same night.</p>
+<p>Check out this link on <a href="https://siphoxhealth.com/hub/guides/maintaining-muscle-with-age">The Minimum Effective Workout Plan for Maintaining Muscle as You Age – SiPhox Health</a>.</p>
+<p>Exercise should help support sleep and sleep should help to support exercise and recovery. Avoid sacrificing sleep to fit in a workout.</p>
+<h2 id="sleep-hygiene-and-evening-habits">Sleep Hygiene and Evening Habits</h2>
+<p>Sleep hygiene refers to the habits and environment that prepares your body for quality, restful sleep.</p>
+<p>Make sure your bedroom is:</p>
+<ul>
+<li>Cool</li>
+<li>Dark</li>
+<li>Quiet</li>
+<li>Comfortable</li>
+</ul>
+<p>Use a pillow and mattress that are right for you. Blackout curtains, earplugs and a white noise machine can also help to create a more restful sleep environment. Consider going around and taping up any light that may be emitting from power outlets and charging devices.</p>
+<p>Try reserving the bed for sleep and intimacy only and avoid using the bed as a space for working, studying, eating, watching T.V. and scrolling on your phone. This can help strengthen the association between going to bed and falling asleep.</p>
+<h4>Screens</h4>
+<p>Phones, tablets, televisions and all of the other light emitting devices around can suppress melatonin and increase awakeness near to bedtime.</p>
+<p>Try to turn off and avoid screens 30-60 minutes before bed. This is also a good time to start dimming the light around the house.</p>
+<h4>Caffeine</h4>
+<p>Caffeine blocks adenosine receptors which is one of the signals that helps your body feel sleepy. Try to avoid caffeine after midday (2pm) when possible. The half life of caffeine is around 8 hours meaning that 8 hours after caffeine consumption, half will still be circulating in your system.</p>
+<h4>Alcohol</h4>
+<p>Alcohol may initially make you feel drowsy, but it can disrupt the second half of the night. It may reduce REM sleep, increase awakenings, and leave you feeling less refreshed the next morning.</p>
+<p>Avoid relying on alcohol as a sleep aid and avoid alcohol 4 hours before time. This would mean the last call is at 7pm for an 11pm bedtime.</p>
+<h4>Evening meals</h4>
+<p>Avoid large, heavy, or unhealthy meals approximately 2 hours before bedtime. Eating too much too close to bedtime may cause digestive discomfort, or acid reflux, making it harder to stay and fall asleep.</p>
+<h2 id="stress-management-and-bedtime-journaling">Stress Management and Bedtime Journaling</h2>
+<p>A racing mind is a common reason people struggle to fall asleep. Relaxation practices can help shift the body away from a high-alert “fight or flight” state and toward a calmer resting state.</p>
+<p>Helpful options include:</p>
+<ul>
+<li>Mindfulness meditation</li>
+<li>Slow breathing</li>
+<li>Progressive muscle relaxation</li>
+<li>Mindful walking in nature</li>
+<li>Bedtime journaling</li>
+</ul>
+<h4>Progressive muscle relaxation</h4>
+<p>Progressive muscle relaxation involves gently tensing and then releasing different muscle groups.</p>
+<p>Tense each muscle group for approximately 5–10 seconds, then slowly release it while focusing on the feeling of relaxation. Work gradually through the feet, legs, hips, abdomen, shoulders, face, and hands.</p>
+<p>Avoid tensing the muscles to the point of pain.</p>
+<h4>The five-minute to-do list</h4>
+<p>If unfinished tasks keep running through your mind, spend five minutes before bed writing a specific to-do list for the next day or coming days.</p>
+<p>Writing future tasks down may help “off-load” them from your mind so you do not have to keep mentally rehearsing them.</p>
+<p>Be specific. Instead of writing “work on project,” list the individual actions you need to complete. Journaling about completed tasks may not provide the same sleep-onset benefit.</p>
+<h4>Nature walking</h4>
+<p>A mindful nature walk may also improve mood and sleep difficulties. One studied approach used approximately 35 minutes of mindful walking, with attention directed toward the surroundings and present moment.</p>
+<h2 id="supplements-that-may-support-sleep">Supplements That May Support Sleep</h2>
+<p>Behavioral changes should remain the foundation of a sleep-improvement plan. Supplements may provide additional support, but they should not replace a consistent sleep schedule, morning light, exercise, stress management, or a supportive bedroom environment.</p>
+<h4>Magnesium Bisglycinate</h4>
+<p>Magnesium supports nervous system function and relaxation.</p>
+<p>A study using 250 mg of elemental magnesium daily for four weeks found a modest improvement in insomnia severity.</p>
+<p>The evidence remains limited and mixed. Benefits may be greater in people with low dietary magnesium intake.</p>
+<h4>Holy Basil</h4>
+<p>Holy basil, also called tulsi, is an herb that has been studied for stress and sleep support.</p>
+<p>A standardized extract taken at 250 mg daily for eight weeks was associated with reduced perceived stress and improved subjective sleep quality.</p>
+<p>The supplement was well tolerated in the study, but individual responses may vary.</p>
+<h4>L-Theanine</h4>
+<p>L-theanine is an amino acid naturally found in tea.</p>
+<p>Research suggests it may support:</p>
+<ul>
+<li>Sleep quality</li>
+<li>Daytime function</li>
+<li>Sleep onset</li>
+</ul>
+<p>However, the evidence is mixed because many studies combine L-theanine with other ingredients, making it difficult to determine its independent effect.</p>
+<p>Speak with a healthcare professional before using supplements if you take medications, have a chronic health condition, are pregnant, or are breastfeeding.</p>
+<h2 id="what-to-track">What to Track</h2>
+<p>Tracking a few simple measures can help you understand whether your sleep routine is working.</p>
+<h4>Sleep duration</h4>
+<p>The total amount of time you spend asleep.</p>
+<p>Aim for 7–9 hours per night.</p>
+<h4>Sleep latency</h4>
+<p>The amount of time it takes to fall asleep after going to bed.</p>
+<p>A sleep latency of less than 30 minutes is a useful general target.</p>
+<h4>Sleep efficiency</h4>
+<p>The percentage of your time in bed that you are actually asleep.</p>
+<p>A sleep efficiency above 85% is a useful general target.</p>
+<h4>Daytime energy</h4>
+<p>Pay attention to your alertness, focus, mood, and sleepiness during the day. How you feel and function can be just as important as the numbers recorded by a device.</p>
+<p>A sleep diary, app, or wearable may help you monitor trends. Wearable devices are useful for patterns but may not measure total sleep time or sleep stages with clinical accuracy.</p>
+<h2 id="when-to-seek-professional-help">When to Seek Professional Help</h2>
+<p>General sleep habits may not be enough when an underlying sleep disorder is present.</p>
+<p>Speak with a healthcare professional if you experience:</p>
+<ul>
+<li>Persistent difficulty falling or staying asleep</li>
+<li>Excessive daytime sleepiness</li>
+<li>Loud or chronic snoring</li>
+<li>Gasping or choking during sleep</li>
+<li>Frequent nighttime awakenings</li>
+<li>Sleep problems that interfere with work, driving, safety, or daily functioning</li>
+<li>Feeling unrefreshed despite spending enough time in bed</li>
+</ul>
+<p>Snoring, gasping, and choking may be signs of obstructive sleep apnea. Persistent insomnia may also require targeted clinical treatment rather than sleep hygiene alone.</p>
+<h4>Simple Daily Sleep Plan</h4>
+<h5>Morning</h5>
+<ul>
+<li>Wake up at approximately the same time every day</li>
+<li>Get 20–30 minutes of natural light before 10 a.m.</li>
+</ul>
+<h5>During the day</h5>
+<ul>
+<li>Exercise regularly</li>
+<li>Aim for approximately 150 minutes of moderate aerobic activity per week</li>
+<li>Stop caffeine around midday</li>
+</ul>
+<h5>Evening</h5>
+<ul>
+<li>Finish large meals at least two hours before bed</li>
+<li>Limit alcohol</li>
+<li>Keep the bedroom dark, cool, quiet, and comfortable</li>
+</ul>
+<h5>Thirty minutes before bed</h5>
+<ul>
+<li>Turn off screens</li>
+<li>Dim the lights</li>
+<li>Use breathing, mindfulness, or progressive muscle relaxation</li>
+</ul>
+<h5>At bedtime</h5>
+<ul>
+<li>Spend five minutes writing a specific to-do list for the next day</li>
+<li>Aim for 7–9 hours of sleep</li>
+<li>Maintain the same wake-up time on weekdays and weekends</li>
+</ul>
+<h2 id="summary-key-takeaways">Summary / Key Takeaways</h2>
+<p>Improving sleep usually starts with consistent daily habits rather than a single supplement or quick fix.</p>
+<p>✓ Sleep duration: Aim for 7–9 hours each night<br />
+✓ Consistency: Keep a regular bedtime and wake-up time<br />
+✓ Morning light: Get 20–30 minutes of sunlight before 10 a.m.<br />
+✓ Exercise: Work toward 150 minutes of moderate activity each week<br />
+✓ Sleep environment: Keep the bedroom dark, cool, quiet, and comfortable<br />
+✓ Evening habits: Reduce late caffeine, alcohol, screens, and heavy meals<br />
+✓ Mental relaxation: Use mindfulness, progressive muscle relaxation, or a five-minute to-do list<br />
+✓ Supplements: Consider magnesium, holy basil, or L-theanine only as additions to healthy sleep habits</p>
+<p>Bottom line: Better sleep is built through consistency. Start with one or two manageable changes, practice them daily, and gradually add more habits as they become part of your routine.</p>
+<p><a href="https://siphoxhealth.com/products/coaching-call-one-time">Book a call with one of our health coaches</a> today to learn more about improving your sleep and building a routine that supports your long-term health.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Reverse T3: Why We Don&#8217;t Test For It</title>
+		<link>/hub/guides/reverse-t3-why-we-dont-test/</link>
+		
+		<dc:creator><![CDATA[SiPhox Health Research Team]]></dc:creator>
+		<pubDate>Thu, 23 Jul 2026 13:31:15 +0000</pubDate>
+				<category><![CDATA[Guides]]></category>
+		<guid isPermaLink="false">/hub/?p=4292</guid>
+
+					<description><![CDATA[
+
+Reverse T3, or rT3, is one of the tests people most often ask us to add to their thyroid panel. It has a reputation for revealing hidden problems, so leaving it out can feel like a gap. It is not. This guide walks through what your panel already measures and why that set is the&#8230; <a class="more-link" href="/hub/guides/reverse-t3-why-we-dont-test/">Continue reading <span class="screen-reader-text">Reverse T3: Why We Don&#8217;t Test For It</span></a>]]></description>
+			
+
+							<content:encoded><![CDATA[
+<p>Reverse T3, or rT3, is one of the tests people most often ask us to add to their thyroid panel. It has a reputation for revealing hidden problems, so leaving it out can feel like a gap. It is not. This guide walks through what your panel already measures and why that set is the right one, what reverse T3 is, and why adding it would make your results less clear rather than more.</p>
+<h2>What your panel measures, and why it is enough</h2>
+<p>Your panel is built around the questions that matter: is your thyroid working at the right pace, and if it isn&#8217;t, then in which direction and by how much, and is an autoimmune process involved? Five core markers answer those questions clearly:</p>
+<ul>
+<li><strong>TSH</strong> is the most sensitive early signal of how actively your thyroid is working, and it usually moves first, before the other markers shift.</li>
+<li><strong>Free T4</strong> is the main hormone your thyroid makes, and read alongside TSH it adds context to how the gland may be working.</li>
+<li><strong>Free T3</strong> is the active hormone that sets your metabolic pace, and it is most informative when your thyroid may be running fast.</li>
+<li><strong>TPO and thyroglobulin antibodies</strong> can suggest whether an autoimmune process, such as Hashimoto&#8217;s or Graves&#8217;, may be involved.</li>
+</ul>
+<p>Together, these markers give a clear picture of how your thyroid may be working, one that you and your doctor can use to decide on any next steps. That is the same core set thyroid specialists rely on, and every test in it earns its place by adding real insight rather than extra uncertainty.</p>
+<h2>What reverse T3 is</h2>
+<p>Your thyroid mostly produces T4, a storage form of the hormone that your body activates as needed. To use it, the body removes a single iodine atom from T4. Take it from one spot and you get T3, the active hormone that speeds your metabolism up. Take it from the other spot and you get reverse T3, an inactive look-alike that does nothing. One way to picture it: T4 is a dimmer switch, and the body can turn it up to T3 or leave it off as rT3. Both are normal, everyday products of a healthy thyroid.</p>
+<h2>Why reverse T3 rises, and why that usually isn&#8217;t a thyroid problem</h2>
+<p>Most of the time, a high reverse T3 has nothing to do with thyroid disease. When your body is under stress, during an illness, after surgery, while fasting or dieting, or under heavy physical strain, it deliberately steers more T4 toward inactive rT3 and less toward active T3. Doctors call this non-thyroidal illness, sometimes &#8220;euthyroid sick syndrome,&#8221; and the telling detail is in that name: euthyroid, meaning the gland itself is working normally. It is a sensible energy-saving response to a hard stretch, not a fault to correct. Some medications, including beta-blockers, steroids, and amiodarone, nudge the body the same way. So in an otherwise well person, a raised rT3 usually just reflects that the body has recently been stressed, unwell, or underfed.</p>
+<h2>Why we leave reverse T3 out of your panel</h2>
+<p>Put simply, reverse T3 would add noise rather than signal. Four reasons stand behind that.</p>
+<p><strong>It rarely reflects your thyroid.</strong> As above, a high rT3 usually tracks stress, illness, or fasting rather than a gland that is genuinely under- or over-active, so it is hard to interpret as a thyroid test at all.</p>
+<p><strong>It would not add anything to act on.</strong> Understanding an underactive thyroid rests on TSH, supported by Free T4. As one clinical review put it, there is &#8220;no rationale for measuring reverse T3&#8221; when starting or adjusting treatment, which is always best worked through with your doctor. A result that adds no useful information does not belong on the panel.</p>
+<p><strong>The test itself is shaky.</strong> Reverse T3 is a specialized assay that laboratories do not measure consistently, and it lacks validated reference ranges for this use. It cannot reliably tell true hypothyroidism apart from the harmless stress-related shift described above.</p>
+<p><strong>The popular &#8220;Free T3 to reverse T3 ratio&#8221; is not validated.</strong> You will see this ratio in some wellness circles, but there is no agreed cutoff, the &#8220;ideal&#8221; numbers swing widely from one source to the next, and the answer even depends on the units used. No major medical society backs it.</p>
+<p><strong>Specialists advise against it.</strong> The American Thyroid Association states plainly that, in healthy, non-hospitalized people, measuring reverse T3 &#8220;does not help determine whether hypothyroidism exists or not, and is not clinically useful.&#8221;</p>
+<h2>A note on &#8220;Wilson&#8217;s syndrome&#8221;</h2>
+<p>Reverse T3 testing often travels with a label called &#8220;Wilson&#8217;s temperature syndrome,&#8221; the idea that a low body temperature plus vague symptoms come from a conversion problem, supposedly fixable with T3. The American Thyroid Association looked at this directly, found &#8220;no scientific evidence&#8221; that it exists, and cautioned that the T3 regimens sold to treat it can affect the heart and bones and prove &#8220;potentially dangerous.&#8221; It is not something we build your care around.</p>
+<h2>Key takeaway</h2>
+<p>Your panel of TSH, Free T4, Free T3, and thyroid antibodies already covers what matters: it gives a clear, useful picture that you and your doctor can act on. Reverse T3 is a genuine molecule, but as a test it mostly reflects stress, fasting, or illness, it is not measured reliably, and it would not add anything you or your doctor would act on. Leaving it out is not a gap. It is what keeps your results clear and your decisions anchored to the markers that count.</p>
+<h2>Where to read more</h2>
+<ul>
+<li><a href="https://app.siphoxhealth.com/thyroid-knowledge-center">Understanding Your Thyroid Biomarkers</a>: a closer look at each marker on your panel and how they fit together</li>
+</ul>
+<hr />
+<p><em>This article is for general wellness and educational purposes only. It explains why reverse T3 is not part of the SiPhox panel; it is not medical advice, it is not a diagnosis, and it does not replace care from your own clinician. For decisions about thyroid testing or treatment, please speak with your doctor.</em></p>
+<p><strong>Sources:</strong> American Thyroid Association: <a href="https://www.thyroid.org/thyroid-function-tests/">Thyroid Function Tests</a>, <a href="https://www.thyroid.org/american-thyroid-association-statement-on-wilsons-syndrome/">Statement on &#8220;Wilson&#8217;s Syndrome&#8221;</a>, <a href="https://www.thyroid.org/patient-thyroid-information/ct-for-patients/january-2019/vol-12-issue-1-p-11-12/">Clinical Thyroidology for the Public (Jan 2019)</a>; <a href="https://www.ccjm.org/content/85/6/450">&#8220;Reverse T3 or perverse T3?&#8221; Cleveland Clinic Journal of Medicine (2018)</a>; <a href="https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/thyroid-disorders/euthyroid-sick-syndrome">Merck Manual: Euthyroid Sick Syndrome</a>; <a href="https://www.ncbi.nlm.nih.gov/books/NBK285570/">The Non-Thyroidal Illness Syndrome, Endotext</a>.</p>
+<p><!-- notionvc: 84dc1f25-6ed8-4e5c-b916-b5c19bcf6870 --></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
