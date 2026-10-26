@@ -12,7 +12,7 @@
 	<atom:link href="/hub/author/siphoxhealth/feed/" rel="self" type="application/rss+xml" />
 	<link>/hub/</link>
 	<description></description>
-	<lastBuildDate>Thu, 15 Oct 2026 19:52:03 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 26 Oct 2026 19:29:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -339,11 +339,10 @@ What is IGF-1? Insulin-like growth factor 1 (IGF-1) is a hormone that plays an i
 <h3 dir="auto" data-section-id="1z0lq1p" data-start="2224" data-end="2272">How can I better understand my IGF-1 levels?</h3>
 <p dir="auto" data-start="2274" data-end="2650">Unlike biomarkers with one standard adult cutoff, <strong data-start="2324" data-end="2377">IGF-1 should be interpreted according to your age</strong>. IGF-1 rises through childhood and adolescence, peaks around puberty and young adulthood, and then gradually declines with age. Large reference studies involving thousands of healthy people demonstrate this strong age-related pattern.</p>
 <p dir="auto" data-start="2652" data-end="2853">Sex can also affect IGF-1 reference values depending on age and the laboratory method used. SiPhox therefore compares your result with the <strong data-start="2791" data-end="2852">age- and sex-specific reference range that applies to you</strong>.</p>
-<p dir="auto" data-start="3688" data-end="3963">These values match the current Labcorp IDS-iSYS IGF-1 reference intervals. Labcorp established these age- and sex-adjusted intervals using a very large U.S. clinical population and notes that IGF-1 reference intervals are assay-specific.</p>
+<p dir="auto" data-start="3688" data-end="3963">These values match the current Labcorp IDS-iSYS IGF-1 reference intervals. Labcorp established these age- and sex-adjusted intervals using a very large U.S. clinical population and notes that IGF-1 reference intervals are assay-specific. IGF-1 was validated through a separate study comparing venous and capillary blood samples from at least 30 subjects. Testing is performed using an ELISA assay, which was validated for EasyDraw-collected samples under the laboratory’s Laboratory Developed Test (LDT) framework.</p>
 <p dir="auto" data-start="3965" data-end="4146">IGF-1 should therefore <strong data-start="3988" data-end="4054">not be interpreted against one universal &#8220;ideal&#8221; concentration</strong>. Instead, SiPhox evaluates your result relative to the expected range for your age and sex.</p>
 <div data-dynamic-ranges="true" data-test="1"></div>
-<div data-ranges="true">
-</div>
+<div data-ranges="true"></div>
 <p dir="auto" data-start="4148" data-end="4767">Population studies also suggest that being at either extreme of the IGF-1 distribution may be less favorable than being closer to the middle. A meta-analysis of nearly 15,000 adults found a U-shaped relationship between IGF-1 and mortality, with both approximately the <strong data-start="4417" data-end="4475">lowest 10% and highest 10% of age-related IGF-1 levels</strong> associated with higher mortality than values around the middle of the distribution. A later meta-analysis involving more than 30,000 adults similarly found higher mortality at both low and high IGF-1 concentrations.</p>
 <h3 dir="auto" data-section-id="1gc0fgm" data-start="4980" data-end="5024">How can I maintain optimal IGF-1 levels?</h3>
 <p dir="auto" data-start="5026" data-end="5197">Because IGF-1 naturally changes with age, the goal is <strong data-start="5080" data-end="5121">not to make IGF-1 as high as possible</strong>. Instead, focus on supporting normal growth hormone and metabolic function.</p>
