@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/7.1.3" created="2026-10-15 19:52" -->
+    <!-- generator="WordPress/7.1.3" created="2026-10-26 19:29" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
             <title>SiPhox Health</title>
             <link>/hub/</link>
             <description></description>
-            <pubDate>Thu, 15 Oct 2026 19:52:01 +0000</pubDate>
+            <pubDate>Mon, 26 Oct 2026 19:29:06 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
             <wp:base_site_url>/hub/</wp:base_site_url>
@@ -153,7 +153,7 @@ Metabolic fitness is the condition of a robust and healthy set of cellular mecha
                             <wp:post_name><![CDATA[what-we-measure]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>303</wp:menu_order>
+                            <wp:menu_order>302</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -454,7 +454,7 @@ https://youtu.be/u6oF_lyUsII
 
 <strong>To enable this future, our team is working to decrease the cost of at-home testing by 10x and make results available immediately.</strong>
 
-<strong>SiPhox just launched Quantify, an at-home test kit service that enables users to track 17 health tests ($95/test)</strong> 🩸 <strong>+ sleep, activity, and heart rate data from your wearable device ⌚ in a single dashboard.</strong> <a href="https://siphoxhealth.com/pages/tier-page?utm_source=YC-launch&amp;utm_medium=post&amp;utm_campaign=YC-launch&amp;utm_id=YC-launch">JOIN QUANTIFY (10% off)</a>
+<strong>SiPhox just launched Quantify, an at-home test kit service that enables users to track 17 health tests ($95/test)</strong> ? <strong>+ sleep, activity, and heart rate data from your wearable device ⌚ in a single dashboard.</strong> <a href="https://siphoxhealth.com/pages/tier-page?utm_source=YC-launch&amp;utm_medium=post&amp;utm_campaign=YC-launch&amp;utm_id=YC-launch">JOIN QUANTIFY (10% off)</a>
 <h3 id="h-1479">About Quantify</h3>
 <ul>
  	<li>Quantify was created to empower individuals to take control of their health journey.</li>
@@ -471,7 +471,7 @@ https://youtu.be/u6oF_lyUsII
  	<li>Subscribe to Quantify</li>
  	<li>Connect your wearable devices (8sleep, Fitbit, Whoop, Oura, etc.)</li>
  	<li>Receive an at-home collection kit to self-collect a blood sample (see picture above)</li>
- 	<li>Join our weekly webinar for a guided self-collection if you have never done it before. You will be a pro in 10 minutes 🙂</li>
+ 	<li>Join our weekly webinar for a guided self-collection if you have never done it before. You will be a pro in 10 minutes ?</li>
  	<li>Mail in your sample (USPS pickup) and view the results in your intuitive wellness dashboard (<a href="https://app.siphoxhealth.com/reports/d3e8b07917dba">sample dashboard</a>)</li>
  	<li>Receive customized insights based on your blood biomarker and wearable data</li>
  	<li>Do your own experiments (diet, supplements, exercise, biohacking, etc.)</li>
@@ -495,7 +495,7 @@ https://youtu.be/u6oF_lyUsII
                             <wp:post_name><![CDATA[y-combinator-launch-2022]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>302</wp:menu_order>
+                            <wp:menu_order>301</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -592,7 +592,7 @@ https://youtu.be/u6oF_lyUsII
 
 <strong>To enable this future, our team is working to decrease the cost of at-home testing by 10x and make results available immediately.</strong>
 
-<strong>SiPhox just launched SiPhox Health, an at-home test kit service that enables users to track 17 health tests ($85/test)</strong> 🩸 <strong>+ sleep, activity, and heart rate data from your wearable device ⌚ in a single dashboard.</strong> <a href="http://siphoxhealth.com/discount/welcome10">JOIN SIPHOX 10% OFF</a>
+<strong>SiPhox just launched SiPhox Health, an at-home test kit service that enables users to track 17 health tests ($85/test)</strong> ? <strong>+ sleep, activity, and heart rate data from your wearable device ⌚ in a single dashboard.</strong> <a href="http://siphoxhealth.com/discount/welcome10">JOIN SIPHOX 10% OFF</a>
 <h3 id="h-1479">About SiPhox</h3>
 <ul>
  	<li>SiPhox was created to empower individuals to take control of their health journey.</li>
@@ -609,7 +609,7 @@ https://youtu.be/u6oF_lyUsII
  	<li>Subscribe to SiPhox</li>
  	<li>Connect your wearable devices (8sleep, Fitbit, Whoop, Oura, etc.)</li>
  	<li>Receive an at-home collection kit to self-collect a blood sample (see picture above)</li>
- 	<li>Schedule a guided self-collection meeting with one of our experts if you have never done it before. You will be a pro in 10 minutes 🙂</li>
+ 	<li>Schedule a guided self-collection meeting with one of our experts if you have never done it before. You will be a pro in 10 minutes ?</li>
  	<li>Mail in your sample (USPS pickup) and view the results in your intuitive wellness dashboard (<a href="https://app.siphoxhealth.com/reports/d3e8b07917dba">sample dashboard</a>)</li>
  	<li>Receive customized insights based on your blood biomarker and wearable data</li>
  	<li>Do your own experiments (diet, supplements, exercise, biohacking, etc.)</li>
@@ -671,7 +671,7 @@ https://youtu.be/u6oF_lyUsII
                             <wp:post_name><![CDATA[how-to-optimize-your-cholesterol-a-biohackers-guide]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>266</wp:menu_order>
+                            <wp:menu_order>265</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -1963,8 +1963,8 @@ Understanding your Vitamin D levels is crucial for maintaining good health, espe
 		<category domain="post_tag" nicename="diabetes"><![CDATA[diabetes]]></category>
 		<category domain="post_tag" nicename="glucose"><![CDATA[glucose]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
-		<category domain="post_tag" nicename="hba1c"><![CDATA[HbA1c]]></category>
 		<category domain="category" nicename="hba1c"><![CDATA[HbA1C]]></category>
+		<category domain="post_tag" nicename="hba1c"><![CDATA[HbA1c]]></category>
 		<category domain="post_tag" nicename="hemoglobin-a1c"><![CDATA[Hemoglobin A1C]]></category>
 		<category domain="post_tag" nicename="insulin"><![CDATA[insulin]]></category>
 		<category domain="post_tag" nicename="metabolism"><![CDATA[metabolism]]></category>
@@ -2387,8 +2387,8 @@ Variability in lab results is a known entity, yet it doesn’t detract from the 
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
-                                                        		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
-		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
+                                                        		<category domain="category" nicename="apob"><![CDATA[ApoB]]></category>
+		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -2580,8 +2580,8 @@ Cardiovascular health is no joke. Several studies mentioned earlier in this guid
                                                         		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
 		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
-		<category domain="post_tag" nicename="cortisol"><![CDATA[cortisol]]></category>
 		<category domain="category" nicename="cortisol"><![CDATA[Cortisol]]></category>
+		<category domain="post_tag" nicename="cortisol"><![CDATA[cortisol]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
 		<category domain="post_tag" nicename="health"><![CDATA[health]]></category>
 		<category domain="post_tag" nicename="hormones"><![CDATA[hormones]]></category>
@@ -3580,8 +3580,8 @@ If zinc levels are too low, it can lead to a variety of health issues, including
                                                         		<category domain="post_tag" nicename="apob"><![CDATA[ApoB]]></category>
 		<category domain="post_tag" nicename="at-home"><![CDATA[at-home]]></category>
 		<category domain="post_tag" nicename="at-home-test"><![CDATA[at-home test]]></category>
-		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="biomarkers"><![CDATA[biomarkers]]></category>
+		<category domain="category" nicename="biomarkers-2"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="blood"><![CDATA[blood]]></category>
 		<category domain="post_tag" nicename="blood-test"><![CDATA[blood test]]></category>
 		<category domain="post_tag" nicename="cardiovascular"><![CDATA[cardiovascular]]></category>
@@ -13425,19 +13425,19 @@ Maintaining balanced iron saturation involves managing both iron intake and abso
                                     <wp:meta_value><![CDATA[To get the most accurate insights from your SiPhox blood test—whether you’re using <strong>EasyDraw</strong> or <strong>finger prick</strong>—timing and preparation matter. Here's how to prepare based on the panel you’re taking:
 <h2>⏰ <strong>Best Time to Test</strong></h2>
 Test <strong>in the morning</strong>, ideally <strong>within 1–2 hours of waking up</strong>. This aligns with your body’s natural hormone rhythms (like <strong>cortisol</strong> and <strong>testosterone</strong>) and reduces variability.
-<h2>🧘‍♀️ <strong>Should You Fast?</strong></h2>
+<h2>?‍♀️ <strong>Should You Fast?</strong></h2>
 Yes, <strong>fast for 8–12 hours</strong> before your test. Water is fine. Fasting improves accuracy for:
 <ul>
  	<li><strong>Glucose &amp; insulin</strong> (Core, Heart &amp; Metabolic)</li>
  	<li><strong>Lipids</strong> like LDL and triglycerides</li>
  	<li><strong>Hormones</strong> like cortisol, DHEA-S, and even testosterone</li>
 </ul>
-<h2>💊 <strong>Supplements &amp; Meds</strong></h2>
+<h2>? <strong>Supplements &amp; Meds</strong></h2>
 <ul>
  	<li><strong>Avoid supplements:</strong> Do not take any supplements for 24 hours before testing, especially biotin, B12, vitamin D, and adaptogens, which may skew results.</li>
  	<li><strong>Do not stop taking medications:</strong> Take your prescribed medications as instructed by your healthcare provider.</li>
 </ul>
-<h2>🏋️ <strong>Exercise</strong></h2>
+<h2>?️ <strong>Exercise</strong></h2>
 <ul>
  	<li><strong><span class="notion-enable-hover" data-token-index="0">No intense exercise:</span> </strong>Avoid intense workouts in the morning before your test.<!-- notionvc: d0c227c1-d83f-42a5-9805-ab2c032f1be7 --></li>
 </ul>
@@ -30435,7 +30435,7 @@ Thanks to Roman Gelperin.]]></content:encoded>
                             <wp:post_name><![CDATA[siphox-2020-retrospective-2]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>308</wp:menu_order>
+                            <wp:menu_order>307</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -30648,7 +30648,7 @@ We’re hard at work commercializing <a href="http://siphox.com/onelab" target=
                             <wp:post_name><![CDATA[trapping-light-a-brief-overview-of-silicon-micro-ring-optical-biosensors]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>307</wp:menu_order>
+                            <wp:menu_order>306</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -30921,7 +30921,7 @@ We’re hard at work commercializing <a href="https://siphoxhealth.com/pages/abo
                             <wp:post_name><![CDATA[why-measure-your-insulin-levels-and-what-the-results-mean]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>296</wp:menu_order>
+                            <wp:menu_order>295</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -31164,7 +31164,7 @@ Given what we know about the systematic secretion of insulin in response to gluc
                             <wp:post_name><![CDATA[huberman-on-biohacking-your-cortisol]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>295</wp:menu_order>
+                            <wp:menu_order>294</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -31480,7 +31480,7 @@ Many people do that reflexively, however, they reach for carbohydrate-rich foods
                             <wp:post_name><![CDATA[a-life-saving-ferritin-discovery]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>292</wp:menu_order>
+                            <wp:menu_order>291</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -31612,7 +31612,7 @@ The user left <a href="https://www.trustpilot.com/reviews/63df2e8c745e4800219b1f
                             <wp:post_name><![CDATA[how-to-optimize-your-vitamin-d-a-biohackers-guide-2]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>238</wp:menu_order>
+                            <wp:menu_order>237</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -33152,8 +33152,8 @@ We offer IGF-1 as an optional upgrade alongside our core panels, collected throu
                             <wp:post_id>4392</wp:post_id>
                             <wp:post_date><![CDATA[2026-09-24 16:27:10]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2026-09-24 16:27:10]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-09-24 16:28:18]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-09-24 16:28:18]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-10-26 19:29:06]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-10-26 19:29:06]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[biomarker-igf]]></wp:post_name>
@@ -33249,6 +33249,14 @@ We offer IGF-1 as an optional upgrade alongside our core panels, collected throu
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -33544,8 +33552,8 @@ While blood tests provide information about thyroid function, imaging techniques
                             <wp:post_id>4409</wp:post_id>
                             <wp:post_date><![CDATA[2026-10-15 19:40:46]]></wp:post_date>
                             <wp:post_date_gmt><![CDATA[2026-10-15 19:40:46]]></wp:post_date_gmt>
-                            <wp:post_modified><![CDATA[2026-10-15 19:52:01]]></wp:post_modified>
-                            <wp:post_modified_gmt><![CDATA[2026-10-15 19:52:01]]></wp:post_modified_gmt>
+                            <wp:post_modified><![CDATA[2026-10-15 19:52:03]]></wp:post_modified>
+                            <wp:post_modified_gmt><![CDATA[2026-10-15 19:52:03]]></wp:post_modified_gmt>
                             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
                             <wp:ping_status><![CDATA[open]]></wp:ping_status>
                             <wp:post_name><![CDATA[thyroid-physiology]]></wp:post_name>
@@ -33691,14 +33699,6 @@ This is why thyroid test results are most useful when interpreted as part of a b
                                                             <wp:postmeta>
                                     <wp:meta_key><![CDATA[_select_related_posts]]></wp:meta_key>
                                     <wp:meta_value><![CDATA[field_65421e7bee3df]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-                                </wp:postmeta>
-                                                            <wp:postmeta>
-                                    <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
                                 </wp:postmeta>
                                                     </item>
                                                 <item>
@@ -33941,7 +33941,7 @@ Persistent sleep difficulties or concerning thyroid results can be discussed wit
                             <wp:post_name><![CDATA[optimal-ferritin-levels-and-how-to-lower-ferritin-a-biohackers-guide]]></wp:post_name>
                             <wp:status><![CDATA[publish]]></wp:status>
                             <wp:post_parent>0</wp:post_parent>
-                            <wp:menu_order>297</wp:menu_order>
+                            <wp:menu_order>296</wp:menu_order>
                             <wp:post_type><![CDATA[post]]></wp:post_type>
                             <wp:post_password><![CDATA[]]></wp:post_password>
                             <wp:is_sticky>0</wp:is_sticky>
@@ -34717,8 +34717,8 @@ SiPhox Health deploys kits to the customer which the customer uses in two workfl
                                                         		<category domain="category" nicename="biomarkers"><![CDATA[Biomarkers]]></category>
 		<category domain="post_tag" nicename="female-fertility"><![CDATA[female fertility]]></category>
 		<category domain="post_tag" nicename="fertility"><![CDATA[fertility]]></category>
-		<category domain="post_tag" nicename="fsh"><![CDATA[FSH]]></category>
 		<category domain="category" nicename="fsh"><![CDATA[FSH]]></category>
+		<category domain="post_tag" nicename="fsh"><![CDATA[FSH]]></category>
 		<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
 		<category domain="post_tag" nicename="womens-health"><![CDATA[womens health]]></category>
                                                             <wp:postmeta>
